@@ -85,7 +85,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 34629251,
@@ -173,7 +178,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "gh-pages"
+    "default_branch": "gh-pages",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 20642513,
@@ -261,7 +271,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 12401918,
@@ -349,7 +364,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 3,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 6308896,
@@ -437,7 +457,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 6312538,
@@ -525,7 +550,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 2,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 23584317,
@@ -613,7 +643,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "gh-pages"
+    "default_branch": "gh-pages",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 143723,
@@ -680,7 +715,7 @@
     "releases_url": "https://api.github.com/repos/geraldb/sandbox/releases{/id}",
     "deployments_url": "https://api.github.com/repos/geraldb/sandbox/deployments",
     "created_at": "2009-03-05T14:49:34Z",
-    "updated_at": "2016-03-22T05:37:42Z",
+    "updated_at": "2016-05-09T05:18:24Z",
     "pushed_at": "2013-05-09T15:45:15Z",
     "git_url": "git://github.com/geraldb/sandbox.git",
     "ssh_url": "git@github.com:geraldb/sandbox.git",
@@ -688,20 +723,25 @@
     "svn_url": "https://github.com/geraldb/sandbox",
     "homepage": "",
     "size": 256,
-    "stargazers_count": 1,
-    "watchers_count": 1,
+    "stargazers_count": 2,
+    "watchers_count": 2,
     "language": "Ruby",
     "has_issues": false,
     "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 0,
+    "forks_count": 1,
     "mirror_url": null,
     "open_issues_count": 0,
-    "forks": 0,
+    "forks": 1,
     "open_issues": 0,
-    "watchers": 1,
-    "default_branch": "master"
+    "watchers": 2,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 22786727,
@@ -728,7 +768,7 @@
     },
     "private": false,
     "html_url": "https://github.com/geraldb/talks",
-    "description": "talks, talks, talks  (sources in Markdown or Textile)",
+    "description": "talks, talks, talks  (sources in Markdown)",
     "fork": false,
     "url": "https://api.github.com/repos/geraldb/talks",
     "forks_url": "https://api.github.com/repos/geraldb/talks/forks",
@@ -768,16 +808,16 @@
     "releases_url": "https://api.github.com/repos/geraldb/talks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/geraldb/talks/deployments",
     "created_at": "2014-08-09T13:29:47Z",
-    "updated_at": "2016-03-22T22:23:00Z",
-    "pushed_at": "2016-03-08T12:13:58Z",
+    "updated_at": "2016-08-11T12:58:23Z",
+    "pushed_at": "2016-07-24T18:19:06Z",
     "git_url": "git://github.com/geraldb/talks.git",
     "ssh_url": "git@github.com:geraldb/talks.git",
     "clone_url": "https://github.com/geraldb/talks.git",
     "svn_url": "https://github.com/geraldb/talks",
-    "homepage": null,
-    "size": 4715,
-    "stargazers_count": 41,
-    "watchers_count": 41,
+    "homepage": "",
+    "size": 5279,
+    "stargazers_count": 52,
+    "watchers_count": 52,
     "language": null,
     "has_issues": true,
     "has_downloads": true,
@@ -788,8 +828,13 @@
     "open_issues_count": 0,
     "forks": 1,
     "open_issues": 0,
-    "watchers": 41,
-    "default_branch": "master"
+    "watchers": 52,
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 46681473,
@@ -877,7 +922,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 43939758,
@@ -945,13 +995,13 @@
     "deployments_url": "https://api.github.com/repos/geraldb/viennarb/deployments",
     "created_at": "2015-10-09T07:28:44Z",
     "updated_at": "2016-03-23T20:06:27Z",
-    "pushed_at": "2016-03-23T20:06:26Z",
+    "pushed_at": "2016-05-04T19:47:13Z",
     "git_url": "git://github.com/geraldb/viennarb.git",
     "ssh_url": "git@github.com:geraldb/viennarb.git",
     "clone_url": "https://github.com/geraldb/viennarb.git",
     "svn_url": "https://github.com/geraldb/viennarb",
     "homepage": null,
-    "size": 1032,
+    "size": 1070,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "HTML",
@@ -965,7 +1015,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "gh-pages"
+    "default_branch": "gh-pages",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 27342056,
@@ -1053,7 +1108,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 23434024,
@@ -1141,7 +1201,12 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "gh-pages"
+    "default_branch": "gh-pages",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   },
   {
     "id": 17315087,
@@ -1229,6 +1294,11 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
-    "default_branch": "master"
+    "default_branch": "master",
+    "permissions": {
+      "admin": false,
+      "push": false,
+      "pull": true
+    }
   }
 ]
