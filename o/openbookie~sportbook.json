@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 110,
       "forks_count": 42
+    },
+    "2020-10-15": {
+      "stargazers_count": 110,
+      "forks_count": 42
     }
   },
   "commits": [
@@ -91,25 +95,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 128,
-        "uniques": 73
+        "count": 105,
+        "uniques": 68
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openbookie/sportbook",
           "title": "openbookie/sportbook: sportbook web app - free open source sports betting (or...",
-          "count": 95,
-          "uniques": 63
+          "count": 92,
+          "uniques": 66
         },
         {
-          "path": "/openbookie/sportbook/blob/master/README.md",
-          "title": "sportbook/README.md at master · openbookie/sportbook · GitHub",
-          "count": 2,
-          "uniques": 2
+          "path": "/openbookie/sportbook/tree/master/lib",
+          "title": "sportbook/lib at master · openbookie/sportbook · GitHub",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/openbookie/sportbook/tree/master/public",
@@ -118,14 +122,14 @@
           "uniques": 2
         },
         {
-          "path": "/openbookie/sportbook/blob/master/app/views/pages/style.html.erb",
-          "title": "sportbook/style.html.erb at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/blob/master/lib/recalc.rb",
+          "title": "sportbook/recalc.rb at master · openbookie/sportbook · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/blob/master/TODO.md",
-          "title": "sportbook/TODO.md at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/blob/master/README.md",
+          "title": "sportbook/README.md at master · openbookie/sportbook · GitHub",
           "count": 1,
           "uniques": 1
         },
@@ -142,20 +146,14 @@
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/issues",
-          "title": "Issues · openbookie/sportbook · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/openbookie/sportbook/search",
           "title": "Search · betting · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/tree/master/app",
-          "title": "sportbook/app at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/lib/tasks",
+          "title": "sportbook/lib/tasks at master · openbookie/sportbook · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -163,27 +161,27 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 51,
-          "uniques": 40
+          "count": 52,
+          "uniques": 39
         },
         {
           "referrer": "Google",
-          "count": 19,
-          "uniques": 12
+          "count": 22,
+          "uniques": 14
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 12,
+          "count": 11,
           "uniques": 9
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 4,
-          "uniques": 2
         },
         {
           "referrer": "lavasoft.gosearchresults.com",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -287,10 +285,37 @@
       },
       "2020-10-11": {
         "views": {
-          "count": 14,
-          "uniques": 8
+          "count": 15,
+          "uniques": 9
+        }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
+  },
+  "languages": {
+    "Ruby": 144414,
+    "JavaScript": 27653,
+    "CSS": 16711
   }
 }

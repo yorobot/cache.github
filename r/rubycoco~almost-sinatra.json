@@ -1,7 +1,7 @@
 {
   "full_name": "rubycoco/almost-sinatra",
   "created_at": "2017-12-05T20:19:31Z",
-  "updated_at": "2019-03-07T11:00:37Z",
+  "updated_at": "2020-10-15T09:50:38Z",
   "pushed_at": "2017-12-06T08:56:53Z",
   "size": 16,
   "history": {
@@ -38,6 +38,10 @@
     "2020-10-11": {
       "stargazers_count": 34,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 36,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -59,37 +63,77 @@
     "sinatra",
     "ruby",
     "rack",
-    "tilt"
+    "tilt",
+    "gem"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 3
+        "count": 96,
+        "uniques": 45
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/rubycoco/almost-sinatra",
           "title": "rubycoco/almost-sinatra: almost-sinatra gem - six lines of almost sinatra ref...",
+          "count": 65,
+          "uniques": 45
+        },
+        {
+          "path": "/rubycoco/almost-sinatra/tree/master/lib",
+          "title": "almost-sinatra/lib at master · rubycoco/almost-sinatra · GitHub",
+          "count": 12,
+          "uniques": 10
+        },
+        {
+          "path": "/rubycoco/almost-sinatra/blob/master/lib/almost-sinatra.rb",
+          "title": "almost-sinatra/almost-sinatra.rb at master · rubycoco/almost-sinatra · GitHub",
+          "count": 10,
+          "uniques": 10
+        },
+        {
+          "path": "/rubycoco/almost-sinatra/tree/master/up",
+          "title": "almost-sinatra/up at master · rubycoco/almost-sinatra · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/almost-sinatra/blob/master/up/almost_sinatra.rb",
+          "title": "almost-sinatra/almost_sinatra.rb at master · rubycoco/almost-sinatra · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
           "path": "/rubycoco/almost-sinatra/stargazers",
           "title": "Stargazers · rubycoco/almost-sinatra",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "reddit.com",
+          "count": 20,
+          "uniques": 15
+        },
+        {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -117,7 +161,40 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 49,
+          "uniques": 24
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 33,
+          "uniques": 17
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 8033
   }
 }

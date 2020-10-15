@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 105,
       "forks_count": 15
+    },
+    "2020-10-15": {
+      "stargazers_count": 105,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -95,8 +99,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 83,
-        "uniques": 27
+        "count": 91,
+        "uniques": 26
       },
       "clones": {
         "count": 1,
@@ -106,14 +110,20 @@
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 30,
-          "uniques": 22
+          "count": 31,
+          "uniques": 21
         },
         {
           "path": "/factbook/factbook/blob/master/data/categories.csv",
           "title": "factbook/categories.csv at master · factbook/factbook · GitHub",
-          "count": 12,
+          "count": 16,
           "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook/issues",
+          "title": "Issues · factbook/factbook · GitHub",
+          "count": 8,
+          "uniques": 3
         },
         {
           "path": "/factbook/factbook/tree/master/data",
@@ -122,33 +132,21 @@
           "uniques": 5
         },
         {
-          "path": "/factbook/factbook/issues",
-          "title": "Issues · factbook/factbook · GitHub",
-          "count": 6,
-          "uniques": 3
-        },
-        {
           "path": "/factbook/factbook/find/master",
           "title": "File Finder · GitHub",
           "count": 4,
           "uniques": 2
         },
         {
-          "path": "/factbook/factbook/blob/master/data/codes.csv",
-          "title": "factbook/codes.csv at master · factbook/factbook · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/factbook/factbook/blob/master/README.md",
-          "title": "factbook/README.md at master · factbook/factbook · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
           "path": "/factbook/factbook/blob/master/data/attributes.yml",
           "title": "factbook/attributes.yml at master · factbook/factbook · GitHub",
           "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/blob/master/data/codes.csv",
+          "title": "factbook/codes.csv at master · factbook/factbook · GitHub",
+          "count": 2,
           "uniques": 2
         },
         {
@@ -162,18 +160,29 @@
           "title": "factbook/comparisons.csv at master · factbook/factbook · GitHub",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/blob/master/README.md",
+          "title": "factbook/README.md at master · factbook/factbook · GitHub",
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 17,
-          "uniques": 17
+          "count": 13,
+          "uniques": 13
         },
         {
           "referrer": "rdocumentation.org",
-          "count": 7,
+          "count": 11,
           "uniques": 2
+        },
+        {
+          "referrer": "opendata.stackexchange.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -196,8 +205,8 @@
       },
       "2020-10-01": {
         "views": {
-          "count": 3,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
         }
       },
       "2020-10-02": {
@@ -247,7 +256,27 @@
           "count": 19,
           "uniques": 2
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "HTML": 1941811,
+    "Ruby": 148363
   }
 }

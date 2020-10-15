@@ -51,6 +51,10 @@
     "2020-10-11": {
       "stargazers_count": 247,
       "forks_count": 73
+    },
+    "2020-10-15": {
+      "stargazers_count": 247,
+      "forks_count": 73
     }
   },
   "commits": [
@@ -82,19 +86,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
+        "count": 16,
         "uniques": 9
       },
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/planetruby/calendar",
           "title": "planetruby/calendar: What's Upcoming in 2020? - A collection of awesome ruby ...",
-          "count": 8,
-          "uniques": 8
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/planetruby/calendar/blob/master/ruby3x3.md",
+          "title": "calendar/ruby3x3.md at master · planetruby/calendar",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/planetruby/calendar/blob/master/2018.md",
@@ -109,8 +119,26 @@
           "uniques": 1
         },
         {
+          "path": "/planetruby/calendar/blob/master/_data/conferences2020.yml",
+          "title": "calendar/conferences2020.yml at master · planetruby/calendar",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar/tree/master/advent2017",
+          "title": "calendar/advent2017 at master · planetruby/calendar",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "path": "/planetruby/calendar/tree/master/_data",
           "title": "calendar/_data at master · planetruby/calendar",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar/tree/master/_includes",
+          "title": "calendar/_includes at master · planetruby/calendar",
           "count": 1,
           "uniques": 1
         }
@@ -118,8 +146,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 8
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -187,7 +220,32 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-10-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "HTML": 4291
   }
 }

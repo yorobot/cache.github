@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -91,31 +95,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 4
+        "count": 11,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openbookie/sport.db.play",
           "title": "GitHub - openbookie/sport.db.play: sportdb-play gem - open sports database (s...",
-          "count": 4,
-          "uniques": 4
-        },
-        {
-          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb",
-          "title": "sport.db.play/lib/sportdb at master · openbookie/sport.db.play · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play",
-          "title": "sport.db.play/lib/sportdb/play at master · openbookie/sport.db.play · GitHub",
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/openbookie/sport.db.play/blob/master/.gitignore",
@@ -148,6 +140,18 @@
           "uniques": 1
         },
         {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb",
+          "title": "sport.db.play/lib/sportdb at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play",
+          "title": "sport.db.play/lib/sportdb/play at master · openbookie/sport.db.play · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play/models",
           "title": "sport.db.play/lib/sportdb/play/models at master · openbookie/sport.db.play · ...",
           "count": 1,
@@ -157,8 +161,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         }
       ]
     },
@@ -194,5 +198,8 @@
         }
       }
     }
+  },
+  "languages": {
+    "Ruby": 22936
   }
 }

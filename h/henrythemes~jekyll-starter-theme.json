@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 30,
       "forks_count": 66
+    },
+    "2020-10-15": {
+      "stargazers_count": 30,
+      "forks_count": 66
     }
   },
   "commits": [
@@ -91,30 +95,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 18,
-        "uniques": 11
+        "count": 22,
+        "uniques": 13
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/henrythemes/jekyll-starter-theme",
           "title": "henrythemes/jekyll-starter-theme: jekyll starter theme - minimial",
-          "count": 16,
-          "uniques": 10
+          "count": 22,
+          "uniques": 13
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 9,
-          "uniques": 6
+          "count": 12,
+          "uniques": 8
         },
         {
           "referrer": "jekyllthemes.org",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "themes.jekyllrc.org",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -124,6 +133,11 @@
         },
         {
           "referrer": "henrythemes.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -193,7 +207,23 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
       }
     }
+  },
+  "languages": {
+    "HTML": 886,
+    "CSS": 391
   }
 }

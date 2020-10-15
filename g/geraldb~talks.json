@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 200,
       "forks_count": 14
+    },
+    "2020-10-15": {
+      "stargazers_count": 202,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -81,7 +85,7 @@
     }
   ],
   "size": 16203,
-  "updated_at": "2020-09-12T17:20:55Z",
+  "updated_at": "2020-10-13T05:47:06Z",
   "pushed_at": "2020-09-12T17:20:53Z",
   "description": "talks, talks, talks  (sources in Markdown)",
   "language": null,
@@ -91,24 +95,42 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 36,
-        "uniques": 23
+        "count": 50,
+        "uniques": 27
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/geraldb/talks/blob/master/football_db_intro.md",
-          "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
-          "count": 7,
-          "uniques": 5
+          "path": "/geraldb/talks",
+          "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
+          "count": 9,
+          "uniques": 6
         },
         {
           "path": "/geraldb/talks/blob/master/jekyll_vs_middleman.md",
           "title": "talks/jekyll_vs_middleman.md at master · geraldb/talks · GitHub",
-          "count": 6,
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/geraldb/talks/blob/master/football_db_intro.md",
+          "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/geraldb/talks/blob/master/octobook.md",
+          "title": "talks/octobook.md at master · geraldb/talks · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
+          "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks · GitHub",
+          "count": 4,
           "uniques": 3
         },
         {
@@ -118,15 +140,9 @@
           "uniques": 3
         },
         {
-          "path": "/geraldb/talks/blob/master/octobook.md",
-          "title": "talks/octobook.md at master · geraldb/talks · GitHub",
+          "path": "/geraldb/talks/blob/master/factbook.md",
+          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
           "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/geraldb/talks",
-          "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
-          "count": 2,
           "uniques": 2
         },
         {
@@ -142,44 +158,42 @@
           "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
-          "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks · GitHub",
+          "path": "/geraldb/talks/blob/master/blockchain.md",
+          "title": "talks/blockchain.md at master · geraldb/talks · GitHub",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/geraldb/talks/blob/master/factbook.md",
-          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/blockchain_go.md",
-          "title": "talks/blockchain_go.md at master · geraldb/talks · GitHub",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 9,
-          "uniques": 7
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 6
         },
         {
-          "referrer": "github.com",
-          "count": 4,
-          "uniques": 3
+          "referrer": "openfootball.github.io",
+          "count": 9,
+          "uniques": 6
         },
         {
           "referrer": "Google",
-          "count": 4,
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 2,
           "uniques": 2
         },
         {
+          "referrer": "rubyflow.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "referrer": "reddit.com",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -268,8 +282,8 @@
       },
       "2020-10-11": {
         "views": {
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         }
       },
       "2020-10-04": {
@@ -277,7 +291,21 @@
           "count": 2,
           "uniques": 2
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
       }
     }
+  },
+  "languages": {
   }
 }

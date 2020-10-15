@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 17,
       "forks_count": 2
+    },
+    "2020-10-15": {
+      "stargazers_count": 17,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -91,19 +95,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 31,
-        "uniques": 10
+        "count": 29,
+        "uniques": 8
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/openfootball/docs",
           "title": "openfootball/docs: football.db documentation incl. notes, articles, tips, gui...",
           "count": 12,
-          "uniques": 8
+          "uniques": 7
         },
         {
           "path": "/openfootball/docs/blob/master/index.md",
@@ -122,12 +126,6 @@
           "title": "docs/games.md at master · openfootball/docs · GitHub",
           "count": 2,
           "uniques": 2
-        },
-        {
-          "path": "/openfootball/docs/blob/f80b7d378b24c855c425eb12fceeb168f945e8eb/build.md",
-          "title": "docs/build.md at f80b7d378b24c855c425eb12fceeb168f945e8eb · openfootball/docs",
-          "count": 1,
-          "uniques": 1
         },
         {
           "path": "/openfootball/docs/blob/master/api/index.md",
@@ -154,6 +152,12 @@
           "uniques": 1
         },
         {
+          "path": "/openfootball/docs/blob/master/intro.md",
+          "title": "docs/intro.md at master · openfootball/docs · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "path": "/openfootball/docs/blob/master/_layouts/default.html",
           "title": "docs/default.html at master · openfootball/docs · GitHub",
           "count": 1,
@@ -163,13 +167,13 @@
       "referrers": [
         {
           "referrer": "openfootball.github.io",
-          "count": 9,
-          "uniques": 5
+          "count": 10,
+          "uniques": 6
         },
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         }
       ]
     },
@@ -186,8 +190,8 @@
       },
       "2020-10-01": {
         "views": {
-          "count": 4,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       },
       "2020-10-04": {
@@ -231,7 +235,18 @@
           "count": 2,
           "uniques": 1
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Shell": 2973,
+    "CSS": 968,
+    "HTML": 554
   }
 }

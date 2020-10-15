@@ -60,6 +60,10 @@
     "2020-10-11": {
       "stargazers_count": 198,
       "forks_count": 22
+    },
+    "2020-10-15": {
+      "stargazers_count": 198,
+      "forks_count": 22
     }
   },
   "commits": [
@@ -75,20 +79,22 @@
       "message": "up stage"
     }
   ],
-  "updated_at": "2020-10-06T07:39:41Z",
+  "updated_at": "2020-10-15T10:04:07Z",
   "pushed_at": "2020-10-06T07:39:38Z",
   "description": "sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries",
   "language": "Ruby",
   "topics": [
     "sport",
     "opendata",
-    "football"
+    "football",
+    "ruby",
+    "gems"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 133,
-        "uniques": 38
+        "count": 115,
+        "uniques": 33
       },
       "clones": {
         "count": 9,
@@ -98,38 +104,26 @@
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 43,
-          "uniques": 30
+          "count": 41,
+          "uniques": 28
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 11,
-          "uniques": 5
+          "count": 6,
+          "uniques": 3
         },
         {
           "path": "/sportdb/sport.db/tree/master/football",
           "title": "sport.db/football at master · sportdb/sport.db · GitHub",
-          "count": 6,
-          "uniques": 5
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb-models",
           "title": "sport.db/sportdb-models at master · sportdb/sport.db · GitHub",
           "count": 4,
           "uniques": 3
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/score-formats",
-          "title": "sport.db/score-formats at master · sportdb/sport.db",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/football/lib/football.rb",
-          "title": "sport.db/football.rb at master · sportdb/sport.db · GitHub",
-          "count": 2,
-          "uniques": 2
         },
         {
           "path": "/sportdb/sport.db/blob/master/README.md",
@@ -154,18 +148,30 @@
           "title": "sport.db/sportdb-models/lib/sportdb/models at master · sportdb/sport.db",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sports",
+          "title": "sport.db/sports at master · sportdb/sport.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/blob/master/football/Manifest.txt",
+          "title": "sport.db/Manifest.txt at master · sportdb/sport.db · GitHub",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 16
+          "count": 23,
+          "uniques": 17
         },
         {
           "referrer": "Google",
-          "count": 19,
-          "uniques": 14
+          "count": 13,
+          "uniques": 9
         },
         {
           "referrer": "sportdb.github.io",
@@ -173,12 +179,7 @@
           "uniques": 1
         },
         {
-          "referrer": "mail.google.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         },
@@ -293,7 +294,45 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 1020599,
+    "HTML": 3219,
+    "SCSS": 508,
+    "CSS": 388
   }
 }

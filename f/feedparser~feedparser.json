@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 155,
       "forks_count": 5
+    },
+    "2020-10-15": {
+      "stargazers_count": 155,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -105,19 +109,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 30,
-        "uniques": 21
+        "count": 28,
+        "uniques": 22
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/feedparser/feedparser",
           "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
-          "count": 21,
-          "uniques": 20
+          "count": 19,
+          "uniques": 19
         },
         {
           "path": "/feedparser/feedparser/tree/master/lib",
@@ -127,13 +131,7 @@
         },
         {
           "path": "/feedparser/feedparser/tree/master/lib/feedparser",
-          "title": "feedparser/lib/feedparser at master · feedparser/feedparser · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/feedparser/feedparser/blob/master/test/media_rss_example.txt",
-          "title": "feedparser/media_rss_example.txt at master · feedparser/feedparser · GitHub",
+          "title": "feedparser/lib/feedparser at master · feedparser/feedparser",
           "count": 1,
           "uniques": 1
         },
@@ -142,19 +140,13 @@
           "title": "feedparser/sandbox at master · feedparser/feedparser · GitHub",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/feedparser/feedparser/tree/master/test",
-          "title": "feedparser/test at master · feedparser/feedparser · GitHub",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 10,
-          "uniques": 10
+          "count": 7,
+          "uniques": 7
         },
         {
           "referrer": "DuckDuckGo",
@@ -163,6 +155,11 @@
         },
         {
           "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "cn.bing.com",
           "count": 1,
           "uniques": 1
         },
@@ -253,7 +250,28 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 60699
   }
 }

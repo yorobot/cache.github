@@ -54,6 +54,10 @@
     "2020-10-11": {
       "stargazers_count": 116,
       "forks_count": 21
+    },
+    "2020-10-15": {
+      "stargazers_count": 116,
+      "forks_count": 21
     }
   },
   "commits": [
@@ -87,12 +91,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 7
+        "count": 12,
+        "uniques": 8
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
@@ -100,16 +104,40 @@
           "title": "openblockchains/blockchain.lite.rb: blockchain-lite library / gem - build you...",
           "count": 6,
           "uniques": 6
+        },
+        {
+          "path": "/openblockchains/blockchain.lite.rb/blob/master/lib/blockchain-lite/proof_of_work/block.rb",
+          "title": "blockchain.lite.rb/block.rb at master · openblockchains/blockchain.lite.rb",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain.lite.rb/blob/master/lib/blockchain-lite.rb",
+          "title": "blockchain.lite.rb/blockchain-lite.rb at master · openblockchains/blockchain....",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain.lite.rb/commits",
+          "title": "Commits · openblockchains/blockchain.lite.rb",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain.lite.rb/tree/master/lib",
+          "title": "blockchain.lite.rb/lib at master · openblockchains/blockchain.lite.rb",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         {
-          "referrer": "qiita.com",
+          "referrer": "awesomelists.top",
           "count": 1,
           "uniques": 1
         }
@@ -167,7 +195,34 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 26207
   }
 }

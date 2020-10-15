@@ -32,6 +32,10 @@
     "2020-10-11": {
       "stargazers_count": 10,
       "forks_count": 3
+    },
+    "2020-10-15": {
+      "stargazers_count": 10,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -61,24 +65,48 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 7
+        "count": 28,
+        "uniques": 13
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/cryptocopycats/kittyverse",
           "title": "cryptocopycats/kittyverse: kittyverse library - helper classes for cattribute...",
-          "count": 5,
-          "uniques": 4
+          "count": 11,
+          "uniques": 9
         },
         {
-          "path": "/cryptocopycats/kittyverse/blob/master/GENES.md",
-          "title": "kittyverse/GENES.md at master · cryptocopycats/kittyverse",
-          "count": 5,
+          "path": "/cryptocopycats/kittyverse/blob/master/API.md",
+          "title": "kittyverse/API.md at master · cryptocopycats/kittyverse",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/datasets/cattributes.csv",
+          "title": "kittyverse/cattributes.csv at master · cryptocopycats/kittyverse",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/datasets",
+          "title": "kittyverse/datasets at master · cryptocopycats/kittyverse",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/script/colors.rb",
+          "title": "kittyverse/colors.rb at master · cryptocopycats/kittyverse",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/script",
+          "title": "kittyverse/script at master · cryptocopycats/kittyverse",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -86,18 +114,36 @@
           "title": "kittyverse/CATTRIBUTES.md at master · cryptocopycats/kittyverse · GitHub",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/stargazers",
+          "title": "Stargazers · cryptocopycats/kittyverse",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/lib",
+          "title": "kittyverse/lib at master · cryptocopycats/kittyverse",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/lib/kittyverse",
+          "title": "kittyverse/lib/kittyverse at master · cryptocopycats/kittyverse",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "count": 9,
+          "uniques": 8
         },
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "reddit.com",
@@ -131,10 +177,37 @@
       },
       "2020-10-11": {
         "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-12": {
+        "views": {
           "count": 2,
           "uniques": 2
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 145759
   }
 }

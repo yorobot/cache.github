@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 167,
       "forks_count": 15
+    },
+    "2020-10-15": {
+      "stargazers_count": 167,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -104,19 +108,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 47,
-        "uniques": 9
+        "count": 51,
+        "uniques": 13
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 24,
-          "uniques": 6
+          "count": 25,
+          "uniques": 7
         },
         {
           "path": "/feedreader/pluto/search",
@@ -181,8 +185,8 @@
         },
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "Bing",
@@ -191,6 +195,11 @@
         },
         {
           "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyweekly.com",
           "count": 1,
           "uniques": 1
         }
@@ -242,7 +251,29 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 219952,
+    "HTML": 541
   }
 }

@@ -29,6 +29,10 @@
     "2020-10-11": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -52,18 +56,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/s6ruby/units-money",
+          "title": "s6ruby/units-money: units-money library / gem - units of (crypto) money (in i...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -84,7 +97,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 6887
   }
 }

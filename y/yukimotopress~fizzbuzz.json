@@ -51,6 +51,10 @@
     "2020-10-11": {
       "stargazers_count": 1,
       "forks_count": 2
+    },
+    "2020-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -78,18 +82,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/yukimotopress/fizzbuzz/blob/f516060ad70f0f13873e3d38352a2d24c9faebc0/fizzbuzz.md",
+          "title": "fizzbuzz/fizzbuzz.md at f516060ad70f0f13873e3d38352a2d24c9faebc0 · yukimotopr...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/fizzbuzz/search",
+          "title": "Search · def fizzbuzz() Python 2",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -98,7 +117,15 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
   }
 }

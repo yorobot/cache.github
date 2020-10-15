@@ -54,6 +54,10 @@
     "2020-10-11": {
       "stargazers_count": 40,
       "forks_count": 2
+    },
+    "2020-10-15": {
+      "stargazers_count": 40,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -79,18 +83,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openblockchains/blockchain.lite.js",
+          "title": "openblockchains/blockchain.lite.js: blockchain-lite library / module - build ...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -111,7 +124,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "JavaScript": 5021
   }
 }

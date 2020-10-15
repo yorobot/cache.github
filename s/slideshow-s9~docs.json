@@ -54,6 +54,10 @@
     "2020-10-11": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2020-10-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -79,19 +83,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 2
+        "count": 6,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/slideshow-s9/docs",
           "title": "GitHub - slideshow-s9/docs: slide show (s9) docs",
-          "count": 3,
-          "uniques": 2
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/slideshow-s9/docs/blob/master/gallery.md",
+          "title": "docs/gallery.md at master · slideshow-s9/docs · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/slideshow-s9/docs/blob/master/index.md",
@@ -104,6 +114,11 @@
         {
           "referrer": "github.com",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "slideshow-s9.github.io",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -120,7 +135,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "HTML": 4567
   }
 }

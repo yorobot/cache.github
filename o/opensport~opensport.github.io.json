@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 45,
       "forks_count": 3
+    },
+    "2020-10-15": {
+      "stargazers_count": 45,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -91,30 +95,48 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 4
+        "count": 13,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/opensport/opensport.github.io",
           "title": "GitHub - opensport/opensport.github.io: Open Sports Data (sport.db) Web Site",
-          "count": 5,
+          "count": 8,
           "uniques": 3
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "Google",
+          "path": "/opensport/opensport.github.io/blob/master/README.md",
+          "title": "opensport.github.io/README.md at master · opensport/opensport.github.io · Git...",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "path": "/opensport/opensport.github.io/commit/c94db6b145d1951c25283592eb98fe85ccaedaa6",
+          "title": "update site · opensport/opensport.github.io@c94db6b · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/opensport.github.io/blob/master/.gitignore",
+          "title": "opensport.github.io/.gitignore at master · opensport/opensport.github.io · Gi...",
           "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -141,7 +163,16 @@
           "count": 4,
           "uniques": 2
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "CSS": 2087
   }
 }

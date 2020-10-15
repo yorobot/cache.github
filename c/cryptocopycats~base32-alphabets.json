@@ -32,6 +32,10 @@
     "2020-10-11": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2020-10-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -60,25 +64,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 3
+        "count": 16,
+        "uniques": 5
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
+        {
+          "path": "/cryptocopycats/base32-alphabets",
+          "title": "GitHub - cryptocopycats/base32-alphabets: base32-alphabets library - base32 e...",
+          "count": 5,
+          "uniques": 5
+        },
         {
           "path": "/cryptocopycats/base32-alphabets/tree/master/lib/base32-alphabets",
           "title": "base32-alphabets/lib/base32-alphabets at master · cryptocopycats/base32-alpha...",
           "count": 3,
           "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/base32-alphabets",
-          "title": "GitHub - cryptocopycats/base32-alphabets: base32-alphabets library - base32 e...",
-          "count": 2,
-          "uniques": 2
         },
         {
           "path": "/cryptocopycats/base32-alphabets/blob/master/lib/base32-alphabets/base32.rb",
@@ -120,8 +124,8 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -149,7 +153,22 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 29137
   }
 }

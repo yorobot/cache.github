@@ -65,24 +65,28 @@
     "2020-10-11": {
       "stargazers_count": 53,
       "forks_count": 79
+    },
+    "2020-10-15": {
+      "stargazers_count": 53,
+      "forks_count": 79
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-04T12:16:10Z",
+        "date": "2020-10-15T08:01:41Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2016-09-04T12:16:10Z",
+        "date": "2020-10-15T08:01:41Z",
         "name": "Gerald Bauer"
       },
-      "message": "start"
+      "message": "up history"
     }
   ],
-  "size": 460630,
-  "updated_at": "2020-09-08T06:44:50Z",
-  "pushed_at": "2017-01-05T06:52:09Z",
+  "size": 196,
+  "updated_at": "2020-10-15T08:05:02Z",
+  "pushed_at": "2020-10-15T08:04:59Z",
   "description": "jekyll starter theme w/ bootstrap (sass version)",
   "language": "HTML",
   "topics": [
@@ -91,39 +95,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 32,
-        "uniques": 22
+        "count": 66,
+        "uniques": 27
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/henrythemes/jekyll-bootstrap-theme",
           "title": "henrythemes/jekyll-bootstrap-theme: jekyll starter theme w/ bootstrap (sass v...",
-          "count": 32,
-          "uniques": 22
+          "count": 34,
+          "uniques": 25
         }
       ],
       "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 15,
-          "uniques": 13
-        },
         {
           "referrer": "henrythemes.github.io",
           "count": 12,
           "uniques": 9
         },
         {
-          "referrer": "jekyllthemes.org",
-          "count": 2,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 11,
+          "uniques": 11
         },
         {
           "referrer": "Google",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "jekyllthemes.org",
           "count": 1,
           "uniques": 1
         }
@@ -197,7 +201,45 @@
           "count": 5,
           "uniques": 3
         }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 32,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
       }
     }
+  },
+  "languages": {
+    "HTML": 1636,
+    "SCSS": 1484
   }
 }

@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-blockchains",
   "created_at": "2018-03-15T17:18:42Z",
-  "updated_at": "2020-09-10T07:00:10Z",
+  "updated_at": "2020-10-13T16:24:13Z",
   "pushed_at": "2019-04-16T20:00:58Z",
   "size": 552,
   "history": {
@@ -32,6 +32,10 @@
     "2020-10-11": {
       "stargazers_count": 552,
       "forks_count": 58
+    },
+    "2020-10-15": {
+      "stargazers_count": 553,
+      "forks_count": 58
     }
   },
   "commits": [
@@ -55,8 +59,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 74,
-        "uniques": 25
+        "count": 47,
+        "uniques": 23
       },
       "clones": {
         "count": 5,
@@ -66,42 +70,36 @@
         {
           "path": "/openblockchains/programming-blockchains",
           "title": "openblockchains/programming-blockchains: Programming Blockchains Step-by-Step...",
-          "count": 33,
-          "uniques": 20
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/blob/master/01_crypto_hash.md",
-          "title": "programming-blockchains/01_crypto_hash.md at master · openblockchains/program...",
-          "count": 14,
-          "uniques": 8
+          "count": 20,
+          "uniques": 15
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/02_crypto_block.md",
           "title": "programming-blockchains/02_crypto_block.md at master · openblockchains/progra...",
-          "count": 6,
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/01_crypto_hash.md",
+          "title": "programming-blockchains/01_crypto_hash.md at master · openblockchains/program...",
+          "count": 3,
           "uniques": 3
         },
         {
-          "path": "/openblockchains/programming-blockchains/blob/master/05_mining.md",
-          "title": "programming-blockchains/05_mining.md at master · openblockchains/programming-...",
+          "path": "/openblockchains/programming-blockchains/tree/master/i",
+          "title": "programming-blockchains/i at master · openblockchains/programming-blockchains...",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openblockchains/programming-blockchains/blob/master/bitcoin_header.rb",
-          "title": "programming-blockchains/bitcoin_header.rb at master · openblockchains/program...",
+          "path": "/openblockchains/programming-blockchains/tree/master/META",
+          "title": "programming-blockchains/META at master · openblockchains/programming-blockcha...",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/openblockchains/programming-blockchains/blob/master/03_blockchain.md",
-          "title": "programming-blockchains/03_blockchain.md at master · openblockchains/programm...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/blob/master/04_timestamping.md",
-          "title": "programming-blockchains/04_timestamping.md at master · openblockchains/progra...",
+          "path": "/openblockchains/programming-blockchains/blob/master/05_mining.md",
+          "title": "programming-blockchains/05_mining.md at master · openblockchains/programming-...",
           "count": 1,
           "uniques": 1
         },
@@ -112,14 +110,8 @@
           "uniques": 1
         },
         {
-          "path": "/openblockchains/programming-blockchains/blob/master/bitcoin_hash.rb",
-          "title": "programming-blockchains/bitcoin_hash.rb at master · openblockchains/programmi...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/blob/master/blockchain.rb",
-          "title": "programming-blockchains/blockchain.rb at master · openblockchains/programming...",
+          "path": "/openblockchains/programming-blockchains/blob/master/block_with_proof_of_work.rb",
+          "title": "programming-blockchains/block_with_proof_of_work.rb at master · openblockchai...",
           "count": 1,
           "uniques": 1
         }
@@ -127,23 +119,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 14
-        },
-        {
-          "referrer": "onehack.us",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 2,
-          "uniques": 1
+          "count": 13,
+          "uniques": 11
         },
         {
           "referrer": "yukimotopress.github.io",
-          "count": 2,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -162,8 +144,8 @@
       },
       "2020-10-01": {
         "views": {
-          "count": 44,
-          "uniques": 9
+          "count": 11,
+          "uniques": 4
         },
         "clones": {
           "count": 1,
@@ -216,7 +198,7 @@
       },
       "2020-10-11": {
         "views": {
-          "count": 7,
+          "count": 11,
           "uniques": 3
         }
       },
@@ -225,7 +207,32 @@
           "count": 2,
           "uniques": 2
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 13627
   }
 }

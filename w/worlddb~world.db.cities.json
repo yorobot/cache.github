@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -91,18 +95,27 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 1,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.cities",
+          "title": "worlddb/world.db.cities: world.db web app sample listing the world's greatest...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -111,7 +124,17 @@
           "count": 2,
           "uniques": 2
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 5190,
+    "CSS": 856
   }
 }

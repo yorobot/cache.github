@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2020-10-15": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -91,12 +95,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 70,
+        "count": 67,
         "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
@@ -108,14 +112,14 @@
         {
           "path": "/beerkit/beer.db.admin/tree/master/db",
           "title": "beer.db.admin/db at master · beerkit/beer.db.admin",
-          "count": 14,
-          "uniques": 2
+          "count": 12,
+          "uniques": 1
         },
         {
           "path": "/beerkit/beer.db.admin/blob/master/db/seeds.rb",
           "title": "beer.db.admin/seeds.rb at master · beerkit/beer.db.admin",
-          "count": 9,
-          "uniques": 2
+          "count": 8,
+          "uniques": 1
         },
         {
           "path": "/beerkit/beer.db.admin/blob/master/Gemfile",
@@ -124,14 +128,14 @@
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db.admin/blob/master/db/schema.rb",
-          "title": "beer.db.admin/schema.rb at master · beerkit/beer.db.admin",
-          "count": 4,
-          "uniques": 2
-        },
-        {
           "path": "/beerkit/beer.db.admin/blob/master/db/migrate/001_create_db.rb",
           "title": "beer.db.admin/001_create_db.rb at master · beerkit/beer.db.admin",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/blob/master/db/schema.rb",
+          "title": "beer.db.admin/schema.rb at master · beerkit/beer.db.admin",
           "count": 3,
           "uniques": 1
         },
@@ -163,8 +167,13 @@
       "referrers": [
         {
           "referrer": "openbeer.github.io",
-          "count": 6,
-          "uniques": 3
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
         },
         {
           "referrer": "Google",
@@ -197,7 +206,18 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 40705,
+    "CSS": 9494,
+    "JavaScript": 656
   }
 }

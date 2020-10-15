@@ -35,6 +35,10 @@
     "2020-10-11": {
       "stargazers_count": 27,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 27,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -58,18 +62,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 5
+        "count": 11,
+        "uniques": 8
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/csvreader/docs/blob/master/sorry-sorry-sorry.md",
           "title": "docs/sorry-sorry-sorry.md at master · csvreader/docs · GitHub",
-          "count": 3,
+          "count": 5,
           "uniques": 3
         },
         {
@@ -79,14 +83,29 @@
           "uniques": 2
         },
         {
+          "path": "/csvreader/docs/blob/master/csv-libraries.md",
+          "title": "docs/csv-libraries.md at master · csvreader/docs",
+          "count": 2,
+          "uniques": 2
+        },
+        {
           "path": "/csvreader/docs/blob/master/why-the-csv-stdlib-is-broken.md",
           "title": "docs/why-the-csv-stdlib-is-broken.md at master · csvreader/docs",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -125,7 +144,22 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 2023
   }
 }

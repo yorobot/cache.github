@@ -57,6 +57,10 @@
     "2020-10-11": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2020-10-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -88,19 +92,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 15,
-        "uniques": 3
+        "count": 18,
+        "uniques": 5
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/datatxt/iniparser",
           "title": "GitHub - datatxt/iniparser: iniparser gem - read /parse INI configuration, se...",
-          "count": 5,
-          "uniques": 3
+          "count": 6,
+          "uniques": 4
         },
         {
           "path": "/datatxt/iniparser/tree/master/test",
@@ -112,6 +116,12 @@
           "path": "/datatxt/iniparser/blob/master/test/helper.rb",
           "title": "iniparser/helper.rb at master · datatxt/iniparser · GitHub",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/datatxt/iniparser/blob/master/Manifest.txt",
+          "title": "iniparser/Manifest.txt at master · datatxt/iniparser",
+          "count": 1,
           "uniques": 1
         },
         {
@@ -130,7 +140,12 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 3,
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -171,7 +186,22 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 14004
   }
 }

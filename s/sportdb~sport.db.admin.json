@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 16,
       "forks_count": 5
+    },
+    "2020-10-15": {
+      "stargazers_count": 16,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -91,29 +95,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 33,
+        "count": 28,
         "uniques": 14
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
+          "path": "/sportdb/sport.db.admin",
+          "title": "sportdb/sport.db.admin: sport.db web app - Open Sports Database Web Admin Too...",
+          "count": 17,
+          "uniques": 12
+        },
+        {
           "path": "/sportdb/sport.db.admin/tree/master/db",
           "title": "sport.db.admin/db at master · sportdb/sport.db.admin · GitHub",
-          "count": 17,
+          "count": 8,
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db.admin",
-          "title": "sportdb/sport.db.admin: sport.db web app - Open Sports Database Web Admin Too...",
-          "count": 13,
-          "uniques": 10
-        },
-        {
-          "path": "/sportdb/sport.db.admin/tree/master/attic",
-          "title": "sport.db.admin/attic at master · sportdb/sport.db.admin · GitHub",
+          "path": "/sportdb/sport.db.admin/tree/master/datafile",
+          "title": "sport.db.admin/datafile at master · sportdb/sport.db.admin · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -121,8 +125,13 @@
       "referrers": [
         {
           "referrer": "openfootball.github.io",
-          "count": 11,
-          "uniques": 8
+          "count": 15,
+          "uniques": 10
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -161,7 +170,7 @@
       },
       "2020-10-01": {
         "views": {
-          "count": 3,
+          "count": 1,
           "uniques": 1
         }
       },
@@ -212,7 +221,37 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 73111,
+    "HTML": 26057,
+    "JavaScript": 5352,
+    "CSS": 2347
   }
 }

@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 198,
       "forks_count": 10
+    },
+    "2020-10-15": {
+      "stargazers_count": 198,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -91,53 +95,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 39,
-        "uniques": 18
+        "count": 30,
+        "uniques": 13
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/planetruby/awesome-webservers",
           "title": "planetruby/awesome-webservers: A collection of awesome Ruby web servers (sing...",
-          "count": 36,
-          "uniques": 16
-        },
-        {
-          "path": "/planetruby/awesome-webservers/blob/master/benchmark/benchmarks.md",
-          "title": "awesome-webservers/benchmarks.md at master · planetruby/awesome-webservers",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/awesome-webservers/pull/5",
-          "title": "Note support for pipelining by tarcieri · Pull Request #5 · planetruby/awesom...",
-          "count": 1,
-          "uniques": 1
+          "count": 28,
+          "uniques": 11
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 13,
-          "uniques": 10
-        },
-        {
           "referrer": "github.daumkakao.com",
-          "count": 11,
+          "count": 9,
           "uniques": 1
         },
         {
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 5
+        },
+        {
           "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "stackoverflow.com",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -231,7 +223,29 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 9582,
+    "HTML": 46
   }
 }

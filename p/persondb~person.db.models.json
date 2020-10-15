@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -91,18 +95,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/persondb/person.db.models",
+          "title": "GitHub - persondb/person.db.models: persondb gem - person schema & models for...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -117,7 +130,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 13316
   }
 }

@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -81,28 +85,38 @@
     }
   ],
   "size": 252,
-  "updated_at": "2017-02-09T18:28:18Z",
+  "updated_at": "2020-10-14T17:09:44Z",
   "pushed_at": "2014-03-21T09:16:23Z",
   "description": "winedb gem - open wine database (wine.db) command line tool in ruby (includes schema & models for easy reuse)",
   "language": "Ruby",
   "topics": [
-
+    "ruby",
+    "gem"
   ],
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/geraldb/wine.db.tools",
+          "title": "geraldb/wine.db.tools: winedb gem - open wine database (wine.db) command line...",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -111,7 +125,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 49218
   }
 }

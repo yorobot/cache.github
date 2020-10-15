@@ -17,6 +17,10 @@
     "2020-10-11": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -40,8 +44,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
-        "uniques": 11
+        "count": 55,
+        "uniques": 12
       },
       "clones": {
         "count": 1,
@@ -51,14 +55,14 @@
         {
           "path": "/sportdb/football.db",
           "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
-          "count": 21,
+          "count": 24,
           "uniques": 10
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-leagues",
           "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
           "count": 6,
-          "uniques": 5
+          "uniques": 6
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-clubs",
@@ -73,20 +77,8 @@
           "uniques": 2
         },
         {
-          "path": "/sportdb/football.db/blob/master/footballdb-clubs/config/clubs.txt",
-          "title": "football.db/clubs.txt at master · sportdb/football.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb",
-          "title": "football.db/footballdb-leagues/lib/footballdb at master · sportdb/football.db...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb/leagues",
-          "title": "football.db/footballdb-leagues/lib/footballdb/leagues at master · sportdb/foo...",
+          "path": "/sportdb/football.db/issues",
+          "title": "Issues · sportdb/football.db · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -97,14 +89,26 @@
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/blob/master/footballdb-clubs/config/clubs.wiki.txt",
-          "title": "football.db/clubs.wiki.txt at master · sportdb/football.db · GitHub",
+          "path": "/sportdb/football.db/blob/master/footballdb-clubs/config/clubs.txt",
+          "title": "football.db/clubs.txt at master · sportdb/football.db · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/issues",
-          "title": "Issues · sportdb/football.db",
+          "path": "/sportdb/football.db/blob/master/footballdb-leagues/script/bundle.rb",
+          "title": "football.db/bundle.rb at master · sportdb/football.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/footballdb-leagues/test/test_league.rb",
+          "title": "football.db/test_league.rb at master · sportdb/football.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb",
+          "title": "football.db/footballdb-leagues/lib/footballdb at master · sportdb/football.db...",
           "count": 1,
           "uniques": 1
         }
@@ -112,8 +116,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 5
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 3
         },
         {
           "referrer": "yandex.com",
@@ -121,9 +130,9 @@
           "uniques": 1
         },
         {
-          "referrer": "Google",
+          "referrer": "rubygems.org",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
           "referrer": "groups.google.com",
@@ -189,7 +198,28 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 26546
   }
 }

@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 13,
       "forks_count": 1
+    },
+    "2020-10-15": {
+      "stargazers_count": 13,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -93,23 +97,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
-      },
-      "clones": {
         "count": 2,
         "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/sportdb/footty",
-          "title": "GitHub - sportdb/footty: footty gem - football.db command line client for wor...",
-          "count": 1,
-          "uniques": 1
+          "title": "sportdb/footty: footty gem - football.db command line client for world cup (r...",
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -130,7 +138,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 11863
   }
 }

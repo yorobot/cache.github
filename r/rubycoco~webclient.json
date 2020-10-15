@@ -1,7 +1,7 @@
 {
   "full_name": "rubycoco/webclient",
   "created_at": "2012-06-02T20:09:04Z",
-  "updated_at": "2020-10-07T13:47:28Z",
+  "updated_at": "2020-10-15T09:48:30Z",
   "pushed_at": "2020-10-07T13:47:26Z",
   "size": 39,
   "history": {
@@ -9,6 +9,10 @@
       "stargazers_count": 5
     },
     "2020-10-11": {
+      "stargazers_count": 5,
+      "forks_count": 0
+    },
+    "2020-10-15": {
       "stargazers_count": 5,
       "forks_count": 0
     }
@@ -29,30 +33,43 @@
   "description": "web command line tools, libraries & scripts",
   "language": "Ruby",
   "topics": [
-
+    "ruby",
+    "gems"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 123,
-        "uniques": 4
+        "count": 132,
+        "uniques": 5
       },
       "clones": {
-        "count": 26,
-        "uniques": 17
+        "count": 28,
+        "uniques": 19
       },
       "paths": [
         {
           "path": "/rubycoco/webclient",
           "title": "rubycoco/webclient: web command line tools, libraries & scripts",
-          "count": 36,
-          "uniques": 3
+          "count": 40,
+          "uniques": 4
         },
         {
           "path": "/rubycoco/fetcher",
           "title": "rubycoco/fetcher: web command line tools, libraries & scripts",
-          "count": 25,
+          "count": 24,
           "uniques": 3
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webget",
+          "title": "webclient/webget at master · rubycoco/webclient",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient",
+          "title": "webclient/webclient at master · rubycoco/webclient",
+          "count": 6,
+          "uniques": 2
         },
         {
           "path": "/rubycoco/fetcher/tree/master/webget",
@@ -61,20 +78,14 @@
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/tree/master/webget",
-          "title": "webclient/webget at master · rubycoco/webclient",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webclient",
-          "title": "webclient/webclient at master · rubycoco/webclient",
-          "count": 5,
+          "path": "/rubycoco/webclient/stargazers",
+          "title": "Stargazers · rubycoco/webclient",
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/rubycoco/webclient/stargazers",
-          "title": "Stargazers · rubycoco/webclient",
+          "path": "/rubycoco/webclient/tree/master/fetcher",
+          "title": "webclient/fetcher at master · rubycoco/webclient",
           "count": 3,
           "uniques": 2
         },
@@ -95,19 +106,13 @@
           "title": "Commits · rubycoco/webclient",
           "count": 3,
           "uniques": 1
-        },
-        {
-          "path": "/rubycoco/fetcher/blob/master/fetcher/README.md",
-          "title": "fetcher/README.md at master · rubycoco/fetcher",
-          "count": 2,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 30,
-          "uniques": 2
+          "count": 32,
+          "uniques": 3
         },
         {
           "referrer": "help.rubygems.org",
@@ -121,11 +126,6 @@
         },
         {
           "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
           "count": 1,
           "uniques": 1
         },
@@ -221,8 +221,43 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        },
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
+  },
+  "languages": {
+    "Ruby": 27344
   }
 }

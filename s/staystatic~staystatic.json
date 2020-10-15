@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 55,
       "forks_count": 8
+    },
+    "2020-10-15": {
+      "stargazers_count": 55,
+      "forks_count": 8
     }
   },
   "commits": [
@@ -103,28 +107,81 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 69,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/staystatic/staystatic/tree/master/metalsmith-nunjucks",
           "title": "staystatic/metalsmith-nunjucks at master · staystatic/staystatic",
-          "count": 2,
+          "count": 15,
+          "uniques": 2
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/metalsmith-nunjucks/layouts",
+          "title": "staystatic/metalsmith-nunjucks/layouts at master · staystatic/staystatic",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/metalsmith-nunjucks/src",
+          "title": "staystatic/metalsmith-nunjucks/src at master · staystatic/staystatic",
+          "count": 8,
           "uniques": 1
         },
         {
           "path": "/staystatic/staystatic",
           "title": "staystatic/staystatic: Stay Static - Website Compiler Showcase - One Design, ...",
-          "count": 1,
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/metalsmith-nunjucks/build.js",
+          "title": "staystatic/build.js at master · staystatic/staystatic",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/metalsmith-nunjucks/src/index.html",
+          "title": "staystatic/index.html at master · staystatic/staystatic",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/jekyll",
+          "title": "staystatic/jekyll at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/metalsmith-nunjucks/layouts/default.html",
+          "title": "staystatic/default.html at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/metalsmith-nunjucks/layouts/page.html",
+          "title": "staystatic/page.html at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/metalsmith-nunjucks/layouts/post.html",
+          "title": "staystatic/post.html at master · staystatic/staystatic",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 3
+        },
         {
           "referrer": "demo-metalsmith-nunjucks.now.sh",
           "count": 2,
@@ -150,7 +207,27 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-11": {
+        "views": {
+          "count": 60,
+          "uniques": 1
+        }
+      },
+      "2020-10-13": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
       }
     }
+  },
+  "languages": {
+    "JavaScript": 29205,
+    "HTML": 21997,
+    "CSS": 13975,
+    "Ruby": 5226,
+    "PHP": 1445,
+    "Python": 1050
   }
 }

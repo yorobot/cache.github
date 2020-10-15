@@ -17,6 +17,10 @@
     "2020-10-11": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -40,24 +44,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/texti/pandoc",
           "title": "texti/pandoc: pandoc gem - structured text document model / abstract syntax t...",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         }
@@ -87,7 +96,16 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 1729
   }
 }

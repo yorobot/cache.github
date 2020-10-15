@@ -65,6 +65,10 @@
     "2020-10-11": {
       "stargazers_count": 21,
       "forks_count": 5
+    },
+    "2020-10-15": {
+      "stargazers_count": 21,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -95,15 +99,15 @@
         "uniques": 6
       },
       "clones": {
-        "count": 12,
-        "uniques": 6
+        "count": 75,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/slideshow-templates/slideshow-slidy",
           "title": "slideshow-templates/slideshow-slidy: Slidy (W3C Blue, Blank) - Slide Show (S9...",
-          "count": 6,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
         },
         {
           "path": "/slideshow-templates/slideshow-slidy/blob/master/slides.w3c.html",
@@ -163,16 +167,21 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
+          "count": 4,
+          "uniques": 3
         },
         {
           "referrer": "qwant.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         }
@@ -260,7 +269,33 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-13": {
+        "clones": {
+          "count": 61,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "clones": {
+          "count": 6,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "JavaScript": 84271,
+    "CSS": 19110,
+    "HTML": 12261,
+    "SystemVerilog": 5465,
+    "Perl 6": 4522,
+    "NewLisp": 4473
   }
 }

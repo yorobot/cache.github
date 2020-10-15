@@ -51,6 +51,10 @@
     "2020-10-11": {
       "stargazers_count": 8,
       "forks_count": 2
+    },
+    "2020-10-15": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -85,18 +89,27 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openblockchains/tulipmania",
+          "title": "openblockchains/tulipmania: tulipmania command line tool (and core library) -...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -105,7 +118,24 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
+  },
+  "languages": {
+    "Ruby": 19352,
+    "HTML": 4795,
+    "CSS": 2047
   }
 }
