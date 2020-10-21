@@ -69,6 +69,10 @@
     "2020-10-15": {
       "stargazers_count": 1,
       "forks_count": 2
+    },
+    "2020-10-21": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -95,24 +99,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/beerbook/calendar",
+          "title": "beerbook/calendar: calendar for beerfests from around the world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerbook/calendar/blob/master/CALENDAR.md",
+          "title": "calendar/CALENDAR.md at master · beerbook/calendar",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerbook/calendar/tree/master/templates",
+          "title": "calendar/templates at master · beerbook/calendar",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "groups.google.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
       "2020-09-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-19": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

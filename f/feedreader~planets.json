@@ -69,6 +69,10 @@
     "2020-10-15": {
       "stargazers_count": 17,
       "forks_count": 3
+    },
+    "2020-10-21": {
+      "stargazers_count": 17,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -95,7 +99,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
+        "count": 6,
         "uniques": 3
       },
       "clones": {
@@ -106,18 +110,36 @@
         {
           "path": "/feedreader/planets",
           "title": "feedreader/planets: planet setup / configuration samples - planetarium - add ...",
-          "count": 4,
+          "count": 3,
           "uniques": 3
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "github.com",
+          "path": "/feedreader/planets/blob/master/newsweek/lib/newsweek.rb",
+          "title": "planets/newsweek.rb at master · feedreader/planets",
           "count": 1,
           "uniques": 1
         },
         {
+          "path": "/feedreader/planets/tree/master/newsweek",
+          "title": "planets/newsweek at master · feedreader/planets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/tree/master/newsweek/lib",
+          "title": "planets/newsweek/lib at master · feedreader/planets",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
           "referrer": "feedreader.github.io",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -145,6 +167,18 @@
       "2020-09-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-20": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

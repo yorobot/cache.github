@@ -69,6 +69,10 @@
     "2020-10-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-21": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -95,18 +99,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openbeer/notes",
+          "title": "GitHub - openbeer/notes: Open Beer (beer.db) Notes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/notes/blob/master/MARKET.md",
+          "title": "notes/MARKET.md at master · openbeer/notes · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -125,6 +144,12 @@
       "2020-10-06": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-20": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

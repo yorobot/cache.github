@@ -42,6 +42,10 @@
     "2020-10-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2020-10-21": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -65,18 +69,69 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 10,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/rubycoco/tagutils/tree/master/lib",
+          "title": "tagutils/lib at master · rubycoco/tagutils",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils/tree/master/lib/tagutils",
+          "title": "tagutils/lib/tagutils at master · rubycoco/tagutils",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils",
+          "title": "rubycoco/tagutils: tagutils gem - tag utilities (tag, taggings, tag list, etc.)",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils/blob/master/lib/tagutils.rb",
+          "title": "tagutils/tagutils.rb at master · rubycoco/tagutils",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils/blob/master/lib/tagutils/tags/models/tag.rb",
+          "title": "tagutils/tag.rb at master · rubycoco/tagutils",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils/blob/master/lib/tagutils/tags.rb",
+          "title": "tagutils/tags.rb at master · rubycoco/tagutils",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils/tree/master/lib/tagutils/tags",
+          "title": "tagutils/lib/tagutils/tags at master · rubycoco/tagutils",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/tagutils/tree/master/lib/tagutils/tags/models",
+          "title": "tagutils/lib/tagutils/tags/models at master · rubycoco/tagutils",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -89,6 +144,12 @@
       "2020-10-07": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-17": {
+        "views": {
+          "count": 10,
           "uniques": 1
         }
       }

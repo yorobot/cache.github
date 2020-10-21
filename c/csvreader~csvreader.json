@@ -39,6 +39,10 @@
     "2020-10-15": {
       "stargazers_count": 164,
       "forks_count": 5
+    },
+    "2020-10-21": {
+      "stargazers_count": 164,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -72,55 +76,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 115,
-        "uniques": 43
+        "count": 96,
+        "uniques": 48
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 54,
-          "uniques": 33
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/lib",
-          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
-          "count": 8,
-          "uniques": 5
+          "count": 55,
+          "uniques": 40
         },
         {
           "path": "/csvreader/csvreader/tree/master/lib/csvreader",
           "title": "csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
-          "count": 8,
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/lib",
+          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
+          "count": 6,
           "uniques": 5
         },
         {
           "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
           "title": "csvreader/DIALECTS.md at master · csvreader/csvreader · GitHub",
-          "count": 4,
-          "uniques": 3
+          "count": 6,
+          "uniques": 4
         },
         {
-          "path": "/csvreader/csvreader/blob/master/datasets/beer.csv",
-          "title": "csvreader/beer.csv at master · csvreader/csvreader",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/issues",
-          "title": "Issues · csvreader/csvreader",
+          "path": "/csvreader/csvreader/blob/master/lib/csvreader/reader.rb",
+          "title": "csvreader/reader.rb at master · csvreader/csvreader · GitHub",
           "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/blob/master/lib/csvreader/base.rb",
-          "title": "csvreader/base.rb at master · csvreader/csvreader · GitHub",
-          "count": 2,
-          "uniques": 2
+          "uniques": 3
         },
         {
           "path": "/csvreader/csvreader/blob/master/lib/csvreader.rb",
@@ -129,41 +121,48 @@
           "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/blob/master/lib/csvreader/reader.rb",
-          "title": "csvreader/reader.rb at master · csvreader/csvreader",
+          "path": "/csvreader/csvreader/tree/master/test",
+          "title": "csvreader/test at master · csvreader/csvreader · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/blob/master/lib/csvreader/version.rb",
-          "title": "csvreader/version.rb at master · csvreader/csvreader",
-          "count": 2,
-          "uniques": 2
+          "path": "/csvreader/csvreader/blob/master/HISTORY.md",
+          "title": "csvreader/HISTORY.md at master · csvreader/csvreader · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/lib/csvreader/buffer.rb",
+          "title": "csvreader/buffer.rb at master · csvreader/csvreader · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/lib/csvreader/parser.rb",
+          "title": "csvreader/parser.rb at master · csvreader/csvreader · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 30,
-          "uniques": 18
+          "count": 39,
+          "uniques": 23
         },
         {
           "referrer": "github.com",
           "count": 9,
-          "uniques": 6
+          "uniques": 8
         },
         {
-          "referrer": "rubygems.org",
-          "count": 2,
+          "referrer": "awesome-ruby.com",
+          "count": 3,
           "uniques": 2
         },
         {
           "referrer": "Bing",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "awesome-ruby.com",
           "count": 1,
           "uniques": 1
         },
@@ -238,8 +237,8 @@
       },
       "2020-10-07": {
         "views": {
-          "count": 15,
-          "uniques": 8
+          "count": 5,
+          "uniques": 4
         },
         "clones": {
           "count": 1,
@@ -294,8 +293,44 @@
       },
       "2020-10-15": {
         "views": {
-          "count": 9,
-          "uniques": 7
+          "count": 10,
+          "uniques": 8
+        }
+      },
+      "2020-10-16": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-17": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-10-18": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-19": {
+        "views": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2020-10-20": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-21": {
+        "views": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

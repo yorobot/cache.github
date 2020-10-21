@@ -69,6 +69,10 @@
     "2020-10-15": {
       "stargazers_count": 110,
       "forks_count": 42
+    },
+    "2020-10-21": {
+      "stargazers_count": 111,
+      "forks_count": 43
     }
   },
   "commits": [
@@ -85,7 +89,7 @@
     }
   ],
   "size": 2929,
-  "updated_at": "2020-08-19T14:03:58Z",
+  "updated_at": "2020-10-17T04:23:10Z",
   "pushed_at": "2014-09-29T07:29:11Z",
   "description": "sportbook web app - free open source sports betting (or prediction) pool in ruby on rails (version 3.2 and up)",
   "language": "Ruby",
@@ -95,8 +99,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 104,
-        "uniques": 67
+        "count": 114,
+        "uniques": 64
       },
       "clones": {
         "count": 2,
@@ -106,8 +110,8 @@
         {
           "path": "/openbookie/sportbook",
           "title": "openbookie/sportbook: sportbook web app - free open source sports betting (or...",
-          "count": 92,
-          "uniques": 66
+          "count": 78,
+          "uniques": 58
         },
         {
           "path": "/openbookie/sportbook/tree/master/lib",
@@ -116,10 +120,34 @@
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/tree/master/public",
-          "title": "sportbook/public at master · openbookie/sportbook",
+          "path": "/openbookie/sportbook/tree/master/admin",
+          "title": "sportbook/admin at master · openbookie/sportbook · GitHub",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/openbookie/sportbook/tree/master/admin/app",
+          "title": "sportbook/admin/app at master · openbookie/sportbook · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/admin/app/.gitkeep",
+          "title": "sportbook/.gitkeep at master · openbookie/sportbook · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/app/controllers/live_controller.rb",
+          "title": "sportbook/live_controller.rb at master · openbookie/sportbook",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/db/schema.rb",
+          "title": "sportbook/schema.rb at master · openbookie/sportbook",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/openbookie/sportbook/blob/master/lib/recalc.rb",
@@ -128,32 +156,14 @@
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/blob/master/README.md",
-          "title": "sportbook/README.md at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/app",
+          "title": "sportbook/app at master · openbookie/sportbook",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/branches",
-          "title": "Branches · openbookie/sportbook",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/commit/a98127c4399d2d73195d116d765b8cb41d529e9c",
-          "title": "add folders for engines - admin,pubsub · openbookie/sportbook@a98127c · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/search",
-          "title": "Search · betting · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/tree/master/lib/tasks",
-          "title": "sportbook/lib/tasks at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/app/controllers",
+          "title": "sportbook/app/controllers at master · openbookie/sportbook",
           "count": 1,
           "uniques": 1
         }
@@ -161,26 +171,26 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 52,
-          "uniques": 39
+          "count": 41,
+          "uniques": 31
         },
         {
           "referrer": "Google",
-          "count": 22,
-          "uniques": 14
+          "count": 26,
+          "uniques": 18
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 11,
-          "uniques": 9
-        },
-        {
-          "referrer": "lavasoft.gosearchresults.com",
-          "count": 2,
-          "uniques": 1
+          "count": 6,
+          "uniques": 6
         },
         {
           "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         }
@@ -261,8 +271,8 @@
       },
       "2020-10-07": {
         "views": {
-          "count": 8,
-          "uniques": 5
+          "count": 6,
+          "uniques": 3
         }
       },
       "2020-10-08": {
@@ -315,6 +325,46 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2020-10-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-17": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
+      },
+      "2020-10-18": {
+        "views": {
+          "count": 24,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-19": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-20": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-21": {
+        "views": {
+          "count": 9,
+          "uniques": 4
         }
       }
     }

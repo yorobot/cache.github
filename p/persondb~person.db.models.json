@@ -69,6 +69,10 @@
     "2020-10-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-21": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -95,22 +99,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 8,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/persondb/person.db.models",
-          "title": "GitHub - persondb/person.db.models: persondb gem - person schema & models for...",
+          "title": "persondb/person.db.models: persondb gem - person schema & models for easy reu...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/persondb/person.db.models/blob/master/lib/persondb/schema.rb",
+          "title": "person.db.models/schema.rb at master · persondb/person.db.models",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb",
+          "title": "person.db.models/lib/persondb at master · persondb/person.db.models",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/blob/master/lib/persondb/models/person.rb",
+          "title": "person.db.models/person.rb at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb/models",
+          "title": "person.db.models/lib/persondb/models at master · persondb/person.db.models",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 1
+        },
         {
           "referrer": "Google",
           "count": 1,
@@ -134,6 +167,12 @@
       "2020-10-13": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-17": {
+        "views": {
+          "count": 7,
           "uniques": 1
         }
       }

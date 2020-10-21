@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/deutschland",
   "created_at": "2013-05-20T08:24:36Z",
-  "updated_at": "2020-10-05T15:15:53Z",
-  "pushed_at": "2020-10-05T15:15:49Z",
-  "size": 2210,
+  "updated_at": "2020-10-18T17:20:09Z",
+  "pushed_at": "2020-10-18T17:20:07Z",
+  "size": 2213,
   "history": {
     "2019-12-08": {
       "stargazers_count": 47
@@ -24,19 +24,23 @@
     "2020-10-15": {
       "stargazers_count": 57,
       "forks_count": 19
+    },
+    "2020-10-21": {
+      "stargazers_count": 57,
+      "forks_count": 19
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-05T15:15:46Z",
-        "name": "Yo Robot"
+        "date": "2020-10-18T17:20:03Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-10-05T15:15:46Z",
-        "name": "Yo Robot"
+        "date": "2020-10-18T17:20:03Z",
+        "name": "Gerald Bauer"
       },
-      "message": "auto-update week 41"
+      "message": "auto-update week 42"
     }
   ],
   "description": "Free open public domain football data for Germany (Deutschland) incl. Deutsche Bundesliga, 2. Bundesliga, 3. Liga, DFB Pokal etc.",
@@ -55,31 +59,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 139,
-        "uniques": 38
+        "count": 197,
+        "uniques": 43
       },
       "clones": {
-        "count": 36,
-        "uniques": 5
+        "count": 31,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openfootball/deutschland",
           "title": "openfootball/deutschland: Free open public domain football data for Germany (...",
-          "count": 39,
-          "uniques": 26
+          "count": 60,
+          "uniques": 34
         },
         {
           "path": "/openfootball/deutschland/tree/master/2020-21",
           "title": "deutschland/2020-21 at master · openfootball/deutschland · GitHub",
-          "count": 27,
-          "uniques": 19
+          "count": 32,
+          "uniques": 21
         },
         {
           "path": "/openfootball/deutschland/blob/master/2020-21/1-bundesliga.txt",
           "title": "deutschland/1-bundesliga.txt at master · openfootball/deutschland · GitHub",
-          "count": 19,
-          "uniques": 17
+          "count": 21,
+          "uniques": 18
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/2019-20",
+          "title": "deutschland/2019-20 at master · openfootball/deutschland · GitHub",
+          "count": 9,
+          "uniques": 7
         },
         {
           "path": "/openfootball/deutschland/blob/master/2020-21/cup.txt",
@@ -88,38 +98,32 @@
           "uniques": 3
         },
         {
-          "path": "/openfootball/deutschland/pulls",
-          "title": "Pull requests · openfootball/deutschland · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/deutschland/tree/master/2019-20",
-          "title": "deutschland/2019-20 at master · openfootball/deutschland · GitHub",
+          "path": "/openfootball/deutschland/blob/master/README.md",
+          "title": "deutschland/README.md at master · openfootball/deutschland · GitHub",
           "count": 3,
           "uniques": 3
         },
         {
-          "path": "/openfootball/deutschland/pull/14/commits/d80509b7c4f70be50e698fdd10e37b6d762a602b",
-          "title": "Update 20/21 by enadol · Pull Request #14 · openfootball/deutschland · GitHub",
+          "path": "/openfootball/deutschland/find/master",
+          "title": "File Finder · GitHub",
           "count": 3,
-          "uniques": 1
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/archive",
+          "title": "deutschland/archive at master · openfootball/deutschland · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/clubs",
+          "title": "deutschland/clubs at master · openfootball/deutschland · GitHub",
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/openfootball/deutschland/blob/master/2019-20/1-bundesliga.txt",
           "title": "deutschland/1-bundesliga.txt at master · openfootball/deutschland · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/deutschland/commit/33460c32837b524e5f5a7e7c868516c7fcdd00ca",
-          "title": "auto-update week 41 · openfootball/deutschland@33460c3 · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/deutschland/tree/master/2018-19",
-          "title": "deutschland/2018-19 at master · openfootball/deutschland · GitHub",
           "count": 2,
           "uniques": 2
         }
@@ -128,20 +132,25 @@
         {
           "referrer": "github.com",
           "count": 21,
-          "uniques": 14
+          "uniques": 15
         },
         {
           "referrer": "Google",
-          "count": 16,
-          "uniques": 11
+          "count": 20,
+          "uniques": 12
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 10,
+          "count": 8,
           "uniques": 8
         },
         {
           "referrer": "groups.google.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -322,9 +331,61 @@
       },
       "2020-10-15": {
         "views": {
-          "count": 9,
+          "count": 11,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-16": {
+        "views": {
+          "count": 19,
           "uniques": 3
         },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-18": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-19": {
+        "views": {
+          "count": 59,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-20": {
+        "views": {
+          "count": 16,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-17": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-21": {
         "clones": {
           "count": 2,
           "uniques": 1

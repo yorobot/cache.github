@@ -69,6 +69,10 @@
     "2020-10-15": {
       "stargazers_count": 570,
       "forks_count": 51
+    },
+    "2020-10-21": {
+      "stargazers_count": 569,
+      "forks_count": 51
     }
   },
   "commits": [
@@ -85,7 +89,7 @@
     }
   ],
   "size": 1088,
-  "updated_at": "2020-09-26T20:57:51Z",
+  "updated_at": "2020-10-19T00:40:58Z",
   "pushed_at": "2017-08-31T18:19:59Z",
   "description": "Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)",
   "language": null,
@@ -95,19 +99,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 62,
+        "count": 64,
         "uniques": 18
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 26,
-          "uniques": 17
+          "count": 28,
+          "uniques": 18
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/africa",
+          "title": "world.db/africa at master · openmundi/world.db · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/africa/et-ethopia",
+          "title": "world.db/africa/et-ethopia at master · openmundi/world.db · GitHub",
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/openmundi/world.db/tree/master/1-codes",
@@ -116,16 +132,16 @@
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/tree/master/africa",
-          "title": "world.db/africa at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
           "path": "/openmundi/world.db/tree/master/africa/1-codes",
           "title": "world.db/africa/1-codes at master · openmundi/world.db · GitHub",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/central-america/countries.txt",
+          "title": "world.db/countries.txt at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/openmundi/world.db/commit/66771efc9c71f900e4fcc57318b60d84bcf2d81c",
@@ -150,30 +166,23 @@
           "title": "world.db/asia at 66771efc9c71f900e4fcc57318b60d84bcf2d81c · openmundi/world.d...",
           "count": 2,
           "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/north-america",
-          "title": "world.db/north-america at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/1-codes/fifa.txt",
-          "title": "world.db/fifa.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 9
+          "count": 12,
+          "uniques": 10
         },
         {
           "referrer": "Google",
-          "count": 6,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "referrer": "groups.google.com",
+          "count": 2,
+          "uniques": 1
         },
         {
           "referrer": "prost.herokuapp.com",
@@ -301,6 +310,44 @@
       "2020-10-15": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-16": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-17": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-19": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-10-20": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }
