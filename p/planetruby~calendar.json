@@ -59,6 +59,10 @@
     "2020-10-21": {
       "stargazers_count": 247,
       "forks_count": 73
+    },
+    "2020-10-24": {
+      "stargazers_count": 247,
+      "forks_count": 73
     }
   },
   "commits": [
@@ -90,30 +94,30 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
+        "count": 13,
         "uniques": 7
       },
       "clones": {
-        "count": 5,
+        "count": 4,
         "uniques": 3
       },
       "paths": [
         {
           "path": "/planetruby/calendar",
           "title": "planetruby/calendar: What's Upcoming in 2020? - A collection of awesome ruby ...",
-          "count": 6,
-          "uniques": 5
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/calendar/blob/master/_data/conferences2020.yml",
+          "title": "calendar/conferences2020.yml at master · planetruby/calendar",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/planetruby/calendar/blob/master/ruby3x3.md",
           "title": "calendar/ruby3x3.md at master · planetruby/calendar",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/calendar/blob/master/_data/conferences2020.yml",
-          "title": "calendar/conferences2020.yml at master · planetruby/calendar",
-          "count": 1,
           "uniques": 1
         },
         {
@@ -132,11 +136,16 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 6,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         {
           "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyflow.com",
           "count": 1,
           "uniques": 1
         }
@@ -244,6 +253,24 @@
       "2020-10-19": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-24": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

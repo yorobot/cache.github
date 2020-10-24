@@ -73,6 +73,10 @@
     "2020-10-21": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-10-24": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -99,18 +103,81 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 16,
+        "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/textkit/datafile/tree/master/lib",
+          "title": "datafile/lib at master · textkit/datafile",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile",
+          "title": "textkit/datafile: datafile gem - builder for downloading n reading datasets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/lib/datafile/builder.rb",
+          "title": "datafile/builder.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/lib/datafile/datafile.rb",
+          "title": "datafile/datafile.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/lib/datafile/dataset.rb",
+          "title": "datafile/dataset.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/lib/datafile.rb",
+          "title": "datafile/datafile.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/lib/datafile/version.rb",
+          "title": "datafile/version.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/test/datafile/eurocup.rb",
+          "title": "datafile/eurocup.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/test/test_builder.rb",
+          "title": "datafile/test_builder.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/textkit/datafile/blob/master/test/test_file_worker.rb",
+          "title": "datafile/test_file_worker.rb at master · textkit/datafile",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -129,6 +196,12 @@
       "2020-10-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-23": {
+        "views": {
+          "count": 16,
           "uniques": 1
         }
       }

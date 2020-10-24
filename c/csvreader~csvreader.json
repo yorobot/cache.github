@@ -1,7 +1,7 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2020-09-25T19:04:39Z",
+  "updated_at": "2020-10-22T22:43:16Z",
   "pushed_at": "2019-07-27T18:17:08Z",
   "size": 187,
   "history": {
@@ -43,6 +43,10 @@
     "2020-10-21": {
       "stargazers_count": 164,
       "forks_count": 5
+    },
+    "2020-10-24": {
+      "stargazers_count": 165,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -76,47 +80,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 96,
-        "uniques": 48
+        "count": 88,
+        "uniques": 45
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 55,
-          "uniques": 40
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/lib/csvreader",
-          "title": "csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
-          "count": 7,
-          "uniques": 5
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/lib",
-          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
-          "count": 6,
-          "uniques": 5
+          "count": 58,
+          "uniques": 41
         },
         {
           "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
           "title": "csvreader/DIALECTS.md at master · csvreader/csvreader · GitHub",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/lib/csvreader",
+          "title": "csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
           "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/lib",
+          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
+          "count": 5,
           "uniques": 4
         },
         {
           "path": "/csvreader/csvreader/blob/master/lib/csvreader/reader.rb",
           "title": "csvreader/reader.rb at master · csvreader/csvreader · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/csvreader/csvreader/blob/master/lib/csvreader.rb",
-          "title": "csvreader/csvreader.rb at master · csvreader/csvreader",
           "count": 2,
           "uniques": 2
         },
@@ -143,18 +141,24 @@
           "title": "csvreader/parser.rb at master · csvreader/csvreader · GitHub",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/lib/csvreader.rb",
+          "title": "csvreader/csvreader.rb at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 39,
-          "uniques": 23
+          "count": 42,
+          "uniques": 25
         },
         {
           "referrer": "github.com",
-          "count": 9,
-          "uniques": 8
+          "count": 7,
+          "uniques": 6
         },
         {
           "referrer": "awesome-ruby.com",
@@ -162,12 +166,17 @@
           "uniques": 2
         },
         {
-          "referrer": "Bing",
+          "referrer": "ecosia.org",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "csvy.org",
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         },
@@ -331,6 +340,18 @@
         "views": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2020-10-22": {
+        "views": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2020-10-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

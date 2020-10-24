@@ -73,6 +73,10 @@
     "2020-10-21": {
       "stargazers_count": 8,
       "forks_count": 7
+    },
+    "2020-10-24": {
+      "stargazers_count": 8,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -99,8 +103,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 3
+        "count": 15,
+        "uniques": 4
       },
       "clones": {
         "count": 0,
@@ -110,6 +114,18 @@
         {
           "path": "/worlddb/world.db.flags",
           "title": "GitHub - worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags",
+          "title": "world.db.flags/vendor/assets/images/flags at master · worlddb/world.db.flags ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/64x64",
+          "title": "world.db.flags/vendor/assets/images/flags/64x64 at master · worlddb/world.db....",
           "count": 2,
           "uniques": 2
         },
@@ -138,8 +154,14 @@
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags",
-          "title": "world.db.flags/vendor/assets/images/flags at master · worlddb/world.db.flags ...",
+          "path": "/worlddb/world.db.flags/tree/master/vendor",
+          "title": "world.db.flags/vendor at master · worlddb/world.db.flags · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images",
+          "title": "world.db.flags/vendor/assets/images at master · worlddb/world.db.flags · GitHub",
           "count": 1,
           "uniques": 1
         },
@@ -148,19 +170,13 @@
           "title": "world.db.flags/vendor/assets/images/flags/48x48 at master · worlddb/world.db....",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/64x64",
-          "title": "world.db.flags/vendor/assets/images/flags/64x64 at master · worlddb/world.db....",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         }
       ]
     },
@@ -198,6 +214,12 @@
       "2020-10-19": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-23": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }
