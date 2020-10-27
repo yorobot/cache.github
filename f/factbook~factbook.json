@@ -81,6 +81,10 @@
     "2020-10-25": {
       "stargazers_count": 105,
       "forks_count": 15
+    },
+    "2020-10-27": {
+      "stargazers_count": 105,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -111,31 +115,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 59,
-        "uniques": 20
+        "count": 55,
+        "uniques": 22
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 30,
-          "uniques": 18
-        },
-        {
-          "path": "/factbook/factbook/blob/master/data/categories.csv",
-          "title": "factbook/categories.csv at master · factbook/factbook · GitHub",
-          "count": 7,
-          "uniques": 4
+          "count": 28,
+          "uniques": 17
         },
         {
           "path": "/factbook/factbook/tree/master/data",
           "title": "factbook/data at master · factbook/factbook · GitHub",
-          "count": 6,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook/blob/master/data/categories.csv",
+          "title": "factbook/categories.csv at master · factbook/factbook · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/factbook/factbook/blob/master/data/comparisons.csv",
@@ -168,41 +172,30 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/issues",
-          "title": "Issues · factbook/factbook",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/factbook/projects",
-          "title": "Projects · factbook/factbook",
-          "count": 2,
+          "path": "/factbook/factbook/blob/master/script/almanac.rb",
+          "title": "factbook/almanac.rb at master · factbook/factbook · GitHub",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
+          "count": 11,
           "uniques": 9
         },
         {
           "referrer": "rdocumentation.org",
-          "count": 5,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "groups.google.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "opendata.stackexchange.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         },
@@ -212,7 +205,7 @@
           "uniques": 1
         },
         {
-          "referrer": "rubydoc.info",
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -339,6 +332,28 @@
         "views": {
           "count": 21,
           "uniques": 4
+        }
+      },
+      "2020-10-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-26": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 5,
+          "uniques": 2
         }
       }
     }

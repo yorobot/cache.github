@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/england",
   "created_at": "2014-07-23T11:25:34Z",
-  "updated_at": "2020-10-22T09:38:21Z",
-  "pushed_at": "2020-10-19T06:06:51Z",
-  "size": 8670,
+  "updated_at": "2020-10-26T06:07:40Z",
+  "pushed_at": "2020-10-26T06:07:38Z",
+  "size": 8672,
   "history": {
     "2019-07-22": {
       "stargazers_count": 81
@@ -42,19 +42,23 @@
     "2020-10-25": {
       "stargazers_count": 107,
       "forks_count": 85
+    },
+    "2020-10-27": {
+      "stargazers_count": 107,
+      "forks_count": 85
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-19T06:06:48Z",
+        "date": "2020-10-26T06:07:35Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2020-10-19T06:06:48Z",
+        "date": "2020-10-26T06:07:35Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 43"
+      "message": "auto-update week 44"
     }
   ],
   "description": "Football data for England (and Wales) incl. English Premier League, The Football League (Championship, League One, League Two), Football Conference etc. ",
@@ -76,85 +80,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 865,
-        "uniques": 180
+        "count": 862,
+        "uniques": 187
       },
       "clones": {
-        "count": 33,
-        "uniques": 6
+        "count": 32,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/footballcsv/england",
           "title": "GitHub - footballcsv/england: Football data for England (and Wales) incl. Eng...",
-          "count": 269,
-          "uniques": 168
+          "count": 267,
+          "uniques": 172
         },
         {
           "path": "/footballcsv/england/tree/master/2020s/2020-21",
           "title": "england/2020s/2020-21 at master · footballcsv/england · GitHub",
-          "count": 106,
-          "uniques": 70
+          "count": 95,
+          "uniques": 66
         },
         {
           "path": "/footballcsv/england/blob/master/2020s/2020-21/eng.1.csv",
           "title": "england/eng.1.csv at master · footballcsv/england · GitHub",
-          "count": 77,
-          "uniques": 42
+          "count": 64,
+          "uniques": 40
         },
         {
           "path": "/footballcsv/england/tree/master/2010s",
           "title": "england/2010s at master · footballcsv/england · GitHub",
-          "count": 52,
-          "uniques": 33
+          "count": 55,
+          "uniques": 34
         },
         {
           "path": "/footballcsv/england/blob/master/2020s/2020-21/eng.5.csv",
           "title": "england/eng.5.csv at master · footballcsv/england · GitHub",
-          "count": 24,
+          "count": 25,
           "uniques": 21
         },
         {
           "path": "/footballcsv/england/tree/master/2010s/2019-20",
           "title": "england/2010s/2019-20 at master · footballcsv/england · GitHub",
-          "count": 23,
-          "uniques": 18
+          "count": 22,
+          "uniques": 17
         },
         {
           "path": "/footballcsv/england/blob/master/2010s/2019-20/eng.1.csv",
           "title": "england/eng.1.csv at master · footballcsv/england · GitHub",
-          "count": 23,
-          "uniques": 14
+          "count": 22,
+          "uniques": 13
         },
         {
           "path": "/footballcsv/england/find/master",
           "title": "File Finder · GitHub",
-          "count": 20,
-          "uniques": 14
-        },
-        {
-          "path": "/footballcsv/england/pulls",
-          "title": "Pull requests · footballcsv/england · GitHub",
-          "count": 18,
-          "uniques": 9
+          "count": 15,
+          "uniques": 12
         },
         {
           "path": "/footballcsv/england/tree/master/1990s",
           "title": "england/1990s at master · footballcsv/england · GitHub",
-          "count": 13,
+          "count": 15,
           "uniques": 11
+        },
+        {
+          "path": "/footballcsv/england/pulls",
+          "title": "Pull requests · footballcsv/england · GitHub",
+          "count": 14,
+          "uniques": 8
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 215,
-          "uniques": 138
+          "count": 209,
+          "uniques": 136
         },
         {
           "referrer": "footballcsv.github.io",
-          "count": 32,
-          "uniques": 24
+          "count": 31,
+          "uniques": 23
+        },
+        {
+          "referrer": "translate.googleusercontent.com",
+          "count": 5,
+          "uniques": 1
         },
         {
           "referrer": "rdocumentation.org",
@@ -177,7 +186,17 @@
           "uniques": 1
         },
         {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "sportdb.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -342,8 +361,8 @@
       },
       "2020-10-13": {
         "views": {
-          "count": 54,
-          "uniques": 13
+          "count": 29,
+          "uniques": 6
         },
         "clones": {
           "count": 2,
@@ -462,12 +481,28 @@
       },
       "2020-10-25": {
         "views": {
-          "count": 1,
-          "uniques": 1
+          "count": 57,
+          "uniques": 15
         },
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2020-10-26": {
+        "views": {
+          "count": 50,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 16,
+          "uniques": 5
         }
       }
     }

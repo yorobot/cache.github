@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/mexico",
   "created_at": "2013-05-21T21:01:47Z",
-  "updated_at": "2020-10-18T17:20:41Z",
-  "pushed_at": "2020-10-18T17:20:39Z",
-  "size": 114,
+  "updated_at": "2020-10-25T19:30:59Z",
+  "pushed_at": "2020-10-25T19:30:57Z",
+  "size": 115,
   "history": {
     "2020-06-05": {
       "stargazers_count": 2
@@ -33,19 +33,23 @@
     "2020-10-25": {
       "stargazers_count": 2,
       "forks_count": 3
+    },
+    "2020-10-27": {
+      "stargazers_count": 2,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-18T17:20:35Z",
+        "date": "2020-10-25T19:30:52Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-10-18T17:20:35Z",
+        "date": "2020-10-25T19:30:52Z",
         "name": "Gerald Bauer"
       },
-      "message": "auto-update week 42"
+      "message": "auto-update week 43"
     }
   ],
   "description": "Free open public domain football data (football.db) for Mexico / North America",
@@ -56,19 +60,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 19,
-        "uniques": 7
+        "count": 46,
+        "uniques": 8
       },
       "clones": {
         "count": 29,
-        "uniques": 2
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openfootball/mexico",
           "title": "openfootball/mexico: Free open public domain football data (football.db) for ...",
-          "count": 10,
-          "uniques": 7
+          "count": 13,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/mexico/commits/master",
+          "title": "Commits · openfootball/mexico",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/mexico/blob/master/2019-20/1-apertura.txt",
+          "title": "mexico/1-apertura.txt at master · openfootball/mexico · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/mexico/tree/master/2019-20",
+          "title": "mexico/2019-20 at master · openfootball/mexico · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openfootball/mexico/tree/master/2020-21",
@@ -77,38 +99,32 @@
           "uniques": 2
         },
         {
+          "path": "/openfootball/mexico/commit/89ad5efb6c2de4d531157292223b43773b35a7b0",
+          "title": "auto-update week 43 · openfootball/mexico@89ad5ef",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/openfootball/mexico/tree/master/2011-12",
           "title": "mexico/2011-12 at master · openfootball/mexico · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/mexico/blob/master/2019-20/1-apertura.txt",
-          "title": "mexico/1-apertura.txt at master · openfootball/mexico",
+          "path": "/openfootball/mexico/blob/master/2019-20/1-apertura_liguilla.txt",
+          "title": "mexico/1-apertura_liguilla.txt at master · openfootball/mexico · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/mexico/blob/master/2019-20/1-clausura.txt",
+          "title": "mexico/1-clausura.txt at master · openfootball/mexico · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/openfootball/mexico/blob/master/2020-21/1-apertura.txt",
-          "title": "mexico/1-apertura.txt at master · openfootball/mexico · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/mexico/commit/13741c01893671f4dd196050ea44394aa6fbbff7",
-          "title": "auto-update week 42 · openfootball/mexico@13741c0",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/mexico/commits/master",
-          "title": "Commits · openfootball/mexico",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/mexico/tree/master/2019-20",
-          "title": "mexico/2019-20 at master · openfootball/mexico",
+          "title": "mexico/1-apertura.txt at master · openfootball/mexico",
           "count": 1,
           "uniques": 1
         }
@@ -116,8 +132,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 7
+          "count": 10,
+          "uniques": 6
         }
       ]
     },
@@ -250,12 +266,12 @@
       },
       "2020-10-13": {
         "views": {
-          "count": 4,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         "clones": {
-          "count": 3,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       },
       "2020-10-12": {
@@ -348,7 +364,27 @@
       },
       "2020-10-25": {
         "clones": {
+          "count": 4,
+          "uniques": 3
+        },
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2020-10-26": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 14,
           "uniques": 1
         }
       }

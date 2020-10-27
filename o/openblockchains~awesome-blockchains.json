@@ -70,6 +70,10 @@
     "2020-10-25": {
       "stargazers_count": 2942,
       "forks_count": 348
+    },
+    "2020-10-27": {
+      "stargazers_count": 2941,
+      "forks_count": 348
     }
   },
   "commits": [
@@ -85,7 +89,7 @@
       "message": "Update BITCOIN-SCRIPT.md"
     }
   ],
-  "updated_at": "2020-10-20T02:43:33Z",
+  "updated_at": "2020-10-26T09:02:09Z",
   "pushed_at": "2020-01-31T08:56:39Z",
   "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
   "language": "Ruby",
@@ -104,19 +108,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 160,
-        "uniques": 82
+        "count": 192,
+        "uniques": 85
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-blockchains",
           "title": "openblockchains/awesome-blockchains: A collection about awesome blockchains -...",
-          "count": 105,
-          "uniques": 69
+          "count": 115,
+          "uniques": 70
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.rb",
+          "title": "awesome-blockchains/blockchain.rb at master · openblockchains/awesome-blockch...",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.rb/blockchain.rb",
+          "title": "awesome-blockchains/blockchain.rb at master · openblockchains/awesome-blockch...",
+          "count": 7,
+          "uniques": 5
         },
         {
           "path": "/openblockchains/awesome-blockchains/search",
@@ -143,41 +159,29 @@
           "uniques": 4
         },
         {
-          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.rb/blockchain.rb",
-          "title": "awesome-blockchains/blockchain.rb at master · openblockchains/awesome-blockch...",
+          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.js",
+          "title": "awesome-blockchains/blockchain.js at master · openblockchains/awesome-blockch...",
           "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.cpp/blockchain.cpp",
-          "title": "awesome-blockchains/blockchain.cpp at master · openblockchains/awesome-blockc...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.rb/blockchain_with_proof_of_work.rb",
-          "title": "awesome-blockchains/blockchain_with_proof_of_work.rb at master · openblockcha...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/blob/master/README.md",
-          "title": "awesome-blockchains/README.md at master · openblockchains/awesome-blockchains...",
-          "count": 2,
-          "uniques": 2
+          "uniques": 3
         },
         {
           "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.rs",
           "title": "awesome-blockchains/blockchain.rs at master · openblockchains/awesome-blockch...",
-          "count": 2,
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.rs/src",
+          "title": "awesome-blockchains/blockchain.rs/src at master · openblockchains/awesome-blo...",
+          "count": 3,
           "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 51,
-          "uniques": 34
+          "count": 59,
+          "uniques": 35
         },
         {
           "referrer": "Google",
@@ -190,6 +194,11 @@
           "uniques": 5
         },
         {
+          "referrer": "medium.com",
+          "count": 6,
+          "uniques": 3
+        },
+        {
           "referrer": "bitcointalk.org",
           "count": 3,
           "uniques": 3
@@ -200,27 +209,22 @@
           "uniques": 3
         },
         {
+          "referrer": "rubyflow.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
           "referrer": "imasters.com.br",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "rubyflow.com",
+          "referrer": "quora.com",
           "count": 1,
           "uniques": 1
         },
         {
           "referrer": "devfolio.co",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "news.ycombinator.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "quora.com",
           "count": 1,
           "uniques": 1
         }
@@ -337,12 +341,12 @@
       },
       "2020-10-13": {
         "views": {
-          "count": 10,
-          "uniques": 6
+          "count": 6,
+          "uniques": 4
         },
         "clones": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       },
       "2020-10-14": {
@@ -413,12 +417,24 @@
       },
       "2020-10-25": {
         "views": {
-          "count": 2,
-          "uniques": 2
+          "count": 38,
+          "uniques": 11
         },
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2020-10-26": {
+        "views": {
+          "count": 13,
+          "uniques": 7
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

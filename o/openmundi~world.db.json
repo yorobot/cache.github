@@ -81,6 +81,10 @@
     "2020-10-25": {
       "stargazers_count": 569,
       "forks_count": 51
+    },
+    "2020-10-27": {
+      "stargazers_count": 569,
+      "forks_count": 51
     }
   },
   "commits": [
@@ -107,12 +111,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 47,
-        "uniques": 18
+        "count": 54,
+        "uniques": 20
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
@@ -120,6 +124,12 @@
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
           "count": 24,
           "uniques": 16
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/south-america",
+          "title": "world.db/south-america at master · openmundi/world.db · GitHub",
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/openmundi/world.db/blob/master/north-america/ca-canada/cities.txt",
@@ -130,6 +140,12 @@
         {
           "path": "/openmundi/world.db/tree/master/africa",
           "title": "world.db/africa at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/central-america",
+          "title": "world.db/central-america at master · openmundi/world.db · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -158,20 +174,8 @@
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/find/master",
-          "title": "File Finder · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/africa/sn-senegal",
-          "title": "world.db/africa/sn-senegal at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/central-america",
-          "title": "world.db/central-america at master · openmundi/world.db · GitHub",
+          "path": "/openmundi/world.db/blob/master/south-america/pe-peru/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -179,13 +183,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 9
+          "count": 9,
+          "uniques": 7
         },
         {
           "referrer": "groups.google.com",
-          "count": 4,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         {
           "referrer": "Google",
@@ -380,6 +384,22 @@
       "2020-10-25": {
         "views": {
           "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-26": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 7,
           "uniques": 2
         }
       }

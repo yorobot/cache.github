@@ -81,6 +81,10 @@
     "2020-10-25": {
       "stargazers_count": 155,
       "forks_count": 5
+    },
+    "2020-10-27": {
+      "stargazers_count": 155,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -121,23 +125,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 13
+        "count": 24,
+        "uniques": 15
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/feedparser/feedparser",
           "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
-          "count": 13,
+          "count": 16,
           "uniques": 13
         },
         {
-          "path": "/feedparser/feedparser/tree/master/lib",
-          "title": "feedparser/lib at master · feedparser/feedparser · GitHub",
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/item.rb",
+          "title": "feedparser/item.rb at master · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/issues",
+          "title": "Issues · feedparser/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -154,14 +164,14 @@
           "uniques": 4
         },
         {
-          "referrer": "cn.bing.com",
-          "count": 1,
+          "referrer": "ruby-toolbox.com",
+          "count": 3,
           "uniques": 1
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "rubygems.org",
@@ -291,6 +301,28 @@
         "views": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2020-10-26": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2020-10-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
