@@ -1,9 +1,9 @@
 {
   "full_name": "sportdb/football.db",
   "created_at": "2015-09-01T18:00:35Z",
-  "updated_at": "2020-10-18T07:39:17Z",
-  "pushed_at": "2020-10-18T07:39:15Z",
-  "size": 203,
+  "updated_at": "2020-10-29T01:36:46Z",
+  "pushed_at": "2020-10-28T11:37:14Z",
+  "size": 208,
   "history": {
     "2020-06-05": {
       "stargazers_count": 5
@@ -37,19 +37,23 @@
     "2020-10-27": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2020-11-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-18T07:39:15Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2020-10-18T07:39:15Z",
+        "date": "2020-10-28T11:37:04Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2020-10-28T11:37:04Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "description": "football.db - zero-config (pre-packaged) open football datasets / catalogs for countries, leagues & cups, clubs and more",
@@ -69,104 +73,114 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 267,
-        "uniques": 54
+        "count": 221,
+        "uniques": 58
       },
       "clones": {
-        "count": 19,
-        "uniques": 9
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
+          "path": "/sportdb/football.db/tree/master/football-to-psql",
+          "title": "football.db/football-to-psql at master · sportdb/football.db · GitHub",
+          "count": 61,
+          "uniques": 32
+        },
+        {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
-          "count": 118,
-          "uniques": 46
+          "count": 46,
+          "uniques": 24
         },
         {
           "path": "/sportdb/football.db",
           "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
-          "count": 41,
-          "uniques": 15
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
-          "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db · GitHub",
-          "count": 10,
-          "uniques": 5
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/football-to-sqlite/README.md",
-          "title": "football.db/README.md at master · sportdb/football.db · GitHub",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
-          "count": 7,
-          "uniques": 4
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/fifa",
-          "title": "football.db/fifa at master · sportdb/football.db · GitHub",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/football-to-sqlite/lib/football-to-sqlite.rb",
-          "title": "football.db/football-to-sqlite.rb at master · sportdb/football.db · GitHub",
-          "count": 6,
-          "uniques": 5
+          "count": 33,
+          "uniques": 20
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-leagues",
           "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
           "count": 6,
-          "uniques": 4
+          "uniques": 5
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/lib/football-to-sqlite/version.rb",
+          "title": "football.db/version.rb at master · sportdb/football.db · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-psql/lib",
+          "title": "football.db/football-to-psql/lib at master · sportdb/football.db · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
+          "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db · GitHub",
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib/football-to-sqlite",
           "title": "football.db/football-to-sqlite/lib/football-to-sqlite at master · sportdb/foo...",
           "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/fifa",
+          "title": "football.db/fifa at master · sportdb/football.db · GitHub",
+          "count": 4,
           "uniques": 4
         },
         {
-          "path": "/sportdb/football.db/tree/master/football-to-sqlite/test",
-          "title": "football.db/football-to-sqlite/test at master · sportdb/football.db · GitHub",
-          "count": 5,
-          "uniques": 4
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
+          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
+          "count": 4,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 29,
-          "uniques": 10
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 20,
-          "uniques": 1
+          "referrer": "rubyflow.com",
+          "count": 19,
+          "uniques": 7
         },
         {
           "referrer": "reddit.com",
           "count": 16,
-          "uniques": 11
+          "uniques": 16
         },
         {
-          "referrer": "rubyflow.com",
-          "count": 8,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 15,
+          "uniques": 10
         },
         {
-          "referrer": "Google",
-          "count": 4,
-          "uniques": 3
+          "referrer": "old.reddit.com",
+          "count": 13,
+          "uniques": 1
         },
         {
           "referrer": "rubytalk.org",
-          "count": 4,
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "t.co",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -313,10 +327,54 @@
           "count": 36,
           "uniques": 2
         }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-28": {
+        "views": {
+          "count": 89,
+          "uniques": 26
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-29": {
+        "views": {
+          "count": 52,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-30": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-11-01": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 31180
+    "Ruby": 36429
   }
 }

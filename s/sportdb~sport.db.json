@@ -80,23 +80,27 @@
     "2020-10-27": {
       "stargazers_count": 198,
       "forks_count": 22
+    },
+    "2020-11-01": {
+      "stargazers_count": 198,
+      "forks_count": 22
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-21T17:32:59Z",
+        "date": "2020-10-31T16:33:19Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-10-21T17:32:59Z",
+        "date": "2020-10-31T16:33:19Z",
         "name": "Gerald Bauer"
       },
-      "message": "up setup"
+      "message": "mv alphabets, date-formats"
     }
   ],
-  "updated_at": "2020-10-21T17:33:09Z",
-  "pushed_at": "2020-10-21T17:33:06Z",
+  "updated_at": "2020-10-31T16:33:29Z",
+  "pushed_at": "2020-10-31T16:33:26Z",
   "description": "sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries",
   "language": "Ruby",
   "topics": [
@@ -109,110 +113,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 302,
-        "uniques": 43
+        "count": 246,
+        "uniques": 42
       },
       "clones": {
-        "count": 14,
-        "uniques": 10
+        "count": 12,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 78,
-          "uniques": 37
+          "count": 88,
+          "uniques": 42
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 31,
-          "uniques": 17
+          "count": 26,
+          "uniques": 15
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb-importers",
           "title": "sport.db/sportdb-importers at master · sportdb/sport.db · GitHub",
-          "count": 14,
-          "uniques": 7
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/sportdb-readers",
-          "title": "sport.db/sportdb-readers at master · sportdb/sport.db · GitHub",
-          "count": 12,
-          "uniques": 5
+          "count": 10,
+          "uniques": 4
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb-models",
           "title": "sport.db/sportdb-models at master · sportdb/sport.db · GitHub",
-          "count": 11,
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb-readers",
+          "title": "sport.db/sportdb-readers at master · sportdb/sport.db · GitHub",
+          "count": 9,
           "uniques": 3
         },
         {
           "path": "/sportdb/sport.db/tree/master/football",
           "title": "sport.db/football at master · sportdb/sport.db · GitHub",
-          "count": 5,
-          "uniques": 4
+          "count": 7,
+          "uniques": 6
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb/lib",
-          "title": "sport.db/sportdb/lib at master · sportdb/sport.db · GitHub",
-          "count": 5,
-          "uniques": 4
+          "path": "/sportdb/sport.db/tree/master/alphabets",
+          "title": "sport.db/alphabets at master · sportdb/sport.db · GitHub",
+          "count": 6,
+          "uniques": 3
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb/lib/sportdb",
-          "title": "sport.db/sportdb/lib/sportdb at master · sportdb/sport.db · GitHub",
+          "path": "/sportdb/sport.db/tree/master/sportdb/bin",
+          "title": "sport.db/sportdb/bin at master · sportdb/sport.db · GitHub",
           "count": 5,
-          "uniques": 4
+          "uniques": 3
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb/script",
-          "title": "sport.db/sportdb/script at master · sportdb/sport.db · GitHub",
-          "count": 5,
-          "uniques": 4
+          "path": "/sportdb/sport.db/blob/master/football/lib/football.rb",
+          "title": "sport.db/football.rb at master · sportdb/sport.db · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/sportdb/sport.db/tree/master/football.db.models",
           "title": "sport.db/football.db.models at master · sportdb/sport.db · GitHub",
-          "count": 4,
+          "count": 3,
           "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 40,
-          "uniques": 26
+          "count": 46,
+          "uniques": 29
         },
         {
           "referrer": "Google",
-          "count": 10,
-          "uniques": 7
+          "count": 11,
+          "uniques": 8
         },
         {
-          "referrer": "reddit.com",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "rsssf.github.io",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "sportdb.github.io",
-          "count": 1,
-          "uniques": 1
+          "referrer": "opensport.github.io",
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "githubs.cn",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -444,11 +433,43 @@
           "count": 5,
           "uniques": 2
         }
+      },
+      "2020-10-28": {
+        "views": {
+          "count": 23,
+          "uniques": 4
+        }
+      },
+      "2020-10-29": {
+        "views": {
+          "count": 36,
+          "uniques": 8
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 28,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-11-01": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 1025288,
+    "Ruby": 959561,
     "HTML": 3219,
     "SCSS": 508,
     "CSS": 388

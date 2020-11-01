@@ -1,7 +1,7 @@
 {
   "full_name": "cryptocopycats/awesome-cryptokitties",
   "created_at": "2017-12-09T19:12:04Z",
-  "updated_at": "2020-10-11T16:44:34Z",
+  "updated_at": "2020-10-31T03:32:21Z",
   "pushed_at": "2019-02-03T23:45:48Z",
   "size": 4154,
   "history": {
@@ -64,6 +64,10 @@
     "2020-10-27": {
       "stargazers_count": 490,
       "forks_count": 164
+    },
+    "2020-11-01": {
+      "stargazers_count": 491,
+      "forks_count": 165
     }
   },
   "commits": [
@@ -99,48 +103,36 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 361,
-        "uniques": 95
+        "count": 366,
+        "uniques": 106
       },
       "clones": {
-        "count": 12,
-        "uniques": 8
+        "count": 29,
+        "uniques": 16
       },
       "paths": [
         {
           "path": "/cryptocopycats/awesome-cryptokitties",
           "title": "GitHub - cryptocopycats/awesome-cryptokitties: A collection about Awesome Cry...",
-          "count": 117,
-          "uniques": 81
+          "count": 124,
+          "uniques": 93
         },
         {
           "path": "/cryptocopycats/awesome-cryptokitties/tree/master/contracts",
           "title": "awesome-cryptokitties/contracts at master · cryptocopycats/awesome-cryptokitt...",
-          "count": 57,
-          "uniques": 27
-        },
-        {
-          "path": "/cryptocopycats/awesome-cryptokitties/tree/master/genes",
-          "title": "awesome-cryptokitties/genes at master · cryptocopycats/awesome-cryptokitties ...",
-          "count": 16,
-          "uniques": 13
+          "count": 60,
+          "uniques": 34
         },
         {
           "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/KittyBase.sol",
           "title": "awesome-cryptokitties/KittyBase.sol at master · cryptocopycats/awesome-crypto...",
-          "count": 16,
-          "uniques": 12
-        },
-        {
-          "path": "/cryptocopycats/awesome-cryptokitties/search",
-          "title": "Search · Authorizable",
-          "count": 14,
-          "uniques": 2
+          "count": 11,
+          "uniques": 10
         },
         {
           "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/ERC721.sol",
           "title": "awesome-cryptokitties/ERC721.sol at master · cryptocopycats/awesome-cryptokit...",
-          "count": 13,
+          "count": 11,
           "uniques": 9
         },
         {
@@ -150,38 +142,55 @@
           "uniques": 9
         },
         {
-          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/KittyOwnership.sol",
-          "title": "awesome-cryptokitties/KittyOwnership.sol at master · cryptocopycats/awesome-c...",
-          "count": 11,
+          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/GeneScience.sol",
+          "title": "awesome-cryptokitties/GeneScience.sol at master · cryptocopycats/awesome-cryp...",
+          "count": 8,
           "uniques": 8
         },
         {
-          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/KittyBreeding.sol",
-          "title": "awesome-cryptokitties/KittyBreeding.sol at master · cryptocopycats/awesome-cr...",
-          "count": 10,
-          "uniques": 3
+          "path": "/cryptocopycats/awesome-cryptokitties/tree/master/genes",
+          "title": "awesome-cryptokitties/genes at master · cryptocopycats/awesome-cryptokitties ...",
+          "count": 8,
+          "uniques": 8
         },
         {
-          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/GeneScience.sol",
-          "title": "awesome-cryptokitties/GeneScience.sol at master · cryptocopycats/awesome-cryp...",
-          "count": 6,
+          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/CHEATSHEET.md",
+          "title": "awesome-cryptokitties/CHEATSHEET.md at master · cryptocopycats/awesome-crypto...",
+          "count": 8,
           "uniques": 6
+        },
+        {
+          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/KittyOwnership.sol",
+          "title": "awesome-cryptokitties/KittyOwnership.sol at master · cryptocopycats/awesome-c...",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/cryptocopycats/awesome-cryptokitties/blob/master/contracts/KittyAuction.sol",
+          "title": "awesome-cryptokitties/KittyAuction.sol at master · cryptocopycats/awesome-cry...",
+          "count": 7,
+          "uniques": 7
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 67,
-          "uniques": 57
+          "count": 74,
+          "uniques": 63
         },
         {
           "referrer": "github.com",
-          "count": 32,
-          "uniques": 25
+          "count": 28,
+          "uniques": 24
         },
         {
           "referrer": "awesomeopensource.com",
-          "count": 5,
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "youtube.com",
+          "count": 2,
           "uniques": 2
         },
         {
@@ -190,7 +199,7 @@
           "uniques": 1
         },
         {
-          "referrer": "youtube.com",
+          "referrer": "alis.to",
           "count": 1,
           "uniques": 1
         }
@@ -431,8 +440,58 @@
       },
       "2020-10-27": {
         "views": {
-          "count": 7,
+          "count": 18,
+          "uniques": 8
+        }
+      },
+      "2020-10-28": {
+        "views": {
+          "count": 43,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-29": {
+        "views": {
+          "count": 19,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 6
+        }
+      },
+      "2020-10-30": {
+        "views": {
+          "count": 27,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-11-01": {
+        "views": {
+          "count": 17,
           "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

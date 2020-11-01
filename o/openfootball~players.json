@@ -85,6 +85,10 @@
     "2020-10-27": {
       "stargazers_count": 20,
       "forks_count": 13
+    },
+    "2020-11-01": {
+      "stargazers_count": 20,
+      "forks_count": 13
     }
   },
   "commits": [
@@ -111,8 +115,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 3
+        "count": 27,
+        "uniques": 6
       },
       "clones": {
         "count": 1,
@@ -122,14 +126,32 @@
         {
           "path": "/openfootball/players",
           "title": "openfootball/players: Free open public domain football data (football.db) for...",
-          "count": 3,
-          "uniques": 3
+          "count": 6,
+          "uniques": 5
         },
         {
           "path": "/openfootball/players/tree/master/europe",
           "title": "players/europe at master · openfootball/players",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/players/blob/master/europe/fr-france/players.txt",
+          "title": "players/players.txt at master · openfootball/players",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/openfootball/players/tree/master/europe/fr-france",
+          "title": "players/europe/fr-france at master · openfootball/players",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/players/blob/master/europe/ch-switzerland/players.txt",
+          "title": "players/players.txt at master · openfootball/players",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/openfootball/players/search",
@@ -138,8 +160,14 @@
           "uniques": 1
         },
         {
-          "path": "/openfootball/players/tree/master/europe/en-england",
-          "title": "players/europe/en-england at master · openfootball/players",
+          "path": "/openfootball/players/tree/master/africa",
+          "title": "players/africa at master · openfootball/players",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/players/tree/master/europe/ch-switzerland",
+          "title": "players/europe/ch-switzerland at master · openfootball/players",
           "count": 1,
           "uniques": 1
         },
@@ -153,8 +181,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 6,
+          "uniques": 5
         }
       ]
     },
@@ -220,6 +248,24 @@
       "2020-10-25": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2020-11-01": {
+        "views": {
+          "count": 8,
           "uniques": 1
         }
       }

@@ -49,6 +49,10 @@
     "2020-10-27": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2020-11-01": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -72,8 +76,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
-        "uniques": 3
+        "count": 19,
+        "uniques": 8
       },
       "clones": {
         "count": 0,
@@ -83,7 +87,13 @@
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 5,
+          "count": 11,
+          "uniques": 8
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
+          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
+          "count": 3,
           "uniques": 3
         },
         {
@@ -105,12 +115,6 @@
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
-          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/s6ruby/ethereum-contracts/blob/master/PonziGovernmental.sol",
           "title": "ethereum-contracts/PonziGovernmental.sol at master · s6ruby/ethereum-contracts",
           "count": 1,
@@ -126,8 +130,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "count": 11,
+          "uniques": 8
         }
       ]
     },
@@ -190,6 +194,24 @@
         "views": {
           "count": 10,
           "uniques": 2
+        }
+      },
+      "2020-10-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-30": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/git",
   "created_at": "2015-11-16T22:06:07Z",
-  "updated_at": "2020-10-27T12:34:21Z",
-  "pushed_at": "2020-10-27T12:34:18Z",
-  "size": 257,
+  "updated_at": "2020-10-31T16:04:26Z",
+  "pushed_at": "2020-10-31T16:04:24Z",
+  "size": 192,
   "history": {
     "2020-10-09": {
       "stargazers_count": 9
@@ -31,19 +31,23 @@
     "2020-10-27": {
       "stargazers_count": 15,
       "forks_count": 1
+    },
+    "2020-11-01": {
+      "stargazers_count": 15,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-27T12:34:10Z",
+        "date": "2020-10-31T16:04:18Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-10-27T12:34:10Z",
+        "date": "2020-10-31T16:04:18Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "rm pkg"
     }
   ],
   "description": "git (and github) command line tools, libraries & scripts",
@@ -56,123 +60,122 @@
     "github-analytics",
     "ruby",
     "gems",
-    "monorepo",
-    "monorepos",
     "github-api",
     "github-statistics",
-    "git-sync"
+    "git-sync",
+    "gitfile"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 812,
-        "uniques": 264
+        "count": 660,
+        "uniques": 239
       },
       "clones": {
-        "count": 72,
-        "uniques": 31
+        "count": 85,
+        "uniques": 39
       },
       "paths": [
         {
           "path": "/rubycoco/git/tree/master/flow-lite",
           "title": "git/flow-lite at master · rubycoco/git · GitHub",
-          "count": 250,
-          "uniques": 197
+          "count": 287,
+          "uniques": 218
         },
         {
           "path": "/rubycoco/git",
-          "title": "rubycoco/git: git command line tools, libraries & scripts",
-          "count": 138,
-          "uniques": 24
-        },
-        {
-          "path": "/rubycoco/git/tree/master/hubba",
-          "title": "git/hubba at master · rubycoco/git · GitHub",
-          "count": 68,
-          "uniques": 38
-        },
-        {
-          "path": "/rubycoco/git/tree/master/hubba-reports",
-          "title": "git/hubba-reports at master · rubycoco/git · GitHub",
-          "count": 42,
-          "uniques": 11
+          "title": "rubycoco/git: git (and github) command line tools, libraries & scripts",
+          "count": 140,
+          "uniques": 20
         },
         {
           "path": "/rubycoco/git/commits/master",
           "title": "Commits · rubycoco/git",
-          "count": 21,
+          "count": 27,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/git/blob/master/hubba-reports/lib/hubba/reports/reports/languages.rb",
-          "title": "git/languages.rb at master · rubycoco/git · GitHub",
-          "count": 14,
-          "uniques": 9
+          "path": "/rubycoco/git/tree/master/hubba",
+          "title": "git/hubba at master · rubycoco/git · GitHub",
+          "count": 13,
+          "uniques": 11
         },
         {
           "path": "/rubycoco/git/tree/master/gitti",
           "title": "git/gitti at master · rubycoco/git",
-          "count": 12,
+          "count": 13,
           "uniques": 4
         },
         {
           "path": "/rubycoco/git/tree/master/monos",
-          "title": "git/monos at master · rubycoco/git",
-          "count": 11,
-          "uniques": 5
+          "title": "git/monos at master · rubycoco/git · GitHub",
+          "count": 13,
+          "uniques": 4
         },
         {
           "path": "/rubycoco/git/tree/master/flow-lite/sandbox",
           "title": "git/flow-lite/sandbox at master · rubycoco/git · GitHub",
-          "count": 9,
-          "uniques": 5
+          "count": 10,
+          "uniques": 6
         },
         {
-          "path": "/rubycoco/git/tree/master/hubba-reports/lib/hubba/reports/reports",
-          "title": "git/hubba-reports/lib/hubba/reports/reports at master · rubycoco/git",
+          "path": "/rubycoco/git/blob/master/flow-lite/lib/flow-lite.rb",
+          "title": "git/flow-lite.rb at master · rubycoco/git",
           "count": 9,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycoco/git/tree/master/hubba-reports",
+          "title": "git/hubba-reports at master · rubycoco/git · GitHub",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycoco/git/blob/master/yorobot/lib/yorobot.rb",
+          "title": "git/yorobot.rb at master · rubycoco/git",
+          "count": 7,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "rubyflow.com",
-          "count": 97,
-          "uniques": 73
+          "count": 74,
+          "uniques": 61
         },
         {
           "referrer": "github.com",
-          "count": 61,
-          "uniques": 6
+          "count": 65,
+          "uniques": 7
         },
         {
           "referrer": "reddit.com",
-          "count": 47,
-          "uniques": 39
+          "count": 50,
+          "uniques": 43
         },
         {
           "referrer": "rubygems.org",
-          "count": 27,
-          "uniques": 5
+          "count": 28,
+          "uniques": 4
         },
         {
           "referrer": "old.reddit.com",
-          "count": 23,
+          "count": 21,
           "uniques": 3
         },
         {
           "referrer": "feedly.com",
-          "count": 6,
+          "count": 5,
           "uniques": 5
         },
         {
           "referrer": "rubytalk.org",
-          "count": 6,
+          "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "Google",
-          "count": 3,
+          "referrer": "rubydoc.info",
+          "count": 2,
           "uniques": 2
         },
         {
@@ -181,7 +184,7 @@
           "uniques": 2
         },
         {
-          "referrer": "elttucs.my.zrails.com",
+          "referrer": "com.google.android.gm",
           "count": 1,
           "uniques": 1
         }
@@ -416,17 +419,67 @@
       },
       "2020-10-27": {
         "views": {
-          "count": 36,
-          "uniques": 6
+          "count": 60,
+          "uniques": 11
         },
         "clones": {
-          "count": 4,
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2020-10-28": {
+        "views": {
+          "count": 32,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2020-10-29": {
+        "views": {
+          "count": 37,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 8
+        }
+      },
+      "2020-10-30": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 7
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 27,
           "uniques": 3
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2020-11-01": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
   },
   "languages": {
-    "Ruby": 136534
+    "Ruby": 90598
   }
 }

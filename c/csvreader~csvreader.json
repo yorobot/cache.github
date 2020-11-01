@@ -1,7 +1,7 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2020-10-22T22:43:16Z",
+  "updated_at": "2020-10-28T05:55:15Z",
   "pushed_at": "2019-07-27T18:17:08Z",
   "size": 187,
   "history": {
@@ -55,6 +55,10 @@
     "2020-10-27": {
       "stargazers_count": 165,
       "forks_count": 6
+    },
+    "2020-11-01": {
+      "stargazers_count": 166,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -88,8 +92,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 65,
-        "uniques": 46
+        "count": 50,
+        "uniques": 35
       },
       "clones": {
         "count": 0,
@@ -99,14 +103,20 @@
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 46,
-          "uniques": 42
+          "count": 41,
+          "uniques": 36
+        },
+        {
+          "path": "/csvreader/csvreader/search",
+          "title": "Search · reader · GitHub",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
           "title": "csvreader/DIALECTS.md at master · csvreader/csvreader · GitHub",
-          "count": 5,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/csvreader/csvreader/tree/master/lib",
@@ -127,12 +137,6 @@
           "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/tree/master/test",
-          "title": "csvreader/test at master · csvreader/csvreader · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
           "path": "/csvreader/csvreader/blob/master/lib/csvreader/reader.rb",
           "title": "csvreader/reader.rb at master · csvreader/csvreader · GitHub",
           "count": 1,
@@ -143,18 +147,29 @@
           "title": "csvreader/Manifest.txt at master · csvreader/csvreader · GitHub",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/test",
+          "title": "csvreader/test at master · csvreader/csvreader · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 29,
-          "uniques": 24
+          "count": 26,
+          "uniques": 21
         },
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 7
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "awesome-ruby.com",
@@ -162,17 +177,7 @@
           "uniques": 1
         },
         {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "ruby-toolbox.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
+          "referrer": "ecosia.org",
           "count": 1,
           "uniques": 1
         },
@@ -182,7 +187,17 @@
           "uniques": 1
         },
         {
-          "referrer": "ecosia.org",
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -359,6 +374,36 @@
         "views": {
           "count": 12,
           "uniques": 7
+        }
+      },
+      "2020-10-27": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-10-28": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-10-29": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2020-10-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-11-01": {
+        "views": {
+          "count": 6,
+          "uniques": 4
         }
       }
     }

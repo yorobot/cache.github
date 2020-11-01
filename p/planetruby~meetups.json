@@ -52,6 +52,10 @@
     "2020-10-27": {
       "stargazers_count": 12,
       "forks_count": 5
+    },
+    "2020-11-01": {
+      "stargazers_count": 12,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -75,15 +79,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/planetruby/meetups",
+          "title": "planetruby/meetups: A collection of awesome ruby meetups & orgs from around t...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/edit/master/README.md",
+          "title": "Editing meetups/README.md at master · planetruby/meetups",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/commit/858419b70b88dacf85c6df8ef10480208ed91f55",
+          "title": "Add NWRUG group to European Ruby User Groups (#7) · planetruby/meetups@858419b",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
 
@@ -125,6 +146,12 @@
       "2020-09-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-10-30": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }
