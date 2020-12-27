@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/awesome-blockchains",
   "created_at": "2017-09-13T22:33:56Z",
-  "size": 2514,
+  "size": 2498,
   "history": {
     "2017-12-10": {
       "stargazers_count": 1084
@@ -78,23 +78,27 @@
     "2020-11-01": {
       "stargazers_count": 2945,
       "forks_count": 348
+    },
+    "2020-12-27": {
+      "stargazers_count": 2960,
+      "forks_count": 354
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-01-31T08:56:38Z",
+        "date": "2020-12-18T10:54:54Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-01-31T08:56:38Z",
+        "date": "2020-12-18T10:54:54Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update BITCOIN-SCRIPT.md"
+      "message": "Update README.md"
     }
   ],
-  "updated_at": "2020-11-01T20:13:16Z",
-  "pushed_at": "2020-01-31T08:56:39Z",
+  "updated_at": "2020-12-25T20:40:24Z",
+  "pushed_at": "2020-12-18T10:54:55Z",
   "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
   "language": "Ruby",
   "topics": [
@@ -107,7 +111,9 @@
     "cryptohash",
     "sha256",
     "transactions",
-    "tx"
+    "tx",
+    "proof-of-waste",
+    "proof-of-work"
   ],
   "traffic": {
     "summary": {
@@ -488,9 +494,9 @@
   "languages": {
     "Ruby": 21415,
     "Rust": 12744,
+    "Go": 12483,
     "C++": 6774,
     "Python": 5893,
-    "Go": 5884,
     "JavaScript": 5736,
     "Kotlin": 4885
   }
