@@ -57,6 +57,10 @@
     "2020-12-27": {
       "stargazers_count": 18,
       "forks_count": 1
+    },
+    "2020-12-28": {
+      "stargazers_count": 18,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -80,8 +84,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 12,
+        "uniques": 4
       },
       "clones": {
         "count": 0,
@@ -90,13 +94,40 @@
       "paths": [
         {
           "path": "/s6ruby/safestruct",
-          "title": "GitHub - s6ruby/safestruct: safestruct library / gem - safe data structures (...",
+          "title": "s6ruby/safestruct: safestruct library / gem - safe data structures (array, ha...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/safestruct/tree/master/lib",
+          "title": "safestruct/lib at master · s6ruby/safestruct · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/safestruct/tree/master/lib/safestruct",
+          "title": "safestruct/lib/safestruct at master · s6ruby/safestruct · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/safestruct/blob/master/lib/safestruct/safe_array.rb",
+          "title": "safestruct/safe_array.rb at master · s6ruby/safestruct · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -122,6 +153,24 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2020-12-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-20": {
+        "views": {
+          "count": 10,
+          "uniques": 2
         }
       }
     }

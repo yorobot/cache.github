@@ -93,6 +93,10 @@
     "2020-12-27": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2020-12-28": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -119,18 +123,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/beerkit/beer.db.service",
+          "title": "beerkit/beer.db.service: beer.db HTTP JSON API (web service) scripts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.service/blob/master/service.rb",
+          "title": "beer.db.service/service.rb at master · beerkit/beer.db.service",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -147,6 +166,12 @@
         }
       },
       "2020-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-12-19": {
         "views": {
           "count": 2,
           "uniques": 1

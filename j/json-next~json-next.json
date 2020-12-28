@@ -79,6 +79,10 @@
     "2020-12-27": {
       "stargazers_count": 24,
       "forks_count": 0
+    },
+    "2020-12-28": {
+      "stargazers_count": 26,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -94,7 +98,7 @@
       "message": "Create LICENSE.md"
     }
   ],
-  "updated_at": "2020-12-27T03:40:59Z",
+  "updated_at": "2020-12-28T00:39:15Z",
   "pushed_at": "2020-12-23T13:26:56Z",
   "description": "json-next gem - read generation y / next generation json versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more",
   "language": "Ruby",
@@ -114,32 +118,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 6
+        "count": 104,
+        "uniques": 43
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 9,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/json-next/json-next",
           "title": "json-next/json-next: json-next gem - read generation y / next generation json...",
-          "count": 9,
-          "uniques": 7
+          "count": 46,
+          "uniques": 27
         },
         {
-          "path": "/json-next/json-next/blob/master/HISTORY.md",
-          "title": "json-next/HISTORY.md at master · json-next/json-next · GitHub",
-          "count": 1,
+          "path": "/json-next/json-next/blob/master/lib/json/next/commata.rb",
+          "title": "json-next/commata.rb at master · json-next/json-next",
+          "count": 23,
+          "uniques": 15
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json",
+          "title": "json-next/lib/json at master · json-next/json-next · GitHub",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json/next",
+          "title": "json-next/lib/json/next at master · json-next/json-next",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/json-next/json-next/blob/master/lib/json/next/parser/hanson.rb",
+          "title": "json-next/hanson.rb at master · json-next/json-next",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json/next/parser",
+          "title": "json-next/lib/json/next/parser at master · json-next/json-next",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/json-next/json-next/blob/master/lib/json/next.rb",
+          "title": "json-next/next.rb at master · json-next/json-next · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/json-next/json-next/issues",
+          "title": "Issues · json-next/json-next",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/json-next/json-next/tree/master/test",
+          "title": "json-next/test at master · json-next/json-next · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/json-next/json-next/commits/master",
+          "title": "Commits · json-next/json-next",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "planetruby.github.io",
+          "count": 17,
+          "uniques": 8
+        },
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 6
+        },
+        {
           "referrer": "Google",
-          "count": 5,
-          "uniques": 5
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 4,
+          "uniques": 4
         }
       ]
     },
@@ -226,6 +293,80 @@
         "views": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2020-12-16": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2020-12-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-22": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        }
+      },
+      "2020-12-23": {
+        "views": {
+          "count": 50,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2020-12-24": {
+        "views": {
+          "count": 13,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-27": {
+        "views": {
+          "count": 18,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-28": {
+        "views": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

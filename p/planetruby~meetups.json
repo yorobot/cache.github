@@ -60,6 +60,10 @@
     "2020-12-27": {
       "stargazers_count": 12,
       "forks_count": 5
+    },
+    "2020-12-28": {
+      "stargazers_count": 12,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -83,7 +87,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
+        "count": 6,
         "uniques": 1
       },
       "clones": {
@@ -98,20 +102,35 @@
           "uniques": 1
         },
         {
-          "path": "/planetruby/meetups/edit/master/README.md",
-          "title": "Editing meetups/README.md at master · planetruby/meetups",
+          "path": "/planetruby/meetups/pull/6",
+          "title": "Add IndyRB meetup by swanson · Pull Request #6 · planetruby/meetups",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/meetups/commit/858419b70b88dacf85c6df8ef10480208ed91f55",
-          "title": "Add NWRUG group to European Ruby User Groups (#7) · planetruby/meetups@858419b",
+          "path": "/planetruby/meetups/pull/7",
+          "title": "Add NWRUG group to European Ruby User Groups by lazyatom · Pull Request #7 · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/pull/7/files",
+          "title": "Add NWRUG group to European Ruby User Groups by lazyatom · Pull Request #7 · ...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -156,6 +175,12 @@
       "2020-10-30": {
         "views": {
           "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-12-22": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

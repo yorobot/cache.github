@@ -93,6 +93,10 @@
     "2020-12-27": {
       "stargazers_count": 111,
       "forks_count": 16
+    },
+    "2020-12-28": {
+      "stargazers_count": 111,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -123,71 +127,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 60,
-        "uniques": 23
+        "count": 132,
+        "uniques": 26
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 26,
-          "uniques": 17
+          "count": 38,
+          "uniques": 22
         },
         {
-          "path": "/factbook/factbook/tree/master/data",
-          "title": "factbook/data at master · factbook/factbook · GitHub",
+          "path": "/factbook/factbook/tree/master/factbook",
+          "title": "factbook/factbook at master · factbook/factbook · GitHub",
           "count": 9,
-          "uniques": 7
+          "uniques": 8
         },
         {
-          "path": "/factbook/factbook/blob/master/data/categories.csv",
-          "title": "factbook/categories.csv at master · factbook/factbook · GitHub",
-          "count": 3,
-          "uniques": 3
+          "path": "/factbook/factbook/tree/master/factbook-importers",
+          "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
+          "count": 7,
+          "uniques": 5
         },
         {
-          "path": "/factbook/factbook/blob/master/data/comparisons.csv",
-          "title": "factbook/comparisons.csv at master · factbook/factbook · GitHub",
-          "count": 3,
-          "uniques": 3
+          "path": "/factbook/factbook/tree/master/factbook-readers",
+          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/factbook/factbook/tree/master/script",
           "title": "factbook/script at master · factbook/factbook · GitHub",
-          "count": 3,
+          "count": 5,
           "uniques": 3
         },
         {
-          "path": "/factbook/factbook/blob/master/data/attributes.yml",
-          "title": "factbook/attributes.yml at master · factbook/factbook · GitHub",
+          "path": "/factbook/factbook/tree/master/testdata",
+          "title": "factbook/testdata at master · factbook/factbook",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/blob/master/testdata/json/au.json",
+          "title": "factbook/au.json at master · factbook/factbook",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/blob/master/data/codesxref.csv",
-          "title": "factbook/codesxref.csv at master · factbook/factbook · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/factbook/tree/master/lib",
-          "title": "factbook/lib at master · factbook/factbook · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/factbook/blob/master/README.md",
-          "title": "factbook/README.md at master · factbook/factbook · GitHub",
+          "path": "/factbook/factbook/actions",
+          "title": "Actions · factbook/factbook",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/blob/master/script/almanac.rb",
-          "title": "factbook/almanac.rb at master · factbook/factbook · GitHub",
+          "path": "/factbook/factbook/actions/runs/424301996",
+          "title": "up · factbook/factbook@4331877",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/factbook/blob/master/factbook-importers/README.md",
+          "title": "factbook/README.md at master · factbook/factbook · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -195,21 +199,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 10
+          "count": 26,
+          "uniques": 15
         },
         {
-          "referrer": "rdocumentation.org",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
+          "referrer": "npmjs.com",
           "count": 1,
           "uniques": 1
         }
@@ -382,6 +376,110 @@
         "views": {
           "count": 5,
           "uniques": 4
+        }
+      },
+      "2020-12-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-12-15": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-17": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-18": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-19": {
+        "views": {
+          "count": 18,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-20": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2020-12-21": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2020-12-22": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2020-12-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2020-12-24": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2020-12-25": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-28": {
+        "views": {
+          "count": 43,
+          "uniques": 2
         }
       }
     }
