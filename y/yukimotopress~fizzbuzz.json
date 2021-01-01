@@ -83,6 +83,10 @@
     "2020-12-28": {
       "stargazers_count": 1,
       "forks_count": 2
+    },
+    "2021-01-01": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -110,18 +114,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/yukimotopress/fizzbuzz",
+          "title": "yukimotopress/fizzbuzz: FizzBuzz by Example (Book Edition) by Tom Dalling, Pa...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/fizzbuzz/commits/master",
+          "title": "Commits · yukimotopress/fizzbuzz",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -145,6 +164,18 @@
       },
       "2020-12-18": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-12-30": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

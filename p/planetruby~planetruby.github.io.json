@@ -97,24 +97,28 @@
     "2020-12-28": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-01-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-12-12T09:54:28Z",
-        "name": "Gerald Bauer"
+        "date": "2021-01-01T12:33:11Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2015-12-12T09:54:28Z",
+        "date": "2021-01-01T12:33:11Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update index.md"
     }
   ],
-  "size": 682,
-  "updated_at": "2020-01-27T09:49:57Z",
-  "pushed_at": "2019-09-17T12:23:26Z",
+  "size": 698,
+  "updated_at": "2021-01-01T12:33:13Z",
+  "pushed_at": "2021-01-01T12:33:11Z",
   "description": "planet ruby site",
   "language": "HTML",
   "topics": [
@@ -123,18 +127,86 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 57,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 27,
+        "uniques": 20
       },
       "paths": [
-
+        {
+          "path": "/planetruby/planetruby.github.io",
+          "title": "planetruby/planetruby.github.io: planet ruby site",
+          "count": 19,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/tree/master/calendar",
+          "title": "planetruby.github.io/calendar at master · planetruby/planetruby.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/_config.yml",
+          "title": "planetruby.github.io/_config.yml at master · planetruby/planetruby.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/index.md",
+          "title": "planetruby.github.io/index.md at master · planetruby/planetruby.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/calendar/2020.md",
+          "title": "planetruby.github.io/2020.md at master · planetruby/planetruby.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/new/master/calendar",
+          "title": "New File",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/.gitignore",
+          "title": "planetruby.github.io/.gitignore at master · planetruby/planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/.gitmodules",
+          "title": "planetruby.github.io/.gitmodules at master · planetruby/planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/index.html",
+          "title": "planetruby.github.io/index.html at master · planetruby/planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/NOTES.md",
+          "title": "planetruby.github.io/NOTES.md at master · planetruby/planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "planetruby.github.io",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -149,11 +221,37 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 41,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 22,
+          "uniques": 18
+        }
+      },
+      "2021-01-01": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2020-12-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 20319,
-    "CSS": 3048
+    "HTML": 20806,
+    "SCSS": 3048
   }
 }

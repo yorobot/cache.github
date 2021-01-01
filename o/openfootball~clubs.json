@@ -97,6 +97,10 @@
     "2020-12-28": {
       "stargazers_count": 45,
       "forks_count": 22
+    },
+    "2021-01-01": {
+      "stargazers_count": 45,
+      "forks_count": 22
     }
   },
   "commits": [
@@ -123,35 +127,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 60,
-        "uniques": 8
+        "count": 58,
+        "uniques": 9
       },
       "clones": {
-        "count": 48,
-        "uniques": 5
+        "count": 46,
+        "uniques": 3
       },
       "paths": [
         {
+          "path": "/openfootball/clubs",
+          "title": "openfootball/clubs: Free open public domain football data for the world's foo...",
+          "count": 12,
+          "uniques": 9
+        },
+        {
           "path": "/openfootball/clubs/tree/master/europe",
           "title": "clubs/europe at master · openfootball/clubs · GitHub",
-          "count": 14,
+          "count": 11,
           "uniques": 5
         },
         {
-          "path": "/openfootball/clubs",
-          "title": "openfootball/clubs: Free open public domain football data for the world's foo...",
-          "count": 13,
-          "uniques": 8
-        },
-        {
-          "path": "/openfootball/clubs/blob/master/europe/england/eng.clubs.txt",
-          "title": "clubs/eng.clubs.txt at master · openfootball/clubs · GitHub",
-          "count": 3,
+          "path": "/openfootball/clubs/blob/master/europe/england/eng.clubs.history.txt",
+          "title": "clubs/eng.clubs.history.txt at master · openfootball/clubs · GitHub",
+          "count": 4,
           "uniques": 3
         },
         {
           "path": "/openfootball/clubs/tree/master/europe/england",
           "title": "clubs/europe/england at master · openfootball/clubs · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/clubs/blob/master/europe/england/eng.clubs.txt",
+          "title": "clubs/eng.clubs.txt at master · openfootball/clubs · GitHub",
           "count": 3,
           "uniques": 3
         },
@@ -162,20 +172,14 @@
           "uniques": 1
         },
         {
-          "path": "/openfootball/clubs/tree/master/europe/romania",
-          "title": "clubs/europe/romania at master · openfootball/clubs · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
           "path": "/openfootball/clubs/tree/master/europe/turkey",
           "title": "clubs/europe/turkey at master · openfootball/clubs",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openfootball/clubs/blob/master/europe/england/eng.clubs.history.txt",
-          "title": "clubs/eng.clubs.history.txt at master · openfootball/clubs · GitHub",
+          "path": "/openfootball/clubs/blob/master/europe/england/eng.clubs.props.txt",
+          "title": "clubs/eng.clubs.props.txt at master · openfootball/clubs · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -195,7 +199,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
+          "count": 10,
           "uniques": 8
         }
       ]
@@ -608,6 +612,42 @@
       "2020-12-28": {
         "clones": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-12-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-01-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2020-12-29": {
+        "clones": {
+          "count": 4,
           "uniques": 1
         }
       }

@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/calendar-theme",
   "created_at": "2018-02-25T18:42:23Z",
-  "updated_at": "2020-02-20T17:05:47Z",
-  "pushed_at": "2020-02-20T17:05:45Z",
-  "size": 12,
+  "updated_at": "2020-12-29T21:22:44Z",
+  "pushed_at": "2020-12-29T21:22:41Z",
+  "size": 13,
   "history": {
     "2018-02-27": {
       "stargazers_count": 1
@@ -79,19 +79,23 @@
     "2020-12-28": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-01-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-02-20T17:05:44Z",
+        "date": "2020-12-29T21:22:40Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-02-20T17:05:44Z",
+        "date": "2020-12-29T21:22:40Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update feed.xml.html"
+      "message": "Update github.html"
     }
   ],
   "description": "Calendar Theme",
@@ -102,18 +106,63 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
+        "count": 11,
         "uniques": 1
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
-
+        {
+          "path": "/planetruby/calendar-theme",
+          "title": "planetruby/calendar-theme: Calendar Theme",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar-theme/blob/master/_includes/github.html",
+          "title": "calendar-theme/github.html at master · planetruby/calendar-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar-theme/tree/master/_includes",
+          "title": "calendar-theme/_includes at master · planetruby/calendar-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar-theme/blob/master/_data/conferences2018.yml",
+          "title": "calendar-theme/conferences2018.yml at master · planetruby/calendar-theme",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar-theme/blob/master/_includes/conf_feed_item.html",
+          "title": "calendar-theme/conf_feed_item.html at master · planetruby/calendar-theme",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar-theme/edit/master/_includes/github.html",
+          "title": "Editing calendar-theme/github.html at master · planetruby/calendar-theme",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/calendar-theme/tree/master/_data",
+          "title": "calendar-theme/_data at master · planetruby/calendar-theme",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -134,11 +183,27 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2020-12-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 6518,
-    "CSS": 5155
+    "HTML": 6527,
+    "SCSS": 5155
   }
 }

@@ -97,6 +97,10 @@
     "2020-12-28": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2021-01-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -129,7 +133,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 5,
         "uniques": 1
       },
       "clones": {
@@ -137,10 +141,43 @@
         "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/wikiscript/wikiscript",
+          "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/clubs/download.rb",
+          "title": "wikiscript/download.rb at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/clubs/parse_infobox.rb",
+          "title": "wikiscript/parse_infobox.rb at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/clubs",
+          "title": "wikiscript/clubs at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/countries",
+          "title": "wikiscript/countries at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -183,6 +220,12 @@
       "2020-12-24": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-28": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }

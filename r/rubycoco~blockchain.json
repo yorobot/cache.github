@@ -1,10 +1,10 @@
 {
   "full_name": "rubycoco/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2020-12-23T08:23:57Z",
+  "updated_at": "2020-12-30T23:17:48Z",
   "pushed_at": "2020-12-23T08:23:55Z",
   "size": 338,
-  "description": "blockchain tools, libraries & scripts",
+  "description": "blockchain (crypto) tools, libraries & scripts in ruby",
   "language": "Ruby",
   "history": {
     "2020-11-01": {
@@ -16,6 +16,10 @@
       "forks_count": 23
     },
     "2020-12-28": {
+      "stargazers_count": 121,
+      "forks_count": 23
+    },
+    "2021-01-01": {
       "stargazers_count": 121,
       "forks_count": 23
     }
@@ -48,7 +52,8 @@
     "hashtree",
     "ledger",
     "cryptoquotes",
-    "oracle"
+    "oracle",
+    "cryptos"
   ],
   "languages": {
     "Ruby": 101986,
@@ -59,55 +64,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 300,
-        "uniques": 59
+        "count": 85,
+        "uniques": 30
       },
       "clones": {
-        "count": 35,
-        "uniques": 20
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/rubycoco/blockchain/tree/master/cryptoquotes",
-          "title": "blockchain/cryptoquotes at master · rubycoco/blockchain · GitHub",
-          "count": 111,
-          "uniques": 40
-        },
-        {
           "path": "/rubycoco/blockchain",
           "title": "rubycoco/blockchain: blockchain tools, libraries & scripts",
-          "count": 49,
-          "uniques": 22
+          "count": 33,
+          "uniques": 20
         },
         {
-          "path": "/rubycoco/blockchain/tree/master/quotes",
-          "title": "blockchain/quotes at master · rubycoco/blockchain",
-          "count": 15,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/blockchain/stargazers",
-          "title": "Stargazers · rubycoco/blockchain",
-          "count": 9,
-          "uniques": 2
+          "path": "/rubycoco/blockchain/tree/master/cryptoquotes",
+          "title": "blockchain/cryptoquotes at master · rubycoco/blockchain · GitHub",
+          "count": 21,
+          "uniques": 12
         },
         {
           "path": "/rubycoco/blockchain/tree/master/blockchain-lite",
-          "title": "blockchain/blockchain-lite at master · rubycoco/blockchain",
+          "title": "blockchain/blockchain-lite at master · rubycoco/blockchain · GitHub",
           "count": 7,
-          "uniques": 5
-        },
-        {
-          "path": "/rubycoco/blockchain/blob/master/cryptoquotes/README.md",
-          "title": "blockchain/README.md at master · rubycoco/blockchain",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/blockchain/edit/master/cryptoquotes/README.md",
-          "title": "Editing blockchain/README.md at master · rubycoco/blockchain",
-          "count": 6,
-          "uniques": 1
+          "uniques": 4
         },
         {
           "path": "/rubycoco/blockchain/search",
@@ -117,32 +98,46 @@
         },
         {
           "path": "/rubycoco/blockchain/find/master",
-          "title": "File Finder · GitHub",
-          "count": 4,
+          "title": "File Finder",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/ledger-lite",
+          "title": "blockchain/ledger-lite at master · rubycoco/blockchain",
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/rubycoco/blockchain/blob/master/quotes/Nouriel_Roubini.yml",
-          "title": "blockchain/Nouriel_Roubini.yml at master · rubycoco/blockchain",
-          "count": 4,
+          "path": "/rubycoco/blockchain/tree/master/merkletree",
+          "title": "blockchain/merkletree at master · rubycoco/blockchain · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/cryptoquotes/lib",
+          "title": "blockchain/cryptoquotes/lib at master · rubycoco/blockchain",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain.lite.rb/blob/master/README.md",
+          "title": "blockchain.lite.rb/README.md at master · openblockchains/blockchain.lite.rb ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/blockchain/blob/master/attic/bitshilling-blockchain/blk000.txt",
+          "title": "blockchain/blk000.txt at master · rubycoco/blockchain",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 45,
-          "uniques": 18
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 22,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 12,
-          "uniques": 6
+          "count": 26,
+          "uniques": 14
         },
         {
           "referrer": "Google",
@@ -150,27 +145,22 @@
           "uniques": 5
         },
         {
-          "referrer": "reddit.com",
-          "count": 5,
-          "uniques": 5
+          "referrer": "awesome-ruby.com",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "rubytalk.org",
+          "referrer": "old.reddit.com",
           "count": 3,
           "uniques": 1
         },
         {
-          "referrer": "Baidu",
-          "count": 1,
-          "uniques": 1
+          "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "referrer": "blade.nagaokaut.ac.jp",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubygems.org",
+          "referrer": "rubyflow.com",
           "count": 1,
           "uniques": 1
         },
@@ -318,6 +308,32 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-30": {
+        "views": {
+          "count": 18,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

@@ -97,6 +97,10 @@
     "2020-12-28": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2021-01-01": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -123,18 +127,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
         "count": 1,
         "uniques": 1
       },
-      "clones": {
-        "count": 4,
-        "uniques": 3
-      },
       "paths": [
-
+        {
+          "path": "/sportlogos/football.db.logos.ruby",
+          "title": "sportlogos/football.db.logos.ruby: footballdb-logos gem - football league clu...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportlogos/football.db.logos.ruby/tree/gh-pages/vendor/assets/images/logos",
+          "title": "football.db.logos.ruby/vendor/assets/images/logos at gh-pages · sportlogos/fo...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -177,6 +196,12 @@
       "2020-12-23": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

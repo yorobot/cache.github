@@ -83,6 +83,10 @@
     "2020-12-28": {
       "stargazers_count": 26,
       "forks_count": 0
+    },
+    "2021-01-01": {
+      "stargazers_count": 27,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -98,7 +102,7 @@
       "message": "Create LICENSE.md"
     }
   ],
-  "updated_at": "2020-12-28T00:39:15Z",
+  "updated_at": "2020-12-28T21:43:36Z",
   "pushed_at": "2020-12-23T13:26:56Z",
   "description": "json-next gem - read generation y / next generation json versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more",
   "language": "Ruby",
@@ -119,7 +123,7 @@
     "summary": {
       "views": {
         "count": 104,
-        "uniques": 43
+        "uniques": 44
       },
       "clones": {
         "count": 9,
@@ -129,8 +133,8 @@
         {
           "path": "/json-next/json-next",
           "title": "json-next/json-next: json-next gem - read generation y / next generation json...",
-          "count": 46,
-          "uniques": 27
+          "count": 51,
+          "uniques": 30
         },
         {
           "path": "/json-next/json-next/blob/master/lib/json/next/commata.rb",
@@ -175,15 +179,15 @@
           "uniques": 2
         },
         {
-          "path": "/json-next/json-next/tree/master/test",
-          "title": "json-next/test at master · json-next/json-next · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
           "path": "/json-next/json-next/commits/master",
           "title": "Commits · json-next/json-next",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/blob/master/lib/json/next/parser/jsonx.rb",
+          "title": "json-next/jsonx.rb at master · json-next/json-next",
+          "count": 1,
           "uniques": 1
         }
       ],
@@ -195,13 +199,13 @@
         },
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 6
+          "count": 12,
+          "uniques": 7
         },
         {
           "referrer": "Google",
-          "count": 4,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         {
           "referrer": "rubygems.org",
@@ -365,8 +369,24 @@
       },
       "2020-12-28": {
         "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-30": {
+        "views": {
           "count": 3,
-          "uniques": 3
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

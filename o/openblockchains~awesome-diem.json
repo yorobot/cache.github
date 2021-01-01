@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/awesome-diem",
   "created_at": "2017-09-23T17:19:36Z",
-  "updated_at": "2020-12-22T11:51:56Z",
+  "updated_at": "2020-12-30T07:13:40Z",
   "pushed_at": "2020-12-05T12:00:16Z",
   "size": 2183,
   "description": "A collection about all things Diem (formerly Libra), Move & Facebook Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...",
@@ -14,6 +14,10 @@
     "2020-12-28": {
       "stargazers_count": 42,
       "forks_count": 17
+    },
+    "2021-01-01": {
+      "stargazers_count": 43,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -46,23 +50,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 44,
-        "uniques": 24
+        "count": 43,
+        "uniques": 25
       },
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-diem",
           "title": "openblockchains/awesome-diem: A collection about all things Diem (formerly Li...",
-          "count": 34,
+          "count": 32,
           "uniques": 22
         },
         {
           "path": "/openblockchains/awesome-diem/blob/master/README.md",
           "title": "awesome-diem/README.md at master · openblockchains/awesome-diem · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openblockchains/awesome-diem/tree/master/contracts",
+          "title": "awesome-diem/contracts at master · openblockchains/awesome-diem",
           "count": 2,
           "uniques": 2
         },
@@ -73,32 +83,14 @@
           "uniques": 1
         },
         {
-          "path": "/openblockchains/awesome-diem/blob/5e85168c676d9ff3a600496da5330f6596609b5c/README.md",
-          "title": "awesome-diem/README.md at 5e85168c676d9ff3a600496da5330f6596609b5c · openbloc...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/awesome-diem/network/members",
-          "title": "Forks · openblockchains/awesome-diem",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/awesome-diem/search",
-          "title": "Search · diem dollar",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/openblockchains/awesome-diem/stargazers",
           "title": "Stargazers · openblockchains/awesome-diem",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/awesome-diem/tree/master/contracts",
-          "title": "awesome-diem/contracts at master · openblockchains/awesome-diem",
+          "path": "/openblockchains/awesome-diem/tree/master/contracts/snippets",
+          "title": "awesome-diem/contracts/snippets at master · openblockchains/awesome-diem",
           "count": 1,
           "uniques": 1
         },
@@ -112,18 +104,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 20,
+          "count": 22,
           "uniques": 15
         },
         {
           "referrer": "github.com",
-          "count": 12,
+          "count": 9,
           "uniques": 7
-        },
-        {
-          "referrer": "news.ycombinator.com",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -234,6 +221,34 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2020-12-30": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

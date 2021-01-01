@@ -1,7 +1,7 @@
 {
   "full_name": "wikiscript/countries.json",
   "created_at": "2014-06-09T17:23:13Z",
-  "updated_at": "2020-12-11T14:07:46Z",
+  "updated_at": "2020-12-30T12:03:02Z",
   "pushed_at": "2020-12-10T19:40:26Z",
   "size": 706,
   "description": "World Country Profiles Sourced from Wikipedia's Country Page Infoboxes Converted into JSON - Free Open Public Domain Data",
@@ -13,6 +13,10 @@
     },
     "2020-12-28": {
       "stargazers_count": 5,
+      "forks_count": 0
+    },
+    "2021-01-01": {
+      "stargazers_count": 6,
       "forks_count": 0
     }
   },
@@ -39,8 +43,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 21,
-        "uniques": 9
+        "count": 14,
+        "uniques": 6
       },
       "clones": {
         "count": 5,
@@ -49,15 +53,9 @@
       "paths": [
         {
           "path": "/wikiscript/countries.json",
-          "title": "GitHub - wikiscript/countries.json: World Country Profiles Sourced from Wikip...",
-          "count": 11,
-          "uniques": 8
-        },
-        {
-          "path": "/wikiscript/countries.json/find/master",
-          "title": "File Finder · GitHub",
-          "count": 2,
-          "uniques": 1
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 8,
+          "uniques": 6
         },
         {
           "path": "/wikiscript/countries.json/tree/master/Europe",
@@ -66,9 +64,9 @@
           "uniques": 1
         },
         {
-          "path": "/wikiscript/countries.json/blob/master/Caribbean_Islands/Cuba.json",
-          "title": "countries.json/Cuba.json at master · wikiscript/countries.json · GitHub",
-          "count": 1,
+          "path": "/wikiscript/countries.json/tree/master/North_America",
+          "title": "countries.json/North_America at master · wikiscript/countries.json",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -76,19 +74,16 @@
           "title": "countries.json/France.json at master · wikiscript/countries.json · GitHub",
           "count": 1,
           "uniques": 1
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "path": "/wikiscript/countries.json/blob/master/North_America/Canada.json",
+          "title": "countries.json/Canada.json at master · wikiscript/countries.json",
           "count": 1,
           "uniques": 1
         }
+      ],
+      "referrers": [
+
       ]
     },
     "history": {
@@ -148,6 +143,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2020-12-30": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

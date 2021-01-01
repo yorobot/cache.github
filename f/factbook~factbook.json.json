@@ -1,7 +1,7 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2020-12-18T17:28:01Z",
+  "updated_at": "2020-12-30T15:14:36Z",
   "pushed_at": "2020-11-27T20:05:59Z",
   "size": 12807,
   "history": {
@@ -76,6 +76,10 @@
     "2020-12-28": {
       "stargazers_count": 723,
       "forks_count": 80
+    },
+    "2021-01-01": {
+      "stargazers_count": 724,
+      "forks_count": 80
     }
   },
   "commits": [
@@ -104,8 +108,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 322,
-        "uniques": 87
+        "count": 300,
+        "uniques": 57
       },
       "clones": {
         "count": 6,
@@ -115,25 +119,25 @@
         {
           "path": "/factbook/factbook.json",
           "title": "GitHub - factbook/factbook.json: World Factbook Country Profiles in JSON - Fr...",
-          "count": 151,
-          "uniques": 80
+          "count": 127,
+          "uniques": 54
         },
         {
           "path": "/factbook/factbook.json/tree/master/africa",
           "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
-          "count": 15,
+          "count": 27,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/MONGO.md",
+          "title": "factbook.json/MONGO.md at master · factbook/factbook.json · GitHub",
+          "count": 14,
           "uniques": 6
         },
         {
           "path": "/factbook/factbook.json/tree/master/europe",
           "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
-          "count": 13,
-          "uniques": 10
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/MONGO.md",
-          "title": "factbook.json/MONGO.md at master · factbook/factbook.json · GitHub",
-          "count": 11,
+          "count": 10,
           "uniques": 7
         },
         {
@@ -155,44 +159,34 @@
           "uniques": 5
         },
         {
-          "path": "/factbook/factbook.json/blob/master/package.json",
-          "title": "factbook.json/package.json at master · factbook/factbook.json · GitHub",
+          "path": "/factbook/factbook.json/tree/master/south-asia",
+          "title": "factbook.json/south-asia at master · factbook/factbook.json · GitHub",
           "count": 6,
-          "uniques": 4
+          "uniques": 5
         },
         {
-          "path": "/factbook/factbook.json/blob/master/README.md",
-          "title": "factbook.json/README.md at master · factbook/factbook.json · GitHub",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/factbook/factbook.json/branches",
-          "title": "Branches · factbook/factbook.json · GitHub",
-          "count": 5,
+          "path": "/factbook/factbook.json/tree/master/east-n-southeast-asia",
+          "title": "factbook.json/east-n-southeast-asia at master · factbook/factbook.json",
+          "count": 6,
           "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/australia-oceania",
+          "title": "factbook.json/australia-oceania at master · factbook/factbook.json · GitHub",
+          "count": 5,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 47,
-          "uniques": 19
+          "count": 43,
+          "uniques": 16
         },
         {
           "referrer": "Google",
-          "count": 26,
-          "uniques": 17
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 12,
-          "uniques": 8
-        },
-        {
-          "referrer": "mail01.tinyletterapp.com",
-          "count": 9,
-          "uniques": 6
+          "count": 18,
+          "uniques": 12
         },
         {
           "referrer": "tinyletter.com",
@@ -200,12 +194,32 @@
           "uniques": 4
         },
         {
-          "referrer": "t.co",
+          "referrer": "mail01.tinyletterapp.com",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "calikholding--clkpartial.lightning.force.com",
           "count": 1,
           "uniques": 1
         },
         {
           "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "feedly.com",
           "count": 1,
           "uniques": 1
         }
@@ -474,8 +488,8 @@
       },
       "2020-12-18": {
         "views": {
-          "count": 16,
-          "uniques": 10
+          "count": 2,
+          "uniques": 2
         }
       },
       "2020-12-19": {
@@ -548,6 +562,34 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 66,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2020-12-30": {
+        "views": {
+          "count": 15,
+          "uniques": 5
+        }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2021-01-01": {
+        "views": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

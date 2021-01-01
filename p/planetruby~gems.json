@@ -97,119 +97,129 @@
     "2020-12-28": {
       "stargazers_count": 66,
       "forks_count": 25
+    },
+    "2021-01-01": {
+      "stargazers_count": 68,
+      "forks_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-12-25T13:29:30Z",
+        "date": "2020-12-30T23:24:45Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-12-25T13:29:30Z",
-        "name": "Gerald Bauer"
+        "date": "2020-12-30T23:24:45Z",
+        "name": "Corey Osman"
       },
-      "message": "update hexapdf links"
+      "message": "Add compute_unit gem for blockchain day 1 (#66)"
     }
   ],
-  "size": 1715,
-  "updated_at": "2020-12-27T15:44:20Z",
-  "pushed_at": "2020-12-25T13:29:31Z",
-  "description": "Ruby Advent Calendar 2020 - 25 Days of Ruby Gems / Libraries, December 1 - December 25  ++  Gem of the Week Series",
+  "size": 1780,
+  "updated_at": "2021-01-01T05:36:54Z",
+  "pushed_at": "2020-12-30T23:24:46Z",
+  "description": "Ruby Blockchain Week 2021, January 3rd to January 9th - 7 Days of Ruby (Crypto) Gems  ++  Best of Ruby Gems Series",
   "language": "HTML",
   "topics": [
-
+    "ruby",
+    "gems"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 729,
-        "uniques": 43
+        "count": 767,
+        "uniques": 44
       },
       "clones": {
-        "count": 156,
-        "uniques": 60
+        "count": 126,
+        "uniques": 52
       },
       "paths": [
         {
           "path": "/planetruby/gems",
-          "title": "planetruby/gems: Ruby Advent Calendar 2020 - 25 Days of Ruby Gems / Libraries...",
-          "count": 183,
-          "uniques": 28
+          "title": "planetruby/gems: Ruby Blockchain Week 2021, January 3rd to January 9th - 7 Da...",
+          "count": 180,
+          "uniques": 26
         },
         {
           "path": "/planetruby/gems/issues",
           "title": "Issues · planetruby/gems",
-          "count": 82,
-          "uniques": 11
+          "count": 109,
+          "uniques": 20
         },
         {
           "path": "/planetruby/gems/pulls",
           "title": "Pull requests · planetruby/gems",
-          "count": 38,
-          "uniques": 4
-        },
-        {
-          "path": "/planetruby/gems/commits/master",
-          "title": "Commits · planetruby/gems · GitHub",
-          "count": 27,
-          "uniques": 4
-        },
-        {
-          "path": "/planetruby/gems/issues/44",
-          "title": "Day 23 - archival_record · Issue #44 · planetruby/gems",
-          "count": 21,
-          "uniques": 5
-        },
-        {
-          "path": "/planetruby/gems/issues/41",
-          "title": "Day 17 - any_login · Issue #41 · planetruby/gems",
-          "count": 15,
-          "uniques": 4
-        },
-        {
-          "path": "/planetruby/gems/pull/53",
-          "title": "The Day 19 addressable article by soulcutter · Pull Request #53 · planetruby/...",
-          "count": 15,
-          "uniques": 4
+          "count": 31,
+          "uniques": 3
         },
         {
           "path": "/planetruby/gems/tree/master/2020",
           "title": "gems/2020 at master · planetruby/gems",
-          "count": 15,
+          "count": 31,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/gems/issues/65",
+          "title": "Blockchain Day 1 - Crypto Mining gems · Issue #65 · planetruby/gems",
+          "count": 29,
+          "uniques": 6
+        },
+        {
+          "path": "/planetruby/gems/commits/master",
+          "title": "Commits · planetruby/gems · GitHub",
+          "count": 24,
           "uniques": 4
         },
         {
-          "path": "/planetruby/gems/issues/46",
-          "title": "Ruby Advent Calendar 2020 Write-Ups Overflow / Backups · Issue #46 · planetru...",
-          "count": 13,
-          "uniques": 4
+          "path": "/planetruby/gems/tree/master/_drafts",
+          "title": "gems/_drafts at master · planetruby/gems",
+          "count": 17,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/gems/blob/master/README.md",
+          "title": "gems/README.md at master · planetruby/gems",
+          "count": 15,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/tree/master/week",
+          "title": "gems/week at master · planetruby/gems",
+          "count": 15,
+          "uniques": 2
         },
         {
           "path": "/planetruby/gems/pull/64",
           "title": "Adds Day 24, git-reflow by codenamev · Pull Request #64 · planetruby/gems · G...",
-          "count": 11,
-          "uniques": 4
+          "count": 14,
+          "uniques": 5
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 122,
-          "uniques": 14
+          "count": 92,
+          "uniques": 9
         },
         {
           "referrer": "planetruby.github.io",
-          "count": 40,
-          "uniques": 10
+          "count": 58,
+          "uniques": 18
         },
         {
           "referrer": "news.ycombinator.com",
-          "count": 5,
-          "uniques": 5
+          "count": 7,
+          "uniques": 7
         },
         {
           "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "fd5dacf8-7ae5-4d35-a0af-dc484ff8ba01.ws-us03.gitpod.io",
           "count": 1,
           "uniques": 1
         }
@@ -351,11 +361,53 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2020-12-28": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2020-12-29": {
+        "views": {
+          "count": 148,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 12
+        }
+      },
+      "2020-12-30": {
+        "views": {
+          "count": 162,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 16,
+          "uniques": 11
+        }
+      },
+      "2020-12-31": {
+        "views": {
+          "count": 9,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-01-01": {
+        "views": {
+          "count": 17,
+          "uniques": 5
+        }
       }
     }
   },
   "languages": {
-    "HTML": 6154,
+    "HTML": 6600,
     "SCSS": 396
   }
 }
