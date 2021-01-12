@@ -96,6 +96,10 @@
     "2021-01-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-01-12": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -129,18 +133,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/feedhtml/hyperdata/projects",
+          "title": "Projects · feedhtml/hyperdata · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/feedhtml/hyperdata",
+          "title": "GitHub - feedhtml/hyperdata: hyperdata gem - turn hypertext from web pages in...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -160,6 +179,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

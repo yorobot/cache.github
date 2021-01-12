@@ -101,24 +101,28 @@
     "2021-01-01": {
       "stargazers_count": 405,
       "forks_count": 32
+    },
+    "2021-01-12": {
+      "stargazers_count": 405,
+      "forks_count": 32
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-04T11:05:16Z",
+        "date": "2021-01-11T08:26:47Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-10-04T11:05:16Z",
-        "name": "Ed Heltzel"
+        "date": "2021-01-11T08:26:47Z",
+        "name": "JT"
       },
-      "message": "Merge pull request #25 from jeffreytse/master\n\nUpdate jekyll-theme-yat theme"
+      "message": "docs: update jekyll-theme-yat regularly (#26)\n\nRegularly update information."
     }
   ],
-  "size": 30,
-  "updated_at": "2020-12-20T09:43:31Z",
-  "pushed_at": "2020-10-04T11:05:17Z",
+  "size": 34,
+  "updated_at": "2021-01-11T08:26:50Z",
+  "pushed_at": "2021-01-11T08:26:48Z",
   "description": "A collection of awesome (gem-packaged) Jekyll themes - Add your theme!",
   "language": null,
   "topics": [
@@ -127,75 +131,111 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 315,
-        "uniques": 155
+        "count": 280,
+        "uniques": 154
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-themes",
           "title": "planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Je...",
-          "count": 229,
-          "uniques": 118
+          "count": 180,
+          "uniques": 113
         },
         {
           "path": "/planetjekyll/awesome-jekyll-themes/blob/master/README.md",
           "title": "awesome-jekyll-themes/README.md at master · planetjekyll/awesome-jekyll-themes",
-          "count": 77,
+          "count": 72,
           "uniques": 34
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/26",
+          "title": "docs: update jekyll-theme-yat regularly by jeffreytse · Pull Request #26 · pl...",
+          "count": 8,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-themes",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/compare/master...jeffreytse:patch-1",
+          "title": "Comparing planetjekyll:master...jeffreytse:patch-1 · planetjekyll/awesome-jek...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/commits/master/README.md",
+          "title": "History for README.md - planetjekyll/awesome-jekyll-themes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/edit/master/README.md",
+          "title": "Editing awesome-jekyll-themes/README.md at master · planetjekyll/awesome-jeky...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/26/files",
+          "title": "docs: update jekyll-theme-yat regularly by jeffreytse · Pull Request #26 · pl...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 136,
-          "uniques": 70
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 53,
-          "uniques": 28
+          "count": 100,
+          "uniques": 68
         },
         {
           "referrer": "github.community",
-          "count": 50,
-          "uniques": 27
+          "count": 40,
+          "uniques": 23
         },
         {
-          "referrer": "amp.reddit.com",
-          "count": 18,
-          "uniques": 1
+          "referrer": "reddit.com",
+          "count": 38,
+          "uniques": 25
         },
         {
           "referrer": "github.com",
-          "count": 14,
-          "uniques": 10
+          "count": 24,
+          "uniques": 12
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 2,
+          "referrer": "amp.reddit.com",
+          "count": 24,
           "uniques": 2
         },
         {
-          "referrer": "amp-reddit-com.cdn.ampproject.org",
-          "count": 2,
+          "referrer": "rubyflow.com",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "qwant.com",
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "web-work.tools",
           "count": 1,
           "uniques": 1
         },
         {
           "referrer": "paikwiki.github.io",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubyflow.com",
           "count": 1,
           "uniques": 1
         }
@@ -546,8 +586,8 @@
       },
       "2020-12-29": {
         "views": {
-          "count": 23,
-          "uniques": 20
+          "count": 13,
+          "uniques": 12
         }
       },
       "2020-12-30": {
@@ -564,8 +604,76 @@
       },
       "2021-01-01": {
         "views": {
-          "count": 9,
+          "count": 11,
+          "uniques": 10
+        }
+      },
+      "2021-01-02": {
+        "views": {
+          "count": 25,
+          "uniques": 14
+        }
+      },
+      "2021-01-03": {
+        "views": {
+          "count": 19,
+          "uniques": 14
+        }
+      },
+      "2021-01-04": {
+        "views": {
+          "count": 16,
+          "uniques": 12
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 28,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-06": {
+        "views": {
+          "count": 28,
+          "uniques": 14
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 8,
           "uniques": 8
+        }
+      },
+      "2021-01-08": {
+        "views": {
+          "count": 16,
+          "uniques": 14
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 18,
+          "uniques": 8
+        }
+      },
+      "2021-01-10": {
+        "views": {
+          "count": 12,
+          "uniques": 6
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 35,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

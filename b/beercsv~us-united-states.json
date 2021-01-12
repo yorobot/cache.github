@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 5,
       "forks_count": 5
+    },
+    "2021-01-12": {
+      "stargazers_count": 5,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -127,17 +131,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 4,
         "uniques": 1
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/beercsv/us-united-states",
-          "title": "GitHub - beercsv/us-united-states: Beer, brewery n brewpub data for the Unite...",
+          "title": "beercsv/us-united-states: Beer, brewery n brewpub data for the United States",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/us-united-states/blob/master/1--ct-connecticut--new-england/beers.csv",
+          "title": "us-united-states/beers.csv at master · beercsv/us-united-states",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/us-united-states/tree/master/1--ct-connecticut--new-england",
+          "title": "us-united-states/1--ct-connecticut--new-england at master · beercsv/us-united...",
           "count": 1,
           "uniques": 1
         }
@@ -145,7 +161,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -202,6 +218,12 @@
       "2020-12-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

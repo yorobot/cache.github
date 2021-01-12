@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 111,
       "forks_count": 16
+    },
+    "2021-01-12": {
+      "stargazers_count": 112,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -117,7 +121,7 @@
     }
   ],
   "size": 684,
-  "updated_at": "2020-12-13T19:54:00Z",
+  "updated_at": "2021-01-05T11:00:44Z",
   "pushed_at": "2020-11-27T20:45:20Z",
   "description": "factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)",
   "language": "HTML",
@@ -131,19 +135,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 101,
-        "uniques": 20
+        "count": 145,
+        "uniques": 24
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
           "count": 47,
-          "uniques": 18
+          "uniques": 21
+        },
+        {
+          "path": "/factbook/factbook/issues",
+          "title": "Issues · factbook/factbook · GitHub",
+          "count": 13,
+          "uniques": 4
         },
         {
           "path": "/factbook/factbook/tree/master/factbook",
@@ -152,62 +162,66 @@
           "uniques": 7
         },
         {
-          "path": "/factbook/factbook/tree/master/factbook-readers",
-          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
-          "count": 10,
-          "uniques": 5
+          "path": "/factbook/factbook/actions",
+          "title": "Actions · factbook/factbook",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook/commits",
+          "title": "Commits · factbook/factbook",
+          "count": 6,
+          "uniques": 2
         },
         {
           "path": "/factbook/factbook/tree/master/factbook-importers",
           "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
-          "count": 6,
-          "uniques": 4
+          "count": 5,
+          "uniques": 3
         },
         {
-          "path": "/factbook/factbook/actions",
-          "title": "Actions · factbook/factbook",
+          "path": "/factbook/factbook/actions/runs/456774501",
+          "title": "up · factbook/factbook@4331877",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/blob/master/CATEGORIES.md",
+          "title": "factbook/CATEGORIES.md at master · factbook/factbook · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-importers/lib",
+          "title": "factbook/factbook-importers/lib at master · factbook/factbook · GitHub",
           "count": 3,
           "uniques": 2
         },
         {
-          "path": "/factbook/factbook/actions/runs/424301996",
-          "title": "up · factbook/factbook@4331877",
-          "count": 2,
+          "path": "/factbook/factbook/tree/master/factbook-readers",
+          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
+          "count": 3,
           "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/tree/master/script",
-          "title": "factbook/script at master · factbook/factbook · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/blob/master/testdata/json/au.json",
-          "title": "factbook/au.json at master · factbook/factbook",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-readers/attic",
-          "title": "factbook/factbook-readers/attic at master · factbook/factbook",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/factbook/blob/master/ATTRIBUTES.md",
-          "title": "factbook/ATTRIBUTES.md at master · factbook/factbook",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 40,
-          "uniques": 14
+          "count": 24,
+          "uniques": 12
         },
         {
-          "referrer": "npmjs.com",
+          "referrer": "opendata.stackexchange.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -500,12 +514,64 @@
         "views": {
           "count": 1,
           "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "2020-12-30": {
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-01-02": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
+      },
+      "2021-01-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 35,
+          "uniques": 2
+        }
+      },
+      "2021-01-06": {
+        "views": {
+          "count": 19,
+          "uniques": 6
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2021-01-10": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 52,
+          "uniques": 3
         }
       }
     }

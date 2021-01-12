@@ -1,9 +1,9 @@
 {
   "full_name": "openblockchains/awesome-ico-truths",
   "created_at": "2018-05-07T13:18:22Z",
-  "updated_at": "2020-09-12T13:40:10Z",
-  "pushed_at": "2019-01-19T18:38:00Z",
-  "size": 1385,
+  "updated_at": "2021-01-11T15:30:56Z",
+  "pushed_at": "2021-01-11T15:30:53Z",
+  "size": 1396,
   "history": {
     "2018-05-18": {
       "stargazers_count": 4
@@ -77,48 +77,73 @@
     "2021-01-01": {
       "stargazers_count": 23,
       "forks_count": 1
+    },
+    "2021-01-12": {
+      "stargazers_count": 23,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-01-19T18:37:59Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-01-19T18:37:59Z",
+        "date": "2021-01-11T15:30:45Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create LICENSE.md"
+      "author": {
+        "date": "2021-01-11T15:30:45Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "description": "Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies ++ ICO tokens are like bitcoins, ICOs are like IPOs,  ICO White Papers are like \"Due Diligence\" Inverstor Prospectus, ...",
-  "language": null,
+  "language": "Solidity",
   "topics": [
-
+    "ethereum",
+    "tokens",
+    "ico",
+    "erc20",
+    "erc721"
   ],
   "traffic": {
     "summary": {
       "views": {
         "count": 10,
-        "uniques": 3
+        "uniques": 4
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-ico-truths",
           "title": "openblockchains/awesome-ico-truths: Awesome Initial Coin Offerings (ICO) Trut...",
-          "count": 9,
-          "uniques": 2
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/openblockchains/awesome-ico-truths/blob/master/_config.yml",
+          "title": "awesome-ico-truths/_config.yml at master · openblockchains/awesome-ico-truths",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-ico-truths/stargazers",
+          "title": "Stargazers · openblockchains/awesome-ico-truths",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 9,
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
           "uniques": 2
         }
       ]
@@ -227,9 +252,26 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
       }
     }
   },
   "languages": {
+    "Solidity": 38501
   }
 }

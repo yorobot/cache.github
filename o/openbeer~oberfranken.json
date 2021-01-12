@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-01-12": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -127,18 +131,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openbeer/oberfranken",
+          "title": "GitHub - openbeer/oberfranken: Free open public domain beer, brewery n brewpu...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/oberfranken/blob/master/1--coburg/breweries.txt",
+          "title": "oberfranken/breweries.txt at master · openbeer/oberfranken · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/oberfranken/tree/master/1--coburg",
+          "title": "oberfranken/1--coburg at master · openbeer/oberfranken · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -157,6 +182,12 @@
       "2020-12-20": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

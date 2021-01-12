@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 567,
       "forks_count": 51
+    },
+    "2021-01-12": {
+      "stargazers_count": 569,
+      "forks_count": 51
     }
   },
   "commits": [
@@ -117,7 +121,7 @@
     }
   ],
   "size": 1088,
-  "updated_at": "2020-12-04T10:01:04Z",
+  "updated_at": "2021-01-11T18:29:32Z",
   "pushed_at": "2017-08-31T18:19:59Z",
   "description": "Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)",
   "language": null,
@@ -127,40 +131,58 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 31,
-        "uniques": 11
+        "count": 40,
+        "uniques": 12
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 14,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 11,
-          "uniques": 10
+          "count": 16,
+          "uniques": 12
         },
         {
-          "path": "/openmundi/world.db/tree/master/south-america",
-          "title": "world.db/south-america at master · openmundi/world.db",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/europe",
-          "title": "world.db/europe at master · openmundi/world.db",
+          "path": "/openmundi/world.db/tree/master/africa",
+          "title": "world.db/africa at master · openmundi/world.db",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/tree/master/south-america/1-codes",
-          "title": "world.db/south-america/1-codes at master · openmundi/world.db",
+          "path": "/openmundi/world.db/tree/master/asia",
+          "title": "world.db/asia at master · openmundi/world.db · GitHub",
           "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/europe",
+          "title": "world.db/europe at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/setups",
+          "title": "world.db/setups at master · openmundi/world.db",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/africa/gn-guinea/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/africa/za-south-africa/cities.txt",
+          "path": "/openmundi/world.db/blob/master/africa/td-chad/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/africa/zw-zimbabwe/cities.txt",
           "title": "world.db/cities.txt at master · openmundi/world.db",
           "count": 1,
           "uniques": 1
@@ -172,26 +194,8 @@
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/europe/gr-greece/cities.txt",
+          "path": "/openmundi/world.db/blob/master/asia/jp-japan/cities.txt",
           "title": "world.db/cities.txt at master · openmundi/world.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/south-america/2-more/continents.yml",
-          "title": "world.db/continents.yml at master · openmundi/world.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/south-america/countries.txt",
-          "title": "world.db/countries.txt at master · openmundi/world.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/africa",
-          "title": "world.db/africa at master · openmundi/world.db",
           "count": 1,
           "uniques": 1
         }
@@ -199,13 +203,18 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 6,
-          "uniques": 6
+          "count": 7,
+          "uniques": 7
         },
         {
           "referrer": "Google",
-          "count": 4,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -508,6 +517,76 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-01-02": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-01-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-10": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-01-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-01-08": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

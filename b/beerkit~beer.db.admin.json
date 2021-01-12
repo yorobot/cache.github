@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2021-01-12": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -131,19 +135,29 @@
         "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/beerkit/beer.db.admin",
-          "title": "GitHub - beerkit/beer.db.admin: beer.db web app - open beer database (beer.db...",
+          "title": "beerkit/beer.db.admin: beer.db web app - open beer database (beer.db) web adm...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/db",
+          "title": "beer.db.admin/db at master · beerkit/beer.db.admin",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -222,6 +236,24 @@
       "2021-01-01": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-07": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

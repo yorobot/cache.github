@@ -87,6 +87,10 @@
     "2021-01-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-01-12": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -119,18 +123,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/octobook/gitbook-to-octobook-sample",
+          "title": "octobook/gitbook-to-octobook-sample: Gitbook to Octobook - How to publish you...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/gitbook-to-octobook-sample/blob/master/_config.yml",
+          "title": "gitbook-to-octobook-sample/_config.yml at master · octobook/gitbook-to-octobo...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -155,6 +174,12 @@
       "2020-12-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

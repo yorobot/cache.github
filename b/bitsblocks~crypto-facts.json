@@ -77,6 +77,10 @@
     "2021-01-01": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2021-01-12": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -100,18 +104,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/bitsblocks/crypto-facts",
+          "title": "bitsblocks/crypto-facts: Crypto Facts - Decentralize Payments - Efficient, Lo...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/bitsblocks/crypto-facts/blob/master/index.md",
+          "title": "crypto-facts/index.md at master · bitsblocks/crypto-facts",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -154,6 +173,18 @@
       "2020-12-20": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

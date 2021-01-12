@@ -56,6 +56,10 @@
     "2021-01-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2021-01-12": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -79,12 +83,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
@@ -92,10 +96,20 @@
           "title": "GitHub - sportkit/football.api.js: Football service in JavaScript using the f...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/sportkit/football.api.js/blob/master/football.api.js",
+          "title": "football.api.js/football.api.js at master · sportkit/football.api.js · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -144,6 +158,12 @@
       "2020-12-22": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

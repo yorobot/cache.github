@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 57,
       "forks_count": 7
+    },
+    "2021-01-12": {
+      "stargazers_count": 57,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -139,31 +143,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 63,
+        "count": 64,
         "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/staystatic/staystatic",
           "title": "staystatic/staystatic: Stay Static - Website Compiler Showcase - One Design, ...",
-          "count": 2,
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/jekyll",
+          "title": "staystatic/jekyll at master · staystatic/staystatic",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/jekyll/_layouts",
+          "title": "staystatic/jekyll/_layouts at master · staystatic/staystatic",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/hugo/layouts/partials",
+          "title": "staystatic/hugo/layouts/partials at master · staystatic/staystatic",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/nanoc",
+          "title": "staystatic/nanoc at master · staystatic/staystatic",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/nikola",
+          "title": "staystatic/nikola at master · staystatic/staystatic · GitHub",
+          "count": 3,
           "uniques": 2
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/hugo/layouts",
+          "title": "staystatic/hugo/layouts at master · staystatic/staystatic",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/nanoc/content",
+          "title": "staystatic/nanoc/content at master · staystatic/staystatic",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/hugo/layouts/partials/head.html",
+          "title": "staystatic/head.html at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/hugo",
+          "title": "staystatic/hugo at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 2
         },
         {
-          "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -268,6 +326,22 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-01-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

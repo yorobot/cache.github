@@ -1,28 +1,32 @@
 {
   "full_name": "planetruby/conferences",
   "created_at": "2015-04-21T13:42:15Z",
-  "updated_at": "2021-01-01T13:06:36Z",
-  "pushed_at": "2021-01-01T13:06:34Z",
-  "size": 1040,
+  "updated_at": "2021-01-09T12:55:07Z",
+  "pushed_at": "2021-01-09T12:55:05Z",
+  "size": 1048,
   "description": "What's Upcoming in 2021? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!",
   "language": "HTML",
   "history": {
     "2021-01-01": {
       "stargazers_count": 246,
       "forks_count": 73
+    },
+    "2021-01-12": {
+      "stargazers_count": 245,
+      "forks_count": 73
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-01-01T13:06:33Z",
+        "date": "2021-01-09T12:55:04Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-01-01T13:06:33Z",
+        "date": "2021-01-09T12:55:04Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Delete centralbank.png"
     }
   ],
   "topics": [
@@ -40,85 +44,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 564,
-        "uniques": 14
+        "count": 592,
+        "uniques": 20
       },
       "clones": {
-        "count": 140,
-        "uniques": 45
+        "count": 157,
+        "uniques": 54
       },
       "paths": [
         {
           "path": "/planetruby/conferences",
           "title": "planetruby/conferences: What's Upcoming in 2021? - A collection of awesome ru...",
-          "count": 132,
-          "uniques": 5
+          "count": 83,
+          "uniques": 10
         },
         {
           "path": "/planetruby/conferences/blob/master/_data/conferences2021.yml",
-          "title": "conferences/conferences2021.yml at master · planetruby/conferences",
-          "count": 48,
-          "uniques": 4
+          "title": "conferences/conferences2021.yml at master · planetruby/conferences · GitHub",
+          "count": 35,
+          "uniques": 15
         },
         {
-          "path": "/planetruby/conferences/blob/master/index.md",
-          "title": "conferences/index.md at master · planetruby/conferences",
-          "count": 26,
+          "path": "/planetruby/conferences/tree/master/_data",
+          "title": "conferences/_data at master · planetruby/conferences",
+          "count": 18,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/tree/master/advent2017",
+          "title": "conferences/advent2017 at master · planetruby/conferences",
+          "count": 15,
           "uniques": 1
         },
         {
           "path": "/planetruby/conferences/blob/master/_data/conferences2020.yml",
           "title": "conferences/conferences2020.yml at master · planetruby/conferences",
-          "count": 19,
+          "count": 10,
           "uniques": 1
         },
         {
-          "path": "/planetruby/conferences/tree/master/_data",
-          "title": "conferences/_data at master · planetruby/conferences",
-          "count": 19,
+          "path": "/planetruby/conferences/tree/master/_includes",
+          "title": "conferences/_includes at master · planetruby/conferences",
+          "count": 10,
           "uniques": 1
         },
         {
-          "path": "/planetruby/conferences/edit/master/index.md",
-          "title": "Editing conferences/index.md at master · planetruby/conferences",
-          "count": 16,
+          "path": "/planetruby/conferences/blob/master/advent2017/24-centralbank.md",
+          "title": "conferences/24-centralbank.md at master · planetruby/conferences",
+          "count": 8,
           "uniques": 1
-        },
-        {
-          "path": "/planetruby/calendar",
-          "title": "planetruby/calendar: What's Upcoming in 2020? - A collection of awesome ruby ...",
-          "count": 15,
-          "uniques": 6
         },
         {
           "path": "/planetruby/conferences/blob/master/2021.md",
           "title": "conferences/2021.md at master · planetruby/conferences",
-          "count": 15,
-          "uniques": 2
+          "count": 7,
+          "uniques": 4
         },
         {
           "path": "/planetruby/conferences/blob/master/2020.md",
           "title": "conferences/2020.md at master · planetruby/conferences",
-          "count": 13,
+          "count": 7,
           "uniques": 1
         },
         {
-          "path": "/planetruby/calendar/tree/master/advent2017",
-          "title": "calendar/advent2017 at master · planetruby/calendar",
-          "count": 12,
+          "path": "/planetruby/conferences/blob/master/advent2017/01-blockchain-lite.md",
+          "title": "conferences/01-blockchain-lite.md at master · planetruby/conferences",
+          "count": 5,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "planetruby.github.io",
-          "count": 64,
-          "uniques": 4
+          "referrer": "github.com",
+          "count": 45,
+          "uniques": 5
         },
         {
-          "referrer": "github.com",
-          "count": 51,
-          "uniques": 7
+          "referrer": "planetruby.github.io",
+          "count": 25,
+          "uniques": 4
         },
         {
           "referrer": "old.reddit.com",
@@ -126,12 +130,17 @@
           "uniques": 1
         },
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "rubyflow.com",
+          "count": 5,
+          "uniques": 3
         },
         {
           "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -204,12 +213,76 @@
       },
       "2021-01-01": {
         "views": {
-          "count": 88,
+          "count": 89,
           "uniques": 4
         },
         "clones": {
           "count": 24,
           "uniques": 16
+        }
+      },
+      "2021-01-02": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2021-01-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-04": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-08": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 35,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 14
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

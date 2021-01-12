@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 208,
       "forks_count": 15
+    },
+    "2021-01-12": {
+      "stargazers_count": 209,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -117,7 +121,7 @@
     }
   ],
   "size": 16216,
-  "updated_at": "2020-12-27T14:07:04Z",
+  "updated_at": "2021-01-06T23:57:50Z",
   "pushed_at": "2020-11-24T17:22:41Z",
   "description": "talks, talks, talks  (sources in Markdown)",
   "language": null,
@@ -127,90 +131,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 83,
-        "uniques": 37
+        "count": 65,
+        "uniques": 40
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/geraldb/talks",
           "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
-          "count": 20,
-          "uniques": 9
-        },
-        {
-          "path": "/geraldb/talks/blob/master/factbook.md",
-          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
-          "count": 13,
+          "count": 14,
           "uniques": 10
-        },
-        {
-          "path": "/geraldb/talks/blob/master/fabcar.md",
-          "title": "talks/fabcar.md at master · geraldb/talks · GitHub",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/geraldb/talks/blob/master/jsonnext.md",
-          "title": "talks/jsonnext.md at master · geraldb/talks",
-          "count": 5,
-          "uniques": 1
         },
         {
           "path": "/geraldb/talks/blob/master/football_db_intro.md",
           "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
-          "count": 4,
-          "uniques": 4
+          "count": 9,
+          "uniques": 7
+        },
+        {
+          "path": "/geraldb/talks/blob/master/factbook.md",
+          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
+          "count": 8,
+          "uniques": 7
         },
         {
           "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
           "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks · GitHub",
-          "count": 4,
-          "uniques": 4
+          "count": 6,
+          "uniques": 5
         },
         {
-          "path": "/geraldb/talks/issues",
-          "title": "Issues · geraldb/talks",
+          "path": "/geraldb/talks/blob/master/contracts.md",
+          "title": "talks/contracts.md at master · geraldb/talks · GitHub",
           "count": 3,
-          "uniques": 2
+          "uniques": 3
+        },
+        {
+          "path": "/geraldb/talks/blob/master/jekyll_vs_middleman.md",
+          "title": "talks/jekyll_vs_middleman.md at master · geraldb/talks · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/geraldb/talks/blob/master/crypto.md",
           "title": "talks/crypto.md at master · geraldb/talks",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/talks/blob/master/fabcar.md",
+          "title": "talks/fabcar.md at master · geraldb/talks · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/hyperledger.md",
-          "title": "talks/hyperledger.md at master · geraldb/talks · GitHub",
+          "path": "/geraldb/talks/blob/master/gohugo.md",
+          "title": "talks/gohugo.md at master · geraldb/talks · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/javascript2019.md",
-          "title": "talks/javascript2019.md at master · geraldb/talks",
+          "path": "/geraldb/talks/stargazers",
+          "title": "Stargazers · geraldb/talks",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 24,
-          "uniques": 14
+          "count": 18,
+          "uniques": 13
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 7
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 5,
-          "uniques": 5
+          "count": 13,
+          "uniques": 11
         },
         {
           "referrer": "Google",
@@ -218,13 +217,23 @@
           "uniques": 4
         },
         {
-          "referrer": "rubyflow.com",
-          "count": 4,
+          "referrer": "reddit.com",
+          "count": 3,
           "uniques": 2
         },
         {
-          "referrer": "planetruby.github.io",
-          "count": 4,
+          "referrer": "forum.middlemanapp.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "talk.jekyllrb.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -550,6 +559,70 @@
         "views": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2021-01-02": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-01-03": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2021-01-04": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2021-01-06": {
+        "views": {
+          "count": 19,
+          "uniques": 8
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-01-08": {
+        "views": {
+          "count": 10,
+          "uniques": 4
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

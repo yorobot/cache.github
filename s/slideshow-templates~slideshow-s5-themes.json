@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 2,
       "forks_count": 4
+    },
+    "2021-01-12": {
+      "stargazers_count": 2,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -127,17 +131,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 8,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/slideshow-templates/slideshow-s5-themes",
           "title": "slideshow-templates/slideshow-s5-themes: S5 Themes (Blue, I18N and Pixel) - S...",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/slideshow-templates/slideshow-s5-themes/tree/master/ui",
+          "title": "slideshow-s5-themes/ui at master · slideshow-templates/slideshow-s5-themes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/slideshow-templates/slideshow-s5-themes/tree/master/ui/blue",
+          "title": "slideshow-s5-themes/ui/blue at master · slideshow-templates/slideshow-s5-themes",
           "count": 1,
           "uniques": 1
         }
@@ -145,7 +161,17 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -202,6 +228,24 @@
       "2020-12-22": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-10": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

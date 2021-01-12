@@ -101,24 +101,28 @@
     "2021-01-01": {
       "stargazers_count": 880,
       "forks_count": 66
+    },
+    "2021-01-12": {
+      "stargazers_count": 883,
+      "forks_count": 66
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-04T16:17:19Z",
+        "date": "2021-01-11T08:28:23Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-10-04T16:17:19Z",
+        "date": "2021-01-11T08:28:23Z",
         "name": "JT"
       },
-      "message": "Update jekyll-spaceship plugin (#50)\n\n* docs: add a new plugin called jekyll-spaceship\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* feat: add jekyll-deploy-action to deploy section\r\n\r\n* docs: update jekyll-spaceship plugin\r\n\r\n* docs: update jekyll-deploy-action\r\n\r\n* docs: update jekyll-spaceship plugin information"
+      "message": "docs: update jekyll-deploy-action regularly (#52)\n\nThis commit is for updating jekyll-deploy-action regularly."
     }
   ],
-  "size": 148,
-  "updated_at": "2020-12-30T04:32:40Z",
-  "pushed_at": "2020-10-04T16:17:20Z",
+  "size": 168,
+  "updated_at": "2021-01-11T18:06:28Z",
+  "pushed_at": "2021-01-11T08:28:25Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
   "topics": [
@@ -127,25 +131,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 393,
-        "uniques": 230
+        "count": 494,
+        "uniques": 283
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 349,
-          "uniques": 211
+          "count": 440,
+          "uniques": 268
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
           "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 7,
+          "count": 10,
           "uniques": 7
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/52",
+          "title": "docs: update jekyll-deploy-action regularly by jeffreytse · Pull Request #52 ...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
+          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/51",
+          "title": "docs: update jekyll-spaceship plugin regularly by jeffreytse · Pull Request #...",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
@@ -154,26 +176,26 @@
           "uniques": 2
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/projects",
-          "title": "Projects · planetjekyll/awesome-jekyll-plugins · GitHub",
+          "path": "/planetjekyll/awesome-jekyll-plugins/edit/master/README.md",
+          "title": "Editing awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jek...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
-          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/0ecf9f28fb2b6ea321f22b8ddb03fd319ab9a98f/README.md",
+          "title": "awesome-jekyll-plugins/README.md at 0ecf9f28fb2b6ea321f22b8ddb03fd319ab9a98f ...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/graphs/contributors",
-          "title": "Contributors to planetjekyll/awesome-jekyll-plugins · GitHub",
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/7ea5b04c32db2d73c12f43ca401e1b81ca743362",
+          "title": "Create NOTES.md · planetjekyll/awesome-jekyll-plugins@7ea5b04",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/search",
-          "title": "Search · jekyll table",
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/ce99d5f5265ee1db71b0dbf4e882eb431c91b93f",
+          "title": "Adding Pug converter plugin · planetjekyll/awesome-jekyll-plugins@ce99d5f",
           "count": 1,
           "uniques": 1
         }
@@ -181,26 +203,31 @@
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 166,
-          "uniques": 107
+          "count": 184,
+          "uniques": 133
         },
         {
           "referrer": "Google",
-          "count": 123,
-          "uniques": 75
+          "count": 144,
+          "uniques": 89
         },
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 6
+          "count": 35,
+          "uniques": 15
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 10,
-          "uniques": 6
+          "count": 5,
+          "uniques": 3
         },
         {
-          "referrer": "talk.jekyllrb.com",
+          "referrer": "rubyflow.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "jekyll.com.cn",
           "count": 3,
           "uniques": 2
         },
@@ -210,22 +237,17 @@
           "uniques": 1
         },
         {
-          "referrer": "jekyllrb-ja.github.io",
-          "count": 3,
-          "uniques": 1
-        },
-        {
           "referrer": "planetjekyll.github.io",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
+          "referrer": "stackshare.io",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "referrer": "dev-yakuza.posstree.com",
+          "referrer": "StartPage",
           "count": 1,
           "uniques": 1
         }
@@ -588,8 +610,8 @@
       },
       "2020-12-29": {
         "views": {
-          "count": 32,
-          "uniques": 21
+          "count": 15,
+          "uniques": 13
         }
       },
       "2020-12-30": {
@@ -606,8 +628,76 @@
       },
       "2021-01-01": {
         "views": {
-          "count": 21,
+          "count": 24,
+          "uniques": 17
+        }
+      },
+      "2021-01-02": {
+        "views": {
+          "count": 49,
+          "uniques": 36
+        }
+      },
+      "2021-01-03": {
+        "views": {
+          "count": 32,
+          "uniques": 19
+        }
+      },
+      "2021-01-04": {
+        "views": {
+          "count": 36,
+          "uniques": 27
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 54,
+          "uniques": 32
+        }
+      },
+      "2021-01-06": {
+        "views": {
+          "count": 35,
+          "uniques": 24
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-07": {
+        "views": {
+          "count": 35,
+          "uniques": 26
+        }
+      },
+      "2021-01-08": {
+        "views": {
+          "count": 20,
           "uniques": 15
+        }
+      },
+      "2021-01-09": {
+        "views": {
+          "count": 32,
+          "uniques": 18
+        }
+      },
+      "2021-01-10": {
+        "views": {
+          "count": 29,
+          "uniques": 15
+        }
+      },
+      "2021-01-11": {
+        "views": {
+          "count": 69,
+          "uniques": 30
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

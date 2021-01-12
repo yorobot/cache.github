@@ -101,6 +101,10 @@
     "2021-01-01": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2021-01-12": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -127,18 +131,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/planet-templates/planet-top",
+          "title": "GitHub - planet-templates/planet-top: top - planet template pack",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-top/tree/master/css",
+          "title": "planet-top/css at master · planet-templates/planet-top · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "feedreader.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -163,6 +182,12 @@
       "2020-10-10": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-05": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }
