@@ -105,6 +105,10 @@
     "2021-01-12": {
       "stargazers_count": 70,
       "forks_count": 26
+    },
+    "2021-01-15": {
+      "stargazers_count": 69,
+      "forks_count": 26
     }
   },
   "commits": [
@@ -121,7 +125,7 @@
     }
   ],
   "size": 2145,
-  "updated_at": "2021-01-09T12:51:18Z",
+  "updated_at": "2021-01-15T13:26:53Z",
   "pushed_at": "2021-01-09T12:51:16Z",
   "description": "Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby (Open Data) Gems  ++  Best of Ruby Gems Series",
   "language": "HTML",
@@ -141,31 +145,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 504,
-        "uniques": 38
+        "count": 179,
+        "uniques": 24
       },
       "clones": {
-        "count": 115,
-        "uniques": 45
+        "count": 82,
+        "uniques": 38
       },
       "paths": [
         {
           "path": "/planetruby/gems",
           "title": "planetruby/gems: Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby...",
-          "count": 87,
-          "uniques": 17
+          "count": 56,
+          "uniques": 13
         },
         {
           "path": "/planetruby/gems/issues",
           "title": "Issues · planetruby/gems · GitHub",
-          "count": 40,
-          "uniques": 19
-        },
-        {
-          "path": "/planetruby/gems/issues/65",
-          "title": "Blockchain Day 1 - Crypto Mining gems · Issue #65 · planetruby/gems · GitHub",
           "count": 19,
-          "uniques": 11
+          "uniques": 12
         },
         {
           "path": "/planetruby/gems/tree/master/blockchain",
@@ -174,62 +172,58 @@
           "uniques": 1
         },
         {
-          "path": "/planetruby/gems/pull/66",
-          "title": "Add compute_unit gem for blockchain day 1 by logicminds · Pull Request #66 · ...",
-          "count": 12,
+          "path": "/planetruby/gems/stargazers",
+          "title": "Stargazers · planetruby/gems",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/blockchain/02-blockchain-lite.md",
+          "title": "gems/02-blockchain-lite.md at master · planetruby/gems",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/issues/65",
+          "title": "Blockchain Day 1 - Crypto Mining gems · Issue #65 · planetruby/gems · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/planetruby/gems/blob/master/blockchain/01-compute-unit.md",
+          "title": "gems/01-compute-unit.md at master · planetruby/gems",
+          "count": 5,
           "uniques": 3
         },
         {
-          "path": "/planetruby/gems/tree/master/2020",
-          "title": "gems/2020 at master · planetruby/gems",
-          "count": 11,
-          "uniques": 2
+          "path": "/planetruby/gems/blob/master/blockchain/03-universum.md",
+          "title": "gems/03-universum.md at master · planetruby/gems",
+          "count": 4,
+          "uniques": 1
         },
         {
-          "path": "/planetruby/gems/pulls",
-          "title": "Pull requests · planetruby/gems",
-          "count": 10,
-          "uniques": 2
+          "path": "/planetruby/gems/blob/master/blockchain/06-kittyverse.md",
+          "title": "gems/06-kittyverse.md at master · planetruby/gems",
+          "count": 4,
+          "uniques": 1
         },
         {
-          "path": "/planetruby/gems/blob/ca2536c20d6b08dc0f58f19be9f3ce5d5d2227ee/_drafts/01-blockchain-compute_unit.md",
-          "title": "gems/01-blockchain-compute_unit.md at ca2536c20d6b08dc0f58f19be9f3ce5d5d2227e...",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "path": "/planetruby/gems/pull/66/files",
-          "title": "Add compute_unit gem for blockchain day 1 by logicminds · Pull Request #66 · ...",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "path": "/planetruby/gems/stargazers",
-          "title": "Stargazers · planetruby/gems",
-          "count": 9,
+          "path": "/planetruby/gems/blob/master/blockchain/07-merkletree.md",
+          "title": "gems/07-merkletree.md at master · planetruby/gems",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 50,
+          "count": 35,
           "uniques": 10
         },
         {
           "referrer": "planetruby.github.io",
-          "count": 47,
-          "uniques": 20
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "fd5dacf8-7ae5-4d35-a0af-dc484ff8ba01.ws-us03.gitpod.io",
-          "count": 1,
-          "uniques": 1
+          "count": 22,
+          "uniques": 13
         }
       ]
     },
@@ -505,6 +499,24 @@
       "2021-01-11": {
         "views": {
           "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-01-13": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-01-14": {
+        "views": {
+          "count": 3,
           "uniques": 2
         }
       }

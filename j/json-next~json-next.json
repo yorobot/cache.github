@@ -91,6 +91,10 @@
     "2021-01-12": {
       "stargazers_count": 27,
       "forks_count": 0
+    },
+    "2021-01-15": {
+      "stargazers_count": 27,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -126,34 +130,58 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 10
+        "count": 18,
+        "uniques": 12
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/json-next/json-next",
           "title": "json-next/json-next: json-next gem - read generation y / next generation json...",
-          "count": 13,
-          "uniques": 10
+          "count": 14,
+          "uniques": 12
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json",
+          "title": "json-next/lib/json at master · json-next/json-next",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json/next",
+          "title": "json-next/lib/json/next at master · json-next/json-next",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/tree/master/test",
+          "title": "json-next/test at master · json-next/json-next",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/tree/master/test/data",
+          "title": "json-next/test/data at master · json-next/json-next",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 4,
-          "uniques": 4
-        },
-        {
-          "referrer": "github.com",
-          "count": 3,
-          "uniques": 2
+          "count": 7,
+          "uniques": 7
         },
         {
           "referrer": "planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -382,6 +410,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-14": {
+        "views": {
+          "count": 7,
+          "uniques": 3
         }
       }
     }

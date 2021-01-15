@@ -105,6 +105,10 @@
     "2021-01-12": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-01-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -131,17 +135,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 7,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openmundi/datafile",
-          "title": "GitHub - openmundi/datafile: world.db quick starter datafile templates",
+          "title": "openmundi/datafile: world.db quick starter datafile templates",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/datafile/blob/master/README.md",
+          "title": "datafile/README.md at master · openmundi/datafile",
           "count": 1,
           "uniques": 1
         },
@@ -161,8 +171,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 2
         }
       ]
     },
@@ -222,6 +232,16 @@
       "2021-01-02": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

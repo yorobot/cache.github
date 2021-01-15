@@ -105,6 +105,10 @@
     "2021-01-12": {
       "stargazers_count": 569,
       "forks_count": 51
+    },
+    "2021-01-15": {
+      "stargazers_count": 569,
+      "forks_count": 51
     }
   },
   "commits": [
@@ -131,35 +135,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 40,
-        "uniques": 12
+        "count": 58,
+        "uniques": 18
       },
       "clones": {
-        "count": 14,
+        "count": 17,
         "uniques": 11
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 16,
-          "uniques": 12
+          "count": 29,
+          "uniques": 18
         },
         {
           "path": "/openmundi/world.db/tree/master/africa",
           "title": "world.db/africa at master · openmundi/world.db",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/asia",
-          "title": "world.db/asia at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 2
+          "count": 4,
+          "uniques": 4
         },
         {
           "path": "/openmundi/world.db/tree/master/europe",
           "title": "world.db/europe at master · openmundi/world.db · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/1-codes",
+          "title": "world.db/1-codes at master · openmundi/world.db",
           "count": 2,
           "uniques": 2
         },
@@ -168,6 +172,12 @@
           "title": "world.db/setups at master · openmundi/world.db",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/africa/ao-angola/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/openmundi/world.db/blob/master/africa/gn-guinea/cities.txt",
@@ -188,12 +198,6 @@
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/asia/cn-china/cities.txt",
-          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/openmundi/world.db/blob/master/asia/jp-japan/cities.txt",
           "title": "world.db/cities.txt at master · openmundi/world.db",
           "count": 1,
@@ -203,13 +207,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 7
+          "count": 17,
+          "uniques": 13
         },
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 2
         },
         {
           "referrer": "openfootball.github.io",
@@ -587,6 +591,28 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 16,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-01-13": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-01-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

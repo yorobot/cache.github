@@ -69,6 +69,10 @@
     "2021-01-12": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-01-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -92,31 +96,54 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 2
+        "count": 41,
+        "uniques": 6
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "GitHub - s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / t...",
-          "count": 2,
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePyramid.sol",
+          "title": "ethereum-contracts/SimplePyramid.sol at master · s6ruby/ethereum-contracts · ...",
+          "count": 4,
           "uniques": 2
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
           "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/PonziGovernmental.sol",
+          "title": "ethereum-contracts/PonziGovernmental.sol at master · s6ruby/ethereum-contract...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePonzi.sol",
+          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts · Gi...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 2
+        },
+        {
           "referrer": "github.com",
-          "count": 2,
+          "count": 3,
           "uniques": 2
         }
       ]
@@ -244,6 +271,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 15,
+          "uniques": 3
+        }
+      },
+      "2021-01-15": {
+        "views": {
+          "count": 24,
+          "uniques": 2
         }
       }
     }

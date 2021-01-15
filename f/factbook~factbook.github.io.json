@@ -105,6 +105,10 @@
     "2021-01-12": {
       "stargazers_count": 11,
       "forks_count": 4
+    },
+    "2021-01-15": {
+      "stargazers_count": 11,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -136,19 +140,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 17,
-        "uniques": 11
+        "count": 33,
+        "uniques": 14
       },
       "clones": {
-        "count": 9,
-        "uniques": 8
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/factbook/factbook.github.io",
           "title": "GitHub - factbook/factbook.github.io: World Factbook Country Profiles - Free ...",
-          "count": 12,
-          "uniques": 9
+          "count": 19,
+          "uniques": 13
+        },
+        {
+          "path": "/factbook/factbook.github.io/search",
+          "title": "Search · Panama · GitHub",
+          "count": 6,
+          "uniques": 1
         },
         {
           "path": "/factbook/factbook.github.io/blob/master/_profiles/da.html",
@@ -157,14 +167,20 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook.github.io/blob/8ce860ff1ca011caf71a977fc589ff4f3bed74f3/_profiles/ec.html",
-          "title": "factbook.github.io/ec.html at 8ce860ff1ca011caf71a977fc589ff4f3bed74f3 · fact...",
-          "count": 1,
+          "path": "/factbook/factbook.github.io/blob/master/_profiles/wz.html",
+          "title": "factbook.github.io/wz.html at master · factbook/factbook.github.io",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook.github.io/blob/master/_profiles/rp.html",
-          "title": "factbook.github.io/rp.html at master · factbook/factbook.github.io · GitHub",
+          "path": "/factbook/factbook.github.io/tree/master/_profiles",
+          "title": "factbook.github.io/_profiles at master · factbook/factbook.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/factbook.github.io/blob/8ce860ff1ca011caf71a977fc589ff4f3bed74f3/_profiles/ec.html",
+          "title": "factbook.github.io/ec.html at 8ce860ff1ca011caf71a977fc589ff4f3bed74f3 · fact...",
           "count": 1,
           "uniques": 1
         },
@@ -178,16 +194,21 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 4
+          "count": 11,
+          "uniques": 8
         },
         {
           "referrer": "Google",
-          "count": 2,
+          "count": 3,
           "uniques": 2
         },
         {
           "referrer": "ec2-34-248-93-242.eu-west-1.compute.amazonaws.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "factbook.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -352,6 +373,18 @@
       },
       "2021-01-10": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 17,
+          "uniques": 4
+        }
+      },
+      "2021-01-14": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

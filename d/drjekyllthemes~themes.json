@@ -105,24 +105,28 @@
     "2021-01-12": {
       "stargazers_count": 94,
       "forks_count": 69
+    },
+    "2021-01-15": {
+      "stargazers_count": 96,
+      "forks_count": 70
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-09-21T06:42:20Z",
+        "date": "2021-01-14T15:08:10Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-09-21T06:42:20Z",
-        "name": "JT"
+        "date": "2021-01-14T15:08:10Z",
+        "name": "Songzi Vong"
       },
-      "message": "Theme Submission: jekyll-theme-yat (#144)\n\n* chore: add jekyll-theme-yat thumbnail\r\n\r\n* feat: add jekyll-theme-yat theme"
+      "message": "Add Jekyll theme Scaffold (#145)\n\n* Add Scaffold\r\n\r\n* Add thumbnail"
     }
   ],
-  "size": 9626,
-  "updated_at": "2020-12-20T10:55:06Z",
-  "pushed_at": "2020-09-21T06:42:21Z",
+  "size": 9658,
+  "updated_at": "2021-01-14T15:08:14Z",
+  "pushed_at": "2021-01-14T15:08:11Z",
   "description": "Dr. Jekyll's Themes - Add Your Theme!",
   "language": "HTML",
   "topics": [
@@ -133,19 +137,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
+        "count": 18,
         "uniques": 9
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/drjekyllthemes/themes",
           "title": "GitHub - drjekyllthemes/themes: Dr. Jekyll's Themes - Add Your Theme!",
-          "count": 6,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/drjekyllthemes/themes/pull/145",
+          "title": "Add Jekyll theme Scaffold by sziv2p · Pull Request #145 · drjekyllthemes/themes",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/drjekyllthemes/themes/blob/master/themes.yml",
+          "title": "themes/themes.yml at master · drjekyllthemes/themes",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/drjekyllthemes/themes/pull/145/files",
+          "title": "Add Jekyll theme Scaffold by sziv2p · Pull Request #145 · drjekyllthemes/themes",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/drjekyllthemes/themes/blob/master/themes_i.yml",
@@ -154,30 +176,31 @@
           "uniques": 1
         },
         {
-          "path": "/drjekyllthemes/themes/blob/master/themes.yml",
-          "title": "themes/themes.yml at master · drjekyllthemes/themes",
+          "path": "/drjekyllthemes/themes/compare/master...sziv2p:master",
+          "title": "Comparing drjekyllthemes:master...sziv2p:master · drjekyllthemes/themes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/themes/edit/master/themes.yml",
+          "title": "Editing themes/themes.yml at master · drjekyllthemes/themes",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "talk.jekyllrb.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 3
         },
         {
           "referrer": "drjekyllthemes.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "github.com",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -398,6 +421,28 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-14": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

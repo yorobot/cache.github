@@ -54,6 +54,10 @@
     "2021-01-12": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2021-01-15": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -77,18 +81,57 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 11,
+        "uniques": 2
       },
       "clones": {
         "count": 1,
         "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/footballcsv/cache.leagues",
+          "title": "footballcsv/cache.leagues: Cache - Football Leagues - Season by Season",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.leagues/blob/master/2019-20/eng.1.csv",
+          "title": "cache.leagues/eng.1.csv at master · footballcsv/cache.leagues",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.leagues/blob/master/2019-20/es.2.csv",
+          "title": "cache.leagues/es.2.csv at master · footballcsv/cache.leagues",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.leagues/tree/master/2019-20",
+          "title": "cache.leagues/2019-20 at master · footballcsv/cache.leagues",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.leagues/blob/master/2003-04/eng.1.csv",
+          "title": "cache.leagues/eng.1.csv at master · footballcsv/cache.leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.leagues/tree/master/2003-04",
+          "title": "cache.leagues/2003-04 at master · footballcsv/cache.leagues",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -166,6 +209,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-01-12": {
+        "views": {
+          "count": 11,
+          "uniques": 2
         }
       }
     }
