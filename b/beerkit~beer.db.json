@@ -104,6 +104,10 @@
     "2021-01-15": {
       "stargazers_count": 33,
       "forks_count": 1
+    },
+    "2021-02-01": {
+      "stargazers_count": 33,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -137,31 +141,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 1
+        "count": 24,
+        "uniques": 4
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/beerkit/beer.db",
           "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
+          "count": 9,
+          "uniques": 3
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-models",
+          "title": "beer.db/beerdb-models at master · beerkit/beer.db",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/beerkit/beer.db/find/master",
+          "title": "File Finder",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db/tree/master/beerdb-models",
-          "title": "beer.db/beerdb-models at master · beerkit/beer.db · GitHub",
+          "path": "/beerkit/beer.db/blob/master/beerdb-models/lib/beerdb/models/brewery.rb",
+          "title": "beer.db/brewery.rb at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/branches",
+          "title": "Branches · beerkit/beer.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/issues",
+          "title": "Issues · beerkit/beer.db",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 2
+        },
+        {
           "referrer": "Google",
-          "count": 3,
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Baidu",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -288,6 +332,40 @@
       "2021-01-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-21": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-25": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        }
+      },
+      "2021-01-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-27": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

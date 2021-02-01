@@ -109,6 +109,10 @@
     "2021-01-15": {
       "stargazers_count": 447,
       "forks_count": 157
+    },
+    "2021-02-01": {
+      "stargazers_count": 449,
+      "forks_count": 159
     }
   },
   "commits": [
@@ -125,7 +129,7 @@
     }
   ],
   "size": 638,
-  "updated_at": "2021-01-12T01:30:16Z",
+  "updated_at": "2021-01-28T10:06:54Z",
   "pushed_at": "2020-09-13T11:30:50Z",
   "description": "Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)",
   "language": null,
@@ -140,103 +144,118 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 665,
-        "uniques": 181
+        "count": 467,
+        "uniques": 160
       },
       "clones": {
-        "count": 41,
-        "uniques": 7
+        "count": 15,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/openfootball/world-cup",
           "title": "openfootball/world-cup: Free open public domain football data for the World C...",
-          "count": 243,
-          "uniques": 159
+          "count": 172,
+          "uniques": 136
         },
         {
           "path": "/openfootball/world-cup/tree/master/2018--russia",
           "title": "world-cup/2018--russia at master · openfootball/world-cup · GitHub",
-          "count": 57,
-          "uniques": 48
+          "count": 42,
+          "uniques": 34
         },
         {
           "path": "/openfootball/world-cup/blob/master/2018--russia/cup.txt",
           "title": "world-cup/cup.txt at master · openfootball/world-cup · GitHub",
-          "count": 31,
-          "uniques": 29
+          "count": 29,
+          "uniques": 22
         },
         {
           "path": "/openfootball/world-cup/blob/master/2018--russia/cup_finals.txt",
           "title": "world-cup/cup_finals.txt at master · openfootball/world-cup · GitHub",
-          "count": 26,
-          "uniques": 24
-        },
-        {
-          "path": "/openfootball/world-cup/tree/master/2014--brazil",
-          "title": "world-cup/2014--brazil at master · openfootball/world-cup · GitHub",
-          "count": 24,
-          "uniques": 20
-        },
-        {
-          "path": "/openfootball/world-cup/blob/master/2014--brazil/cup.txt",
-          "title": "world-cup/cup.txt at master · openfootball/world-cup · GitHub",
           "count": 18,
           "uniques": 16
         },
         {
+          "path": "/openfootball/world-cup/tree/master/2014--brazil",
+          "title": "world-cup/2014--brazil at master · openfootball/world-cup · GitHub",
+          "count": 17,
+          "uniques": 15
+        },
+        {
+          "path": "/openfootball/world-cup/blob/master/2014--brazil/cup.txt",
+          "title": "world-cup/cup.txt at master · openfootball/world-cup · GitHub",
+          "count": 16,
+          "uniques": 14
+        },
+        {
           "path": "/openfootball/world-cup/tree/master/1930--uruguay",
           "title": "world-cup/1930--uruguay at master · openfootball/world-cup · GitHub",
-          "count": 18,
-          "uniques": 12
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/world-cup/tree/master/2014--brazil/squads",
+          "title": "world-cup/2014--brazil/squads at master · openfootball/world-cup · GitHub",
+          "count": 10,
+          "uniques": 9
         },
         {
           "path": "/openfootball/world-cup/tree/master/2022--qatar",
           "title": "world-cup/2022--qatar at master · openfootball/world-cup · GitHub",
-          "count": 13,
-          "uniques": 11
-        },
-        {
-          "path": "/openfootball/world-cup/blob/master/2014--brazil/cup_finals.txt",
-          "title": "world-cup/cup_finals.txt at master · openfootball/world-cup · GitHub",
-          "count": 12,
+          "count": 9,
           "uniques": 9
         },
         {
-          "path": "/openfootball/world-cup/tree/master/1930--uruguay/squads",
-          "title": "world-cup/1930--uruguay/squads at master · openfootball/world-cup · GitHub",
-          "count": 11,
-          "uniques": 7
+          "path": "/openfootball/world-cup/blob/master/2018--russia/NOTES.md",
+          "title": "world-cup/NOTES.md at master · openfootball/world-cup · GitHub",
+          "count": 5,
+          "uniques": 5
         }
       ],
       "referrers": [
         {
           "referrer": "datahub.io",
-          "count": 125,
-          "uniques": 100
+          "count": 92,
+          "uniques": 83
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 46,
-          "uniques": 27
-        },
-        {
-          "referrer": "Google",
-          "count": 25,
-          "uniques": 16
-        },
-        {
-          "referrer": "github.com",
-          "count": 23,
+          "count": 26,
           "uniques": 20
         },
         {
           "referrer": "lms.thaimooc.org",
-          "count": 14,
+          "count": 19,
           "uniques": 10
         },
         {
-          "referrer": "ecosia.org",
+          "referrer": "github.com",
+          "count": 16,
+          "uniques": 13
+        },
+        {
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 9
+        },
+        {
+          "referrer": "medium.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "okfnlabs.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "trackmyhashtag.com",
           "count": 1,
           "uniques": 1
         }
@@ -923,6 +942,128 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2021-01-18": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2021-01-19": {
+        "views": {
+          "count": 41,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-01-20": {
+        "views": {
+          "count": 58,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-01-21": {
+        "views": {
+          "count": 21,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-01-22": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-01-23": {
+        "views": {
+          "count": 44,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-01-24": {
+        "views": {
+          "count": 29,
+          "uniques": 16
+        }
+      },
+      "2021-01-25": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-26": {
+        "views": {
+          "count": 22,
+          "uniques": 9
+        }
+      },
+      "2021-01-27": {
+        "views": {
+          "count": 52,
+          "uniques": 19
+        }
+      },
+      "2021-01-28": {
+        "views": {
+          "count": 43,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-01-29": {
+        "views": {
+          "count": 24,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-30": {
+        "views": {
+          "count": 10,
+          "uniques": 8
+        }
+      },
+      "2021-01-31": {
+        "views": {
+          "count": 60,
+          "uniques": 15
+        }
+      },
+      "2021-02-01": {
+        "views": {
+          "count": 39,
+          "uniques": 12
         }
       }
     }

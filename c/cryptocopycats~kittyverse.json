@@ -1,9 +1,9 @@
 {
   "full_name": "cryptocopycats/kittyverse",
   "created_at": "2019-01-11T08:15:06Z",
-  "updated_at": "2021-01-06T23:58:36Z",
-  "pushed_at": "2020-01-12T13:59:29Z",
-  "size": 405,
+  "updated_at": "2021-02-01T10:51:03Z",
+  "pushed_at": "2021-02-01T10:51:01Z",
+  "size": 356,
   "history": {
     "2019-02-01": {
       "stargazers_count": 1
@@ -76,19 +76,23 @@
     "2021-01-15": {
       "stargazers_count": 12,
       "forks_count": 4
+    },
+    "2021-02-01": {
+      "stargazers_count": 13,
+      "forks_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-01-12T13:59:22Z",
+        "date": "2021-02-01T10:50:50Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-01-12T13:59:22Z",
+        "date": "2021-02-01T10:50:50Z",
         "name": "Gerald Bauer"
       },
-      "message": "up fancies"
+      "message": "up"
     }
   ],
   "description": "kittyverse library - helper classes for cattributes, trait types, traits, genes, genomes and more for cryptokitties and copycats",
@@ -105,71 +109,105 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 43,
-        "uniques": 13
+        "count": 260,
+        "uniques": 84
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 15,
+        "uniques": 9
       },
       "paths": [
         {
-          "path": "/cryptocopycats/kittyverse",
-          "title": "GitHub - cryptocopycats/kittyverse: kittyverse library - helper classes for c...",
-          "count": 32,
-          "uniques": 13
+          "path": "/cryptocopycats/kittyverse/blob/master/CATTRIBUTES.md",
+          "title": "kittyverse/CATTRIBUTES.md at master · cryptocopycats/kittyverse · GitHub",
+          "count": 72,
+          "uniques": 49
         },
         {
-          "path": "/cryptocopycats/kittyverse/stargazers",
-          "title": "Stargazers · cryptocopycats/kittyverse",
-          "count": 5,
+          "path": "/cryptocopycats/kittyverse",
+          "title": "GitHub - cryptocopycats/kittyverse: kittyverse library - helper classes for c...",
+          "count": 48,
+          "uniques": 18
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/exclusives.rb",
+          "title": "kittyverse/exclusives.rb at master · cryptocopycats/kittyverse",
+          "count": 13,
           "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/special_editions.rb",
+          "title": "kittyverse/special_editions.rb at master · cryptocopycats/kittyverse",
+          "count": 11,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/updates/PURRSTIGES.md",
+          "title": "kittyverse/PURRSTIGES.md at master · cryptocopycats/kittyverse",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/purrstiges.rb",
+          "title": "kittyverse/purrstiges.rb at master · cryptocopycats/kittyverse",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/lib/kittyverse/config",
+          "title": "kittyverse/lib/kittyverse/config at master · cryptocopycats/kittyverse",
+          "count": 8,
+          "uniques": 1
         },
         {
           "path": "/cryptocopycats/kittyverse/blob/master/API.md",
-          "title": "kittyverse/API.md at master · cryptocopycats/kittyverse",
-          "count": 2,
+          "title": "kittyverse/API.md at master · cryptocopycats/kittyverse · GitHub",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/blob/master/script/cattributes.rb",
+          "title": "kittyverse/cattributes.rb at master · cryptocopycats/kittyverse",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/lib",
+          "title": "kittyverse/lib at master · cryptocopycats/kittyverse",
+          "count": 5,
           "uniques": 2
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/blob/master/GENES.md",
-          "title": "kittyverse/GENES.md at master · cryptocopycats/kittyverse",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/compare/master...syndykator19:master",
-          "title": "Comparing cryptocopycats:master...syndykator19:master · cryptocopycats/kittyv...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/network/members",
-          "title": "Forks · cryptocopycats/kittyverse",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "planetruby.github.io",
-          "count": 10,
-          "uniques": 4
+          "referrer": "old.reddit.com",
+          "count": 34,
+          "uniques": 2
         },
         {
           "referrer": "Google",
-          "count": 9,
-          "uniques": 6
+          "count": 16,
+          "uniques": 12
         },
         {
           "referrer": "github.com",
-          "count": 7,
+          "count": 15,
           "uniques": 3
         },
         {
           "referrer": "reddit.com",
-          "count": 2,
-          "uniques": 2
+          "count": 13,
+          "uniques": 11
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "t.co",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -435,10 +473,104 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-01-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-21": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-01-22": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2021-01-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-25": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-01-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-01-28": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2021-01-29": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-01-30": {
+        "views": {
+          "count": 101,
+          "uniques": 38
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-01-31": {
+        "views": {
+          "count": 96,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-02-01": {
+        "views": {
+          "count": 29,
+          "uniques": 16
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 145759
+    "Ruby": 158840
   }
 }
