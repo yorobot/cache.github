@@ -113,44 +113,111 @@
     "2021-02-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-02-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-05-22T12:20:23Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-05-22T12:20:23Z",
+        "date": "2021-02-15T20:32:46Z",
         "name": "Gerald Bauer"
       },
-      "message": "Create README.md"
+      "author": {
+        "date": "2021-02-15T20:32:46Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
-  "size": 529,
-  "updated_at": "2019-08-13T14:06:46Z",
-  "pushed_at": "2019-05-22T12:20:23Z",
+  "size": 557,
+  "updated_at": "2021-02-15T20:32:54Z",
+  "pushed_at": "2021-02-15T20:32:52Z",
   "description": "Misc. Sources, Scripts, Templates and More",
-  "language": "Ruby",
+  "language": "HTML",
   "topics": [
 
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 1,
+        "count": 22,
         "uniques": 1
       },
+      "clones": {
+        "count": 16,
+        "uniques": 13
+      },
       "paths": [
-
+        {
+          "path": "/geraldb/sandbox",
+          "title": "geraldb/sandbox: Misc. Sources, Scripts, Templates and More",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/commits/master",
+          "title": "Commits · geraldb/sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/blob/master/openfootball/at-austria/1-bundesliga_i.md",
+          "title": "sandbox/1-bundesliga_i.md at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/blob/master/webpub-reader/lib/epub/reader/EpubHandler.java",
+          "title": "sandbox/EpubHandler.java at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/commit/56e1357315ac82ecb039a08ea5ad52caba55c0c5",
+          "title": "up · geraldb/sandbox@56e1357",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/blockchain.lite.js",
+          "title": "sandbox/blockchain.lite.js at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/openfootball/at-austria",
+          "title": "sandbox/openfootball/at-austria at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/webcomponents",
+          "title": "sandbox/webcomponents at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/web-proxy-win",
+          "title": "sandbox/web-proxy-win at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/webpub-reader",
+          "title": "sandbox/webpub-reader at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -189,13 +256,52 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-02-02": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 6
+        }
+      },
+      "2021-02-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-02-08": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-02-15": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
       }
     }
   },
   "languages": {
+    "HTML": 77628,
+    "JavaScript": 69016,
     "Ruby": 64570,
-    "HTML": 64554,
-    "JavaScript": 58531,
-    "CSS": 8897
+    "Java": 12652,
+    "C#": 11642,
+    "CSS": 9639,
+    "Batchfile": 180
   }
 }

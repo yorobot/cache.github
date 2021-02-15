@@ -113,24 +113,28 @@
     "2021-02-01": {
       "stargazers_count": 112,
       "forks_count": 16
+    },
+    "2021-02-15": {
+      "stargazers_count": 112,
+      "forks_count": 16
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-11-27T20:45:12Z",
+        "date": "2021-02-03T08:17:05Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-11-27T20:45:12Z",
+        "date": "2021-02-03T08:17:05Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 684,
-  "updated_at": "2021-01-05T11:00:44Z",
-  "pushed_at": "2020-11-27T20:45:20Z",
+  "size": 738,
+  "updated_at": "2021-02-03T08:17:17Z",
+  "pushed_at": "2021-02-03T08:17:15Z",
   "description": "factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)",
   "language": "HTML",
   "topics": [
@@ -143,89 +147,119 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 177,
-        "uniques": 26
+        "count": 368,
+        "uniques": 38
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 12,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 52,
-          "uniques": 25
+          "count": 93,
+          "uniques": 33
         },
         {
-          "path": "/factbook/factbook/issues",
-          "title": "Issues · factbook/factbook",
-          "count": 12,
-          "uniques": 4
+          "path": "/factbook/factbook/actions",
+          "title": "Actions · factbook/factbook · GitHub",
+          "count": 53,
+          "uniques": 3
         },
         {
           "path": "/factbook/factbook/tree/master/factbook",
           "title": "factbook/factbook at master · factbook/factbook · GitHub",
-          "count": 11,
+          "count": 16,
+          "uniques": 8
+        },
+        {
+          "path": "/factbook/factbook/tree/master/2021",
+          "title": "factbook/2021 at master · factbook/factbook · GitHub",
+          "count": 14,
           "uniques": 9
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-readers",
-          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
-          "count": 8,
-          "uniques": 5
-        },
-        {
-          "path": "/factbook/factbook/issues/5",
-          "title": "Automatic Update Failed · Issue #5 · factbook/factbook",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/issues/4",
-          "title": "CIA factbook coordinates point to real people's houses · Issue #4 · factbook/...",
-          "count": 7,
-          "uniques": 2
         },
         {
           "path": "/factbook/factbook/tree/master/factbook-importers",
           "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
-          "count": 6,
+          "count": 12,
           "uniques": 5
         },
         {
-          "path": "/factbook/factbook/issues/new",
-          "title": "New Issue · factbook/factbook",
-          "count": 5,
-          "uniques": 3
+          "path": "/factbook/factbook/blob/master/2021/genjson.rb",
+          "title": "factbook/genjson.rb at master · factbook/factbook · GitHub",
+          "count": 12,
+          "uniques": 4
         },
         {
-          "path": "/factbook/factbook/search",
-          "title": "Search · coordinates",
-          "count": 5,
-          "uniques": 1
+          "path": "/factbook/factbook/tree/master/factbook-readers",
+          "title": "factbook/factbook-readers at master · factbook/factbook",
+          "count": 11,
+          "uniques": 6
         },
         {
-          "path": "/factbook/factbook/blob/master/factbook/lib/factbook.rb",
-          "title": "factbook/factbook.rb at master · factbook/factbook · GitHub",
-          "count": 4,
+          "path": "/factbook/factbook/issues",
+          "title": "Issues · factbook/factbook · GitHub",
+          "count": 11,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook/tree/master/script",
+          "title": "factbook/script at master · factbook/factbook · GitHub",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-writers",
+          "title": "factbook/factbook-writers at master · factbook/factbook · GitHub",
+          "count": 8,
           "uniques": 4
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 32,
-          "uniques": 16
+          "count": 70,
+          "uniques": 17
         },
         {
-          "referrer": "groups.google.com",
-          "count": 3,
-          "uniques": 2
+          "referrer": "old.reddit.com",
+          "count": 7,
+          "uniques": 1
         },
         {
-          "referrer": "opendata.stackexchange.com",
-          "count": 2,
+          "referrer": "rubydoc.info",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubytalk.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Baidu",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -672,11 +706,101 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-02-02": {
+        "views": {
+          "count": 95,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-02-03": {
+        "views": {
+          "count": 171,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-02-05": {
+        "views": {
+          "count": 26,
+          "uniques": 7
+        }
+      },
+      "2021-02-06": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-02-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-08": {
+        "views": {
+          "count": 36,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-02-09": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2021-02-10": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2021-02-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-14": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2021-02-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
     "HTML": 1501034,
-    "Ruby": 179590
+    "Ruby": 184598
   }
 }

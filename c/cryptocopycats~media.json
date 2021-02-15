@@ -1,9 +1,9 @@
 {
   "full_name": "cryptocopycats/media",
   "created_at": "2018-12-03T09:16:37Z",
-  "updated_at": "2020-01-11T19:47:46Z",
-  "pushed_at": "2020-01-11T19:47:44Z",
-  "size": 4591,
+  "updated_at": "2021-02-08T13:19:25Z",
+  "pushed_at": "2021-02-08T13:19:23Z",
+  "size": 5355,
   "history": {
     "2019-02-01": {
       "stargazers_count": 1
@@ -80,19 +80,23 @@
     "2021-02-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-02-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-01-11T19:47:43Z",
+        "date": "2021-02-08T13:19:22Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-01-11T19:47:43Z",
+        "date": "2021-02-08T13:19:22Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "message": "Delete fany-catterina.png"
     }
   ],
   "description": "Media resources (e.g. images etc.)",
@@ -103,18 +107,75 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 18,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 17,
+        "uniques": 14
       },
       "paths": [
-
+        {
+          "path": "/cryptocopycats/media",
+          "title": "cryptocopycats/media: Media resources (e.g. images etc.)",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/tree/master/kitties/100x100",
+          "title": "media/kitties/100x100 at master · cryptocopycats/media",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/tree/master/kitties",
+          "title": "media/kitties at master · cryptocopycats/media",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/blob/master/kitties/100x100/fany-catterina.png",
+          "title": "media/fany-catterina.png at master · cryptocopycats/media",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/blob/master/kitties/100x100/kitty-1001.png",
+          "title": "media/kitty-1001.png at master · cryptocopycats/media",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/commit/41b30dc4c1ac20b7d81f2bdd4dad8e6287d774a6",
+          "title": "up · cryptocopycats/media@41b30dc",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/commit/9c21a64ae5e9a9e370fefd1ee71f48dcc072b5c0",
+          "title": "up · cryptocopycats/media@9c21a64",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/commits/master",
+          "title": "Commits · cryptocopycats/media",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/media/delete/master/kitties/100x100/fany-catterina.png",
+          "title": "Deleting media/fany-catterina.png at master · cryptocopycats/media",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -181,6 +242,22 @@
       "2021-01-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-08": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 14
+        }
+      },
+      "2021-02-09": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

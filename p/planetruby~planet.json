@@ -113,24 +113,28 @@
     "2021-02-01": {
       "stargazers_count": 9,
       "forks_count": 6
+    },
+    "2021-02-15": {
+      "stargazers_count": 9,
+      "forks_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-08-01T14:46:45Z",
+        "date": "2021-02-07T12:07:58Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-08-01T14:46:45Z",
-        "name": "matt swanson"
+        "date": "2021-02-07T12:07:58Z",
+        "name": "Paweł Pacana"
       },
-      "message": "Update planet.ini (#3)"
+      "message": "Add a blog of Arkency (#4)"
     }
   ],
-  "size": 165,
-  "updated_at": "2020-12-26T10:52:48Z",
-  "pushed_at": "2020-08-01T14:46:46Z",
+  "size": 168,
+  "updated_at": "2021-02-07T12:08:52Z",
+  "pushed_at": "2021-02-07T12:07:58Z",
   "description": "planet ruby news reader subscriptions (incl. command line rubynews tool - what's news in the ruby world? browse week by week)",
   "language": "Ruby",
   "topics": [
@@ -139,18 +143,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 9,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
-
+        {
+          "path": "/planetruby/planet",
+          "title": "planetruby/planet: planet ruby news reader subscriptions (incl. command line ...",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/planet/pull/4",
+          "title": "Add a blog of Arkency by pawelpacana · Pull Request #4 · planetruby/planet",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/pull/4/files",
+          "title": "Add a blog of Arkency by pawelpacana · Pull Request #4 · planetruby/planet",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 4
+        }
       ]
     },
     "history": {
@@ -337,6 +362,40 @@
         }
       },
       "2021-01-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-02-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-12": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-10": {
         "clones": {
           "count": 1,
           "uniques": 1

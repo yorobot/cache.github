@@ -113,6 +113,10 @@
     "2021-02-01": {
       "stargazers_count": 93,
       "forks_count": 70
+    },
+    "2021-02-15": {
+      "stargazers_count": 94,
+      "forks_count": 71
     }
   },
   "commits": [
@@ -129,7 +133,7 @@
     }
   ],
   "size": 46,
-  "updated_at": "2021-01-20T14:34:32Z",
+  "updated_at": "2021-02-13T21:50:16Z",
   "pushed_at": "2020-03-23T22:31:51Z",
   "description": "jekyll minimal theme (for blog posts with archive and feed)",
   "language": "CSS",
@@ -139,8 +143,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
-        "uniques": 27
+        "count": 107,
+        "uniques": 40
       },
       "clones": {
         "count": 2,
@@ -150,36 +154,60 @@
         {
           "path": "/henrythemes/jekyll-minimal-theme",
           "title": "henrythemes/jekyll-minimal-theme: jekyll minimal theme (for blog posts with a...",
-          "count": 37,
-          "uniques": 24
+          "count": 74,
+          "uniques": 40
         },
         {
           "path": "/henrythemes/jekyll-minimal-theme/tree/master/_posts",
-          "title": "jekyll-minimal-theme/_posts at master · henrythemes/jekyll-minimal-theme · Gi...",
-          "count": 3,
+          "title": "jekyll-minimal-theme/_posts at master · henrythemes/jekyll-minimal-theme",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/tree/master/_layouts",
+          "title": "jekyll-minimal-theme/_layouts at master · henrythemes/jekyll-minimal-theme",
+          "count": 6,
           "uniques": 3
         },
         {
           "path": "/henrythemes/jekyll-minimal-theme/blob/master/index.html",
           "title": "jekyll-minimal-theme/index.html at master · henrythemes/jekyll-minimal-theme",
-          "count": 2,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         },
         {
-          "path": "/henrythemes/jekyll-minimal-theme/blob/master/css/style.scss",
-          "title": "jekyll-minimal-theme/style.scss at master · henrythemes/jekyll-minimal-theme",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-minimal-theme/blob/master/_posts/2015-01-31-welcome.md",
-          "title": "jekyll-minimal-theme/2015-01-31-welcome.md at master · henrythemes/jekyll-min...",
-          "count": 1,
+          "path": "/henrythemes/jekyll-minimal-theme/blob/master/_posts/2014-04-01-test-styles.md",
+          "title": "jekyll-minimal-theme/2014-04-01-test-styles.md at master · henrythemes/jekyll...",
+          "count": 3,
           "uniques": 1
         },
         {
           "path": "/henrythemes/jekyll-minimal-theme/tree/master/css",
           "title": "jekyll-minimal-theme/css at master · henrythemes/jekyll-minimal-theme",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/blob/master/_layouts/default.html",
+          "title": "jekyll-minimal-theme/default.html at master · henrythemes/jekyll-minimal-theme",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/blob/master/_layouts/post.html",
+          "title": "jekyll-minimal-theme/post.html at master · henrythemes/jekyll-minimal-theme",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/blob/master/_config.yml",
+          "title": "jekyll-minimal-theme/_config.yml at master · henrythemes/jekyll-minimal-theme",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/jekyll-minimal-theme/blob/master/css/_settings.scss",
+          "title": "jekyll-minimal-theme/_settings.scss at master · henrythemes/jekyll-minimal-th...",
           "count": 1,
           "uniques": 1
         }
@@ -187,31 +215,46 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 14,
-          "uniques": 10
+          "count": 21,
+          "uniques": 16
         },
         {
           "referrer": "jekyllthemes.org",
-          "count": 9,
-          "uniques": 6
+          "count": 15,
+          "uniques": 10
         },
         {
           "referrer": "henrythemes.github.io",
+          "count": 14,
+          "uniques": 11
+        },
+        {
+          "referrer": "m.sogou.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "themes.jekyllrc.org",
           "count": 3,
           "uniques": 3
         },
         {
-          "referrer": "themes.jekyllrc.org",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "ctolib.com",
+          "referrer": "jekyller.github.io",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "Baidu",
+          "referrer": "drjekyllthemes.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "ctolib.com",
           "count": 1,
           "uniques": 1
         }
@@ -716,6 +759,86 @@
         "views": {
           "count": 5,
           "uniques": 3
+        }
+      },
+      "2021-02-02": {
+        "views": {
+          "count": 12,
+          "uniques": 7
+        }
+      },
+      "2021-02-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-02-04": {
+        "views": {
+          "count": 15,
+          "uniques": 3
+        }
+      },
+      "2021-02-05": {
+        "views": {
+          "count": 11,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-06": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-02-07": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-08": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2021-02-09": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2021-02-10": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-02-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-13": {
+        "views": {
+          "count": 35,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

@@ -113,6 +113,10 @@
     "2021-02-01": {
       "stargazers_count": 10,
       "forks_count": 2
+    },
+    "2021-02-15": {
+      "stargazers_count": 10,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -139,38 +143,67 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 23,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/manuscripts/book-starter",
           "title": "manuscripts/book-starter: Book Quick Starter Kit - Write Your Own Book in Pla...",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "path": "/manuscripts/book-starter/tree/master/META",
+          "title": "book-starter/META at master · manuscripts/book-starter · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/manuscripts/book-starter/blob/master/META/book.yml",
+          "title": "book-starter/book.yml at master · manuscripts/book-starter · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/manuscripts/book-starter/blob/master/1__First_Page.md",
+          "title": "book-starter/1__First_Page.md at master · manuscripts/book-starter · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/manuscripts/book-starter/blob/master/2__Second_Page.md",
+          "title": "book-starter/2__Second_Page.md at master · manuscripts/book-starter · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/manuscripts/book-starter/blob/master/images/500x150.gif",
-          "title": "book-starter/500x150.gif at master · manuscripts/book-starter",
+          "path": "/manuscripts/book-starter/commit/5994d68afb4788cc6fc14371fd1186b0b1b8f7f8",
+          "title": "up · manuscripts/book-starter@5994d68 · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/manuscripts/book-starter/tree/master/images",
-          "title": "book-starter/images at master · manuscripts/book-starter",
+          "title": "book-starter/images at master · manuscripts/book-starter · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "manuscripts.github.io",
+          "count": 5,
+          "uniques": 2
+        },
+        {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -268,6 +301,30 @@
       "2021-01-22": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-02-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-12": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2021-02-13": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2021-02-04": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

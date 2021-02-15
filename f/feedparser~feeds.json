@@ -108,6 +108,10 @@
     "2021-02-01": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2021-02-15": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -140,18 +144,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/feedparser/feeds/blob/master/osm/mapbox.rss",
+          "title": "feeds/mapbox.rss at master · feedparser/feeds · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -179,6 +192,12 @@
       },
       "2020-12-23": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-05": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

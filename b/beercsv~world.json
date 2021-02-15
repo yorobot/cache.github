@@ -113,6 +113,10 @@
     "2021-02-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2021-02-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -139,8 +143,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 1
+        "count": 10,
+        "uniques": 3
       },
       "clones": {
         "count": 0,
@@ -150,12 +154,24 @@
         {
           "path": "/beercsv/world",
           "title": "GitHub - beercsv/world: beer, brewery n brewpub data",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/beercsv/world/blob/master/europe/sco-scotland/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/beercsv/world/blob/master/europe/eng-england/breweries.csv",
+          "path": "/beercsv/world/blob/master/europe/sco-scotland/breweries.csv",
           "title": "world/breweries.csv at master · beercsv/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/blob/master/south-america/ar-argentina/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world",
           "count": 1,
           "uniques": 1
         },
@@ -166,17 +182,29 @@
           "uniques": 1
         },
         {
-          "path": "/beercsv/world/tree/master/europe/eng-england",
-          "title": "world/europe/eng-england at master · beercsv/world · GitHub",
+          "path": "/beercsv/world/tree/master/europe/sco-scotland",
+          "title": "world/europe/sco-scotland at master · beercsv/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/south-america",
+          "title": "world/south-america at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/south-america/ar-argentina",
+          "title": "world/south-america/ar-argentina at master · beercsv/world",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
         }
       ]
     },
@@ -238,6 +266,24 @@
       "2021-01-21": {
         "views": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-02-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-02-09": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-02-12": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }
