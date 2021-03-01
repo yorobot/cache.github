@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/webclient",
   "created_at": "2012-06-02T20:09:04Z",
-  "updated_at": "2020-12-05T18:31:49Z",
-  "pushed_at": "2020-12-05T18:31:47Z",
-  "size": 40,
+  "updated_at": "2021-02-21T09:26:23Z",
+  "pushed_at": "2021-02-21T09:26:21Z",
+  "size": 41,
   "history": {
     "2020-10-09": {
       "stargazers_count": 5
@@ -63,16 +63,20 @@
     "2021-02-15": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2021-03-01": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-12-05T18:31:38Z",
+        "date": "2021-02-21T09:26:13Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-12-05T18:31:38Z",
+        "date": "2021-02-21T09:26:13Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -87,90 +91,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 26,
-        "uniques": 6
+        "count": 65,
+        "uniques": 7
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/rubycoco/webclient",
           "title": "rubycoco/webclient: web command line tools, libraries & scripts",
-          "count": 7,
-          "uniques": 5
+          "count": 14,
+          "uniques": 7
         },
         {
-          "path": "/rubycoco/webclient/blob/master/webget/lib/webget.rb",
-          "title": "webclient/webget.rb at master · rubycoco/webclient",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/blob/master/webget/lib/webget/webget.rb",
-          "title": "webclient/webget.rb at master · rubycoco/webclient",
-          "count": 2,
+          "path": "/rubycoco/webclient/tree/master/webget/lib",
+          "title": "webclient/webget/lib at master · rubycoco/webclient",
+          "count": 8,
           "uniques": 1
         },
         {
           "path": "/rubycoco/webclient/tree/master/webget",
           "title": "webclient/webget at master · rubycoco/webclient",
-          "count": 2,
-          "uniques": 1
+          "count": 7,
+          "uniques": 2
         },
         {
-          "path": "/rubycoco/webclient/tree/master/webget/lib",
-          "title": "webclient/webget/lib at master · rubycoco/webclient",
-          "count": 2,
+          "path": "/rubycoco/webclient/blob/master/webget/lib/webget.rb",
+          "title": "webclient/webget.rb at master · rubycoco/webclient",
+          "count": 6,
           "uniques": 1
         },
         {
           "path": "/rubycoco/webclient/tree/master/webget/lib/webget",
           "title": "webclient/webget/lib/webget at master · rubycoco/webclient",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/blob/master/fetcher/lib/fetcher.rb",
-          "title": "webclient/fetcher.rb at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/blob/master/fetcher/lib/fetcher/worker.rb",
-          "title": "webclient/worker.rb at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/blob/master/webget/lib/webget/version.rb",
-          "title": "webclient/version.rb at master · rubycoco/webclient",
-          "count": 1,
+          "count": 6,
           "uniques": 1
         },
         {
           "path": "/rubycoco/webclient/blob/master/webget/lib/webget/webcache.rb",
           "title": "webclient/webcache.rb at master · rubycoco/webclient",
-          "count": 1,
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webget/lib/webget/webget.rb",
+          "title": "webclient/webget.rb at master · rubycoco/webclient",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient",
+          "title": "webclient/webclient at master · rubycoco/webclient",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient.rb",
+          "title": "webclient/webclient.rb at master · rubycoco/webclient",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient/webclient.rb",
+          "title": "webclient/webclient.rb at master · rubycoco/webclient",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 4,
-          "uniques": 2
-        },
-        {
           "referrer": "rubygems.org",
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "yukimotopress.github.io",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
         }
       ]
     },
@@ -484,10 +483,76 @@
           "count": 2,
           "uniques": 1
         }
+      },
+      "2021-02-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-21": {
+        "views": {
+          "count": 44,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-22": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2021-02-24": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-28": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 33335
+    "Ruby": 33565
   }
 }

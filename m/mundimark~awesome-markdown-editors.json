@@ -117,24 +117,28 @@
     "2021-02-15": {
       "stargazers_count": 233,
       "forks_count": 25
+    },
+    "2021-03-01": {
+      "stargazers_count": 237,
+      "forks_count": 27
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-19T16:46:54Z",
+        "date": "2021-02-23T07:27:24Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-10-19T16:46:54Z",
-        "name": "Peter Thaleikis"
+        "date": "2021-02-23T07:27:24Z",
+        "name": "Dave Jarvis"
       },
-      "message": "Removing dead project UberWriter (#17)\n\n* Removing dead project UberWriter\r\n\r\n* Re-adding as Apostrophe"
+      "message": "Add KeenWrite, add links, update VS Code description (#18)\n\nCo-authored-by: Dave Jarvis <Dave.Jarvis@gmail.com>"
     }
   ],
-  "size": 47,
-  "updated_at": "2021-02-05T16:28:39Z",
-  "pushed_at": "2020-10-19T16:46:56Z",
+  "size": 48,
+  "updated_at": "2021-03-01T00:20:53Z",
+  "pushed_at": "2021-02-23T07:27:24Z",
   "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
   "language": null,
   "topics": [
@@ -143,55 +147,88 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 302,
-        "uniques": 243
+        "count": 433,
+        "uniques": 322
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/mundimark/awesome-markdown-editors",
           "title": "mundimark/awesome-markdown-editors: A collection of awesome markdown editors ...",
-          "count": 267,
-          "uniques": 220
+          "count": 377,
+          "uniques": 287
         },
         {
           "path": "/mundimark/awesome-markdown-editors/blob/master/README.md",
           "title": "awesome-markdown-editors/README.md at master · mundimark/awesome-markdown-edi...",
-          "count": 17,
-          "uniques": 12
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/blob/master/NOTES.md",
+          "title": "awesome-markdown-editors/NOTES.md at master · mundimark/awesome-markdown-edit...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/pull/18",
+          "title": "Add KeenWrite, add links, update VS Code description by DaveJarvis · Pull Req...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/pull/18/files",
+          "title": "Add KeenWrite, add links, update VS Code description by DaveJarvis · Pull Req...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 239,
-          "uniques": 202
+          "count": 298,
+          "uniques": 237
         },
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 10
+          "count": 26,
+          "uniques": 18
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 3,
+          "count": 12,
+          "uniques": 7
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "Bing",
+          "count": 5,
           "uniques": 3
         },
         {
-          "referrer": "qwant.com",
-          "count": 2,
-          "uniques": 1
+          "referrer": "StartPage",
+          "count": 4,
+          "uniques": 4
         },
         {
-          "referrer": "pairlist6.pair.net",
+          "referrer": "link.zhihu.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "cn.bing.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "yandex.ru",
+          "referrer": "dida365.com",
           "count": 1,
           "uniques": 1
         }
@@ -854,8 +891,108 @@
       },
       "2021-02-15": {
         "views": {
-          "count": 17,
-          "uniques": 9
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-02-16": {
+        "views": {
+          "count": 29,
+          "uniques": 22
+        }
+      },
+      "2021-02-17": {
+        "views": {
+          "count": 13,
+          "uniques": 13
+        }
+      },
+      "2021-02-18": {
+        "views": {
+          "count": 45,
+          "uniques": 36
+        }
+      },
+      "2021-02-19": {
+        "views": {
+          "count": 29,
+          "uniques": 23
+        }
+      },
+      "2021-02-20": {
+        "views": {
+          "count": 12,
+          "uniques": 11
+        }
+      },
+      "2021-02-21": {
+        "views": {
+          "count": 22,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-22": {
+        "views": {
+          "count": 45,
+          "uniques": 27
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-23": {
+        "views": {
+          "count": 39,
+          "uniques": 31
+        }
+      },
+      "2021-02-24": {
+        "views": {
+          "count": 34,
+          "uniques": 31
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-25": {
+        "views": {
+          "count": 30,
+          "uniques": 25
+        }
+      },
+      "2021-02-26": {
+        "views": {
+          "count": 44,
+          "uniques": 33
+        }
+      },
+      "2021-02-27": {
+        "views": {
+          "count": 21,
+          "uniques": 16
+        }
+      },
+      "2021-02-28": {
+        "views": {
+          "count": 25,
+          "uniques": 21
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-01": {
+        "views": {
+          "count": 40,
+          "uniques": 23
         }
       }
     }

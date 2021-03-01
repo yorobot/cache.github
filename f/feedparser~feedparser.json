@@ -117,6 +117,10 @@
     "2021-02-15": {
       "stargazers_count": 156,
       "forks_count": 5
+    },
+    "2021-03-01": {
+      "stargazers_count": 156,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -157,59 +161,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 56,
-        "uniques": 18
+        "count": 33,
+        "uniques": 13
       },
       "clones": {
         "count": 18,
-        "uniques": 14
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/feedparser/feedparser",
           "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
-          "count": 26,
-          "uniques": 14
+          "count": 16,
+          "uniques": 9
+        },
+        {
+          "path": "/feedparser/feedparser/issues/8",
+          "title": "Support channel image · Issue #8 · feedparser/feedparser · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib",
+          "title": "feedparser/lib at master · feedparser/feedparser",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/feedparser/feedparser/issues",
           "title": "Issues · feedparser/feedparser",
-          "count": 5,
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/feedparser/feedparser/blob/master/lib/feedparser/builder/rss.rb",
-          "title": "feedparser/rss.rb at master · feedparser/feedparser",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedparser/feedparser/blob/master/README.md",
-          "title": "feedparser/README.md at master · feedparser/feedparser",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedparser/feedparser/commits/master/README.md",
-          "title": "History for README.md - feedparser/feedparser",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedparser/feedparser/actions",
-          "title": "Actions · feedparser/feedparser",
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/feed.rb",
+          "title": "feedparser/feed.rb at master · feedparser/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedparser/feedparser/blob/master/CHANGELOG.md",
-          "title": "feedparser/CHANGELOG.md at master · feedparser/feedparser",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedparser/feedparser/blob/master/lib/feedparser/parser.rb",
-          "title": "feedparser/parser.rb at master · feedparser/feedparser",
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/generator.rb",
+          "title": "feedparser/generator.rb at master · feedparser/feedparser",
           "count": 1,
           "uniques": 1
         },
@@ -220,30 +212,37 @@
           "uniques": 1
         },
         {
-          "path": "/feedparser/feedparser/branches",
-          "title": "Branches · feedparser/feedparser",
+          "path": "/feedparser/feedparser/search",
+          "title": "Search · discover",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/attic",
+          "title": "feedparser/attic at master · feedparser/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib/feedparser",
+          "title": "feedparser/lib/feedparser at master · feedparser/feedparser",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 6,
-          "uniques": 4
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 4
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "ruby-toolbox.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubyflow.com",
           "count": 1,
           "uniques": 1
         },
@@ -253,7 +252,12 @@
           "uniques": 1
         },
         {
-          "referrer": "news.ycombinator.com",
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "lists.ruby-lang.org",
           "count": 1,
           "uniques": 1
         }
@@ -898,6 +902,138 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-02-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-17": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-19": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-22": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-02-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-25": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-27": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-18": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

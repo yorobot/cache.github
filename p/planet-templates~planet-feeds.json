@@ -117,6 +117,10 @@
     "2021-02-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-03-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -143,17 +147,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/planet-templates/planet-feeds",
           "title": "GitHub - planet-templates/planet-feeds: feeds - planet template pack - rss 2....",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/atom.xml.erb",
+          "title": "planet-feeds/atom.xml.erb at master · planet-templates/planet-feeds · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/opml.xml.erb",
+          "title": "planet-feeds/opml.xml.erb at master · planet-templates/planet-feeds · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/package.json",
+          "title": "planet-feeds/package.json at master · planet-templates/planet-feeds · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/rss20.xml.erb",
+          "title": "planet-feeds/rss20.xml.erb at master · planet-templates/planet-feeds · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -161,8 +189,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -211,6 +239,18 @@
       },
       "2021-02-14": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-16": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-02-17": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

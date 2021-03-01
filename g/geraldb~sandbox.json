@@ -117,67 +117,71 @@
     "2021-02-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-03-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-02-15T20:32:46Z",
+        "date": "2021-02-25T10:34:15Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-02-15T20:32:46Z",
+        "date": "2021-02-25T10:34:15Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "add logos"
     }
   ],
-  "size": 557,
-  "updated_at": "2021-02-15T20:32:54Z",
-  "pushed_at": "2021-02-15T20:32:52Z",
+  "size": 940,
+  "updated_at": "2021-02-25T10:34:28Z",
+  "pushed_at": "2021-02-25T10:34:26Z",
   "description": "Misc. Sources, Scripts, Templates and More",
-  "language": "HTML",
+  "language": "Ruby",
   "topics": [
 
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 22,
-        "uniques": 1
+        "count": 12,
+        "uniques": 3
       },
       "clones": {
-        "count": 16,
-        "uniques": 13
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/geraldb/sandbox",
           "title": "geraldb/sandbox: Misc. Sources, Scripts, Templates and More",
-          "count": 10,
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/wine.db.tools",
+          "title": "sandbox/wine.db.tools at master · geraldb/sandbox",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/commits/master",
-          "title": "Commits · geraldb/sandbox",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/blob/master/openfootball/at-austria/1-bundesliga_i.md",
-          "title": "sandbox/1-bundesliga_i.md at master · geraldb/sandbox",
+          "path": "/geraldb/sandbox/blob/474188de1753f805941be5a24896f447abc69a52/web-proxy-win/test/test_client_ii.cs",
+          "title": "sandbox/test_client_ii.cs at 474188de1753f805941be5a24896f447abc69a52 · geral...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/blob/master/webpub-reader/lib/epub/reader/EpubHandler.java",
-          "title": "sandbox/EpubHandler.java at master · geraldb/sandbox",
+          "path": "/geraldb/sandbox/blob/master/blockchain.lite.js/block-proof-of-work.js",
+          "title": "sandbox/block-proof-of-work.js at master · geraldb/sandbox",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/commit/56e1357315ac82ecb039a08ea5ad52caba55c0c5",
-          "title": "up · geraldb/sandbox@56e1357",
+          "path": "/geraldb/sandbox/search",
+          "title": "Search ·",
           "count": 1,
           "uniques": 1
         },
@@ -186,37 +190,13 @@
           "title": "sandbox/blockchain.lite.js at master · geraldb/sandbox",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/tree/master/openfootball/at-austria",
-          "title": "sandbox/openfootball/at-austria at master · geraldb/sandbox",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/tree/master/webcomponents",
-          "title": "sandbox/webcomponents at master · geraldb/sandbox",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/tree/master/web-proxy-win",
-          "title": "sandbox/web-proxy-win at master · geraldb/sandbox",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/tree/master/webpub-reader",
-          "title": "sandbox/webpub-reader at master · geraldb/sandbox",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 1
+          "count": 5,
+          "uniques": 3
         }
       ]
     },
@@ -292,13 +272,43 @@
           "count": 2,
           "uniques": 2
         }
+      },
+      "2021-02-21": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-02-24": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-02-25": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
+    "Ruby": 113600,
     "HTML": 77628,
     "JavaScript": 69016,
-    "Ruby": 64570,
     "Java": 12652,
     "C#": 11642,
     "CSS": 9639,

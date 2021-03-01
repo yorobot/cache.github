@@ -117,6 +117,10 @@
     "2021-02-15": {
       "stargazers_count": 3,
       "forks_count": 2
+    },
+    "2021-03-01": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -143,12 +147,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 3,
         "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
@@ -156,10 +160,26 @@
           "title": "GitHub - openbeer/de-deutschland: Free open public domain beer, brewery n bre...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/openbeer/de-deutschland/blob/master/1--be-berlin/breweries.txt",
+          "title": "de-deutschland/breweries.txt at master · openbeer/de-deutschland · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/de-deutschland/tree/master/1--be-berlin",
+          "title": "de-deutschland/1--be-berlin at master · openbeer/de-deutschland · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -199,6 +219,24 @@
       },
       "2021-02-08": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-02-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-01": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

@@ -117,6 +117,10 @@
     "2021-02-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-03-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -143,18 +147,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/webstart/manman",
+          "title": "webstart/manman: manman gem - Manifest Manager in Ruby",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/webstart/manman/blob/master/Manifest.txt",
+          "title": "manman/Manifest.txt at master · webstart/manman",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -174,6 +193,18 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-02-16": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-02-22": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

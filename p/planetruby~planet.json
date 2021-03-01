@@ -117,6 +117,10 @@
     "2021-02-15": {
       "stargazers_count": 9,
       "forks_count": 6
+    },
+    "2021-03-01": {
+      "stargazers_count": 12,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -133,7 +137,7 @@
     }
   ],
   "size": 168,
-  "updated_at": "2021-02-07T12:08:52Z",
+  "updated_at": "2021-03-01T14:37:11Z",
   "pushed_at": "2021-02-07T12:07:58Z",
   "description": "planet ruby news reader subscriptions (incl. command line rubynews tool - what's news in the ruby world? browse week by week)",
   "language": "Ruby",
@@ -143,38 +147,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 4
+        "count": 94,
+        "uniques": 49
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/planetruby/planet",
           "title": "planetruby/planet: planet ruby news reader subscriptions (incl. command line ...",
-          "count": 7,
-          "uniques": 4
+          "count": 41,
+          "uniques": 27
         },
         {
-          "path": "/planetruby/planet/pull/4",
-          "title": "Add a blog of Arkency by pawelpacana · Pull Request #4 · planetruby/planet",
+          "path": "/planetruby/planet/blob/master/planet.ini",
+          "title": "planet/planet.ini at master · planetruby/planet · GitHub",
+          "count": 24,
+          "uniques": 20
+        },
+        {
+          "path": "/planetruby/planet/commit/e5d812fbd9682877f6a7e3bf4db02144bce717ca",
+          "title": "Add a blog of Arkency (#4) · planetruby/planet@e5d812f · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/planet/tree/master/rubynews",
+          "title": "planet/rubynews at master · planetruby/planet",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/script",
+          "title": "planet/script at master · planetruby/planet",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/blob/master/rubynews/lib/rubynews/tool.rb",
+          "title": "planet/tool.rb at master · planetruby/planet",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/planet/pull/4/files",
-          "title": "Add a blog of Arkency by pawelpacana · Pull Request #4 · planetruby/planet",
+          "path": "/planetruby/planet/blob/master/script/opml.rb",
+          "title": "planet/opml.rb at master · planetruby/planet",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/attic",
+          "title": "planet/attic at master · planetruby/planet",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/o",
+          "title": "planet/o at master · planetruby/planet",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/rubynews/lib",
+          "title": "planet/rubynews/lib at master · planetruby/planet",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "reddit.com",
+          "count": 19,
+          "uniques": 15
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 4,
+          "uniques": 2
+        },
+        {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 4
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -396,6 +457,42 @@
         }
       },
       "2021-02-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-26": {
+        "views": {
+          "count": 26,
+          "uniques": 16
+        }
+      },
+      "2021-02-27": {
+        "views": {
+          "count": 47,
+          "uniques": 20
+        }
+      },
+      "2021-02-28": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-03-01": {
+        "views": {
+          "count": 17,
+          "uniques": 11
+        }
+      },
+      "2021-02-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-02-22": {
         "clones": {
           "count": 1,
           "uniques": 1
