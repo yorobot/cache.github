@@ -121,24 +121,28 @@
     "2021-03-01": {
       "stargazers_count": 71,
       "forks_count": 26
+    },
+    "2021-03-15": {
+      "stargazers_count": 72,
+      "forks_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-01-29T09:35:26Z",
-        "name": "Gerald Bauer"
+        "date": "2021-03-12T22:03:58Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2021-01-29T09:35:26Z",
+        "date": "2021-03-12T22:03:58Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update NOTES.md"
     }
   ],
-  "size": 2435,
-  "updated_at": "2021-02-12T18:14:31Z",
-  "pushed_at": "2021-01-29T09:35:33Z",
+  "size": 3028,
+  "updated_at": "2021-03-12T22:04:00Z",
+  "pushed_at": "2021-03-12T22:03:58Z",
   "description": "Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby (Open Data) Gems  ++  Best of Ruby Gems Series",
   "language": "HTML",
   "topics": [
@@ -157,73 +161,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 25,
-        "uniques": 8
+        "count": 143,
+        "uniques": 10
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 63,
+        "uniques": 31
       },
       "paths": [
         {
-          "path": "/planetruby/gems/issues",
-          "title": "Issues · planetruby/gems · GitHub",
-          "count": 9,
-          "uniques": 6
+          "path": "/planetruby/gems",
+          "title": "planetruby/gems: Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby...",
+          "count": 42,
+          "uniques": 7
         },
         {
-          "path": "/planetruby/gems/blob/ca2536c20d6b08dc0f58f19be9f3ce5d5d2227ee/_drafts/01-blockchain-compute_unit.md",
-          "title": "gems/01-blockchain-compute_unit.md at ca2536c20d6b08dc0f58f19be9f3ce5d5d2227e...",
-          "count": 5,
+          "path": "/planetruby/gems/blob/master/NOTES.md",
+          "title": "gems/NOTES.md at master · planetruby/gems",
+          "count": 13,
           "uniques": 2
         },
         {
-          "path": "/planetruby/gems",
-          "title": "planetruby/gems: Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby...",
-          "count": 4,
+          "path": "/planetruby/gems/issues",
+          "title": "Issues · planetruby/gems · GitHub",
+          "count": 11,
           "uniques": 3
         },
         {
-          "path": "/planetruby/gems/pull/63",
-          "title": "Day 22 - active-record-events by pienkowb · Pull Request #63 · planetruby/gems",
-          "count": 2,
+          "path": "/planetruby/gems/blob/master/opendata/03-sportdb.md",
+          "title": "gems/03-sportdb.md at master · planetruby/gems",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/planetruby/gems/tree/ca2536c20d6b08dc0f58f19be9f3ce5d5d2227ee",
-          "title": "planetruby/gems at ca2536c20d6b08dc0f58f19be9f3ce5d5d2227ee",
-          "count": 2,
+          "path": "/planetruby/gems/commits/master",
+          "title": "Commits · planetruby/gems",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/planetruby/gems/commit/ca2536c20d6b08dc0f58f19be9f3ce5d5d2227ee",
-          "title": "Add compute_unit gem for blockchain day 1 · planetruby/gems@ca2536c",
-          "count": 1,
+          "path": "/planetruby/gems/blob/master/README.md",
+          "title": "gems/README.md at master · planetruby/gems",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/planetruby/gems/issues/16",
-          "title": "Add syntax-highlighting to fenced code-blocks · Issue #16 · planetruby/gems ·...",
-          "count": 1,
+          "path": "/planetruby/gems/blob/master/opendata/05-csvpack.md",
+          "title": "gems/05-csvpack.md at master · planetruby/gems",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/blob/master/opendata/02-beerdb.md",
+          "title": "gems/02-beerdb.md at master · planetruby/gems",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/planetruby/gems/pulls",
-          "title": "Pull requests · planetruby/gems",
-          "count": 1,
+          "path": "/planetruby/gems/edit/master/NOTES.md",
+          "title": "Editing gems/NOTES.md at master · planetruby/gems",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/tree/master/opendata",
+          "title": "gems/opendata at master · planetruby/gems",
+          "count": 3,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "count": 23,
+          "uniques": 4
         },
         {
           "referrer": "planetruby.github.io",
-          "count": 4,
-          "uniques": 4
+          "count": 13,
+          "uniques": 3
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -723,11 +749,111 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-03-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-03-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 9
+        }
+      },
+      "2021-03-07": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2021-03-08": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 8
+        }
+      },
+      "2021-03-09": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2021-03-10": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-03-11": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2021-03-12": {
+        "views": {
+          "count": 66,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 19,
+          "uniques": 15
+        }
+      },
+      "2021-03-13": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-03-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-03-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 7369,
+    "HTML": 7244,
     "SCSS": 396
   }
 }

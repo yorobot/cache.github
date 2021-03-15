@@ -121,6 +121,10 @@
     "2021-03-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-03-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -147,18 +151,24 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
+        "count": 8,
         "uniques": 1
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/sportkit/sport.db.starter.go",
           "title": "sportkit/sport.db.starter.go: sportdb web service starter sample - build your...",
-          "count": 1,
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/sport.db.starter.go/blob/master/database_structs.go",
+          "title": "sport.db.starter.go/database_structs.go at master · sportkit/sport.db.starter...",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -168,27 +178,21 @@
           "uniques": 1
         },
         {
-          "path": "/sportkit/sport.db.starter.go/blob/master/.gitignore",
-          "title": "sport.db.starter.go/.gitignore at master · sportkit/sport.db.starter.go",
+          "path": "/sportkit/sport.db.starter.go/blob/master/database_finders.go",
+          "title": "sport.db.starter.go/database_finders.go at master · sportkit/sport.db.starter...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportkit/sport.db.starter.go/blob/master/NOTES.md",
-          "title": "sport.db.starter.go/NOTES.md at master · sportkit/sport.db.starter.go",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportkit/sport.db.starter.go/blob/master/test.go",
-          "title": "sport.db.starter.go/test.go at master · sportkit/sport.db.starter.go",
+          "path": "/sportkit/sport.db.starter.go/blob/master/server.go",
+          "title": "sport.db.starter.go/server.go at master · sportkit/sport.db.starter.go",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Yahoo",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -256,6 +260,28 @@
         }
       },
       "2021-02-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-13": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-03-11": {
         "clones": {
           "count": 1,
           "uniques": 1

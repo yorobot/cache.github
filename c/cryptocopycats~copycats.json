@@ -1,9 +1,9 @@
 {
   "full_name": "cryptocopycats/copycats",
   "created_at": "2018-01-10T20:57:54Z",
-  "updated_at": "2021-01-31T12:44:22Z",
-  "pushed_at": "2019-05-13T19:46:47Z",
-  "size": 2788,
+  "updated_at": "2021-03-12T10:29:59Z",
+  "pushed_at": "2021-03-03T16:59:07Z",
+  "size": 2675,
   "history": {
     "2018-04-08": {
       "stargazers_count": 13
@@ -100,19 +100,23 @@
     "2021-03-01": {
       "stargazers_count": 25,
       "forks_count": 6
+    },
+    "2021-03-15": {
+      "stargazers_count": 26,
+      "forks_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-05-13T19:46:46Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-05-13T19:46:46Z",
+        "date": "2021-03-03T16:58:58Z",
         "name": "Gerald Bauer"
       },
-      "message": "Delete update.rb"
+      "author": {
+        "date": "2021-03-03T16:58:58Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "description": "copycats command line tool (and core library) - crypto cats / kitties collectibles unchained - buy! sell! hodl! sire! - play for free - runs off the blockchain w/ ledger lite - no ether / gas required; run your own peer-to-peer (P2P) network node over HTTP",
@@ -129,71 +133,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 46,
-        "uniques": 12
+        "count": 50,
+        "uniques": 18
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/cryptocopycats/copycats",
           "title": "GitHub - cryptocopycats/copycats: copycats command line tool (and core librar...",
-          "count": 29,
-          "uniques": 12
+          "count": 28,
+          "uniques": 17
         },
         {
-          "path": "/cryptocopycats/copycats/tree/master/bin",
-          "title": "copycats/bin at master · cryptocopycats/copycats · GitHub",
-          "count": 2,
+          "path": "/cryptocopycats/copycats/tree/master/copycats",
+          "title": "copycats/copycats at master · cryptocopycats/copycats · GitHub",
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "path": "/cryptocopycats/copycats/tree/master/bitcat",
+          "title": "copycats/bitcat at master · cryptocopycats/copycats",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/copycats/commits",
+          "title": "Commits · cryptocopycats/copycats",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/copycats/tree/master/lib",
-          "title": "copycats/lib at master · cryptocopycats/copycats · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/copycats/tree/master/lib/copycats",
-          "title": "copycats/lib/copycats at master · cryptocopycats/copycats · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/copycats/blob/master/bin/kitty",
-          "title": "copycats/kitty at master · cryptocopycats/copycats · GitHub",
+          "path": "/cryptocopycats/copycats/blob/master/copycats/KITTY-100000.md",
+          "title": "copycats/KITTY-100000.md at master · cryptocopycats/copycats",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/copycats/blob/master/lib/copycats/gene.rb",
-          "title": "copycats/gene.rb at master · cryptocopycats/copycats · GitHub",
+          "path": "/cryptocopycats/copycats/blob/master/README.md",
+          "title": "copycats/README.md at master · cryptocopycats/copycats · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/copycats/blob/master/lib/copycats/genome.rb",
-          "title": "copycats/genome.rb at master · cryptocopycats/copycats · GitHub",
+          "path": "/cryptocopycats/copycats/search",
+          "title": "搜索·哈希表",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/copycats/blob/master/lib/copycats/import/read.rb",
-          "title": "copycats/read.rb at master · cryptocopycats/copycats · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/copycats/blob/master/lib/copycats/import/setup.rb",
-          "title": "copycats/setup.rb at master · cryptocopycats/copycats · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/copycats/blob/master/lib/copycats.rb",
-          "title": "copycats/copycats.rb at master · cryptocopycats/copycats · GitHub",
+          "path": "/cryptocopycats/copycats/tree/master/copycats/lib",
+          "title": "copycats/copycats/lib at master · cryptocopycats/copycats · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -201,18 +193,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 9
+          "count": 21,
+          "uniques": 14
         },
         {
           "referrer": "Google",
-          "count": 3,
+          "count": 2,
           "uniques": 2
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -488,10 +475,86 @@
           "count": 5,
           "uniques": 2
         }
+      },
+      "2021-03-03": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-03-04": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2021-03-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-08": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2021-03-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-12": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2021-03-14": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2021-03-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 46108
+    "Ruby": 47752,
+    "HTML": 1710,
+    "CSS": 58
   }
 }

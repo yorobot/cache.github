@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/league-starter",
   "created_at": "2015-08-25T20:47:59Z",
-  "updated_at": "2021-02-25T07:47:25Z",
+  "updated_at": "2021-03-14T21:18:34Z",
   "pushed_at": "2019-11-26T12:01:58Z",
   "size": 62,
   "history": {
@@ -76,6 +76,10 @@
     "2021-03-01": {
       "stargazers_count": 10,
       "forks_count": 2
+    },
+    "2021-03-15": {
+      "stargazers_count": 11,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -99,36 +103,42 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
-        "uniques": 28
+        "count": 61,
+        "uniques": 27
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/openfootball/league-starter",
           "title": "openfootball/league-starter: football.db league quick starter sample - start ...",
-          "count": 37,
-          "uniques": 27
-        },
-        {
-          "path": "/openfootball/league-starter/blob/master/2014-15/1-league-i.txt",
-          "title": "league-starter/1-league-i.txt at master · openfootball/league-starter · GitHub",
-          "count": 4,
-          "uniques": 2
+          "count": 35,
+          "uniques": 24
         },
         {
           "path": "/openfootball/league-starter/blob/master/leagues.txt",
-          "title": "league-starter/leagues.txt at master · openfootball/league-starter · GitHub",
-          "count": 3,
+          "title": "league-starter/leagues.txt at master · openfootball/league-starter",
+          "count": 6,
           "uniques": 3
         },
         {
           "path": "/openfootball/league-starter/blob/master/clubs.txt",
-          "title": "league-starter/clubs.txt at master · openfootball/league-starter · GitHub",
-          "count": 2,
+          "title": "league-starter/clubs.txt at master · openfootball/league-starter",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/league-starter/blob/master/2014-15/1-league-i.txt",
+          "title": "league-starter/1-league-i.txt at master · openfootball/league-starter",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/league-starter/blob/master/README.md",
+          "title": "league-starter/README.md at master · openfootball/league-starter",
+          "count": 3,
           "uniques": 2
         },
         {
@@ -138,8 +148,20 @@
           "uniques": 2
         },
         {
-          "path": "/openfootball/league-starter/search",
-          "title": "Search · euro cup data",
+          "path": "/openfootball/league-starter/blob/master/2014-15/cup.txt",
+          "title": "league-starter/cup.txt at master · openfootball/league-starter · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/league-starter/network/members",
+          "title": "Forks · openfootball/league-starter · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/league-starter/stargazers",
+          "title": "Stargazers · openfootball/league-starter",
           "count": 1,
           "uniques": 1
         }
@@ -147,16 +169,21 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 31,
-          "uniques": 22
+          "count": 26,
+          "uniques": 21
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 9,
+          "uniques": 3
         },
         {
           "referrer": "sportdb.github.io",
-          "count": 2,
+          "count": 3,
           "uniques": 2
         },
         {
-          "referrer": "openfootball.github.io",
+          "referrer": "groups.google.com",
           "count": 1,
           "uniques": 1
         }
@@ -747,6 +774,94 @@
       },
       "2021-03-01": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-03": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-03-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-07": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-03-08": {
+        "views": {
+          "count": 26,
+          "uniques": 4
+        }
+      },
+      "2021-03-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-03-10": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-03-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-14": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-03-15": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-03-11": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

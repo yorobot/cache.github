@@ -121,6 +121,10 @@
     "2021-03-01": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2021-03-15": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -153,24 +157,65 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 12,
+        "uniques": 2
+      },
+      "clones": {
         "count": 1,
         "uniques": 1
       },
-      "clones": {
-        "count": 0,
-        "uniques": 0
-      },
       "paths": [
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikitree",
+          "title": "wikiscript/wikitree at master · wikiscript/wikiscript",
+          "count": 4,
+          "uniques": 2
+        },
         {
           "path": "/wikiscript/wikiscript",
           "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/wikitree/lib/wikitree/template.rb",
+          "title": "wikiscript/template.rb at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/wikitree/test/test_nodes.rb",
+          "title": "wikiscript/test_nodes.rb at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikitree/lib",
+          "title": "wikiscript/wikitree/lib at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikitree/lib/wikitree",
+          "title": "wikiscript/wikitree/lib/wikitree at master · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikitree/test",
+          "title": "wikiscript/wikitree/test at master · wikiscript/wikiscript",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -275,6 +320,24 @@
       },
       "2021-02-19": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-02": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2021-03-03": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-03-06": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

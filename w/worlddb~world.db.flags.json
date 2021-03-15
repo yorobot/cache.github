@@ -121,6 +121,10 @@
     "2021-03-01": {
       "stargazers_count": 8,
       "forks_count": 9
+    },
+    "2021-03-15": {
+      "stargazers_count": 8,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -147,8 +151,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 3
+        "count": 27,
+        "uniques": 6
       },
       "clones": {
         "count": 1,
@@ -157,34 +161,70 @@
       "paths": [
         {
           "path": "/worlddb/world.db.flags",
-          "title": "GitHub - worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32...",
-          "count": 5,
-          "uniques": 3
+          "title": "worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32x32, 48x4...",
+          "count": 10,
+          "uniques": 6
         },
         {
           "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags",
           "title": "world.db.flags/vendor/assets/images/flags at master · worlddb/world.db.flags ...",
-          "count": 2,
+          "count": 4,
           "uniques": 2
         },
         {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/24x24",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24 at master · worlddb/world.db....",
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/32x32",
+          "title": "world.db.flags/vendor/assets/images/flags/32x32 at master · worlddb/world.db....",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/32x32/ad.png",
+          "title": "world.db.flags/ad.png at master · worlddb/world.db.flags · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/48x48",
-          "title": "world.db.flags/vendor/assets/images/flags/48x48 at master · worlddb/world.db....",
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/32x32/ae.png",
+          "title": "world.db.flags/ae.png at master · worlddb/world.db.flags · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/32x32/am.png",
+          "title": "world.db.flags/am.png at master · worlddb/world.db.flags · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/48x48/ad.png",
+          "title": "world.db.flags/ad.png at master · worlddb/world.db.flags · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/lib/worlddb",
+          "title": "world.db.flags/lib/worlddb at master · worlddb/world.db.flags",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/lib/worlddb/flags",
+          "title": "world.db.flags/lib/worlddb/flags at master · worlddb/world.db.flags",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets",
+          "title": "world.db.flags/vendor/assets at master · worlddb/world.db.flags · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 6
         }
       ]
     },
@@ -352,6 +392,42 @@
       "2021-02-27": {
         "views": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-03-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-03-06": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-03-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-10": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2021-03-13": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-03-11": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

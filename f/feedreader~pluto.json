@@ -121,6 +121,10 @@
     "2021-03-01": {
       "stargazers_count": 173,
       "forks_count": 15
+    },
+    "2021-03-15": {
+      "stargazers_count": 174,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -137,7 +141,7 @@
     }
   ],
   "size": 596,
-  "updated_at": "2021-02-14T01:06:11Z",
+  "updated_at": "2021-03-02T07:38:49Z",
   "pushed_at": "2020-10-31T16:55:53Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -160,98 +164,103 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 87,
-        "uniques": 15
+        "count": 38,
+        "uniques": 14
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 21,
-          "uniques": 12
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/pluto-models/lib/pluto/models/item.rb",
-          "title": "pluto/item.rb at master · feedreader/pluto · GitHub",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "path": "/feedreader/pluto/pulls",
-          "title": "Pull requests · feedreader/pluto · GitHub",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/sandbox/stats.rb",
-          "title": "pluto/stats.rb at master · feedreader/pluto",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/sandbox",
-          "title": "pluto/sandbox at master · feedreader/pluto · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/script",
-          "title": "pluto/script at master · feedreader/pluto · GitHub",
-          "count": 3,
-          "uniques": 2
+          "count": 20,
+          "uniques": 13
         },
         {
           "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto · GitHub",
-          "count": 2,
-          "uniques": 2
+          "title": "Issues · feedreader/pluto",
+          "count": 3,
+          "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/pluto-models",
-          "title": "pluto/pluto-models at master · feedreader/pluto · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/newscast",
-          "title": "pluto/newscast at master · feedreader/pluto",
+          "path": "/feedreader/pluto/tree/master/pluto-merge",
+          "title": "pluto/pluto-merge at master · feedreader/pluto · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/newscast/script",
-          "title": "pluto/newscast/script at master · feedreader/pluto",
+          "path": "/feedreader/pluto/tree/master/pluto-merge/lib/pluto",
+          "title": "pluto/pluto-merge/lib/pluto at master · feedreader/pluto · GitHub",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/html-template/lib/html/template/version.rb",
+          "title": "pluto/version.rb at master · feedreader/pluto · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/15",
+          "title": "Relative links not rendering correctly · Issue #15 · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/18",
+          "title": "*** error: undefined method `published' for nil:NilClass | when publishing em...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/35",
+          "title": "Youtube feeds don't print in order · Issue #35 · feedreader/pluto · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/search",
+          "title": "Search · analytics",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/html-template",
+          "title": "pluto/html-template at master · feedreader/pluto · GitHub",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 9
+          "count": 7,
+          "uniques": 7
         },
         {
-          "referrer": "old.reddit.com",
-          "count": 11,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 2,
+          "referrer": "rubygems.org",
+          "count": 3,
           "uniques": 1
         },
         {
           "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "libhunt.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "libhunt.com",
+          "referrer": "ecosia.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -778,6 +787,64 @@
         "views": {
           "count": 28,
           "uniques": 2
+        }
+      },
+      "2021-03-02": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2021-03-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-05": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-03-06": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        }
+      },
+      "2021-03-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-03-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
