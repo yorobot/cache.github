@@ -125,6 +125,10 @@
     "2021-03-15": {
       "stargazers_count": 209,
       "forks_count": 17
+    },
+    "2021-04-02": {
+      "stargazers_count": 210,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -141,7 +145,7 @@
     }
   ],
   "size": 16242,
-  "updated_at": "2021-03-12T19:06:02Z",
+  "updated_at": "2021-03-20T12:10:20Z",
   "pushed_at": "2021-02-02T19:45:37Z",
   "description": "talks, talks, talks  (sources in Markdown)",
   "language": null,
@@ -151,80 +155,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 57,
-        "uniques": 31
+        "count": 40,
+        "uniques": 29
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/geraldb/talks/blob/master/factbook.md",
-          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
-          "count": 19,
-          "uniques": 11
-        },
-        {
           "path": "/geraldb/talks",
           "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
-          "count": 7,
+          "count": 6,
           "uniques": 6
         },
         {
-          "path": "/geraldb/talks/blob/master/jekyll_vs_middleman.md",
-          "title": "talks/jekyll_vs_middleman.md at master · geraldb/talks · GitHub",
+          "path": "/geraldb/talks/blob/master/factbook.md",
+          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
           "count": 5,
-          "uniques": 2
+          "uniques": 4
         },
         {
           "path": "/geraldb/talks/blob/master/football_db_intro.md",
           "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/geraldb/talks/blob/master/blockchain_go.md",
-          "title": "talks/blockchain_go.md at master · geraldb/talks · GitHub",
-          "count": 3,
+          "count": 5,
           "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/hyperledger.md",
-          "title": "talks/hyperledger.md at master · geraldb/talks · GitHub",
-          "count": 3,
+          "path": "/geraldb/talks/blob/master/contracts.md",
+          "title": "talks/contracts.md at master · geraldb/talks · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/geraldb/talks/blob/master/blockchain_go.md",
+          "title": "talks/blockchain_go.md at master · geraldb/talks",
+          "count": 4,
           "uniques": 2
         },
         {
           "path": "/geraldb/talks/blob/master/fabcar.md",
           "title": "talks/fabcar.md at master · geraldb/talks · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
+          "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/geraldb/talks/blob/master/hyperledger.md",
+          "title": "talks/hyperledger.md at master · geraldb/talks · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/blockchain_ruby.md",
-          "title": "talks/blockchain_ruby.md at master · geraldb/talks · GitHub",
+          "path": "/geraldb/talks/blob/master/jekyll_vs_middleman.md",
+          "title": "talks/jekyll_vs_middleman.md at master · geraldb/talks · GitHub",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/jruby_web_apps.md",
-          "title": "talks/jruby_web_apps.md at master · geraldb/talks · GitHub",
+          "path": "/geraldb/talks/blob/master/open_data_world_cup.md",
+          "title": "talks/open_data_world_cup.md at master · geraldb/talks · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/csv.md",
-          "title": "talks/csv.md at master · geraldb/talks · GitHub",
-          "count": 1,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 26,
-          "uniques": 17
+          "count": 13,
+          "uniques": 11
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 10,
+          "uniques": 6
         },
         {
           "referrer": "Google",
@@ -232,22 +241,17 @@
           "uniques": 4
         },
         {
-          "referrer": "planetruby.github.io",
-          "count": 4,
+          "referrer": "rubyflow.com",
+          "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "reddit.com",
-          "count": 4,
+          "referrer": "DuckDuckGo",
+          "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "talk.jekyllrb.com",
+          "referrer": "news.ycombinator.com",
           "count": 1,
           "uniques": 1
         }
@@ -988,6 +992,94 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-03-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-20": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-03-21": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2021-03-22": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-24": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-03-25": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-03-26": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-29": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-03-31": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

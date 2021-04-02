@@ -104,6 +104,10 @@
     "2021-03-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-04-02": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -139,8 +143,8 @@
         "uniques": 1
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
@@ -151,7 +155,11 @@
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -193,6 +201,12 @@
       },
       "2021-03-13": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-24": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

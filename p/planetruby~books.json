@@ -125,6 +125,10 @@
     "2021-03-15": {
       "stargazers_count": 40,
       "forks_count": 13
+    },
+    "2021-04-02": {
+      "stargazers_count": 42,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -141,7 +145,7 @@
     }
   ],
   "size": 393,
-  "updated_at": "2021-01-24T18:03:12Z",
+  "updated_at": "2021-03-29T20:04:23Z",
   "pushed_at": "2021-01-03T16:24:50Z",
   "description": "List of all Ruby books",
   "language": "HTML",
@@ -157,8 +161,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 32,
-        "uniques": 7
+        "count": 23,
+        "uniques": 10
       },
       "clones": {
         "count": 2,
@@ -168,60 +172,60 @@
         {
           "path": "/planetruby/books",
           "title": "planetruby/books: List of all Ruby books",
-          "count": 9,
-          "uniques": 7
+          "count": 11,
+          "uniques": 9
         },
         {
           "path": "/planetruby/books/tree/master/_books",
           "title": "books/_books at master · planetruby/books · GitHub",
-          "count": 5,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/planetruby/books/tree/master/_books/2020",
-          "title": "books/_books/2020 at master · planetruby/books · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2015/Learn_Game_Programming_with_Ruby_-_Bring_Your_Ideas_to_Life_with_Gosu.md",
-          "title": "books/Learn_Game_Programming_with_Ruby_-_Bring_Your_Ideas_to_Life_with_Gosu.m...",
+          "path": "/planetruby/books/tree/5019996e3ac321780a76e9ccb999af4e40fafa09/_books/2020",
+          "title": "books/_books/2020 at 5019996e3ac321780a76e9ccb999af4e40fafa09 · planetruby/bo...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/blob/master/_books/2020/Agile_Web_Development_with_Rails_6.md",
-          "title": "books/Agile_Web_Development_with_Rails_6.md at master · planetruby/books · Gi...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2020/Black_Hat_Ruby.md",
-          "title": "books/Black_Hat_Ruby.md at master · planetruby/books · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/tree/master/_books/2015",
-          "title": "books/_books/2015 at master · planetruby/books · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/tree/master/_books/2021",
-          "title": "books/_books/2021 at master · planetruby/books · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2021/Learn_to_Program%2C_Third_Edition.md",
-          "title": "books/Learn_to_Program,_Third_Edition.md at master · planetruby/books · GitHub",
+          "path": "/planetruby/books/blob/5019996e3ac321780a76e9ccb999af4e40fafa09/_books/2010/Rails_AntiPatterns_-_Best_Practice_Ruby_on_Rails_Refactoring.md",
+          "title": "books/Rails_AntiPatterns_-_Best_Practice_Ruby_on_Rails_Refactoring.md at 5019...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/commit/b2286804025feddd3b0a778e0c4ad049c9cdb955",
-          "title": "Rename Head First Ruby: A learner's companion to Ruby.json to Head Fi… · plan...",
+          "path": "/planetruby/books/blob/5019996e3ac321780a76e9ccb999af4e40fafa09/_books/2020/Black_Hat_Ruby.md",
+          "title": "books/Black_Hat_Ruby.md at 5019996e3ac321780a76e9ccb999af4e40fafa09 · planetr...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/5019996e3ac321780a76e9ccb999af4e40fafa09/_books/2020/Build_a_Saas_App_in_Ruby_on_Rails_6.md",
+          "title": "books/Build_a_Saas_App_in_Ruby_on_Rails_6.md at 5019996e3ac321780a76e9ccb999a...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2019/Programming_Crypto_Blockchain_Contracts_Step-by-Step.md",
+          "title": "books/Programming_Crypto_Blockchain_Contracts_Step-by-Step.md at master · pla...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/5019996e3ac321780a76e9ccb999af4e40fafa09",
+          "title": "planetruby/books at 5019996e3ac321780a76e9ccb999af4e40fafa09",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/5019996e3ac321780a76e9ccb999af4e40fafa09/_books",
+          "title": "books/_books at 5019996e3ac321780a76e9ccb999af4e40fafa09 · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2019",
+          "title": "books/_books/2019 at master · planetruby/books · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -229,23 +233,18 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 2
+          "count": 6,
+          "uniques": 4
         },
         {
           "referrer": "Google",
           "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "blade.nagaokaut.ac.jp",
-          "count": 1,
-          "uniques": 1
+          "uniques": 3
         },
         {
           "referrer": "planetruby.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -817,6 +816,60 @@
         }
       },
       "2021-03-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-20": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-03-21": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-03-24": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2021-03-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-03-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-25": {
         "clones": {
           "count": 1,
           "uniques": 1

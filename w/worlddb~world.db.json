@@ -120,6 +120,10 @@
     "2021-03-15": {
       "stargazers_count": 69,
       "forks_count": 5
+    },
+    "2021-04-02": {
+      "stargazers_count": 70,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -135,7 +139,7 @@
       "message": "up country keys and codes"
     }
   ],
-  "updated_at": "2021-03-15T19:24:33Z",
+  "updated_at": "2021-03-28T16:22:00Z",
   "pushed_at": "2020-05-19T09:17:00Z",
   "description": "world.db - open world database (world.db) command line tool and libraries",
   "language": "Ruby",
@@ -152,37 +156,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 53,
-        "uniques": 18
+        "count": 44,
+        "uniques": 20
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/worlddb/world.db",
           "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 23,
+          "count": 20,
           "uniques": 15
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb",
           "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
-          "count": 7,
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/README.md",
+          "title": "world.db/README.md at master · worlddb/world.db · GitHub",
+          "count": 4,
           "uniques": 4
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb-compat",
           "title": "world.db/worlddb-compat at master · worlddb/world.db · GitHub",
           "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb/compat",
-          "title": "world.db/worlddb-compat/lib/worlddb/compat at master · worlddb/world.db · Git...",
-          "count": 3,
-          "uniques": 2
+          "uniques": 3
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb",
@@ -191,49 +195,54 @@
           "uniques": 2
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/lang.rb",
-          "title": "GitHub - worlddb/world.db: world.db - open world database (world.db) command ...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/blob/master/worlddb-models/lib/worlddb/models/place.rb",
-          "title": "world.db/place.rb at master · worlddb/world.db",
+          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/city.rb",
+          "title": "world.db/city.rb at master · worlddb/world.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/commit/43d8abe0b9669f1c19a554f53c3ac9a318d7e5f0",
-          "title": "add worlddb-service attic · worlddb/world.db@43d8abe · GitHub",
+          "path": "/worlddb/world.db/blob/master/worlddb-models/lib/worlddb/models.rb",
+          "title": "world.db/models.rb at master · worlddb/world.db · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/commits",
-          "title": "Commits · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb/compat",
+          "title": "world.db/worlddb-compat/lib/worlddb/compat at master · worlddb/world.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/assets",
-          "title": "world.db/worlddb/assets at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/tree/master/worlddb-models",
+          "title": "world.db/worlddb-models at master · worlddb/world.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb-models/lib/worlddb",
+          "title": "world.db/worlddb-models/lib/worlddb at master · worlddb/world.db · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 14,
-          "uniques": 11
-        },
-        {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 10,
+          "uniques": 7
         },
         {
-          "referrer": "Bing",
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         }
@@ -815,6 +824,74 @@
       "2021-03-15": {
         "views": {
           "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-19": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-03-20": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-03-21": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-03-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-23": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-03-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-03-25": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-03-26": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-03-27": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2021-03-31": {
+        "views": {
+          "count": 6,
           "uniques": 2
         }
       }
