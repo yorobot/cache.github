@@ -129,6 +129,10 @@
     "2021-04-02": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2021-04-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -155,23 +159,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 4
+        "count": 8,
+        "uniques": 5
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/planet-templates/planet-news",
           "title": "planet-templates/planet-news: news - planet template pack \"river of news\"",
-          "count": 3,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         {
-          "path": "/planet-templates/planet-news/blob/master/screenshot.png",
-          "title": "planet-news/screenshot.png at master · planet-templates/planet-news · GitHub",
+          "path": "/planet-templates/planet-news/blob/master/news.html.erb",
+          "title": "planet-news/news.html.erb at master · planet-templates/planet-news",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-news/tree/master/i",
+          "title": "planet-news/i at master · planet-templates/planet-news",
           "count": 1,
           "uniques": 1
         }
@@ -179,6 +189,11 @@
       "referrers": [
         {
           "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "feedreader.github.io",
           "count": 2,
           "uniques": 2
         }
@@ -329,6 +344,40 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-04-03": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-12": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

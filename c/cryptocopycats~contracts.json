@@ -1,9 +1,9 @@
 {
   "full_name": "cryptocopycats/contracts",
   "created_at": "2018-03-24T09:36:15Z",
-  "updated_at": "2021-03-27T11:20:24Z",
-  "pushed_at": "2021-03-27T11:20:22Z",
-  "size": 178,
+  "updated_at": "2021-04-12T19:08:02Z",
+  "pushed_at": "2021-04-06T16:42:17Z",
+  "size": 198,
   "description": "Inside the CryptoKitties, MoonCats & Friends Blockchain Contracts / Services incl.  Wrapped CryptoKitties (WCK, WG0, WVG0), Wrapped MoonCatsRescue (WMCR)",
   "language": "Solidity",
   "history": {
@@ -14,19 +14,23 @@
     "2021-04-02": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2021-04-15": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-03-27T11:20:16Z",
-        "name": "Gerald Bauer"
+        "date": "2021-04-06T16:42:17Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2021-03-27T11:20:16Z",
+        "date": "2021-04-06T16:42:17Z",
         "name": "Gerald Bauer"
       },
-      "message": "up contracts"
+      "message": "Update NOTES.md"
     }
   ],
   "topics": [
@@ -43,104 +47,99 @@
     "wmcr"
   ],
   "languages": {
-    "Solidity": 523664
+    "Solidity": 610557
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 232,
-        "uniques": 43
+        "count": 256,
+        "uniques": 24
       },
       "clones": {
-        "count": 37,
-        "uniques": 12
+        "count": 12,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/cryptocopycats/contracts",
           "title": "GitHub - cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Frien...",
-          "count": 65,
-          "uniques": 32
-        },
-        {
-          "path": "/cryptocopycats/contracts/tree/master/mooncats",
-          "title": "contracts/mooncats at master · cryptocopycats/contracts · GitHub",
-          "count": 26,
-          "uniques": 15
+          "count": 63,
+          "uniques": 22
         },
         {
           "path": "/cryptocopycats/contracts/tree/master/cryptokitties",
           "title": "contracts/cryptokitties at master · cryptocopycats/contracts · GitHub",
-          "count": 22,
-          "uniques": 9
-        },
-        {
-          "path": "/cryptocopycats/contracts/tree/master/cryptocats",
-          "title": "contracts/cryptocats at master · cryptocopycats/contracts · GitHub",
-          "count": 8,
+          "count": 17,
           "uniques": 7
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/GeneScience.sol",
-          "title": "contracts/GeneScience.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptocopycats/contracts/blob/master/mooncats/MoonCatRescue.sol",
-          "title": "contracts/MoonCatRescue.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 6,
+          "path": "/cryptocopycats/contracts/tree/master/cryptokitties-wrapped",
+          "title": "contracts/cryptokitties-wrapped at master · cryptocopycats/contracts · GitHub",
+          "count": 16,
           "uniques": 5
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/README.md",
-          "title": "contracts/README.md at master · cryptocopycats/contracts",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/contracts/edit/master/README.md",
-          "title": "Editing contracts/README.md at master · cryptocopycats/contracts",
-          "count": 6,
-          "uniques": 1
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ERC721.sol",
+          "title": "contracts/ERC721.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 10,
+          "uniques": 6
         },
         {
           "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyBase.sol",
-          "title": "contracts/KittyBase.sol at master · cryptocopycats/contracts",
-          "count": 4,
+          "title": "contracts/KittyBase.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 9,
           "uniques": 3
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/marscats/MarsCatRescue.sol",
-          "title": "contracts/MarsCatRescue.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 4,
+          "path": "/cryptocopycats/contracts/tree/master/mooncats",
+          "title": "contracts/mooncats at master · cryptocopycats/contracts",
+          "count": 9,
           "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyCore.sol",
+          "title": "contracts/KittyCore.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyAccessControl.sol",
+          "title": "contracts/KittyAccessControl.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/mooncats-wrapped",
+          "title": "contracts/mooncats-wrapped at master · cryptocopycats/contracts",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyOwnership.sol",
+          "title": "contracts/KittyOwnership.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 6,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 52,
-          "uniques": 28
+          "count": 37,
+          "uniques": 15
         },
         {
           "referrer": "Google",
-          "count": 7,
+          "count": 9,
           "uniques": 5
         },
         {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        },
+        {
           "referrer": "old.reddit.com",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 4,
-          "uniques": 4
-        },
-        {
-          "referrer": "yandex.ru",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -382,9 +381,101 @@
       },
       "2021-04-02": {
         "views": {
-          "count": 5,
+          "count": 32,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-03": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-04": {
+        "views": {
+          "count": 1,
           "uniques": 1
         },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-05": {
+        "views": {
+          "count": 31,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-06": {
+        "views": {
+          "count": 23,
+          "uniques": 3
+        }
+      },
+      "2021-04-07": {
+        "views": {
+          "count": 43,
+          "uniques": 7
+        }
+      },
+      "2021-04-08": {
+        "views": {
+          "count": 27,
+          "uniques": 4
+        }
+      },
+      "2021-04-09": {
+        "views": {
+          "count": 41,
+          "uniques": 3
+        }
+      },
+      "2021-04-11": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-04-13": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-04-14": {
+        "views": {
+          "count": 25,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-15": {
+        "views": {
+          "count": 17,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-04-10": {
         "clones": {
           "count": 1,
           "uniques": 1

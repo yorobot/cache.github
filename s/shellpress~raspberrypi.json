@@ -129,6 +129,10 @@
     "2021-04-02": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-04-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -155,71 +159,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 62,
-        "uniques": 18
+        "count": 73,
+        "uniques": 20
       },
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/shellpress/raspberrypi/blob/master/configuration/device-tree.md",
           "title": "raspberrypi/device-tree.md at master · shellpress/raspberrypi · GitHub",
-          "count": 17,
-          "uniques": 13
+          "count": 22,
+          "uniques": 15
         },
         {
           "path": "/shellpress/raspberrypi",
           "title": "shellpress/raspberrypi: Raspberry Pi Documentation (Manuscripts Edition)",
-          "count": 7,
-          "uniques": 4
+          "count": 11,
+          "uniques": 5
+        },
+        {
+          "path": "/shellpress/raspberrypi/tree/master/configuration",
+          "title": "raspberrypi/configuration at master · shellpress/raspberrypi · GitHub",
+          "count": 9,
+          "uniques": 7
         },
         {
           "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/cm-emmc-flashing.md",
           "title": "raspberrypi/cm-emmc-flashing.md at master · shellpress/raspberrypi · GitHub",
           "count": 4,
-          "uniques": 3
+          "uniques": 4
         },
         {
-          "path": "/shellpress/raspberrypi/tree/master/configuration",
-          "title": "raspberrypi/configuration at master · shellpress/raspberrypi · GitHub",
+          "path": "/shellpress/raspberrypi/tree/master/configuration/images",
+          "title": "raspberrypi/configuration/images at master · shellpress/raspberrypi · GitHub",
           "count": 4,
           "uniques": 3
         },
         {
-          "path": "/shellpress/raspberrypi/tree/master/linux",
-          "title": "raspberrypi/linux at master · shellpress/raspberrypi · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/shellpress/raspberrypi/tree/master/hardware/raspberrypi",
-          "title": "raspberrypi/hardware/raspberrypi at master · shellpress/raspberrypi · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/shellpress/raspberrypi/tree/master/hardware",
-          "title": "raspberrypi/hardware at master · shellpress/raspberrypi · GitHub",
+          "path": "/shellpress/raspberrypi/blob/master/configuration/images/dt-blob.dts",
+          "title": "raspberrypi/dt-blob.dts at master · shellpress/raspberrypi",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/shellpress/raspberrypi/tree/master/linux/kernel",
-          "title": "raspberrypi/linux/kernel at master · shellpress/raspberrypi · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/shellpress/raspberrypi/tree/master/hardware/raspberrypi/bcm2835",
-          "title": "raspberrypi/hardware/raspberrypi/bcm2835 at master · shellpress/raspberrypi ·...",
+          "path": "/shellpress/raspberrypi/blob/master/contents.yml",
+          "title": "raspberrypi/contents.yml at master · shellpress/raspberrypi",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/shellpress/raspberrypi/tree/master/hardware/raspberrypi/spi",
-          "title": "raspberrypi/hardware/raspberrypi/spi at master · shellpress/raspberrypi · Git...",
+          "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/cm-designguide.md",
+          "title": "raspberrypi/cm-designguide.md at master · shellpress/raspberrypi",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/shellpress/raspberrypi/tree/master/hardware",
+          "title": "raspberrypi/hardware at master · shellpress/raspberrypi",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/shellpress/raspberrypi/tree/master/hardware/raspberrypi/schematics",
+          "title": "raspberrypi/hardware/raspberrypi/schematics at master · shellpress/raspberrypi",
           "count": 2,
           "uniques": 1
         }
@@ -227,8 +231,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 20,
-          "uniques": 16
+          "count": 23,
+          "uniques": 19
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -716,6 +725,70 @@
       "2021-04-02": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        },
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2021-04-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-06": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-04-07": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2021-04-08": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-04-09": {
+        "views": {
+          "count": 22,
+          "uniques": 4
+        }
+      },
+      "2021-04-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-12": {
+        "views": {
+          "count": 10,
+          "uniques": 4
+        }
+      },
+      "2021-04-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-14": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-04-15": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

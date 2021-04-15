@@ -129,6 +129,10 @@
     "2021-04-02": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-04-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -155,18 +159,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.cities",
+          "title": "worlddb/world.db.cities: world.db web app sample listing the world's greatest...",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -215,6 +228,18 @@
       "2021-03-12": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-15": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

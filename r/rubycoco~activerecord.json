@@ -50,6 +50,10 @@
     "2021-04-02": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-04-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -79,18 +83,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 5,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/rubycoco/activerecord",
+          "title": "rubycoco/activerecord: activerecord (database) tools, libraries & scripts",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/activerecord/blob/master/activerecord-utils/lib/activerecord/utils.rb",
+          "title": "activerecord/utils.rb at master · rubycoco/activerecord",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/activerecord/tree/master/activerecord-utils",
+          "title": "activerecord/activerecord-utils at master · rubycoco/activerecord",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/activerecord/tree/master/activerecord-utils/lib/activerecord",
+          "title": "activerecord/activerecord-utils/lib/activerecord at master · rubycoco/activer...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -248,6 +279,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-04-08": {
+        "views": {
+          "count": 5,
+          "uniques": 2
         }
       }
     }

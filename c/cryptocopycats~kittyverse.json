@@ -1,9 +1,9 @@
 {
   "full_name": "cryptocopycats/kittyverse",
   "created_at": "2019-01-11T08:15:06Z",
-  "updated_at": "2021-03-16T19:46:03Z",
-  "pushed_at": "2021-03-02T19:15:04Z",
-  "size": 483,
+  "updated_at": "2021-04-07T09:33:29Z",
+  "pushed_at": "2021-04-07T09:33:27Z",
+  "size": 492,
   "history": {
     "2019-02-01": {
       "stargazers_count": 1
@@ -96,16 +96,20 @@
     "2021-04-02": {
       "stargazers_count": 17,
       "forks_count": 5
+    },
+    "2021-04-15": {
+      "stargazers_count": 17,
+      "forks_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-03-02T19:14:52Z",
+        "date": "2021-04-07T09:33:20Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-03-02T19:14:52Z",
+        "date": "2021-04-07T09:33:20Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -128,37 +132,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 59,
-        "uniques": 13
+        "count": 137,
+        "uniques": 35
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
+          "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-graphql",
+          "title": "kittyverse/kittyverse-graphql at master · cryptocopycats/kittyverse · GitHub",
+          "count": 44,
+          "uniques": 23
+        },
+        {
           "path": "/cryptocopycats/kittyverse",
           "title": "GitHub - cryptocopycats/kittyverse: kittyverse libraries & scripts - helper c...",
-          "count": 17,
-          "uniques": 9
+          "count": 27,
+          "uniques": 13
         },
         {
           "path": "/cryptocopycats/kittyverse/tree/master/kittyverse",
           "title": "kittyverse/kittyverse at master · cryptocopycats/kittyverse · GitHub",
           "count": 9,
-          "uniques": 6
+          "uniques": 4
         },
         {
-          "path": "/cryptocopycats/kittyverse/tree/master/cache",
-          "title": "kittyverse/cache at master · cryptocopycats/kittyverse",
-          "count": 3,
-          "uniques": 1
+          "path": "/cryptocopycats/kittyverse/tree/master/kittypedia",
+          "title": "kittyverse/kittypedia at master · cryptocopycats/kittyverse · GitHub",
+          "count": 8,
+          "uniques": 4
         },
         {
           "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-api",
-          "title": "kittyverse/kittyverse-api at master · cryptocopycats/kittyverse",
-          "count": 3,
+          "title": "kittyverse/kittyverse-api at master · cryptocopycats/kittyverse · GitHub",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/stargazers",
+          "title": "Stargazers · cryptocopycats/kittyverse",
+          "count": 5,
           "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-graphql/lib",
+          "title": "kittyverse/kittyverse-graphql/lib at master · cryptocopycats/kittyverse · Git...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-graphql/lib/kittyverse",
+          "title": "kittyverse/kittyverse-graphql/lib/kittyverse at master · cryptocopycats/kitty...",
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-api/lib/kittyverse/api",
@@ -167,65 +195,46 @@
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/kittyverse/blob/master/kittyverse-api/lib/kittyverse/api/client.rb",
-          "title": "kittyverse/client.rb at master · cryptocopycats/kittyverse",
+          "path": "/cryptocopycats/kittyverse/blob/master/kittyverse-graphql/lib/kittyverse/graphql.rb",
+          "title": "kittyverse/graphql.rb at master · cryptocopycats/kittyverse · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/blob/master/kittyverse-api/lib/kittyverse/api/service_v0.rb",
-          "title": "kittyverse/service_v0.rb at master · cryptocopycats/kittyverse",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/stargazers",
-          "title": "Stargazers · cryptocopycats/kittyverse",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-api/lib",
-          "title": "kittyverse/kittyverse-api/lib at master · cryptocopycats/kittyverse",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/kittyverse/tree/master/kittyverse-api/lib/kittyverse",
-          "title": "kittyverse/kittyverse-api/lib/kittyverse at master · cryptocopycats/kittyverse",
-          "count": 2,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
+          "referrer": "reddit.com",
+          "count": 15,
+          "uniques": 11
+        },
+        {
+          "referrer": "old.reddit.com",
           "count": 10,
-          "uniques": 6
+          "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 3,
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 4,
           "uniques": 2
         },
         {
           "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         },
         {
           "referrer": "libhunt.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 1,
+          "count": 3,
           "uniques": 1
         },
         {
           "referrer": "rubygems.org",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -960,10 +969,82 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-04-04": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-04-05": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-07": {
+        "views": {
+          "count": 69,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-08": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-04-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-12": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-04-13": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2021-04-14": {
+        "views": {
+          "count": 21,
+          "uniques": 6
+        }
+      },
+      "2021-04-15": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 170911
+    "Ruby": 174899
   }
 }
