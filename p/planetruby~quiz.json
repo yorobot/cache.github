@@ -103,6 +103,10 @@
     "2021-04-15": {
       "stargazers_count": 61,
       "forks_count": 3
+    },
+    "2021-05-01": {
+      "stargazers_count": 61,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -126,24 +130,83 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 30,
+        "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/planetruby/quiz",
           "title": "planetruby/quiz: Ruby Quiz is a fortnightly programming challenge for Ruby pr...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/015/solution.rb",
+          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/quiz/tree/master/015",
+          "title": "quiz/015 at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/016/solution.rb",
+          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/tree/master/016",
+          "title": "quiz/016 at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/003/pages/bbc.html",
+          "title": "quiz/bbc.html at master · planetruby/quiz",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/007/solution.rb",
+          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/007/test.rb",
+          "title": "quiz/test.rb at master · planetruby/quiz",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/010/solution.rb",
+          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/010/test.rb",
+          "title": "quiz/test.rb at master · planetruby/quiz",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "reddit.com",
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -517,6 +580,18 @@
       "2021-04-07": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-18": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-04-22": {
+        "views": {
+          "count": 27,
           "uniques": 1
         }
       }

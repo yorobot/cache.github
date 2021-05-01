@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/meetups",
   "created_at": "2018-11-19T18:10:05Z",
-  "updated_at": "2020-10-09T01:22:29Z",
-  "pushed_at": "2020-10-01T06:38:11Z",
-  "size": 34,
+  "updated_at": "2021-04-21T07:19:44Z",
+  "pushed_at": "2021-04-21T07:19:41Z",
+  "size": 39,
   "history": {
     "2019-02-01": {
       "stargazers_count": 8
@@ -100,19 +100,23 @@
     "2021-04-15": {
       "stargazers_count": 12,
       "forks_count": 5
+    },
+    "2021-05-01": {
+      "stargazers_count": 12,
+      "forks_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-01T06:38:09Z",
+        "date": "2021-04-21T07:19:41Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-10-01T06:38:09Z",
-        "name": "James Adam"
+        "date": "2021-04-21T07:19:41Z",
+        "name": "Maciek Rząsa"
       },
-      "message": "Add NWRUG group to European Ruby User Groups (#7)"
+      "message": "Added Rzeszów Ruby User Group to Poland section (#8)"
     }
   ],
   "description": "A collection of awesome ruby meetups & orgs from around the world - Add your ruby meetup!",
@@ -123,23 +127,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 1
+        "count": 12,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/planetruby/meetups",
-          "title": "GitHub - planetruby/meetups: A collection of awesome ruby meetups & orgs from...",
+          "title": "planetruby/meetups: A collection of awesome ruby meetups & orgs from around t...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/meetups/pull/5",
+          "title": "Add Tel Aviv Ruby Meetup by bencgreenberg · Pull Request #5 · planetruby/meet...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/blame/858419b70b88dacf85c6df8ef10480208ed91f55/ASIA.md",
+          "title": "meetups/ASIA.md at 858419b70b88dacf85c6df8ef10480208ed91f55 · planetruby/meet...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/meetups/blob/master/EUROPE.md",
-          "title": "meetups/EUROPE.md at master · planetruby/meetups · GitHub",
+          "path": "/planetruby/meetups/blob/858419b70b88dacf85c6df8ef10480208ed91f55/ASIA.md",
+          "title": "meetups/ASIA.md at 858419b70b88dacf85c6df8ef10480208ed91f55 · planetruby/meet...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/pull/8",
+          "title": "Added Rzeszów Ruby User Group to Poland section by mrzasa · Pull Request #8 ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/pull/8/files",
+          "title": "Added Rzeszów Ruby User Group to Poland section by mrzasa · Pull Request #8 ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/search",
+          "title": "Search · israel",
           "count": 1,
           "uniques": 1
         }
@@ -147,7 +181,12 @@
       "referrers": [
         {
           "referrer": "planetruby.github.io",
-          "count": 1,
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -270,6 +309,28 @@
       "2021-04-05": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-04-25": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

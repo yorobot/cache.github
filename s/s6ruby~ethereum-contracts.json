@@ -97,6 +97,10 @@
     "2021-04-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-05-01": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -120,26 +124,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 4
+        "count": 10,
+        "uniques": 5
       },
       "clones": {
-        "count": 4,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 4,
-          "uniques": 4
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
+          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 8,
+          "uniques": 5
         }
       ]
     },
@@ -599,6 +609,42 @@
       "2021-04-03": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-04-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-01": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

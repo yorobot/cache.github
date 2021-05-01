@@ -50,6 +50,10 @@
     "2021-04-15": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2021-05-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -75,23 +79,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 3,
         "uniques": 1
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/wikiscript/countries.json",
-          "title": "GitHub - wikiscript/countries.json: World Country Profiles Sourced from Wikip...",
-          "count": 2,
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Europe/Andorra.json",
+          "title": "countries.json/Andorra.json at master · wikiscript/countries.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/Europe",
+          "title": "countries.json/Europe at master · wikiscript/countries.json",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -300,6 +320,12 @@
       "2021-04-05": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

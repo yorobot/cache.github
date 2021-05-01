@@ -133,24 +133,28 @@
     "2021-04-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-05-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-04-03T17:52:59Z",
+        "date": "2021-04-25T17:20:01Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-04-03T17:52:59Z",
+        "date": "2021-04-25T17:20:01Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 1755,
-  "updated_at": "2021-04-03T17:53:11Z",
-  "pushed_at": "2021-04-03T17:53:09Z",
+  "size": 2106,
+  "updated_at": "2021-04-25T17:20:12Z",
+  "pushed_at": "2021-04-25T17:20:10Z",
   "description": "Misc. Sources, Scripts, Templates and More",
   "language": "JavaScript",
   "topics": [
@@ -159,35 +163,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 5
+        "count": 12,
+        "uniques": 1
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 10,
+        "uniques": 10
       },
       "paths": [
         {
-          "path": "/geraldb/sandbox",
-          "title": "GitHub - geraldb/sandbox: Misc. Sources, Scripts, Templates and More",
-          "count": 4,
-          "uniques": 4
-        },
-        {
           "path": "/geraldb/sandbox/tree/master/playhtml",
           "title": "sandbox/playhtml at master · geraldb/sandbox",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/playhtml/weather",
+          "title": "sandbox/playhtml/weather at master · geraldb/sandbox",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox",
+          "title": "geraldb/sandbox: Misc. Sources, Scripts, Templates and More",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/tree/master/playhtml/search",
-          "title": "sandbox/playhtml/search at master · geraldb/sandbox",
+          "path": "/geraldb/sandbox/tree/master/playhtml/weather/react",
+          "title": "sandbox/playhtml/weather/react at master · geraldb/sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/playhtml/weather/data",
+          "title": "sandbox/playhtml/weather/data at master · geraldb/sandbox",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/tree/master/playhtml/search/react",
-          "title": "sandbox/playhtml/search/react at master · geraldb/sandbox",
+          "path": "/geraldb/sandbox/tree/master/playhtml/weather/react/src",
+          "title": "sandbox/playhtml/weather/react/src at master · geraldb/sandbox",
           "count": 1,
           "uniques": 1
         }
@@ -195,8 +211,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 4
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -454,14 +470,48 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-04-18": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-25": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-04-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "JavaScript": 1562993,
+    "JavaScript": 3063711,
     "Ruby": 118745,
-    "HTML": 79633,
-    "CSS": 23046,
+    "HTML": 83238,
+    "CSS": 23509,
     "Java": 12652,
     "C#": 11642,
     "Batchfile": 180

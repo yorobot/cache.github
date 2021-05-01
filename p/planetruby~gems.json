@@ -133,25 +133,29 @@
     "2021-04-15": {
       "stargazers_count": 72,
       "forks_count": 25
+    },
+    "2021-05-01": {
+      "stargazers_count": 72,
+      "forks_count": 25
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-03-12T22:03:58Z",
+        "date": "2021-04-22T11:27:35Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-03-12T22:03:58Z",
+        "date": "2021-04-22T11:27:35Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update NOTES.md"
+      "message": "Update 04-cryptopunks.md"
     }
   ],
-  "size": 3028,
-  "updated_at": "2021-03-30T17:30:31Z",
-  "pushed_at": "2021-03-12T22:03:58Z",
-  "description": "Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby (Open Data) Gems  ++  Best of Ruby Gems Series",
+  "size": 3221,
+  "updated_at": "2021-04-22T11:27:38Z",
+  "pushed_at": "2021-04-22T11:27:35Z",
+  "description": "Ruby Pixel Art Week 2021, April 19th to April 25th - 7 Days of Ruby (Graphics) Gems  ++  Best of Ruby Gems Series",
   "language": "HTML",
   "topics": [
     "ruby",
@@ -164,69 +168,95 @@
     "csv",
     "datapackage",
     "mining",
-    "business-intelligence"
+    "business-intelligence",
+    "24x24",
+    "pixels"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
-        "uniques": 7
+        "count": 56,
+        "uniques": 10
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 20,
+        "uniques": 18
       },
       "paths": [
         {
           "path": "/planetruby/gems",
-          "title": "planetruby/gems: Ruby Open Data Week 2021, March 6th to 12th - 7 Days of Ruby...",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "path": "/planetruby/gems/blob/master/glimmer/04-glimmer-dsl-opal.md",
-          "title": "gems/04-glimmer-dsl-opal.md at master · planetruby/gems",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/blob/master/opendata/03-sportdb.md",
-          "title": "gems/03-sportdb.md at master · planetruby/gems · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/blob/master/README.md",
-          "title": "gems/README.md at master · planetruby/gems · GitHub",
-          "count": 1,
-          "uniques": 1
+          "title": "planetruby/gems: Ruby Pixel Art Week 2021, April 19th to April 25th - 7 Days ...",
+          "count": 21,
+          "uniques": 7
         },
         {
           "path": "/planetruby/gems/issues",
           "title": "Issues · planetruby/gems · GitHub",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/gems/blob/master/pixel/03-mooncats.md",
+          "title": "gems/03-mooncats.md at master · planetruby/gems",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/pixel/04-cryptopunks.md",
+          "title": "gems/04-cryptopunks.md at master · planetruby/gems",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/tree/master/pixel",
+          "title": "gems/pixel at master · planetruby/gems",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/pixel/01-chunky-png.md",
+          "title": "gems/01-chunky-png.md at master · planetruby/gems",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/commits/master",
+          "title": "Commits · planetruby/gems",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/blockchain/02-blockchain-lite.md",
+          "title": "gems/02-blockchain-lite.md at master · planetruby/gems",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/gems/tree/master/opendata",
-          "title": "gems/opendata at master · planetruby/gems · GitHub",
+          "path": "/planetruby/gems/blob/master/glimmer/01-glimmer.md",
+          "title": "gems/01-glimmer.md at master · planetruby/gems",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/opendata/01-factbook.md",
+          "title": "gems/01-factbook.md at master · planetruby/gems",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 2
-        },
-        {
           "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
+          "count": 17,
+          "uniques": 6
         },
         {
-          "referrer": "rubytalk.org",
+          "referrer": "planetruby.github.io",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -910,11 +940,87 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-04-18": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-19": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-04-22": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2021-04-25": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-27": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-04-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-30": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-04-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 7244,
+    "HTML": 7462,
     "SCSS": 396
   }
 }

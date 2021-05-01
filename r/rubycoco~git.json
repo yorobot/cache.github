@@ -79,6 +79,10 @@
     "2021-04-15": {
       "stargazers_count": 15,
       "forks_count": 1
+    },
+    "2021-05-01": {
+      "stargazers_count": 15,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -112,23 +116,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 3
+        "count": 15,
+        "uniques": 5
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/rubycoco/git/tree/master/hubba",
           "title": "git/hubba at master · rubycoco/git · GitHub",
-          "count": 1,
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycoco/git",
+          "title": "rubycoco/git: git (and github) command line tools, libraries & scripts",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/git/tree/master/hubba-reports",
-          "title": "git/hubba-reports at master · rubycoco/git",
+          "path": "/rubycoco/git/tree/master/hubba/lib",
+          "title": "git/hubba/lib at master · rubycoco/git",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/git/tree/master/hubba/lib/hubba",
+          "title": "git/hubba/lib/hubba at master · rubycoco/git",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/git/blob/master/hubba/lib/hubba/github.rb",
+          "title": "git/github.rb at master · rubycoco/git",
           "count": 1,
           "uniques": 1
         }
@@ -137,7 +159,17 @@
         {
           "referrer": "github.com",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 2,
+          "uniques": 1
         }
       ]
     },
@@ -643,6 +675,24 @@
       "2021-04-04": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-19": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

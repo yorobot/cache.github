@@ -133,6 +133,10 @@
     "2021-04-15": {
       "stargazers_count": 14,
       "forks_count": 3
+    },
+    "2021-05-01": {
+      "stargazers_count": 16,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -149,7 +153,7 @@
     }
   ],
   "size": 204,
-  "updated_at": "2021-04-07T20:34:37Z",
+  "updated_at": "2021-04-26T16:38:34Z",
   "pushed_at": "2013-09-15T15:44:47Z",
   "description": "Free open public domain Formula 1/Formula One database 'n' schema (formula1.db) for use in any (programming) language (e.g. uses plain text fixtures/data sets)",
   "language": null,
@@ -159,98 +163,88 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 108,
-        "uniques": 37
+        "count": 66,
+        "uniques": 32
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/opensport/formula1.db",
-          "title": "GitHub - opensport/formula1.db: Free open public domain Formula 1/Formula One...",
-          "count": 45,
-          "uniques": 33
-        },
-        {
-          "path": "/opensport/formula1.db/blob/master/2013/squads.txt",
-          "title": "formula1.db/squads.txt at master · opensport/formula1.db · GitHub",
-          "count": 7,
-          "uniques": 2
+          "title": "opensport/formula1.db: Free open public domain Formula 1/Formula One database...",
+          "count": 37,
+          "uniques": 29
         },
         {
           "path": "/opensport/formula1.db/tree/master/2013",
           "title": "formula1.db/2013 at master · opensport/formula1.db · GitHub",
           "count": 6,
-          "uniques": 5
-        },
-        {
-          "path": "/opensport/formula1.db/blob/master/2013/races.txt",
-          "title": "formula1.db/races.txt at master · opensport/formula1.db · GitHub",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/opensport/formula1.db/blob/master/drivers.txt",
-          "title": "formula1.db/drivers.txt at master · opensport/formula1.db · GitHub",
-          "count": 6,
-          "uniques": 3
+          "uniques": 4
         },
         {
           "path": "/opensport/formula1.db/tree/master/setups",
           "title": "formula1.db/setups at master · opensport/formula1.db · GitHub",
-          "count": 4,
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/circuits.txt",
+          "title": "formula1.db/circuits.txt at master · opensport/formula1.db · GitHub",
+          "count": 3,
           "uniques": 3
         },
         {
-          "path": "/opensport/formula1.db/blob/master/2013/06-gp-monaco.txt",
-          "title": "formula1.db/06-gp-monaco.txt at master · opensport/formula1.db · GitHub",
-          "count": 4,
+          "path": "/opensport/formula1.db/blob/master/README.md",
+          "title": "formula1.db/README.md at master · opensport/formula1.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/setups/all.yml",
+          "title": "formula1.db/all.yml at master · opensport/formula1.db",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/2013/04-gp-bahrain.txt",
+          "title": "formula1.db/04-gp-bahrain.txt at master · opensport/formula1.db",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/opensport/formula1.db/blob/master/seasons.yml",
-          "title": "formula1.db/seasons.yml at master · opensport/formula1.db · GitHub",
-          "count": 3,
-          "uniques": 3
+          "path": "/opensport/formula1.db/blob/master/2013/races.txt",
+          "title": "formula1.db/races.txt at master · opensport/formula1.db",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "path": "/opensport/formula1.db/blob/master/leagues.txt",
-          "title": "formula1.db/leagues.txt at master · opensport/formula1.db · GitHub",
-          "count": 3,
-          "uniques": 2
+          "path": "/opensport/formula1.db/blob/master/drivers.txt",
+          "title": "formula1.db/drivers.txt at master · opensport/formula1.db",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "path": "/opensport/formula1.db/search",
-          "title": "Search · formula 1",
-          "count": 3,
-          "uniques": 2
+          "path": "/opensport/formula1.db/blob/master/en.wikipedia.drivers.yml",
+          "title": "formula1.db/en.wikipedia.drivers.yml at master · opensport/formula1.db",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 33,
-          "uniques": 29
+          "count": 31,
+          "uniques": 25
         },
         {
-          "referrer": "datacorner.fr",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "ecosia.org",
+          "referrer": "opensport.github.io",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "DuckDuckGo",
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         }
@@ -1085,6 +1079,72 @@
         "views": {
           "count": 9,
           "uniques": 4
+        }
+      },
+      "2021-04-19": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 15,
+          "uniques": 7
+        }
+      },
+      "2021-04-22": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-04-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-04-25": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-04-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-28": {
+        "views": {
+          "count": 16,
+          "uniques": 6
+        }
+      },
+      "2021-04-30": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-05-01": {
+        "views": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

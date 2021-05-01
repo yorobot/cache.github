@@ -133,6 +133,10 @@
     "2021-04-15": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2021-05-01": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -159,23 +163,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openbookie/sport.db.play",
-          "title": "GitHub - openbookie/sport.db.play: sportdb-play gem - open sports database (s...",
-          "count": 2,
-          "uniques": 2
+          "title": "openbookie/sport.db.play: sportdb-play gem - open sports database (sport.db) ...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb",
+          "title": "sport.db.play/lib/sportdb at master · openbookie/sport.db.play",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play",
+          "title": "sport.db.play/lib/sportdb/play at master · openbookie/sport.db.play",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sport.db.play/tree/master/lib/sportdb/play/models",
+          "title": "sport.db.play/lib/sportdb/play/models at master · openbookie/sport.db.play",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        }
       ]
     },
     "history": {
@@ -359,6 +385,30 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-04-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

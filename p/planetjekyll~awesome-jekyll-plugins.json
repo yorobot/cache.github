@@ -133,24 +133,28 @@
     "2021-04-15": {
       "stargazers_count": 922,
       "forks_count": 64
+    },
+    "2021-05-01": {
+      "stargazers_count": 926,
+      "forks_count": 65
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-01-11T08:28:23Z",
+        "date": "2021-04-24T03:12:00Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-01-11T08:28:23Z",
+        "date": "2021-04-24T03:12:00Z",
         "name": "JT"
       },
-      "message": "docs: update jekyll-deploy-action regularly (#52)\n\nThis commit is for updating jekyll-deploy-action regularly."
+      "message": "docs: update jekyll-spaceship information (#54)"
     }
   ],
-  "size": 168,
-  "updated_at": "2021-04-14T02:18:38Z",
-  "pushed_at": "2021-01-11T08:28:25Z",
+  "size": 169,
+  "updated_at": "2021-04-30T20:00:25Z",
+  "pushed_at": "2021-04-24T03:12:00Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
   "topics": [
@@ -159,8 +163,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 411,
-        "uniques": 236
+        "count": 420,
+        "uniques": 242
       },
       "clones": {
         "count": 5,
@@ -170,14 +174,38 @@
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 367,
-          "uniques": 220
+          "count": 350,
+          "uniques": 230
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
           "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 8,
-          "uniques": 4
+          "count": 9,
+          "uniques": 7
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
+          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/54",
+          "title": "chore: update jekyll-spaceship information by jeffreytse · Pull Request #54 ·...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/53",
+          "title": "Add Jekyll-Twitch to Planet Jekyll by ChaelCodes · Pull Request #53 · planetj...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
@@ -186,32 +214,20 @@
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/0ecf9f28fb2b6ea321f22b8ddb03fd319ab9a98f",
-          "title": "docs: update jekyll-deploy-action regularly (#52) · planetjekyll/awesome-jeky...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare",
+          "title": "Compare · planetjekyll/awesome-jekyll-plugins",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/79a1ed068abcbc955ddf6b250c5099948dbe2521",
-          "title": "Update jekyll-spaceship plugin (#50) · planetjekyll/awesome-jekyll-plugins@79...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...jeffreytse:master",
+          "title": "Comparing planetjekyll:master...jeffreytse:master · planetjekyll/awesome-jeky...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/7ea5b04c32db2d73c12f43ca401e1b81ca743362",
-          "title": "Create NOTES.md · planetjekyll/awesome-jekyll-plugins@7ea5b04",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/ce99d5f5265ee1db71b0dbf4e882eb431c91b93f",
-          "title": "Adding Pug converter plugin · planetjekyll/awesome-jekyll-plugins@ce99d5f",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
-          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins",
+          "path": "/planetjekyll/awesome-jekyll-plugins/graphs/contributors",
+          "title": "Contributors to planetjekyll/awesome-jekyll-plugins",
           "count": 1,
           "uniques": 1
         }
@@ -219,46 +235,46 @@
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 147,
-          "uniques": 116
+          "count": 150,
+          "uniques": 106
         },
         {
           "referrer": "Google",
-          "count": 138,
-          "uniques": 78
+          "count": 126,
+          "uniques": 82
         },
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 8
+          "count": 21,
+          "uniques": 15
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 8,
-          "uniques": 5
-        },
-        {
-          "referrer": "youtube.com",
-          "count": 5,
+          "count": 4,
           "uniques": 4
         },
         {
-          "referrer": "rubyflow.com",
-          "count": 2,
-          "uniques": 2
+          "referrer": "youtube.com",
+          "count": 3,
+          "uniques": 3
         },
         {
           "referrer": "planetjekyll.github.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "jekyllrb-ko.github.io",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "quora.com",
+          "referrer": "talk.jekyllrb.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "learn-the-web.algonquindesign.ca",
+          "referrer": "cn.bing.com",
           "count": 1,
           "uniques": 1
         },
@@ -1352,6 +1368,100 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-04-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-18": {
+        "views": {
+          "count": 45,
+          "uniques": 28
+        }
+      },
+      "2021-04-19": {
+        "views": {
+          "count": 23,
+          "uniques": 19
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 18,
+          "uniques": 15
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 29,
+          "uniques": 20
+        }
+      },
+      "2021-04-22": {
+        "views": {
+          "count": 24,
+          "uniques": 17
+        }
+      },
+      "2021-04-23": {
+        "views": {
+          "count": 43,
+          "uniques": 26
+        }
+      },
+      "2021-04-24": {
+        "views": {
+          "count": 37,
+          "uniques": 21
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-04-25": {
+        "views": {
+          "count": 29,
+          "uniques": 17
+        }
+      },
+      "2021-04-26": {
+        "views": {
+          "count": 32,
+          "uniques": 24
+        }
+      },
+      "2021-04-27": {
+        "views": {
+          "count": 27,
+          "uniques": 18
+        }
+      },
+      "2021-04-28": {
+        "views": {
+          "count": 24,
+          "uniques": 15
+        }
+      },
+      "2021-04-29": {
+        "views": {
+          "count": 26,
+          "uniques": 17
+        }
+      },
+      "2021-04-30": {
+        "views": {
+          "count": 27,
+          "uniques": 22
+        }
+      },
+      "2021-05-01": {
+        "views": {
+          "count": 35,
+          "uniques": 11
         }
       }
     }

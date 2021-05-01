@@ -1,7 +1,7 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2021-04-04T05:57:58Z",
+  "updated_at": "2021-05-01T14:28:48Z",
   "pushed_at": "2021-03-01T22:27:48Z",
   "size": 14854,
   "history": {
@@ -112,6 +112,10 @@
     "2021-04-15": {
       "stargazers_count": 753,
       "forks_count": 86
+    },
+    "2021-05-01": {
+      "stargazers_count": 754,
+      "forks_count": 86
     }
   },
   "commits": [
@@ -149,85 +153,105 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 397,
-        "uniques": 76
+        "count": 323,
+        "uniques": 59
       },
       "clones": {
-        "count": 10,
-        "uniques": 10
+        "count": 26,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/factbook/factbook.json",
           "title": "GitHub - factbook/factbook.json: World Factbook Country Profiles in JSON - Fr...",
-          "count": 121,
-          "uniques": 62
+          "count": 111,
+          "uniques": 52
         },
         {
           "path": "/factbook/factbook.json/tree/master/europe",
           "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
-          "count": 34,
-          "uniques": 12
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/africa",
-          "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
-          "count": 14,
-          "uniques": 13
+          "count": 18,
+          "uniques": 10
         },
         {
           "path": "/factbook/factbook.json/tree/master/world",
           "title": "factbook.json/world at master · factbook/factbook.json · GitHub",
-          "count": 12,
-          "uniques": 9
+          "count": 14,
+          "uniques": 10
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/world/xx.json",
+          "title": "factbook.json/xx.json at master · factbook/factbook.json · GitHub",
+          "count": 11,
+          "uniques": 8
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/africa",
+          "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
+          "count": 10,
+          "uniques": 7
         },
         {
           "path": "/factbook/factbook.json/tree/master/north-america",
           "title": "factbook.json/north-america at master · factbook/factbook.json · GitHub",
-          "count": 10,
-          "uniques": 9
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/world/xx.json",
-          "title": "factbook.json/xx.json at master · factbook/factbook.json",
-          "count": 7,
-          "uniques": 7
+          "count": 9,
+          "uniques": 4
         },
         {
           "path": "/factbook/factbook.json/blob/master/north-america/us.json",
           "title": "factbook.json/us.json at master · factbook/factbook.json · GitHub",
           "count": 7,
-          "uniques": 6
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/europe/gm.json",
-          "title": "factbook.json/gm.json at master · factbook/factbook.json · GitHub",
-          "count": 7,
           "uniques": 2
         },
         {
-          "path": "/factbook/factbook.json/tree/master/meta",
-          "title": "factbook.json/meta at master · factbook/factbook.json · GitHub",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/factbook/factbook.json/issues",
-          "title": "Issues · factbook/factbook.json · GitHub",
+          "path": "/factbook/factbook.json/tree/master/middle-east",
+          "title": "factbook.json/middle-east at master · factbook/factbook.json · GitHub",
           "count": 5,
           "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/africa/cd.json",
+          "title": "factbook.json/cd.json at master · factbook/factbook.json",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/north-america/ca.json",
+          "title": "factbook.json/ca.json at master · factbook/factbook.json · GitHub",
+          "count": 5,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 41,
-          "uniques": 29
+          "referrer": "Google",
+          "count": 34,
+          "uniques": 20
         },
         {
-          "referrer": "Google",
-          "count": 36,
-          "uniques": 21
+          "referrer": "github.com",
+          "count": 28,
+          "uniques": 22
+        },
+        {
+          "referrer": "kaggle.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "opendata.stackexchange.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "e4developer.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "StartPage",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "reddit.com",
@@ -235,22 +259,12 @@
           "uniques": 1
         },
         {
-          "referrer": "kaggle.com",
+          "referrer": "roamresearch.com",
           "count": 1,
           "uniques": 1
         },
         {
           "referrer": "mail01.tinyletterapp.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "mail.google.com",
           "count": 1,
           "uniques": 1
         }
@@ -1395,6 +1409,106 @@
         "views": {
           "count": 55,
           "uniques": 10
+        }
+      },
+      "2021-04-18": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2021-04-19": {
+        "views": {
+          "count": 40,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 33,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-04-21": {
+        "views": {
+          "count": 23,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 22,
+          "uniques": 2
+        }
+      },
+      "2021-04-22": {
+        "views": {
+          "count": 25,
+          "uniques": 5
+        }
+      },
+      "2021-04-23": {
+        "views": {
+          "count": 49,
+          "uniques": 8
+        }
+      },
+      "2021-04-24": {
+        "views": {
+          "count": 15,
+          "uniques": 7
+        }
+      },
+      "2021-04-25": {
+        "views": {
+          "count": 25,
+          "uniques": 8
+        }
+      },
+      "2021-04-26": {
+        "views": {
+          "count": 22,
+          "uniques": 6
+        }
+      },
+      "2021-04-27": {
+        "views": {
+          "count": 31,
+          "uniques": 6
+        }
+      },
+      "2021-04-28": {
+        "views": {
+          "count": 12,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-29": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-04-30": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
+      },
+      "2021-05-01": {
+        "views": {
+          "count": 24,
+          "uniques": 2
         }
       }
     }

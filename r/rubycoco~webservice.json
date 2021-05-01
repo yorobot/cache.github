@@ -106,6 +106,10 @@
     "2021-04-15": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2021-05-01": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -130,22 +134,50 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/rubycoco/webservice",
           "title": "rubycoco/webservice: webservice gem - yet another HTTP JSON API (web service)...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycoco/webservice/blob/master/lib/webservice/metal.rb",
+          "title": "webservice/metal.rb at master · rubycoco/webservice",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webservice/tree/master/lib",
+          "title": "webservice/lib at master · rubycoco/webservice",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webservice/tree/master/lib/webservice",
+          "title": "webservice/lib/webservice at master · rubycoco/webservice",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
         {
           "referrer": "rubygems.org",
           "count": 1,
@@ -276,6 +308,18 @@
       },
       "2021-04-05": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-04-20": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-04-23": {
+        "views": {
           "count": 1,
           "uniques": 1
         }
