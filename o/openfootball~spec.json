@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/spec",
   "created_at": "2014-06-29T22:02:07Z",
-  "updated_at": "2020-07-24T18:15:29Z",
-  "pushed_at": "2020-07-24T18:15:27Z",
-  "size": 45,
+  "updated_at": "2021-05-05T09:04:29Z",
+  "pushed_at": "2021-05-05T09:04:27Z",
+  "size": 48,
   "history": {
     "2020-09-14": {
       "stargazers_count": 2
@@ -86,19 +86,23 @@
     "2021-05-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2021-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-07-24T18:15:13Z",
-        "name": "Gerald Bauer"
+        "date": "2021-05-05T09:04:27Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2020-07-24T18:15:13Z",
+        "date": "2021-05-05T09:04:27Z",
         "name": "Gerald Bauer"
       },
-      "message": "up tests"
+      "message": "Update README.md"
     }
   ],
   "description": "Football.TXT Format Spec (& Tests)",
@@ -109,84 +113,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 24,
-        "uniques": 2
+        "count": 28,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/openfootball/spec/tree/master/docs",
-          "title": "spec/docs at master · openfootball/spec · GitHub",
-          "count": 5,
+          "path": "/openfootball/spec",
+          "title": "openfootball/spec: Football.TXT Format Spec (& Tests)",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openfootball/spec",
-          "title": "GitHub - openfootball/spec: Football.TXT Format Spec (& Tests)",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/spec/tree/master/tests/match_auto",
-          "title": "spec/tests/match_auto at master · openfootball/spec · GitHub",
+          "path": "/openfootball/spec/tree/master/more",
+          "title": "spec/more at master · openfootball/spec",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/spec/blob/master/docs/_config.yml",
-          "title": "spec/_config.yml at master · openfootball/spec · GitHub",
+          "path": "/openfootball/spec/blob/master/more/README.md",
+          "title": "spec/README.md at master · openfootball/spec",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/spec/blob/master/docs/README.md",
-          "title": "spec/README.md at master · openfootball/spec · GitHub",
+          "path": "/openfootball/spec/edit/master/more/README.md",
+          "title": "Editing spec/README.md at master · openfootball/spec",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/spec/blob/master/LICENSE.md",
-          "title": "spec/LICENSE.md at master · openfootball/spec · GitHub",
+          "path": "/openfootball/spec/new/master",
+          "title": "New File",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/spec/blob/master/NOTES.md",
-          "title": "spec/NOTES.md at master · openfootball/spec · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/spec/blob/master/tests/conf/at_champs.txt",
-          "title": "spec/at_champs.txt at master · openfootball/spec · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/spec/blob/master/tests/match_auto/champs_group.txt",
-          "title": "spec/champs_group.txt at master · openfootball/spec · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/spec/blob/master/tests/match_auto/euro_2016.txt",
-          "title": "spec/euro_2016.txt at master · openfootball/spec · GitHub",
+          "path": "/openfootball/spec/tree/master/docs",
+          "title": "spec/docs at master · openfootball/spec",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -326,6 +301,22 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-05-05": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 7
+        }
+      },
+      "2021-05-15": {
+        "views": {
+          "count": 19,
+          "uniques": 2
         }
       }
     }

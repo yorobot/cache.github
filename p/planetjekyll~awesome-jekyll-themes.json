@@ -137,24 +137,28 @@
     "2021-05-01": {
       "stargazers_count": 415,
       "forks_count": 33
+    },
+    "2021-05-15": {
+      "stargazers_count": 418,
+      "forks_count": 37
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-01-14T15:07:13Z",
+        "date": "2021-05-09T06:44:25Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-01-14T15:07:13Z",
-        "name": "Songzi Vong"
+        "date": "2021-05-09T06:44:25Z",
+        "name": "Abhinav Saxena"
       },
-      "message": "Add Jekyll theme Scaffold (#27)"
+      "message": "Add Moonwalk (#29)"
     }
   ],
-  "size": 38,
-  "updated_at": "2021-04-30T20:00:26Z",
-  "pushed_at": "2021-01-14T15:07:14Z",
+  "size": 43,
+  "updated_at": "2021-05-13T18:17:10Z",
+  "pushed_at": "2021-05-09T06:44:25Z",
   "description": "A collection of awesome (gem-packaged) Jekyll themes - Add your theme!",
   "language": null,
   "topics": [
@@ -163,76 +167,124 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 300,
-        "uniques": 108
+        "count": 301,
+        "uniques": 133
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-themes",
           "title": "planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Je...",
-          "count": 236,
-          "uniques": 86
+          "count": 220,
+          "uniques": 111
         },
         {
           "path": "/planetjekyll/awesome-jekyll-themes/blob/master/README.md",
           "title": "awesome-jekyll-themes/README.md at master · planetjekyll/awesome-jekyll-themes",
-          "count": 25,
-          "uniques": 18
+          "count": 27,
+          "uniques": 19
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/28",
+          "title": "Fix broken link by atb033 · Pull Request #28 · planetjekyll/awesome-jekyll-th...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/29",
+          "title": "Add Moonwalk by abhinavs · Pull Request #29 · planetjekyll/awesome-jekyll-the...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/edit/master/README.md",
+          "title": "Editing awesome-jekyll-themes/README.md at master · planetjekyll/awesome-jeky...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-themes",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/28/checks",
+          "title": "Fix broken link by atb033 · Pull Request #28 · planetjekyll/awesome-jekyll-th...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/compare/master...atb033:patch-1",
+          "title": "Comparing planetjekyll:master...atb033:patch-1 · planetjekyll/awesome-jekyll-...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/compare/planetjekyll:master...atb033:patch-1",
+          "title": "Comparing planetjekyll:master...atb033:patch-1 · planetjekyll/awesome-jekyll-...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-themes/pull/28/commits",
+          "title": "Fix broken link by atb033 · Pull Request #28 · planetjekyll/awesome-jekyll-th...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 170,
-          "uniques": 59
-        },
-        {
-          "referrer": "github.community",
-          "count": 25,
-          "uniques": 12
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 19,
-          "uniques": 15
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 8,
-          "uniques": 4
+          "count": 154,
+          "uniques": 73
         },
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 4
+          "count": 40,
+          "uniques": 22
         },
         {
-          "referrer": "amp.reddit.com",
-          "count": 5,
-          "uniques": 2
+          "referrer": "reddit.com",
+          "count": 22,
+          "uniques": 15
         },
         {
-          "referrer": "Bing",
-          "count": 3,
-          "uniques": 2
+          "referrer": "github.community",
+          "count": 11,
+          "uniques": 5
         },
         {
           "referrer": "rubyflow.com",
-          "count": 3,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "ctolib.com",
-          "count": 2,
+          "referrer": "web-work.tools",
+          "count": 1,
           "uniques": 1
         },
         {
           "referrer": "paikwiki.github.io",
-          "count": 2,
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "StartPage",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "amp-reddit-com.cdn.ampproject.org",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1362,6 +1414,102 @@
         "views": {
           "count": 39,
           "uniques": 7
+        }
+      },
+      "2021-05-02": {
+        "views": {
+          "count": 30,
+          "uniques": 6
+        }
+      },
+      "2021-05-03": {
+        "views": {
+          "count": 19,
+          "uniques": 10
+        }
+      },
+      "2021-05-04": {
+        "views": {
+          "count": 21,
+          "uniques": 11
+        }
+      },
+      "2021-05-05": {
+        "views": {
+          "count": 12,
+          "uniques": 9
+        }
+      },
+      "2021-05-06": {
+        "views": {
+          "count": 29,
+          "uniques": 11
+        }
+      },
+      "2021-05-07": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-08": {
+        "views": {
+          "count": 47,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-05-09": {
+        "views": {
+          "count": 18,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-05-10": {
+        "views": {
+          "count": 22,
+          "uniques": 12
+        }
+      },
+      "2021-05-11": {
+        "views": {
+          "count": 15,
+          "uniques": 10
+        }
+      },
+      "2021-05-12": {
+        "views": {
+          "count": 16,
+          "uniques": 10
+        }
+      },
+      "2021-05-13": {
+        "views": {
+          "count": 19,
+          "uniques": 10
+        }
+      },
+      "2021-05-14": {
+        "views": {
+          "count": 14,
+          "uniques": 8
+        }
+      },
+      "2021-05-15": {
+        "views": {
+          "count": 33,
+          "uniques": 11
         }
       }
     }

@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/webclient",
   "created_at": "2012-06-02T20:09:04Z",
-  "updated_at": "2021-04-05T10:59:11Z",
-  "pushed_at": "2021-04-05T10:59:09Z",
-  "size": 42,
+  "updated_at": "2021-05-13T18:08:14Z",
+  "pushed_at": "2021-05-13T18:08:12Z",
+  "size": 44,
   "history": {
     "2020-10-09": {
       "stargazers_count": 5
@@ -83,19 +83,23 @@
     "2021-05-01": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2021-05-15": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-04-05T10:59:02Z",
-        "name": "Gerald Bauer"
+        "date": "2021-05-13T18:08:12Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2021-04-05T10:59:02Z",
+        "date": "2021-05-13T18:08:12Z",
         "name": "Gerald Bauer"
       },
-      "message": "add post"
+      "message": "Update NOTES.md"
     }
   ],
   "description": "web command line tools, libraries & scripts",
@@ -107,29 +111,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
+        "count": 28,
         "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/rubycoco/webclient",
           "title": "rubycoco/webclient: web command line tools, libraries & scripts",
-          "count": 4,
+          "count": 5,
           "uniques": 3
         },
         {
-          "path": "/rubycoco/webclient/blob/master/README.md",
-          "title": "webclient/README.md at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
+          "path": "/rubycoco/webclient/tree/master/webget",
+          "title": "webclient/webget at master · rubycoco/webclient",
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/rubycoco/webclient/blob/master/webget/lib/webget.rb",
           "title": "webclient/webget.rb at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webget/lib",
+          "title": "webclient/webget/lib at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webget/lib/webget",
+          "title": "webclient/webget/lib/webget at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webget/NOTES.md",
+          "title": "webclient/NOTES.md at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webget/sandbox/test.rb",
+          "title": "webclient/test.rb at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webget/sandbox",
+          "title": "webclient/webget/sandbox at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient/webclient.rb",
+          "title": "webclient/webclient.rb at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
         },
@@ -138,40 +178,16 @@
           "title": "webclient/webget.rb at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/fetcher",
-          "title": "webclient/fetcher at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webget",
-          "title": "webclient/webget at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webget/lib",
-          "title": "webclient/webget/lib at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webget/lib/webget",
-          "title": "webclient/webget/lib/webget at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubygems.org",
+          "referrer": "github.com",
           "count": 3,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -689,6 +705,40 @@
       "2021-04-24": {
         "views": {
           "count": 6,
+          "uniques": 1
+        }
+      },
+      "2021-05-10": {
+        "views": {
+          "count": 14,
+          "uniques": 2
+        }
+      },
+      "2021-05-11": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-05-12": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-05-13": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-07": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

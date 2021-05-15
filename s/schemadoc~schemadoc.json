@@ -137,6 +137,10 @@
     "2021-05-01": {
       "stargazers_count": 57,
       "forks_count": 1
+    },
+    "2021-05-15": {
+      "stargazers_count": 57,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -163,24 +167,103 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 103,
+        "uniques": 6
       },
       "clones": {
-        "count": 14,
-        "uniques": 4
+        "count": 16,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/schemadoc/schemadoc",
           "title": "schemadoc/schemadoc: schemadoc gem - document your database schemas",
-          "count": 2,
+          "count": 25,
+          "uniques": 6
+        },
+        {
+          "path": "/schemadoc/schemadoc/tree/master/lib/schemadoc",
+          "title": "schemadoc/lib/schemadoc at master · schemadoc/schemadoc",
+          "count": 18,
           "uniques": 2
+        },
+        {
+          "path": "/schemadoc/schemadoc/tree/master/lib",
+          "title": "schemadoc/lib at master · schemadoc/schemadoc",
+          "count": 13,
+          "uniques": 2
+        },
+        {
+          "path": "/schemadoc/schemadoc/blob/master/lib/schemadoc/worker.rb",
+          "title": "schemadoc/worker.rb at master · schemadoc/schemadoc",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/schemadoc/schemadoc/tree/master/lib/schemadoc/cli",
+          "title": "schemadoc/lib/schemadoc/cli at master · schemadoc/schemadoc",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/schemadoc/schemadoc/blob/master/lib/schemadoc/cli/runner.rb",
+          "title": "schemadoc/runner.rb at master · schemadoc/schemadoc",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/schemadoc/schemadoc/blob/master/lib/schemadoc.rb",
+          "title": "schemadoc/schemadoc.rb at master · schemadoc/schemadoc",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/schemadoc/schemadoc/tree/master/bin",
+          "title": "schemadoc/bin at master · schemadoc/schemadoc",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/schemadoc/schemadoc/search",
+          "title": "Search · MODULES",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/schemadoc/schemadoc/blob/master/bin/schemadoc",
+          "title": "schemadoc/schemadoc at master · schemadoc/schemadoc",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "rubydoc.info",
+          "count": 9,
+          "uniques": 2
+        },
+        {
           "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -1070,6 +1153,114 @@
         }
       },
       "2021-05-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-11": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-14": {
+        "views": {
+          "count": 96,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-03": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-05-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-05-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-15": {
         "clones": {
           "count": 1,
           "uniques": 1

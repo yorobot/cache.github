@@ -137,24 +137,28 @@
     "2021-05-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-04-25T17:20:01Z",
+        "date": "2021-05-05T07:20:55Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-04-25T17:20:01Z",
+        "date": "2021-05-05T07:20:55Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 2106,
-  "updated_at": "2021-04-25T17:20:12Z",
-  "pushed_at": "2021-04-25T17:20:10Z",
+  "size": 2494,
+  "updated_at": "2021-05-05T07:21:15Z",
+  "pushed_at": "2021-05-05T07:21:13Z",
   "description": "Misc. Sources, Scripts, Templates and More",
   "language": "JavaScript",
   "topics": [
@@ -163,47 +167,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 1
+        "count": 18,
+        "uniques": 2
       },
       "clones": {
-        "count": 10,
-        "uniques": 10
+        "count": 14,
+        "uniques": 13
       },
       "paths": [
         {
-          "path": "/geraldb/sandbox/tree/master/playhtml",
-          "title": "sandbox/playhtml at master · geraldb/sandbox",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/tree/master/playhtml/weather",
-          "title": "sandbox/playhtml/weather at master · geraldb/sandbox",
-          "count": 3,
-          "uniques": 1
-        },
-        {
           "path": "/geraldb/sandbox",
-          "title": "geraldb/sandbox: Misc. Sources, Scripts, Templates and More",
-          "count": 2,
+          "title": "GitHub - geraldb/sandbox: Misc. Sources, Scripts, Templates and More",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/playhtml/memory",
+          "title": "sandbox/playhtml/memory at master · geraldb/sandbox",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/tree/master/playhtml/weather/react",
-          "title": "sandbox/playhtml/weather/react at master · geraldb/sandbox",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/sandbox/tree/master/playhtml/weather/data",
-          "title": "sandbox/playhtml/weather/data at master · geraldb/sandbox",
+          "path": "/geraldb/sandbox/blob/master/playhtml/memory/LICENSE.md",
+          "title": "sandbox/LICENSE.md at master · geraldb/sandbox",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/geraldb/sandbox/tree/master/playhtml/weather/react/src",
-          "title": "sandbox/playhtml/weather/react/src at master · geraldb/sandbox",
+          "path": "/geraldb/sandbox/blob/master/playhtml/memory/NOTES.md",
+          "title": "sandbox/NOTES.md at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/commit/8ede5e3c8f0ad67a5230eba00671a521063b758a",
+          "title": "add memory · geraldb/sandbox@8ede5e3",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/commits/master",
+          "title": "Commits · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/delete/master/playhtml/memory/LICENSE.md",
+          "title": "Deleting sandbox/LICENSE.md at master · geraldb/sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/awesome",
+          "title": "sandbox/awesome at master · geraldb/sandbox · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/football.json",
+          "title": "sandbox/football.json at master · geraldb/sandbox · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/sandbox/tree/master/iui-roomie",
+          "title": "sandbox/iui-roomie at master · geraldb/sandbox · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -211,8 +239,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 2
         }
       ]
     },
@@ -504,16 +532,51 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-05-04": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2021-05-12": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-05-05": {
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2021-05-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "JavaScript": 3063711,
+    "JavaScript": 5719337,
     "Ruby": 118745,
-    "HTML": 83238,
-    "CSS": 23509,
+    "HTML": 93349,
+    "CSS": 26683,
     "Java": 12652,
     "C#": 11642,
+    "Elm": 8512,
     "Batchfile": 180
   }
 }
