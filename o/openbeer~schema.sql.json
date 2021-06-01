@@ -141,6 +141,10 @@
     "2021-05-15": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2021-06-01": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -167,35 +171,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 4
+        "count": 19,
+        "uniques": 6
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/openbeer/schema.sql",
-          "title": "GitHub - openbeer/schema.sql: beer.db database schema (tables, views, etc.) s...",
-          "count": 4,
+          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql · GitHub",
+          "count": 8,
           "uniques": 4
         },
         {
-          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
-          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql · GitHub",
+          "path": "/openbeer/schema.sql",
+          "title": "openbeer/schema.sql: beer.db database schema (tables, views, etc.) scripts (i...",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/openbeer/schema.sql/blob/master/README.md",
+          "title": "schema.sql/README.md at master · openbeer/schema.sql · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema.sql/branches",
+          "title": "Branches · openbeer/schema.sql",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 2,
+          "referrer": "Google",
+          "count": 3,
           "uniques": 2
         },
         {
-          "referrer": "Google",
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -621,6 +637,36 @@
       "2021-05-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-19": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-05-21": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        }
+      },
+      "2021-05-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-05-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-01": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

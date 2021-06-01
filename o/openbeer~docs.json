@@ -130,6 +130,10 @@
     "2021-05-15": {
       "stargazers_count": 10,
       "forks_count": 1
+    },
+    "2021-06-01": {
+      "stargazers_count": 10,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -155,43 +159,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 31,
+        "count": 60,
         "uniques": 11
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openbeer/docs",
           "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
-          "count": 10,
-          "uniques": 8
+          "count": 34,
+          "uniques": 11
         },
         {
           "path": "/openbeer/docs/blob/master/BEERS.md",
           "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
-          "count": 5,
-          "uniques": 5
+          "count": 17,
+          "uniques": 10
+        },
+        {
+          "path": "/openbeer/docs/blob/master/BREWERIES.md",
+          "title": "docs/BREWERIES.md at master · openbeer/docs · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openbeer/docs/blob/master/README.md",
           "title": "docs/README.md at master · openbeer/docs · GitHub",
           "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/docs/commit/256e9e65d976783e9c6807d75d396a70ae442ce4",
+          "title": "Update BEERS.md · openbeer/docs@256e9e6",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openbeer.github.io",
-          "count": 5,
-          "uniques": 5
+          "referrer": "github.com",
+          "count": 11,
+          "uniques": 6
         },
         {
-          "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "referrer": "openbeer.github.io",
+          "count": 11,
+          "uniques": 5
         }
       ]
     },
@@ -748,6 +764,54 @@
         "views": {
           "count": 14,
           "uniques": 3
+        }
+      },
+      "2021-05-19": {
+        "views": {
+          "count": 15,
+          "uniques": 3
+        }
+      },
+      "2021-05-22": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2021-05-24": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2021-05-31": {
+        "views": {
+          "count": 23,
+          "uniques": 3
+        }
+      },
+      "2021-06-01": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-05-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-26": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

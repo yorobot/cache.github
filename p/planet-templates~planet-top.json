@@ -141,44 +141,99 @@
     "2021-05-15": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2021-06-01": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-04-15T15:56:19Z",
+        "date": "2021-05-20T18:00:07Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-04-15T15:56:19Z",
-        "name": "Gerald Bauer"
+        "date": "2021-05-20T18:00:07Z",
+        "name": "Hritik Vijay"
       },
-      "message": "fix/ upgrade in_columns"
+      "message": "Responsive parent table (#2)\n\nMake the parent table lose grid view on devices less that 1000px width.\r\nOn mobile phones the grid layout didn't appear very friendly.\r\n\r\nSigned-off-by: Hritik Vijay <hritikxx8@gmail.com>"
     }
   ],
-  "size": 95,
-  "updated_at": "2020-08-17T13:25:08Z",
-  "pushed_at": "2020-04-15T15:56:20Z",
+  "size": 96,
+  "updated_at": "2021-05-20T18:00:52Z",
+  "pushed_at": "2021-05-20T18:00:07Z",
   "description": "top - planet template pack",
   "language": "HTML",
   "topics": [
-
+    "planet",
+    "pluto"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 31,
+        "uniques": 11
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
-
+        {
+          "path": "/planet-templates/planet-top/pull/2",
+          "title": "Responsive parent table by Hritik14 · Pull Request #2 · planet-templates/plan...",
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "path": "/planet-templates/planet-top",
+          "title": "planet-templates/planet-top: top - planet template pack",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/planet-templates/planet-top/pull/2/files",
+          "title": "Responsive parent table by Hritik14 · Pull Request #2 · planet-templates/plan...",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/planet-templates/planet-top/pull/2/commits",
+          "title": "Responsive parent table by Hritik14 · Pull Request #2 · planet-templates/plan...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planet-templates/planet-top/pull/2/commits/b5ef0daef7d7bca19488ce2acd21969a7519b49b",
+          "title": "Responsive parent table by Hritik14 · Pull Request #2 · planet-templates/plan...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planet-templates/planet-top/commit/3e029b781ea2c5b46237d3e5561e0a14c9cd5a8d",
+          "title": "Responsive parent table (#2) · planet-templates/planet-top@3e029b7 · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-top/pulls",
+          "title": "Pull requests · planet-templates/planet-top",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -287,11 +342,39 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-05-20": {
+        "views": {
+          "count": 23,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-05-21": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-05-26": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-06-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 1882,
-    "CSS": 547
+    "HTML": 1826,
+    "CSS": 759
   }
 }

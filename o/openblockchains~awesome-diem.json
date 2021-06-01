@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/awesome-diem",
   "created_at": "2017-09-23T17:19:36Z",
-  "updated_at": "2021-05-13T16:24:00Z",
+  "updated_at": "2021-05-24T08:45:12Z",
   "pushed_at": "2021-05-13T16:23:57Z",
   "size": 2286,
   "description": "A collection about all things Diem (formerly Libra), Move & Facebook Zuckerbucks - Let's reinvent money with fast and cheap world-wide transfers; let's bank the 1.7 billion unbanked, ...",
@@ -58,6 +58,10 @@
     "2021-05-15": {
       "stargazers_count": 48,
       "forks_count": 20
+    },
+    "2021-06-01": {
+      "stargazers_count": 49,
+      "forks_count": 21
     }
   },
   "commits": [
@@ -90,37 +94,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 49,
-        "uniques": 23
+        "count": 34,
+        "uniques": 18
       },
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-diem",
           "title": "openblockchains/awesome-diem: A collection about all things Diem (formerly Li...",
-          "count": 30,
-          "uniques": 20
+          "count": 22,
+          "uniques": 17
         },
         {
-          "path": "/openblockchains/awesome-diem/blob/master/README.md",
-          "title": "awesome-diem/README.md at master · openblockchains/awesome-diem",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/awesome-diem/edit/master/README.md",
-          "title": "Editing awesome-diem/README.md at master · openblockchains/awesome-diem",
-          "count": 4,
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/address.mvir",
+          "title": "awesome-diem/address.mvir at master · openblockchains/awesome-diem",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/awesome-diem/tree/master/contracts",
-          "title": "awesome-diem/contracts at master · openblockchains/awesome-diem",
-          "count": 2,
-          "uniques": 2
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/balance.mvir",
+          "title": "awesome-diem/balance.mvir at master · openblockchains/awesome-diem",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/create_account.mvir",
+          "title": "awesome-diem/create_account.mvir at master · openblockchains/awesome-diem",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/mint.mvir",
+          "title": "awesome-diem/mint.mvir at master · openblockchains/awesome-diem",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/p2p_payment.mvir",
+          "title": "awesome-diem/p2p_payment.mvir at master · openblockchains/awesome-diem",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/transfer.mvir",
+          "title": "awesome-diem/transfer.mvir at master · openblockchains/awesome-diem",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/openblockchains/awesome-diem/blob/master/i/libra-mainnet-milestones.png",
@@ -129,26 +151,14 @@
           "uniques": 1
         },
         {
-          "path": "/openblockchains/awesome-diem/issues",
-          "title": "Issues · openblockchains/awesome-diem",
+          "path": "/openblockchains/awesome-diem/blob/master/i/move-architecture.png",
+          "title": "awesome-diem/move-architecture.png at master · openblockchains/awesome-diem",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/awesome-diem/pulls",
-          "title": "Pull requests · openblockchains/awesome-diem",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/awesome-diem/tree/master/contracts/snippets",
-          "title": "awesome-diem/contracts/snippets at master · openblockchains/awesome-diem",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/awesome-diem/tree/master/i",
-          "title": "awesome-diem/i at master · openblockchains/awesome-diem",
+          "path": "/openblockchains/awesome-diem/search",
+          "title": "Search · diem",
           "count": 1,
           "uniques": 1
         }
@@ -161,23 +171,8 @@
         },
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "referrer": "githubmemory.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "Baidu",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "yukimotopress.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 9,
+          "uniques": 7
         }
       ]
     },
@@ -1019,6 +1014,88 @@
         }
       },
       "2021-05-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-19": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-20": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-05-21": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        }
+      },
+      "2021-05-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-24": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-25": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-05-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-31": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-05-30": {
         "clones": {
           "count": 1,
           "uniques": 1

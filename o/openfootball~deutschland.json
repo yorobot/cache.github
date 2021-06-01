@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/deutschland",
   "created_at": "2013-05-20T08:24:36Z",
-  "updated_at": "2020-12-01T05:01:14Z",
+  "updated_at": "2021-05-31T05:47:49Z",
   "pushed_at": "2020-12-01T05:01:12Z",
   "size": 2235,
   "history": {
@@ -96,6 +96,10 @@
     "2021-05-15": {
       "stargazers_count": 58,
       "forks_count": 19
+    },
+    "2021-06-01": {
+      "stargazers_count": 60,
+      "forks_count": 19
     }
   },
   "commits": [
@@ -127,90 +131,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 129,
-        "uniques": 29
+        "count": 210,
+        "uniques": 44
       },
       "clones": {
-        "count": 10,
-        "uniques": 7
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openfootball/deutschland",
           "title": "openfootball/deutschland: Free open public domain football data for Germany (...",
-          "count": 43,
-          "uniques": 24
+          "count": 58,
+          "uniques": 32
         },
         {
           "path": "/openfootball/deutschland/tree/master/2020-21",
           "title": "deutschland/2020-21 at master · openfootball/deutschland · GitHub",
-          "count": 22,
-          "uniques": 12
+          "count": 32,
+          "uniques": 21
         },
         {
           "path": "/openfootball/deutschland/blob/master/2020-21/1-bundesliga.txt",
           "title": "deutschland/1-bundesliga.txt at master · openfootball/deutschland · GitHub",
-          "count": 13,
-          "uniques": 9
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/2019-20/1-bundesliga.txt",
-          "title": "deutschland/1-bundesliga.txt at master · openfootball/deutschland · GitHub",
-          "count": 5,
-          "uniques": 3
+          "count": 16,
+          "uniques": 13
         },
         {
           "path": "/openfootball/deutschland/tree/master/2019-20",
           "title": "deutschland/2019-20 at master · openfootball/deutschland · GitHub",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/clubs",
+          "title": "deutschland/clubs at master · openfootball/deutschland · GitHub",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/archive",
+          "title": "deutschland/archive at master · openfootball/deutschland · GitHub",
           "count": 5,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/2020-21/3-liga3.txt",
-          "title": "deutschland/3-liga3.txt at master · openfootball/deutschland · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/2020-21/cup.txt",
-          "title": "deutschland/cup.txt at master · openfootball/deutschland · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/2020-21/2-bundesliga2.txt",
-          "title": "deutschland/2-bundesliga2.txt at master · openfootball/deutschland · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/clubs/1-names/kicker.yml",
-          "title": "deutschland/kicker.yml at master · openfootball/deutschland · GitHub",
-          "count": 2,
-          "uniques": 2
+          "uniques": 4
         },
         {
           "path": "/openfootball/deutschland/blob/master/clubs/clubs.props.txt",
           "title": "deutschland/clubs.props.txt at master · openfootball/deutschland · GitHub",
-          "count": 2,
-          "uniques": 2
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/.build",
+          "title": "deutschland/.build at master · openfootball/deutschland · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/deutschland/tree/master/clubs/1-names",
+          "title": "deutschland/clubs/1-names at master · openfootball/deutschland · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/deutschland/pulls",
+          "title": "Pull requests · openfootball/deutschland · GitHub",
+          "count": 4,
+          "uniques": 4
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 26,
-          "uniques": 18
+          "count": 34,
+          "uniques": 24
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 5
+          "count": 18,
+          "uniques": 12
         },
         {
           "referrer": "Google",
-          "count": 5,
+          "count": 4,
           "uniques": 4
+        },
+        {
+          "referrer": "npm.io",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1609,6 +1618,102 @@
         "views": {
           "count": 10,
           "uniques": 2
+        }
+      },
+      "2021-05-19": {
+        "views": {
+          "count": 18,
+          "uniques": 3
+        }
+      },
+      "2021-05-20": {
+        "views": {
+          "count": 18,
+          "uniques": 6
+        }
+      },
+      "2021-05-21": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2021-05-22": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-23": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2021-05-24": {
+        "views": {
+          "count": 57,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-05-25": {
+        "views": {
+          "count": 21,
+          "uniques": 7
+        }
+      },
+      "2021-05-26": {
+        "views": {
+          "count": 16,
+          "uniques": 5
+        }
+      },
+      "2021-05-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-05-28": {
+        "views": {
+          "count": 24,
+          "uniques": 2
+        }
+      },
+      "2021-05-29": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2021-05-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-31": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-06-01": {
+        "views": {
+          "count": 8,
+          "uniques": 4
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "full_name": "s6ruby/ethereum-contracts",
   "created_at": "2015-11-22T21:38:58Z",
-  "updated_at": "2020-03-17T23:19:25Z",
+  "updated_at": "2021-05-24T07:29:41Z",
   "pushed_at": "2019-08-06T08:01:42Z",
   "size": 89,
   "history": {
@@ -105,6 +105,10 @@
     "2021-05-15": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2021-06-01": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -128,59 +132,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 16,
-        "uniques": 7
+        "count": 36,
+        "uniques": 12
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 7,
-          "uniques": 7
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
-          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 2,
-          "uniques": 2
+          "count": 18,
+          "uniques": 11
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
           "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GodsUnchained.sol",
+          "title": "ethereum-contracts/GodsUnchained.sol at master · s6ruby/ethereum-contracts",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
+          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
-          "title": "ethereum-contracts/FckDice.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/PonziGovernmental.sol",
-          "title": "ethereum-contracts/PonziGovernmental.sol at master · s6ruby/ethereum-contract...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/PyramidGame.sol",
-          "title": "ethereum-contracts/PyramidGame.sol at master · s6ruby/ethereum-contracts · Gi...",
-          "count": 1,
-          "uniques": 1
+          "path": "/s6ruby/ethereum-contracts/blob/master/KingOfTheEtherThrone.sol",
+          "title": "ethereum-contracts/KingOfTheEtherThrone.sol at master · s6ruby/ethereum-contr...",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/SimplePonzi.sol",
-          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts · Gi...",
+          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/CryptoPunksMarket.sol",
+          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contract...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePyramid.sol",
-          "title": "ethereum-contracts/SimplePyramid.sol at master · s6ruby/ethereum-contracts · ...",
+          "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
+          "title": "ethereum-contracts/FckDice.sol at master · s6ruby/ethereum-contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
+          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts",
           "count": 1,
           "uniques": 1
         }
@@ -188,11 +198,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 6,
-          "uniques": 6
+          "count": 17,
+          "uniques": 10
         },
         {
-          "referrer": "Google",
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -727,6 +737,58 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-05-20": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-05-21": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-05-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-05-24": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        }
+      },
+      "2021-05-28": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-05-30": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

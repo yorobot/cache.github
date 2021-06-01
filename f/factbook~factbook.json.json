@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2021-05-01T14:28:48Z",
-  "pushed_at": "2021-03-01T22:27:48Z",
-  "size": 14854,
+  "updated_at": "2021-05-28T07:21:51Z",
+  "pushed_at": "2021-05-23T14:40:48Z",
+  "size": 16485,
   "history": {
     "2018-04-08": {
       "stargazers_count": 547
@@ -120,19 +120,23 @@
     "2021-05-15": {
       "stargazers_count": 754,
       "forks_count": 86
+    },
+    "2021-06-01": {
+      "stargazers_count": 757,
+      "forks_count": 86
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-03-01T22:27:45Z",
+        "date": "2021-05-23T14:40:46Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2021-03-01T22:27:45Z",
+        "date": "2021-05-23T14:40:46Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 9"
+      "message": "auto-update week 20"
     }
   ],
   "description": "World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)",
@@ -157,93 +161,113 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 194,
-        "uniques": 53
+        "count": 253,
+        "uniques": 67
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 13,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/factbook/factbook.json",
           "title": "GitHub - factbook/factbook.json: World Factbook Country Profiles in JSON - Fr...",
-          "count": 76,
-          "uniques": 43
+          "count": 112,
+          "uniques": 57
         },
         {
-          "path": "/factbook/factbook.json/tree/master/north-america",
-          "title": "factbook.json/north-america at master · factbook/factbook.json",
-          "count": 11,
-          "uniques": 4
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/north-america/us.json",
-          "title": "factbook.json/us.json at master · factbook/factbook.json",
-          "count": 10,
-          "uniques": 3
+          "path": "/factbook/factbook.json/tree/master/europe",
+          "title": "factbook.json/europe at master · factbook/factbook.json",
+          "count": 13,
+          "uniques": 7
         },
         {
           "path": "/factbook/factbook.json/tree/master/africa",
           "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
-          "count": 7,
-          "uniques": 5
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/europe",
-          "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/east-n-southeast-asia",
-          "title": "factbook.json/east-n-southeast-asia at master · factbook/factbook.json · GitHub",
-          "count": 6,
-          "uniques": 2
+          "count": 10,
+          "uniques": 10
         },
         {
           "path": "/factbook/factbook.json/tree/master/world",
           "title": "factbook.json/world at master · factbook/factbook.json · GitHub",
-          "count": 4,
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/factbook/factbook.json/issues/8",
+          "title": "Stray HTML spans · Issue #8 · factbook/factbook.json",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook.json/pulls",
+          "title": "Pull requests · factbook/factbook.json · GitHub",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/world/xx.json",
+          "title": "factbook.json/xx.json at master · factbook/factbook.json · GitHub",
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/north-america/us.json",
+          "title": "factbook.json/us.json at master · factbook/factbook.json · GitHub",
+          "count": 6,
           "uniques": 4
         },
         {
-          "path": "/factbook/factbook.json/blob/master/east-n-southeast-asia/ch.json",
-          "title": "factbook.json/ch.json at master · factbook/factbook.json · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook.json/issues",
-          "title": "Issues · factbook/factbook.json · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/east-n-southeast-asia/ja.json",
-          "title": "factbook.json/ja.json at master · factbook/factbook.json",
-          "count": 3,
+          "path": "/factbook/factbook.json/stargazers",
+          "title": "Stargazers · factbook/factbook.json",
+          "count": 6,
           "uniques": 1
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/north-america",
+          "title": "factbook.json/north-america at master · factbook/factbook.json · GitHub",
+          "count": 5,
+          "uniques": 4
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 27,
-          "uniques": 21
+          "count": 42,
+          "uniques": 20
         },
         {
           "referrer": "Google",
-          "count": 20,
-          "uniques": 13
+          "count": 17,
+          "uniques": 16
         },
         {
-          "referrer": "e4developer.com",
+          "referrer": "old.reddit.com",
+          "count": 11,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "referrer": "planetruby.github.io",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "planetruby.github.io",
+          "referrer": "ec2-34-248-93-242.eu-west-1.compute.amazonaws.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "opendata.stackexchange.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "e4developer.com",
           "count": 1,
           "uniques": 1
         }
@@ -1576,6 +1600,116 @@
         "views": {
           "count": 18,
           "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-19": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-05-20": {
+        "views": {
+          "count": 17,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-22": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-05-23": {
+        "views": {
+          "count": 61,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-05-24": {
+        "views": {
+          "count": 33,
+          "uniques": 10
+        }
+      },
+      "2021-05-25": {
+        "views": {
+          "count": 27,
+          "uniques": 10
+        }
+      },
+      "2021-05-26": {
+        "views": {
+          "count": 19,
+          "uniques": 8
+        }
+      },
+      "2021-05-27": {
+        "views": {
+          "count": 34,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-28": {
+        "views": {
+          "count": 33,
+          "uniques": 8
+        }
+      },
+      "2021-05-29": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-05-31": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-01": {
+        "views": {
+          "count": 9,
+          "uniques": 2
         },
         "clones": {
           "count": 1,
