@@ -145,6 +145,10 @@
     "2021-06-01": {
       "stargazers_count": 11,
       "forks_count": 3
+    },
+    "2021-06-15": {
+      "stargazers_count": 11,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -181,26 +185,44 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/openbeer/at-austria/blob/master/4004-beers.txt",
-          "title": "at-austria/4004-beers.txt at master · openbeer/at-austria · GitHub",
+          "path": "/openbeer/at-austria",
+          "title": "openbeer/at-austria: Free open public domain beer, brewery n brewpub data for...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/at-austria/blob/master/1--b-burgenland--eastern/beers.txt",
+          "title": "at-austria/beers.txt at master · openbeer/at-austria",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/at-austria/blob/master/1--b-burgenland--eastern/breweries.txt",
+          "title": "at-austria/breweries.txt at master · openbeer/at-austria",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/at-austria/tree/master/1--b-burgenland--eastern",
+          "title": "at-austria/1--b-burgenland--eastern at master · openbeer/at-austria",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -581,6 +603,18 @@
       },
       "2021-05-24": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-03": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-06-11": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

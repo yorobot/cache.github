@@ -145,52 +145,117 @@
     "2021-06-01": {
       "stargazers_count": 13,
       "forks_count": 1
+    },
+    "2021-06-15": {
+      "stargazers_count": 14,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-07-23T11:10:34Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2018-07-23T11:10:34Z",
+        "date": "2021-06-15T09:54:52Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2021-06-15T09:54:52Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
-  "size": 27,
-  "updated_at": "2019-01-21T01:39:01Z",
-  "pushed_at": "2018-07-23T11:10:34Z",
-  "description": "footty gem - football.db command line client for world cup (russia 2018) and more - who's playing today?",
+  "size": 24,
+  "updated_at": "2021-06-15T11:16:42Z",
+  "pushed_at": "2021-06-15T09:54:58Z",
+  "description": "footty gem - football.db command line client for european (\"euro\") championship 2020 (in 2021) and more - who's playing today?",
   "language": "Ruby",
   "topics": [
     "worldcup",
     "worldcup2018",
-    "russia2018"
+    "russia2018",
+    "euro2020",
+    "euro2021"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 55,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/sportdb/footty",
-          "title": "GitHub - sportdb/footty: footty gem - football.db command line client for wor...",
+          "title": "sportdb/footty: footty gem - football.db command line client for world cup (r...",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/footty/tree/master/lib",
+          "title": "footty/lib at master · sportdb/footty",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/lib/footty.rb",
+          "title": "footty/footty.rb at master · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/commits/master",
+          "title": "Commits · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/bin/footty",
+          "title": "footty/footty at master · sportdb/footty",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/lib/footty/client.rb",
+          "title": "footty/client.rb at master · sportdb/footty",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/test/test_client.rb",
+          "title": "footty/test_client.rb at master · sportdb/footty",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/commit/f539d7fd1adad072147d0893adf6787506a80b5f",
+          "title": "Align columns in print_matches · sportdb/footty@f539d7f",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/bin",
+          "title": "footty/bin at master · sportdb/footty",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/lib/footty",
+          "title": "footty/lib/footty at master · sportdb/footty",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Baidu",
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -380,10 +445,44 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-06-12": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2021-06-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-14": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2021-06-15": {
+        "views": {
+          "count": 31,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-06-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 11863
+    "Ruby": 14757
   }
 }

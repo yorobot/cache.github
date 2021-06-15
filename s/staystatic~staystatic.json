@@ -145,6 +145,10 @@
     "2021-06-01": {
       "stargazers_count": 57,
       "forks_count": 7
+    },
+    "2021-06-15": {
+      "stargazers_count": 58,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -161,7 +165,7 @@
     }
   ],
   "size": 212,
-  "updated_at": "2020-12-27T14:33:57Z",
+  "updated_at": "2021-06-08T15:06:08Z",
   "pushed_at": "2018-03-31T09:41:53Z",
   "description": "Stay Static - Website Compiler Showcase - One Design, Many Samples - Jekyll • Middleman • Nanoc • Webgen • Metalsmith • Gatsby • Phenomic • Cuttlebelle • Harp • Nikola • Hugo • Jigsaw - Add Your Sample!",
   "language": "JavaScript",
@@ -183,47 +187,81 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 3
+        "count": 49,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/staystatic/staystatic/blob/master/metalsmith-nunjucks/build.js",
-          "title": "staystatic/build.js at master · staystatic/staystatic",
-          "count": 2,
+          "path": "/staystatic/staystatic/tree/master/middleman",
+          "title": "staystatic/middleman at master · staystatic/staystatic",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/middleman/source",
+          "title": "staystatic/middleman/source at master · staystatic/staystatic",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/tree/master/middleman/source/posts",
+          "title": "staystatic/middleman/source/posts at master · staystatic/staystatic",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/staystatic/staystatic",
           "title": "staystatic/staystatic: Stay Static - Website Compiler Showcase - One Design, ...",
-          "count": 1,
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/cuttlebelle/content/about/body.md",
+          "title": "staystatic/body.md at master · staystatic/staystatic",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/staystatic/staystatic/commit/aa41cfbb0f558b625e2a50dac656c358e3b96a71",
-          "title": "add jigsaw · staystatic/staystatic@aa41cfb · GitHub",
-          "count": 1,
+          "path": "/staystatic/staystatic/blob/master/cuttlebelle/content/posts/new-build-system/body.md",
+          "title": "staystatic/body.md at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/middleman/source/about.html.md",
+          "title": "staystatic/about.html.md at master · staystatic/staystatic",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/staystatic/staystatic/blob/master/middleman/source/posts/2015-08-25-new-season.html.md",
+          "title": "staystatic/2015-08-25-new-season.html.md at master · staystatic/staystatic",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/staystatic/staystatic/tree/master/cuttlebelle",
           "title": "staystatic/cuttlebelle at master · staystatic/staystatic",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/staystatic/staystatic/tree/master/metalsmith-nunjucks",
-          "title": "staystatic/metalsmith-nunjucks at master · staystatic/staystatic",
-          "count": 1,
+          "path": "/staystatic/staystatic/tree/master/cuttlebelle/content",
+          "title": "staystatic/cuttlebelle/content at master · staystatic/staystatic",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -600,6 +638,32 @@
         }
       },
       "2021-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-11": {
+        "views": {
+          "count": 46,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-14": {
         "clones": {
           "count": 1,
           "uniques": 1

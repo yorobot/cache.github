@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/contracts",
   "created_at": "2015-03-31T15:16:05Z",
-  "updated_at": "2021-05-24T20:36:20Z",
+  "updated_at": "2021-06-03T11:07:11Z",
   "pushed_at": "2021-04-06T15:36:29Z",
   "size": 465,
   "description": "Inside the CryptoPunks Blockchain Contracts / Services incl.  the Classic V1 and Wrapped CryptoPunks (WPUNKS) and Wrapped CryptoPunks V1 (WPUNKS1) ",
@@ -21,6 +21,10 @@
     },
     "2021-06-01": {
       "stargazers_count": 4,
+      "forks_count": 2
+    },
+    "2021-06-15": {
+      "stargazers_count": 5,
       "forks_count": 2
     }
   },
@@ -50,84 +54,72 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 145,
-        "uniques": 34
+        "count": 57,
+        "uniques": 28
       },
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/cryptopunksnotdead/contracts",
-          "title": "GitHub - cryptopunksnotdead/contracts: Inside the CryptoPunks Blockchain Cont...",
-          "count": 44,
-          "uniques": 23
-        },
-        {
           "path": "/cryptopunksnotdead/contracts/tree/master/punks",
           "title": "contracts/punks at master · cryptopunksnotdead/contracts · GitHub",
-          "count": 37,
-          "uniques": 23
+          "count": 23,
+          "uniques": 19
         },
         {
-          "path": "/cryptopunksnotdead/contracts/blob/master/punks/CryptoPunksMarket.sol",
-          "title": "contracts/CryptoPunksMarket.sol at master · cryptopunksnotdead/contracts · Gi...",
-          "count": 20,
-          "uniques": 10
+          "path": "/cryptopunksnotdead/contracts",
+          "title": "GitHub - cryptopunksnotdead/contracts: Inside the CryptoPunks Blockchain Cont...",
+          "count": 9,
+          "uniques": 8
         },
         {
           "path": "/cryptopunksnotdead/contracts/tree/master/punks-v1",
           "title": "contracts/punks-v1 at master · cryptopunksnotdead/contracts · GitHub",
-          "count": 9,
-          "uniques": 6
-        },
-        {
-          "path": "/cryptopunksnotdead/contracts/blob/master/punks-v1/CryptoPunks.sol",
-          "title": "contracts/CryptoPunks.sol at master · cryptopunksnotdead/contracts · GitHub",
-          "count": 8,
-          "uniques": 5
-        },
-        {
-          "path": "/cryptopunksnotdead/contracts/tree/master/wrapped",
-          "title": "contracts/wrapped at master · cryptopunksnotdead/contracts",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "path": "/cryptopunksnotdead/contracts/tree/master/wrapped-v1",
-          "title": "contracts/wrapped-v1 at master · cryptopunksnotdead/contracts",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/contracts/blob/master/wrapped/WrappedPunk.sol",
-          "title": "contracts/WrappedPunk.sol at master · cryptopunksnotdead/contracts",
           "count": 3,
           "uniques": 3
         },
         {
-          "path": "/cryptopunksnotdead/contracts/blob/master/wrapped-v1/PunksV1Wrapper.sol",
-          "title": "contracts/PunksV1Wrapper.sol at master · cryptopunksnotdead/contracts",
-          "count": 3,
+          "path": "/cryptopunksnotdead/contracts/blob/master/punks/CryptoPunksMarket.sol",
+          "title": "contracts/CryptoPunksMarket.sol at master · cryptopunksnotdead/contracts",
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/cryptopunksnotdead/contracts/blob/master/wrapped/ERC721.sol",
-          "title": "contracts/ERC721.sol at master · cryptopunksnotdead/contracts",
+          "path": "/cryptopunksnotdead/contracts/blob/master/punks-v1/CryptoPunks.sol",
+          "title": "contracts/CryptoPunks.sol at master · cryptopunksnotdead/contracts · GitHub",
           "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/contracts/commits",
+          "title": "Commits · cryptopunksnotdead/contracts · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/contracts/tree/master/wrapped",
+          "title": "contracts/wrapped at master · cryptopunksnotdead/contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/contracts/tree/master/wrapped-v1",
+          "title": "contracts/wrapped-v1 at master · cryptopunksnotdead/contracts · GitHub",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 63,
-          "uniques": 31
+          "count": 27,
+          "uniques": 22
         },
         {
-          "referrer": "Google",
-          "count": 2,
+          "referrer": "reddit.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -503,8 +495,78 @@
       },
       "2021-06-01": {
         "views": {
-          "count": 6,
+          "count": 4,
           "uniques": 2
+        }
+      },
+      "2021-06-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-03": {
+        "views": {
+          "count": 15,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-04": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-06-07": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-06-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-06-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-06-10": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2021-06-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-06-12": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-06-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-06-15": {
+        "views": {
+          "count": 11,
+          "uniques": 3
         }
       }
     }

@@ -62,6 +62,10 @@
     "2021-06-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-06-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -91,18 +95,57 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 6,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 4,
-        "uniques": 4
-      },
       "paths": [
-
+        {
+          "path": "/wikiscript/football.json",
+          "title": "wikiscript/football.json: Football Players, World Cup Squads 'n' More Sourced...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/blob/master/_source/players/south-america/argentina/Lionel_Messi.txt",
+          "title": "football.json/Lionel_Messi.txt at master · wikiscript/football.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source",
+          "title": "football.json/_source at master · wikiscript/football.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source/players",
+          "title": "football.json/_source/players at master · wikiscript/football.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source/players/south-america",
+          "title": "football.json/_source/players/south-america at master · wikiscript/football.j...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source/players/south-america/argentina",
+          "title": "football.json/_source/players/south-america/argentina at master · wikiscript/...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -223,6 +266,12 @@
       "2021-06-01": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-08": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

@@ -145,6 +145,10 @@
     "2021-06-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-06-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -171,8 +175,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 2
+        "count": 7,
+        "uniques": 1
       },
       "clones": {
         "count": 1,
@@ -180,17 +184,47 @@
       },
       "paths": [
         {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb",
+          "title": "person.db.models/lib/persondb at master · persondb/person.db.models",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/persondb/person.db.models",
-          "title": "GitHub - persondb/person.db.models: persondb gem - person schema & models for...",
-          "count": 3,
-          "uniques": 2
+          "title": "persondb/person.db.models: persondb gem - person schema & models for easy reu...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/blob/master/lib/persondb/models/person.rb",
+          "title": "person.db.models/person.rb at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/blob/master/lib/persondb/models.rb",
+          "title": "person.db.models/models.rb at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/blob/master/lib/persondb/schema.rb",
+          "title": "person.db.models/schema.rb at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb/models",
+          "title": "person.db.models/lib/persondb/models at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 3,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -358,6 +392,18 @@
         }
       },
       "2021-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-12": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-06-04": {
         "clones": {
           "count": 1,
           "uniques": 1

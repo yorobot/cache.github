@@ -106,6 +106,10 @@
     "2021-06-01": {
       "stargazers_count": 3,
       "forks_count": 2
+    },
+    "2021-06-15": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -129,18 +133,56 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 9,
+        "uniques": 2
       },
       "clones": {
         "count": 2,
         "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/typesigs/bytes",
+          "title": "typesigs/bytes: bytes gem / library",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/typesigs/bytes/blob/master/CHANGELOG.md",
+          "title": "bytes/CHANGELOG.md at master · typesigs/bytes · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/typesigs/bytes/tree/master/lib",
+          "title": "bytes/lib at master · typesigs/bytes · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/typesigs/bytes/tree/master/lib/bytes",
+          "title": "bytes/lib/bytes at master · typesigs/bytes · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/typesigs/bytes/tree/master/test",
+          "title": "bytes/test at master · typesigs/bytes · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "plugins.jquery.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -317,6 +359,30 @@
         }
       },
       "2021-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-07": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2021-06-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-03": {
         "clones": {
           "count": 1,
           "uniques": 1

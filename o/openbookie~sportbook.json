@@ -145,6 +145,10 @@
     "2021-06-01": {
       "stargazers_count": 117,
       "forks_count": 47
+    },
+    "2021-06-15": {
+      "stargazers_count": 117,
+      "forks_count": 47
     }
   },
   "commits": [
@@ -171,29 +175,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 126,
-        "uniques": 54
+        "count": 157,
+        "uniques": 69
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 12,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/openbookie/sportbook",
           "title": "openbookie/sportbook: sportbook web app - free open source sports betting (or...",
-          "count": 82,
-          "uniques": 49
+          "count": 95,
+          "uniques": 61
         },
         {
           "path": "/openbookie/sportbook/search",
-          "title": "Search · · GitHub",
-          "count": 5,
+          "title": "Search · poules game euro 2020 · GitHub",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/openbookie/sportbook/tree/master/app",
+          "title": "sportbook/app at master · openbookie/sportbook · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openbookie/sportbook/tree/master/db",
+          "title": "sportbook/db at master · openbookie/sportbook · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openbookie/sportbook/branches",
+          "title": "Branches · openbookie/sportbook · GitHub",
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/openbookie/sportbook/actions",
-          "title": "Actions · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/blob/master/db/migrate/001_create_db.rb",
+          "title": "sportbook/001_create_db.rb at master · openbookie/sportbook",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/db/schema.rb",
+          "title": "sportbook/schema.rb at master · openbookie/sportbook · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -204,60 +232,46 @@
           "uniques": 2
         },
         {
-          "path": "/openbookie/sportbook/tree/master/app",
-          "title": "sportbook/app at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/app/models",
+          "title": "sportbook/app/models at master · openbookie/sportbook · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openbookie/sportbook/graphs/code-frequency",
-          "title": "Code frequency · openbookie/sportbook",
+          "path": "/openbookie/sportbook/tree/master/app/views",
+          "title": "sportbook/app/views at master · openbookie/sportbook · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/blob/d5b5dd2e167bd748074ea8458df1130a5fca9e4a/app/assets/javascripts/application.js",
-          "title": "sportbook/application.js at d5b5dd2e167bd748074ea8458df1130a5fca9e4a · openbo...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/blob/d5b5dd2e167bd748074ea8458df1130a5fca9e4a/app/assets/javascripts/jquery.table.js",
-          "title": "sportbook/jquery.table.js at d5b5dd2e167bd748074ea8458df1130a5fca9e4a · openb...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/blob/master/admin/README.md",
-          "title": "sportbook/README.md at master · openbookie/sportbook · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/blob/master/app/controllers/application_controller.rb",
-          "title": "sportbook/application_controller.rb at master · openbookie/sportbook · GitHub",
-          "count": 1,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 57,
-          "uniques": 30
+          "count": 64,
+          "uniques": 43
         },
         {
           "referrer": "Google",
-          "count": 8,
-          "uniques": 7
+          "count": 13,
+          "uniques": 10
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 7
+          "count": 5,
+          "uniques": 5
         },
         {
-          "referrer": "opensport.github.io",
+          "referrer": "DuckDuckGo",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "sportbook.herokuapp.com",
           "count": 1,
           "uniques": 1
         },
@@ -267,7 +281,7 @@
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "referrer": "groups.google.com",
           "count": 1,
           "uniques": 1
         }
@@ -1585,6 +1599,122 @@
       "2021-06-01": {
         "views": {
           "count": 9,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-02": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-06-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-06-04": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-05": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-06-06": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2021-06-07": {
+        "views": {
+          "count": 9,
+          "uniques": 6
+        }
+      },
+      "2021-06-08": {
+        "views": {
+          "count": 18,
+          "uniques": 4
+        }
+      },
+      "2021-06-09": {
+        "views": {
+          "count": 12,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-10": {
+        "views": {
+          "count": 23,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-11": {
+        "views": {
+          "count": 15,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-06-12": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2021-06-13": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-14": {
+        "views": {
+          "count": 23,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-15": {
+        "views": {
+          "count": 7,
           "uniques": 6
         },
         "clones": {

@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/core",
   "created_at": "2013-02-12T22:45:32Z",
-  "updated_at": "2020-10-31T17:12:30Z",
-  "pushed_at": "2020-10-31T17:12:28Z",
-  "size": 113,
+  "updated_at": "2021-06-12T17:25:26Z",
+  "pushed_at": "2021-06-12T17:25:23Z",
+  "size": 110,
   "description": "core tools, libraries & scripts - logger, config, dates, alphabets, shell & more",
   "language": "Ruby",
   "history": {
@@ -66,19 +66,23 @@
     "2021-06-01": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2021-06-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-31T17:12:20Z",
+        "date": "2021-06-12T17:25:16Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-10-31T17:12:20Z",
+        "date": "2021-06-12T17:25:16Z",
         "name": "Gerald Bauer"
       },
-      "message": "up readme"
+      "message": "up"
     }
   ],
   "topics": [
@@ -90,24 +94,36 @@
     "dates"
   ],
   "languages": {
-    "Ruby": 118148,
+    "Ruby": 119304,
     "HTML": 1189,
     "CSS": 777
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 4,
         "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/rubycoco/core",
           "title": "rubycoco/core: core tools, libraries & scripts - logger, config, dates, alpha...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/commit/4263e644d0984f661bc7314e95bd9f3fe545d701",
+          "title": "up · rubycoco/core@4263e64",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/commits/master",
+          "title": "Commits · rubycoco/core",
           "count": 1,
           "uniques": 1
         }
@@ -115,7 +131,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -301,6 +317,16 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-06-12": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

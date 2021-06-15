@@ -145,6 +145,10 @@
     "2021-06-01": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-06-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -180,18 +184,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
         "count": 1,
         "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openmundi/austria.db",
+          "title": "openmundi/austria.db: Free open public domain data for Austria (Österreich) /...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/austria.db/blob/master/2--st-steiermark/counties.txt",
+          "title": "austria.db/counties.txt at master · openmundi/austria.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/austria.db/blob/master/2--st-steiermark/orte.txt",
+          "title": "austria.db/orte.txt at master · openmundi/austria.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/austria.db/blob/master/cities_(10_000%2B).txt",
+          "title": "austria.db/cities_(10_000+).txt at master · openmundi/austria.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/austria.db/tree/master/2--st-steiermark",
+          "title": "austria.db/2--st-steiermark at master · openmundi/austria.db",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -306,6 +343,22 @@
       "2021-05-25": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-02": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-08": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }
