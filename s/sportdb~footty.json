@@ -149,6 +149,10 @@
     "2021-06-15": {
       "stargazers_count": 14,
       "forks_count": 1
+    },
+    "2021-07-01": {
+      "stargazers_count": 15,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -165,7 +169,7 @@
     }
   ],
   "size": 24,
-  "updated_at": "2021-06-15T11:16:42Z",
+  "updated_at": "2021-06-17T15:22:05Z",
   "pushed_at": "2021-06-15T09:54:58Z",
   "description": "footty gem - football.db command line client for european (\"euro\") championship 2020 (in 2021) and more - who's playing today?",
   "language": "Ruby",
@@ -179,71 +183,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 55,
-        "uniques": 4
+        "count": 27,
+        "uniques": 13
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/sportdb/footty",
-          "title": "sportdb/footty: footty gem - football.db command line client for world cup (r...",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "path": "/sportdb/footty/tree/master/lib",
-          "title": "footty/lib at master · sportdb/footty",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/blob/master/lib/footty.rb",
-          "title": "footty/footty.rb at master · sportdb/footty",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/commits/master",
-          "title": "Commits · sportdb/footty",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/blob/master/bin/footty",
-          "title": "footty/footty at master · sportdb/footty",
-          "count": 1,
-          "uniques": 1
+          "title": "sportdb/footty: footty gem - football.db command line client for european (\"e...",
+          "count": 18,
+          "uniques": 13
         },
         {
           "path": "/sportdb/footty/blob/master/lib/footty/client.rb",
-          "title": "footty/client.rb at master · sportdb/footty",
-          "count": 1,
-          "uniques": 1
+          "title": "footty/client.rb at master · sportdb/footty · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/sportdb/footty/blob/master/test/test_client.rb",
-          "title": "footty/test_client.rb at master · sportdb/footty",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/commit/f539d7fd1adad072147d0893adf6787506a80b5f",
-          "title": "Align columns in print_matches · sportdb/footty@f539d7f",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/tree/master/bin",
-          "title": "footty/bin at master · sportdb/footty",
-          "count": 1,
-          "uniques": 1
+          "path": "/sportdb/footty/tree/master/lib",
+          "title": "footty/lib at master · sportdb/footty · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/sportdb/footty/tree/master/lib/footty",
-          "title": "footty/lib/footty at master · sportdb/footty",
+          "title": "footty/lib/footty at master · sportdb/footty · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/footty/blob/master/lib/footty.rb",
+          "title": "footty/footty.rb at master · sportdb/footty · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/NOTES.md",
+          "title": "footty/NOTES.md at master · sportdb/footty · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/issues",
+          "title": "Issues · sportdb/footty",
           "count": 1,
           "uniques": 1
         }
@@ -251,8 +237,18 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 3
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 2,
+          "uniques": 1
         },
         {
           "referrer": "rubygems.org",
@@ -475,6 +471,58 @@
         }
       },
       "2021-06-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-18": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-06-19": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2021-06-20": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2021-06-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-26": {
         "clones": {
           "count": 1,
           "uniques": 1

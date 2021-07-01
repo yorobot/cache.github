@@ -149,24 +149,28 @@
     "2021-06-15": {
       "stargazers_count": 949,
       "forks_count": 66
+    },
+    "2021-07-01": {
+      "stargazers_count": 959,
+      "forks_count": 68
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-06-14T17:23:21Z",
+        "date": "2021-06-21T10:50:04Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-06-14T17:23:21Z",
-        "name": "David Sun"
+        "date": "2021-06-21T10:50:04Z",
+        "name": "Dmitry Shurupov"
       },
-      "message": "docs: jekyll-picture-tag changed to jekyll_picture_tag (#57)\n\n* jekyll-picture-tag changed to jekyll_picture_tag\r\n\r\n* chore: update the stars of jekyll_picture_tag\r\n\r\nCo-authored-by: JT <jeffreytse.mail@gmail.com>"
+      "message": "docs: adding Jekyll Include plugin (#58)"
     }
   ],
-  "size": 181,
-  "updated_at": "2021-06-14T17:23:24Z",
-  "pushed_at": "2021-06-14T17:23:21Z",
+  "size": 191,
+  "updated_at": "2021-07-01T11:16:58Z",
+  "pushed_at": "2021-06-21T10:50:04Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
   "topics": [
@@ -175,65 +179,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 448,
-        "uniques": 238
+        "count": 390,
+        "uniques": 229
       },
       "clones": {
-        "count": 6,
+        "count": 4,
         "uniques": 4
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 368,
-          "uniques": 214
+          "count": 327,
+          "uniques": 211
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/58",
+          "title": "Adding Jekyll Include plugin by shurup · Pull Request #58 · planetjekyll/awes...",
+          "count": 8,
+          "uniques": 3
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
           "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 13,
-          "uniques": 8
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/pull/57",
-          "title": "jekyll-picture-tag changed to jekyll_picture_tag by natoally · Pull Request #...",
-          "count": 7,
-          "uniques": 4
+          "count": 6,
+          "uniques": 5
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
           "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
-          "count": 5,
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins",
+          "count": 3,
           "uniques": 2
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
           "title": "awesome-jekyll-plugins/NOTES.md at master · planetjekyll/awesome-jekyll-plugins",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/pull/57/files",
-          "title": "jekyll-picture-tag changed to jekyll_picture_tag by natoally · Pull Request #...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/pull/57/commits/b83f28c2b4aca7e88380322fbb7a787cbfc6c55a",
-          "title": "jekyll-picture-tag changed to jekyll_picture_tag by natoally · Pull Request #...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/58/commits/7123f00a5322c46644d75cab71d828538ddc72b2",
+          "title": "Adding Jekyll Include plugin by shurup · Pull Request #58 · planetjekyll/awes...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/ce99d5f5265ee1db71b0dbf4e882eb431c91b93f",
-          "title": "Adding Pug converter plugin · planetjekyll/awesome-jekyll-plugins@ce99d5f",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...natoally:patch-1",
-          "title": "Comparing planetjekyll:master...natoally:patch-1 · planetjekyll/awesome-jekyl...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...shurup:patch-1",
+          "title": "Comparing planetjekyll:master...shurup:patch-1 · planetjekyll/awesome-jekyll-...",
           "count": 1,
           "uniques": 1
         },
@@ -242,56 +240,62 @@
           "title": "Editing awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jek...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/find/master",
+          "title": "File Finder · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 175,
-          "uniques": 112
+          "count": 127,
+          "uniques": 89
         },
         {
           "referrer": "Google",
-          "count": 98,
-          "uniques": 64
+          "count": 127,
+          "uniques": 82
         },
         {
           "referrer": "github.com",
-          "count": 18,
-          "uniques": 12
+          "count": 12,
+          "uniques": 10
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 5,
-          "uniques": 3
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "referrer": "learn-the-web.algonquindesign.ca",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "jekyllrb-ko.github.io",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "youtube.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "jekyll.com.cn",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "cn.bing.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "planetjekyll.github.io",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "reddit.com",
+          "referrer": "florian.latzel.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "snipcart.com",
           "count": 1,
           "uniques": 1
         }
@@ -1762,6 +1766,108 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-06-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-18": {
+        "views": {
+          "count": 35,
+          "uniques": 25
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-19": {
+        "views": {
+          "count": 25,
+          "uniques": 20
+        }
+      },
+      "2021-06-20": {
+        "views": {
+          "count": 14,
+          "uniques": 10
+        }
+      },
+      "2021-06-21": {
+        "views": {
+          "count": 47,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-06-22": {
+        "views": {
+          "count": 22,
+          "uniques": 18
+        }
+      },
+      "2021-06-23": {
+        "views": {
+          "count": 42,
+          "uniques": 28
+        }
+      },
+      "2021-06-24": {
+        "views": {
+          "count": 37,
+          "uniques": 16
+        }
+      },
+      "2021-06-25": {
+        "views": {
+          "count": 19,
+          "uniques": 16
+        }
+      },
+      "2021-06-26": {
+        "views": {
+          "count": 20,
+          "uniques": 9
+        }
+      },
+      "2021-06-27": {
+        "views": {
+          "count": 25,
+          "uniques": 17
+        }
+      },
+      "2021-06-28": {
+        "views": {
+          "count": 25,
+          "uniques": 21
+        }
+      },
+      "2021-06-29": {
+        "views": {
+          "count": 24,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-30": {
+        "views": {
+          "count": 22,
+          "uniques": 19
+        }
+      },
+      "2021-07-01": {
+        "views": {
+          "count": 32,
+          "uniques": 19
         }
       }
     }

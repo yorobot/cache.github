@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
-  "updated_at": "2021-06-01T22:59:56Z",
-  "pushed_at": "2021-06-01T22:59:49Z",
-  "size": 6672,
+  "updated_at": "2021-06-15T22:20:36Z",
+  "pushed_at": "2021-06-15T22:20:30Z",
+  "size": 8309,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -42,19 +42,23 @@
     "2021-06-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-07-01": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-06-01T22:59:46Z",
+        "date": "2021-06-15T22:20:26Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2021-06-01T22:59:46Z",
+        "date": "2021-06-15T22:20:26Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 22"
+      "message": "auto-update week 24"
     }
   ],
   "topics": [
@@ -65,50 +69,26 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 72,
-        "uniques": 7
+        "count": 2,
+        "uniques": 2
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 8,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/factbook/cache.factbook.json",
           "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 7,
-          "uniques": 5
-        },
-        {
-          "path": "/factbook/cache.factbook.json/commits",
-          "title": "Commits · factbook/cache.factbook.json · GitHub",
-          "count": 5,
+          "count": 2,
           "uniques": 2
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/europe/en.json",
-          "title": "cache.factbook.json/en.json at master · factbook/cache.factbook.json · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/europe",
-          "title": "cache.factbook.json/europe at master · factbook/cache.factbook.json · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/oceans",
-          "title": "cache.factbook.json/oceans at master · factbook/cache.factbook.json · GitHub",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 5
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -593,6 +573,50 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-06-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-06-25": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

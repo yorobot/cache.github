@@ -138,6 +138,10 @@
     "2021-06-15": {
       "stargazers_count": 3084,
       "forks_count": 369
+    },
+    "2021-07-01": {
+      "stargazers_count": 3086,
+      "forks_count": 372
     }
   },
   "commits": [
@@ -153,7 +157,7 @@
       "message": "Update README.md"
     }
   ],
-  "updated_at": "2021-06-15T02:34:41Z",
+  "updated_at": "2021-06-30T16:30:09Z",
   "pushed_at": "2021-05-10T07:11:30Z",
   "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
   "language": "Ruby",
@@ -176,55 +180,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 298,
-        "uniques": 143
+        "count": 303,
+        "uniques": 125
       },
       "clones": {
-        "count": 13,
-        "uniques": 10
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-blockchains",
           "title": "openblockchains/awesome-blockchains: A collection about awesome blockchains -...",
-          "count": 196,
-          "uniques": 120
+          "count": 165,
+          "uniques": 102
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.py",
+          "title": "awesome-blockchains/blockchain.py at master · openblockchains/awesome-blockch...",
+          "count": 22,
+          "uniques": 8
         },
         {
           "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.cpp",
           "title": "awesome-blockchains/blockchain.cpp at master · openblockchains/awesome-blockc...",
-          "count": 13,
-          "uniques": 12
+          "count": 18,
+          "uniques": 14
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.py/blockchain.py",
+          "title": "awesome-blockchains/blockchain.py at master · openblockchains/awesome-blockch...",
+          "count": 12,
+          "uniques": 7
         },
         {
           "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.cpp/blockchain_with_proof_of_work.cpp",
           "title": "awesome-blockchains/blockchain_with_proof_of_work.cpp at master · openblockch...",
-          "count": 8,
-          "uniques": 7
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.rb/blockchain.rb",
-          "title": "awesome-blockchains/blockchain.rb at master · openblockchains/awesome-blockch...",
-          "count": 6,
-          "uniques": 4
+          "count": 10,
+          "uniques": 8
         },
         {
           "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.cpp/blockchain.cpp",
           "title": "awesome-blockchains/blockchain.cpp at master · openblockchains/awesome-blockc...",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.rb",
-          "title": "awesome-blockchains/blockchain.rb at master · openblockchains/awesome-blockch...",
-          "count": 5,
-          "uniques": 5
+          "count": 9,
+          "uniques": 9
         },
         {
           "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.go",
           "title": "awesome-blockchains/blockchain.go at master · openblockchains/awesome-blockch...",
-          "count": 4,
-          "uniques": 4
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.py/blockchain_with_proof_of_work.py",
+          "title": "awesome-blockchains/blockchain_with_proof_of_work.py at master · openblockcha...",
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.js",
@@ -233,43 +243,47 @@
           "uniques": 4
         },
         {
-          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.py",
-          "title": "awesome-blockchains/blockchain.py at master · openblockchains/awesome-blockch...",
+          "path": "/openblockchains/awesome-blockchains/pulse",
+          "title": "openblockchains/awesome-blockchains: A collection about awesome blockchains -...",
           "count": 4,
-          "uniques": 4
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.js/blockchain_with_proof_of_work.js",
-          "title": "awesome-blockchains/blockchain_with_proof_of_work.js at master · openblockcha...",
-          "count": 4,
-          "uniques": 3
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 120,
-          "uniques": 80
-        },
-        {
-          "referrer": "Google",
-          "count": 21,
-          "uniques": 14
+          "count": 95,
+          "uniques": 69
         },
         {
           "referrer": "freecodecamp.org",
-          "count": 20,
+          "count": 12,
+          "uniques": 7
+        },
+        {
+          "referrer": "Google",
+          "count": 11,
           "uniques": 11
         },
         {
           "referrer": "reddit.com",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "referrer": "t.co",
           "count": 3,
           "uniques": 2
+        },
+        {
+          "referrer": "github.com.cnpmjs.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "shimo.im",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "StartPage",
+          "count": 2,
+          "uniques": 1
         },
         {
           "referrer": "rubyflow.com",
@@ -277,22 +291,12 @@
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "haseebq.com",
+          "referrer": "mageswaran1989.medium.com",
           "count": 1,
           "uniques": 1
         },
         {
           "referrer": "medium.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "imasters.com.br",
           "count": 1,
           "uniques": 1
         }
@@ -1931,6 +1935,98 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-06-18": {
+        "views": {
+          "count": 13,
+          "uniques": 11
+        }
+      },
+      "2021-06-19": {
+        "views": {
+          "count": 20,
+          "uniques": 9
+        }
+      },
+      "2021-06-20": {
+        "views": {
+          "count": 32,
+          "uniques": 10
+        }
+      },
+      "2021-06-21": {
+        "views": {
+          "count": 37,
+          "uniques": 14
+        }
+      },
+      "2021-06-22": {
+        "views": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2021-06-23": {
+        "views": {
+          "count": 20,
+          "uniques": 13
+        }
+      },
+      "2021-06-24": {
+        "views": {
+          "count": 50,
+          "uniques": 16
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-25": {
+        "views": {
+          "count": 31,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-06-26": {
+        "views": {
+          "count": 17,
+          "uniques": 3
+        }
+      },
+      "2021-06-27": {
+        "views": {
+          "count": 16,
+          "uniques": 9
+        }
+      },
+      "2021-06-28": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-06-29": {
+        "views": {
+          "count": 23,
+          "uniques": 13
+        }
+      },
+      "2021-06-30": {
+        "views": {
+          "count": 8,
+          "uniques": 8
+        }
+      },
+      "2021-07-01": {
+        "views": {
+          "count": 20,
+          "uniques": 11
         }
       }
     }
