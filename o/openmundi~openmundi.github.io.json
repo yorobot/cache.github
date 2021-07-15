@@ -153,6 +153,10 @@
     "2021-07-01": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2021-07-15": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -179,18 +183,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/openmundi/openmundi.github.io",
+          "title": "openmundi/openmundi.github.io: Open Mundi (world.db) Web Site",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/openmundi.github.io/tree/master/attic",
+          "title": "openmundi.github.io/attic at master · openmundi/openmundi.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -281,6 +300,12 @@
       "2021-06-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-02": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

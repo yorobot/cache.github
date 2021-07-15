@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/football.json",
   "created_at": "2015-09-17T16:40:37Z",
-  "updated_at": "2021-06-28T13:52:40Z",
+  "updated_at": "2021-07-03T16:42:03Z",
   "pushed_at": "2021-04-28T18:10:46Z",
   "size": 2268,
   "history": {
@@ -132,6 +132,10 @@
     "2021-07-01": {
       "stargazers_count": 645,
       "forks_count": 162
+    },
+    "2021-07-15": {
+      "stargazers_count": 647,
+      "forks_count": 162
     }
   },
   "commits": [
@@ -150,71 +154,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 874,
-        "uniques": 182
+        "count": 672,
+        "uniques": 167
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 11,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/openfootball/football.json",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 207,
-          "uniques": 154
+          "count": 222,
+          "uniques": 146
         },
         {
           "path": "/openfootball/football.json/tree/master/2020-21",
           "title": "football.json/2020-21 at master · openfootball/football.json · GitHub",
-          "count": 92,
-          "uniques": 60
+          "count": 77,
+          "uniques": 53
         },
         {
           "path": "/openfootball/football.json/tree/master/2020",
           "title": "football.json/2020 at master · openfootball/football.json · GitHub",
-          "count": 35,
-          "uniques": 28
+          "count": 19,
+          "uniques": 16
         },
         {
           "path": "/openfootball/football.json/blob/master/2020-21/en.1.json",
           "title": "football.json/en.1.json at master · openfootball/football.json · GitHub",
-          "count": 20,
-          "uniques": 16
+          "count": 16,
+          "uniques": 14
         },
         {
-          "path": "/openfootball/football.json/blob/master/2020-21/en.1.clubs.json",
-          "title": "football.json/en.1.clubs.json at master · openfootball/football.json · GitHub",
-          "count": 19,
-          "uniques": 17
-        },
-        {
-          "path": "/openfootball/football.json/blob/master/2020-21/es.1.clubs.json",
-          "title": "football.json/es.1.clubs.json at master · openfootball/football.json · GitHub",
-          "count": 15,
-          "uniques": 10
-        },
-        {
-          "path": "/openfootball/football.json/blob/master/2020-21/at.2.clubs.json",
-          "title": "football.json/at.2.clubs.json at master · openfootball/football.json · GitHub",
-          "count": 11,
-          "uniques": 9
-        },
-        {
-          "path": "/openfootball/football.json/blob/master/2020-21/at.1.json",
-          "title": "football.json/at.1.json at master · openfootball/football.json · GitHub",
-          "count": 10,
-          "uniques": 10
-        },
-        {
-          "path": "/openfootball/football.json/blob/master/2020/br.1.clubs.json",
-          "title": "football.json/br.1.clubs.json at master · openfootball/football.json · GitHub",
-          "count": 9,
-          "uniques": 9
+          "path": "/openfootball/football.json/commit/808a728e95cf47d082c9667e18273f55d619932e",
+          "title": "Update en.1.json (#32) · openfootball/football.json@808a728 · GitHub",
+          "count": 14,
+          "uniques": 7
         },
         {
           "path": "/openfootball/football.json/tree/master/2010-11",
           "title": "football.json/2010-11 at master · openfootball/football.json · GitHub",
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/README.md",
+          "title": "football.json/README.md at master · openfootball/football.json · GitHub",
+          "count": 12,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/2020-21/es.1.clubs.json",
+          "title": "football.json/es.1.clubs.json at master · openfootball/football.json · GitHub",
+          "count": 11,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/football.json/tree/master/2019-20",
+          "title": "football.json/2019-20 at master · openfootball/football.json · GitHub",
+          "count": 10,
+          "uniques": 8
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/2020-21/at.1.json",
+          "title": "football.json/at.1.json at master · openfootball/football.json · GitHub",
           "count": 9,
           "uniques": 9
         }
@@ -222,33 +226,53 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 106,
-          "uniques": 80
+          "count": 111,
+          "uniques": 85
         },
         {
           "referrer": "github.com",
-          "count": 59,
+          "count": 65,
           "uniques": 49
         },
         {
-          "referrer": "qna.habr.com",
-          "count": 7,
-          "uniques": 6
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 6,
-          "uniques": 6
-        },
-        {
           "referrer": "reddit.com",
-          "count": 5,
-          "uniques": 4
+          "count": 4,
+          "uniques": 3
         },
         {
           "referrer": "Bing",
-          "count": 3,
+          "count": 4,
           "uniques": 2
+        },
+        {
+          "referrer": "qna.habr.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "yandex.uz",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "ohmemo.hatenablog.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "npmjs.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2049,8 +2073,112 @@
       },
       "2021-07-01": {
         "views": {
-          "count": 195,
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-07-02": {
+        "views": {
+          "count": 49,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-03": {
+        "views": {
+          "count": 47,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-07-04": {
+        "views": {
+          "count": 53,
+          "uniques": 18
+        }
+      },
+      "2021-07-05": {
+        "views": {
+          "count": 41,
+          "uniques": 13
+        }
+      },
+      "2021-07-06": {
+        "views": {
+          "count": 70,
+          "uniques": 14
+        }
+      },
+      "2021-07-07": {
+        "views": {
+          "count": 69,
+          "uniques": 12
+        }
+      },
+      "2021-07-08": {
+        "views": {
+          "count": 65,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-07-09": {
+        "views": {
+          "count": 67,
           "uniques": 17
+        }
+      },
+      "2021-07-10": {
+        "views": {
+          "count": 22,
+          "uniques": 11
+        }
+      },
+      "2021-07-11": {
+        "views": {
+          "count": 19,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-12": {
+        "views": {
+          "count": 56,
+          "uniques": 22
+        }
+      },
+      "2021-07-13": {
+        "views": {
+          "count": 27,
+          "uniques": 11
+        }
+      },
+      "2021-07-14": {
+        "views": {
+          "count": 23,
+          "uniques": 10
+        }
+      },
+      "2021-07-15": {
+        "views": {
+          "count": 60,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

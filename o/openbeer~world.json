@@ -153,6 +153,10 @@
     "2021-07-01": {
       "stargazers_count": 65,
       "forks_count": 16
+    },
+    "2021-07-15": {
+      "stargazers_count": 65,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -169,7 +173,7 @@
     }
   ],
   "size": 1235,
-  "updated_at": "2021-01-17T15:46:37Z",
+  "updated_at": "2021-07-02T15:08:52Z",
   "pushed_at": "2014-10-25T21:17:49Z",
   "description": "Free open public domain beer, brewery n brewpub data",
   "language": "Ruby",
@@ -179,41 +183,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 3
+        "count": 35,
+        "uniques": 4
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openbeer/world",
           "title": "openbeer/world: Free open public domain beer, brewery n brewpub data",
-          "count": 3,
+          "count": 8,
           "uniques": 3
         },
         {
-          "path": "/openbeer/world/blob/master/europe/1--sc-scotland--british-isles/breweries.txt",
-          "title": "world/breweries.txt at master · openbeer/world",
-          "count": 1,
+          "path": "/openbeer/world/blob/master/europe/2--fr-france--western/beers.txt",
+          "title": "world/beers.txt at master · openbeer/world · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/beers.txt",
+          "title": "world/beers.txt at master · openbeer/world · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/tree/master/europe/2--fr-france--western",
+          "title": "world/europe/2--fr-france--western at master · openbeer/world · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/pulls",
+          "title": "Pull requests · openbeer/world",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/openbeer/world/tree/master/europe",
           "title": "world/europe at master · openbeer/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/africa/eg-egypt/beers.txt",
+          "title": "world/beers.txt at master · openbeer/world · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbeer/world/tree/master/europe/1--sc-scotland--british-isles",
-          "title": "world/europe/1--sc-scotland--british-isles at master · openbeer/world",
+          "path": "/openbeer/world/blob/master/europe/4--hr-croatia--balkans/beers.txt",
+          "title": "world/beers.txt at master · openbeer/world",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbeer/world/tree/master/setups",
-          "title": "world/setups at master · openbeer/world",
+          "path": "/openbeer/world/blob/master/europe/6--ee-estonia--baltics/beers.txt",
+          "title": "world/beers.txt at master · openbeer/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/setups/all.yml",
+          "title": "world/all.yml at master · openbeer/world · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -222,7 +256,12 @@
         {
           "referrer": "github.com",
           "count": 3,
-          "uniques": 3
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -731,6 +770,40 @@
       },
       "2021-06-28": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-02": {
+        "views": {
+          "count": 20,
+          "uniques": 2
+        }
+      },
+      "2021-07-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-06": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-07-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-15": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
           "count": 1,
           "uniques": 1
         }

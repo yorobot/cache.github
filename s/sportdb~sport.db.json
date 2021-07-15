@@ -148,6 +148,10 @@
     "2021-07-01": {
       "stargazers_count": 207,
       "forks_count": 23
+    },
+    "2021-07-15": {
+      "stargazers_count": 207,
+      "forks_count": 23
     }
   },
   "commits": [
@@ -177,41 +181,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 86,
-        "uniques": 31
+        "count": 78,
+        "uniques": 14
       },
       "clones": {
-        "count": 4,
+        "count": 8,
         "uniques": 4
       },
       "paths": [
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 38,
-          "uniques": 25
+          "count": 22,
+          "uniques": 12
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 18,
-          "uniques": 13
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/test/world",
+          "title": "sport.db/test/world at master · sportdb/sport.db",
+          "count": 4,
+          "uniques": 1
         },
         {
           "path": "/sportdb/sport.db/tree/master/football",
           "title": "sport.db/football at master · sportdb/sport.db · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/sportdb/sport.db/stargazers",
-          "title": "Stargazers · sportdb/sport.db · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/tree/master/football/lib",
-          "title": "sport.db/football/lib at master · sportdb/sport.db",
+          "path": "/sportdb/sport.db/tree/master/football.db.models",
+          "title": "sport.db/football.db.models at master · sportdb/sport.db",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb/attic",
+          "title": "sport.db/sportdb/attic at master · sportdb/sport.db · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -222,54 +232,38 @@
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-readers",
-          "title": "sport.db/sportdb-readers at master · sportdb/sport.db · GitHub",
+          "path": "/sportdb/sport.db/tree/master/sportdb-models",
+          "title": "sport.db/sportdb-models at master · sportdb/sport.db · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb/script",
-          "title": "sport.db/sportdb/script at master · sportdb/sport.db · GitHub",
+          "path": "/sportdb/sport.db/tree/master/sportdb-models/lib/sportdb",
+          "title": "sport.db/sportdb-models/lib/sportdb at master · sportdb/sport.db · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/actions",
-          "title": "Actions · sportdb/sport.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/football/lib/football.rb",
-          "title": "sport.db/football.rb at master · sportdb/sport.db",
-          "count": 1,
-          "uniques": 1
+          "path": "/sportdb/sport.db/tree/master/sportdb-models/lib/sportdb/models",
+          "title": "sport.db/sportdb-models/lib/sportdb/models at master · sportdb/sport.db · Git...",
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 14
+          "count": 8,
+          "uniques": 6
         },
         {
           "referrer": "Google",
           "count": 8,
-          "uniques": 7
+          "uniques": 4
         },
         {
-          "referrer": "sportdb.github.io",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 1,
+          "referrer": "awesomeopensource.com",
+          "count": 3,
           "uniques": 1
         },
         {
@@ -1802,6 +1796,80 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-07-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-07-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-07": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-07-09": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-10": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2021-07-12": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-07-13": {
+        "views": {
+          "count": 25,
+          "uniques": 2
+        }
+      },
+      "2021-07-15": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-07-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

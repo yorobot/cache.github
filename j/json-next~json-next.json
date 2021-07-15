@@ -139,6 +139,10 @@
     "2021-07-01": {
       "stargazers_count": 30,
       "forks_count": 0
+    },
+    "2021-07-15": {
+      "stargazers_count": 30,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -174,23 +178,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
+        "count": 9,
         "uniques": 7
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/json-next/json-next",
           "title": "json-next/json-next: json-next gem - read generation y / next generation json...",
-          "count": 9,
-          "uniques": 6
+          "count": 7,
+          "uniques": 7
         },
         {
-          "path": "/json-next/json-next/issues/1",
-          "title": "warning: character class has duplicated range · Issue #1 · json-next/json-nex...",
+          "path": "/json-next/json-next/blob/master/lib/json/next.rb",
+          "title": "json-next/next.rb at master · json-next/json-next",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json",
+          "title": "json-next/lib/json at master · json-next/json-next",
           "count": 1,
           "uniques": 1
         }
@@ -198,8 +208,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 9,
-          "uniques": 7
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -915,6 +930,50 @@
       "2021-06-30": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-07-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-08": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-07-06": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -153,6 +153,10 @@
     "2021-07-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2021-07-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -179,18 +183,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/worldclassics/the-trial/blob/master/README.md",
+          "title": "the-trial/README.md at master · worldclassics/the-trial",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worldclassics/the-trial",
+          "title": "worldclassics/the-trial: The Trial by Franz Kafka",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -275,6 +294,12 @@
       "2021-06-29": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-04": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

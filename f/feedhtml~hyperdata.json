@@ -148,6 +148,10 @@
     "2021-07-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-07-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -181,8 +185,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 4
+        "count": 11,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
@@ -190,32 +194,54 @@
       },
       "paths": [
         {
+          "path": "/feedhtml/hyperdata/tree/master/lib/hyperdata",
+          "title": "hyperdata/lib/hyperdata at master · feedhtml/hyperdata",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "path": "/feedhtml/hyperdata",
-          "title": "GitHub - feedhtml/hyperdata: hyperdata gem - turn hypertext from web pages in...",
+          "title": "feedhtml/hyperdata: hyperdata gem - turn hypertext from web pages into struct...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedhtml/hyperdata/tree/master/lib/hyperdata/builder",
+          "title": "hyperdata/lib/hyperdata/builder at master · feedhtml/hyperdata",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedhtml/hyperdata/blob/master/lib/hyperdata/builder/article.rb",
+          "title": "hyperdata/article.rb at master · feedhtml/hyperdata",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedhtml/hyperdata/issues",
-          "title": "Issues · feedhtml/hyperdata · GitHub",
+          "path": "/feedhtml/hyperdata/blob/master/lib/hyperdata/feed.rb",
+          "title": "hyperdata/feed.rb at master · feedhtml/hyperdata",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedhtml/hyperdata/pulls",
-          "title": "Pull requests · feedhtml/hyperdata · GitHub",
+          "path": "/feedhtml/hyperdata/blob/master/lib/hyperdata/parser.rb",
+          "title": "hyperdata/parser.rb at master · feedhtml/hyperdata",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedhtml/hyperdata/stargazers",
-          "title": "Stargazers · feedhtml/hyperdata · GitHub",
+          "path": "/feedhtml/hyperdata/tree/master/lib",
+          "title": "hyperdata/lib at master · feedhtml/hyperdata",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -289,6 +315,12 @@
         "views": {
           "count": 4,
           "uniques": 4
+        }
+      },
+      "2021-07-07": {
+        "views": {
+          "count": 11,
+          "uniques": 1
         }
       }
     }

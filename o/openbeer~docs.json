@@ -142,6 +142,10 @@
     "2021-07-01": {
       "stargazers_count": 10,
       "forks_count": 1
+    },
+    "2021-07-15": {
+      "stargazers_count": 10,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -167,8 +171,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 4
+        "count": 34,
+        "uniques": 10
       },
       "clones": {
         "count": 0,
@@ -178,23 +182,34 @@
         {
           "path": "/openbeer/docs",
           "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
-          "count": 5,
-          "uniques": 3
+          "count": 15,
+          "uniques": 8
+        },
+        {
+          "path": "/openbeer/docs/blob/master/BEERS.md",
+          "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
+          "count": 6,
+          "uniques": 6
         },
         {
           "path": "/openbeer/docs/blob/master/BREWERIES.md",
           "title": "docs/BREWERIES.md at master · openbeer/docs · GitHub",
-          "count": 3,
-          "uniques": 2
+          "count": 4,
+          "uniques": 4
         },
         {
-          "path": "/openbeer/docs/blob/master/BEERS.md",
-          "title": "docs/BEERS.md at master · openbeer/docs",
+          "path": "/openbeer/docs/projects",
+          "title": "Projects · openbeer/docs · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "openbeer.github.io",
+          "count": 10,
+          "uniques": 5
+        },
         {
           "referrer": "github.com",
           "count": 5,
@@ -863,6 +878,54 @@
         "views": {
           "count": 5,
           "uniques": 1
+        }
+      },
+      "2021-07-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-07-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-07-06": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2021-07-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-07-09": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-07-13": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-07-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-07-15": {
+        "views": {
+          "count": 8,
+          "uniques": 2
         }
       }
     }
