@@ -157,6 +157,10 @@
     "2021-07-15": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2021-08-01": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -183,18 +187,57 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 17,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/openbeer/schema",
+          "title": "openbeer/schema: beer.db database schema docu",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/schema/blob/master/_data/database.json",
+          "title": "schema/database.json at master · openbeer/schema",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/schema/tree/master/_data",
+          "title": "schema/_data at master · openbeer/schema",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/schema/blob/master/_layouts/default.html",
+          "title": "schema/default.html at master · openbeer/schema",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/blob/master/symbols.html",
+          "title": "schema/symbols.html at master · openbeer/schema",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/tree/master/_layouts",
+          "title": "schema/_layouts at master · openbeer/schema",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -390,6 +433,30 @@
       },
       "2021-07-15": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-07-24": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2021-07-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-28": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

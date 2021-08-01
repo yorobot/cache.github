@@ -157,6 +157,10 @@
     "2021-07-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-08-01": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -183,30 +187,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 1
+        "count": 14,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/opensport/rugby.db",
           "title": "opensport/rugby.db: Free open public domain rugby database 'n' schema (rugby....",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/rugby.db/blob/master/2015/cup.txt",
+          "title": "rugby.db/cup.txt at master · opensport/rugby.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/2015",
+          "title": "rugby.db/2015 at master · opensport/rugby.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/rugby.db/blob/master/2015/cup.yml",
+          "title": "rugby.db/cup.yml at master · opensport/rugby.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/opensport/rugby.db/search",
-          "title": "Search · rugby",
+          "path": "/opensport/rugby.db/blob/master/setups/all.txt",
+          "title": "rugby.db/all.txt at master · opensport/rugby.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/blob/master/teams.txt",
+          "title": "rugby.db/teams.txt at master · opensport/rugby.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/setups",
+          "title": "rugby.db/setups at master · opensport/rugby.db",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
+          "referrer": "opendata.stackexchange.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -466,6 +505,22 @@
       "2021-07-05": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-07-20": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-24": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

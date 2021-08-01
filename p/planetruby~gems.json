@@ -157,24 +157,28 @@
     "2021-07-15": {
       "stargazers_count": 75,
       "forks_count": 26
+    },
+    "2021-08-01": {
+      "stargazers_count": 75,
+      "forks_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-06-15T10:37:22Z",
-        "name": "Gerald Bauer"
+        "date": "2021-07-25T15:14:47Z",
+        "name": "Andy Maleh"
       },
       "author": {
-        "date": "2021-06-15T10:37:22Z",
-        "name": "Gerald Bauer"
+        "date": "2021-07-23T15:27:40Z",
+        "name": "Andy Maleh"
       },
-      "message": "up"
+      "message": "Update Tetris URLs (#70)"
     }
   ],
-  "size": 3324,
-  "updated_at": "2021-07-11T14:03:13Z",
-  "pushed_at": "2021-07-08T16:31:30Z",
+  "size": 3384,
+  "updated_at": "2021-07-25T15:14:53Z",
+  "pushed_at": "2021-07-25T15:14:50Z",
   "description": "Ruby Football Week 2021, June 11th to June 17th - 7 Days of Ruby (Sports) Gems ++  Best of Ruby Gems Series",
   "language": "HTML",
   "topics": [
@@ -195,85 +199,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 33,
-        "uniques": 7
+        "count": 101,
+        "uniques": 9
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 25,
+        "uniques": 19
       },
       "paths": [
         {
           "path": "/planetruby/gems",
           "title": "planetruby/gems: Ruby Football Week 2021, June 11th to June 17th - 7 Days of ...",
-          "count": 12,
-          "uniques": 5
-        },
-        {
-          "path": "/planetruby/gems/pulls",
-          "title": "Pull requests · planetruby/gems",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/issues",
-          "title": "Issues · planetruby/gems · GitHub",
-          "count": 4,
-          "uniques": 4
+          "count": 24,
+          "uniques": 6
         },
         {
           "path": "/planetruby/gems/pull/69",
           "title": "Glimmer Tetris article series by AMaleh · Pull Request #69 · planetruby/gems",
+          "count": 17,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/gems/pulls",
+          "title": "Pull requests · planetruby/gems",
+          "count": 17,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/pull/70",
+          "title": "Update Tetris URLs by AndyObtiva · Pull Request #70 · planetruby/gems",
+          "count": 9,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/gems/tree/master/glimmer",
+          "title": "gems/glimmer at master · planetruby/gems",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/commits/master",
+          "title": "Commits · planetruby/gems · GitHub",
           "count": 3,
-          "uniques": 1
+          "uniques": 2
         },
         {
           "path": "/planetruby/gems/pull/69/files",
           "title": "Glimmer Tetris article series by AMaleh · Pull Request #69 · planetruby/gems",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/blob/master/glimmer/07-glimmer-tetris-high-score-dialog-menu-bar-icon.md",
+          "title": "gems/07-glimmer-tetris-high-score-dialog-menu-bar-icon.md at master · planetr...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/issues",
+          "title": "Issues · planetruby/gems",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/planetruby/gems/blob/fc6a0da4ee3724012b61b9efa1b4fcbcefba3a19/glimmer/05-glimmer-tetris-playfield.md",
-          "title": "gems/05-glimmer-tetris-playfield.md at fc6a0da4ee3724012b61b9efa1b4fcbcefba3a...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/blob/master/glimmer/01-glimmer.md",
-          "title": "gems/01-glimmer.md at master · planetruby/gems",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/blob/master/pixel/02-pixelart.md",
-          "title": "gems/02-pixelart.md at master · planetruby/gems",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/compare/master...AMaleh:master",
-          "title": "Comparing planetruby:master...AMaleh:master · planetruby/gems",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/gems/issues/16",
-          "title": "Add syntax-highlighting to fenced code-blocks · Issue #16 · planetruby/gems",
-          "count": 1,
+          "path": "/planetruby/gems/blob/master/glimmer/06-glimmer-tetris-score_lane.md",
+          "title": "gems/06-glimmer-tetris-score_lane.md at master · planetruby/gems",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 4
-        },
-        {
-          "referrer": "planetruby.github.io",
-          "count": 3,
-          "uniques": 3
+          "count": 22,
+          "uniques": 5
         }
       ]
     },
@@ -1315,6 +1314,88 @@
       "2021-07-12": {
         "views": {
           "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-07-20": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-07-22": {
+        "views": {
+          "count": 45,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-07-23": {
+        "views": {
+          "count": 34,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-07-24": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-25": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 12,
+          "uniques": 10
+        }
+      },
+      "2021-07-28": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2021-07-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-01": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-07-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-07-26": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-07-27": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
