@@ -161,6 +161,10 @@
     "2021-08-01": {
       "stargazers_count": 176,
       "forks_count": 15
+    },
+    "2021-08-15": {
+      "stargazers_count": 177,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -177,7 +181,7 @@
     }
   ],
   "size": 596,
-  "updated_at": "2021-04-18T17:10:20Z",
+  "updated_at": "2021-08-08T20:51:06Z",
   "pushed_at": "2020-10-31T16:55:53Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -200,93 +204,93 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 193,
-        "uniques": 13
+        "count": 109,
+        "uniques": 38
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
+          "path": "/feedreader/pluto/issues/39",
+          "title": "Feeds requiring cookie support · Issue #39 · feedreader/pluto",
+          "count": 38,
+          "uniques": 23
+        },
+        {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 31,
-          "uniques": 9
-        },
-        {
-          "path": "/feedreader/pluto/search",
-          "title": "Search · instlal",
-          "count": 23,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto",
-          "count": 20,
-          "uniques": 5
-        },
-        {
-          "path": "/feedreader/pluto/issues/38",
-          "title": "Confusing fetched vs updated_at · Issue #38 · feedreader/pluto",
-          "count": 10,
-          "uniques": 3
+          "count": 24,
+          "uniques": 17
         },
         {
           "path": "/feedreader/pluto/blob/520022ac05e9240149cea9ed1cf1debd360914fb/newscast/lib/newscast.rb",
           "title": "pluto/newscast.rb at 520022ac05e9240149cea9ed1cf1debd360914fb · feedreader/pl...",
-          "count": 10,
+          "count": 11,
           "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues",
+          "title": "Issues · feedreader/pluto · GitHub",
+          "count": 9,
+          "uniques": 3
         },
         {
           "path": "/feedreader/pluto/tree/master/pluto",
           "title": "pluto/pluto at master · feedreader/pluto · GitHub",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/feedreader/pluto/tree/5105cef814c52ac9da9d2323da4e3e88fac3223c",
-          "title": "feedreader/pluto at 5105cef814c52ac9da9d2323da4e3e88fac3223c",
           "count": 6,
-          "uniques": 1
+          "uniques": 4
         },
         {
-          "path": "/feedreader/pluto/pulls",
-          "title": "Pull requests · feedreader/pluto · GitHub",
+          "path": "/feedreader/pluto/issues/40",
+          "title": "HTTP/HTTPS redirect too deep when server uses cookies to authenticate connect...",
           "count": 5,
           "uniques": 2
         },
         {
-          "path": "/feedreader/pluto/commits",
-          "title": "Commits · feedreader/pluto",
+          "path": "/feedreader/pluto/pulls",
+          "title": "Pull requests · feedreader/pluto · GitHub",
           "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/feedreader/pluto/network/members",
+          "title": "Network Graph · feedreader/pluto · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/5105cef814c52ac9da9d2323da4e3e88fac3223c/pluto-tasks",
-          "title": "pluto/pluto-tasks at 5105cef814c52ac9da9d2323da4e3e88fac3223c · feedreader/pl...",
-          "count": 4,
+          "path": "/feedreader/pluto/issues/33",
+          "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/LICENSE.md",
+          "title": "pluto/LICENSE.md at master · feedreader/pluto",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 6
+          "count": 20,
+          "uniques": 9
         },
         {
           "referrer": "Google",
-          "count": 7,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "neuroblog.fedoraproject.org",
-          "count": 2,
-          "uniques": 2
+          "referrer": "rubytalk.org",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
+          "referrer": "planetopendata.herokuapp.com",
           "count": 1,
           "uniques": 1
         }
@@ -1540,6 +1544,104 @@
       "2021-08-01": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-08-02": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-08-03": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-08-04": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-05": {
+        "views": {
+          "count": 28,
+          "uniques": 3
+        }
+      },
+      "2021-08-06": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-07": {
+        "views": {
+          "count": 41,
+          "uniques": 22
+        }
+      },
+      "2021-08-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-08-10": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2021-08-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-08-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

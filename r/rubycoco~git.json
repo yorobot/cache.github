@@ -107,6 +107,10 @@
     "2021-08-01": {
       "stargazers_count": 15,
       "forks_count": 2
+    },
+    "2021-08-15": {
+      "stargazers_count": 15,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -141,22 +145,32 @@
     "summary": {
       "views": {
         "count": 2,
-        "uniques": 1
+        "uniques": 2
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/rubycoco/git",
           "title": "rubycoco/git: git (and github) command line tools, libraries & scripts",
-          "count": 2,
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/git/blob/master/hubba-reports/lib/hubba/reports/reports/languages.rb",
+          "title": "git/languages.rb at master · rubycoco/git · GitHub",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -806,6 +820,18 @@
       },
       "2021-07-23": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-12": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

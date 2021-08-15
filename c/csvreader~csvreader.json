@@ -1,7 +1,7 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2021-01-11T14:41:57Z",
+  "updated_at": "2021-08-02T08:24:35Z",
   "pushed_at": "2019-07-27T18:17:08Z",
   "size": 187,
   "history": {
@@ -131,6 +131,10 @@
     "2021-08-01": {
       "stargazers_count": 169,
       "forks_count": 5
+    },
+    "2021-08-15": {
+      "stargazers_count": 170,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -164,71 +168,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 39,
-        "uniques": 17
+        "count": 68,
+        "uniques": 31
       },
       "clones": {
-        "count": 17,
-        "uniques": 12
+        "count": 23,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 22,
-          "uniques": 14
+          "count": 38,
+          "uniques": 27
         },
         {
           "path": "/csvreader/csvreader/issues",
-          "title": "Issues · csvreader/csvreader",
-          "count": 4,
-          "uniques": 1
+          "title": "Issues · csvreader/csvreader · GitHub",
+          "count": 7,
+          "uniques": 4
         },
         {
-          "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
-          "title": "csvreader/DIALECTS.md at master · csvreader/csvreader",
-          "count": 2,
+          "path": "/csvreader/csvreader/search",
+          "title": "Search · ICsvReader · GitHub",
+          "count": 5,
           "uniques": 2
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/lib",
-          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/csvreader/csvreader/issues/5",
-          "title": "Remove banner · Issue #5 · csvreader/csvreader",
-          "count": 2,
-          "uniques": 1
         },
         {
           "path": "/csvreader/csvreader/issues/7",
           "title": "CsvReader::ParseError: found >1 (49)< - FS (,) or RS (\\n) expected!!!! · Issu...",
-          "count": 2,
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/tree/master/test",
-          "title": "csvreader/test at master · csvreader/csvreader · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/issues/4",
-          "title": "How is this gem different from csv11? · Issue #4 · csvreader/csvreader",
+          "path": "/csvreader/csvreader/blob/master/datasets/beer.csv",
+          "title": "csvreader/beer.csv at master · csvreader/csvreader · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/pulls",
-          "title": "Pull requests · csvreader/csvreader",
+          "path": "/csvreader/csvreader/blob/master/datasets/shakespeare.csv",
+          "title": "csvreader/shakespeare.csv at master · csvreader/csvreader · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/tree/master/lib/csvreader",
-          "title": "csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
+          "title": "csvreader/DIALECTS.md at master · csvreader/csvreader · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/ERRORS.md",
+          "title": "csvreader/ERRORS.md at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/test/test_reader.rb",
+          "title": "csvreader/test_reader.rb at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/issues/2",
+          "title": "Returning an Enumerator? · Issue #2 · csvreader/csvreader",
           "count": 1,
           "uniques": 1
         }
@@ -236,13 +240,33 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 12,
-          "uniques": 10
+          "count": 23,
+          "uniques": 17
         },
         {
           "referrer": "github.com",
-          "count": 9,
-          "uniques": 5
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "qiita.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "search.naver.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2403,6 +2427,146 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-08-02": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-03": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-04": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-08-06": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-07": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-10": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-11": {
+        "views": {
+          "count": 9,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-12": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-08-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-08-14": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-15": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

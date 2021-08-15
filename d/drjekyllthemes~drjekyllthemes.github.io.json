@@ -161,6 +161,10 @@
     "2021-08-01": {
       "stargazers_count": 16,
       "forks_count": 5
+    },
+    "2021-08-15": {
+      "stargazers_count": 16,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -187,18 +191,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 5,
-        "uniques": 5
-      },
       "paths": [
-
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io",
+          "title": "drjekyllthemes/drjekyllthemes.github.io: Dr. Jekyll's Themes - Static Website...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/blob/master/_config.yml",
+          "title": "drjekyllthemes.github.io/_config.yml at master · drjekyllthemes/drjekylltheme...",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -461,6 +480,12 @@
       "2021-07-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-13": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

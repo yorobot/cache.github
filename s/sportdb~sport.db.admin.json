@@ -161,6 +161,10 @@
     "2021-08-01": {
       "stargazers_count": 17,
       "forks_count": 5
+    },
+    "2021-08-15": {
+      "stargazers_count": 17,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -187,55 +191,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 9
+        "count": 35,
+        "uniques": 4
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/sportdb/sport.db.admin",
           "title": "sportdb/sport.db.admin: sport.db web app - Open Sports Database Web Admin Too...",
-          "count": 7,
-          "uniques": 7
+          "count": 10,
+          "uniques": 4
         },
         {
-          "path": "/sportdb/sport.db.admin/blob/master/app/models/game.rb",
-          "title": "sport.db.admin/game.rb at master · sportdb/sport.db.admin · GitHub",
+          "path": "/sportdb/sport.db.admin/tree/master/config",
+          "title": "sport.db.admin/config at master · sportdb/sport.db.admin",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/blob/master/datafile/worldcup2018.rb",
+          "title": "sport.db.admin/worldcup2018.rb at master · sportdb/sport.db.admin",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/tree/master/datafile",
+          "title": "sport.db.admin/datafile at master · sportdb/sport.db.admin",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/tree/master/db",
+          "title": "sport.db.admin/db at master · sportdb/sport.db.admin",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/tree/master/db/migrate",
+          "title": "sport.db.admin/db/migrate at master · sportdb/sport.db.admin",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/tree/master/lib/tasks",
+          "title": "sport.db.admin/lib/tasks at master · sportdb/sport.db.admin",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/blob/master/config/database.yml",
+          "title": "sport.db.admin/database.yml at master · sportdb/sport.db.admin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db.admin/blob/master/app/models/team.rb",
-          "title": "sport.db.admin/team.rb at master · sportdb/sport.db.admin · GitHub",
+          "path": "/sportdb/sport.db.admin/blob/master/config/environments/development.rb",
+          "title": "sport.db.admin/development.rb at master · sportdb/sport.db.admin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db.admin/tree/master/app/models",
-          "title": "sport.db.admin/app/models at master · sportdb/sport.db.admin · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db.admin/tree/master/public",
-          "title": "sport.db.admin/public at master · sportdb/sport.db.admin · GitHub",
+          "path": "/sportdb/sport.db.admin/blob/master/config/routes.rb",
+          "title": "sport.db.admin/routes.rb at master · sportdb/sport.db.admin",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 4,
-          "uniques": 4
+          "referrer": "opensport.github.io",
+          "count": 3,
+          "uniques": 2
         },
         {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1336,6 +1375,36 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-08-02": {
+        "views": {
+          "count": 32,
+          "uniques": 1
+        }
+      },
+      "2021-08-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

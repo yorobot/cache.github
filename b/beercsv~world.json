@@ -161,6 +161,10 @@
     "2021-08-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2021-08-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -187,18 +191,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/beercsv/world",
+          "title": "beercsv/world: beer, brewery n brewpub data",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/blob/master/asia/kr-south-korea/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/asia",
+          "title": "world/asia at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/asia/kr-south-korea",
+          "title": "world/asia/kr-south-korea at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -373,6 +404,12 @@
       "2021-07-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-13": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }
