@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-blockchains",
   "created_at": "2018-03-15T17:18:42Z",
-  "updated_at": "2021-08-14T00:32:46Z",
+  "updated_at": "2021-08-31T10:45:38Z",
   "pushed_at": "2021-01-02T10:52:07Z",
   "size": 553,
   "history": {
@@ -132,6 +132,10 @@
     "2021-08-15": {
       "stargazers_count": 582,
       "forks_count": 62
+    },
+    "2021-09-01": {
+      "stargazers_count": 585,
+      "forks_count": 62
     }
   },
   "commits": [
@@ -155,59 +159,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 75,
-        "uniques": 41
+        "count": 89,
+        "uniques": 36
       },
       "clones": {
-        "count": 13,
-        "uniques": 8
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/openblockchains/programming-blockchains",
           "title": "openblockchains/programming-blockchains: Programming Blockchains Step-by-Step...",
-          "count": 38,
-          "uniques": 30
+          "count": 45,
+          "uniques": 28
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/01_crypto_hash.md",
           "title": "programming-blockchains/01_crypto_hash.md at master · openblockchains/program...",
-          "count": 9,
-          "uniques": 9
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/blob/master/06_bitcoin.md",
-          "title": "programming-blockchains/06_bitcoin.md at master · openblockchains/programming...",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/blob/master/03_blockchain.md",
-          "title": "programming-blockchains/03_blockchain.md at master · openblockchains/programm...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/search",
-          "title": "Search · livros gratuitos programacao",
-          "count": 3,
-          "uniques": 1
+          "count": 14,
+          "uniques": 13
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/02_crypto_block.md",
           "title": "programming-blockchains/02_crypto_block.md at master · openblockchains/progra...",
-          "count": 2,
-          "uniques": 2
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/06_bitcoin.md",
+          "title": "programming-blockchains/06_bitcoin.md at master · openblockchains/programming...",
+          "count": 7,
+          "uniques": 7
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/05_mining.md",
           "title": "programming-blockchains/05_mining.md at master · openblockchains/programming-...",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/03_blockchain.md",
+          "title": "programming-blockchains/03_blockchain.md at master · openblockchains/programm...",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/A1_resources.md",
           "title": "programming-blockchains/A1_resources.md at master · openblockchains/programmi...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/bitcoin_header.rb",
+          "title": "programming-blockchains/bitcoin_header.rb at master · openblockchains/program...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/hash.rb",
+          "title": "programming-blockchains/hash.rb at master · openblockchains/programming-block...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/NOTES.md",
+          "title": "programming-blockchains/NOTES.md at master · openblockchains/programming-bloc...",
           "count": 1,
           "uniques": 1
         }
@@ -215,26 +231,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 24,
+          "count": 35,
           "uniques": 22
         },
         {
-          "referrer": "learnmeabitcoin.com",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "awesomeopensource.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "yuque.com",
           "count": 1,
           "uniques": 1
         }
@@ -2067,6 +2068,96 @@
         "views": {
           "count": 11,
           "uniques": 5
+        }
+      },
+      "2021-08-19": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-08-20": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-08-21": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2021-08-23": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2021-08-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-08-25": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-08-26": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-28": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-08-30": {
+        "views": {
+          "count": 21,
+          "uniques": 7
+        }
+      },
+      "2021-08-31": {
+        "views": {
+          "count": 10,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-01": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

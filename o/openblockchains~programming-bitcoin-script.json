@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-bitcoin-script",
   "created_at": "2015-08-01T12:07:19Z",
-  "updated_at": "2021-06-14T18:04:10Z",
+  "updated_at": "2021-08-30T14:41:22Z",
   "pushed_at": "2021-01-02T10:47:50Z",
   "size": 475,
   "history": {
@@ -129,6 +129,10 @@
     "2021-08-15": {
       "stargazers_count": 33,
       "forks_count": 11
+    },
+    "2021-09-01": {
+      "stargazers_count": 34,
+      "forks_count": 12
     }
   },
   "commits": [
@@ -156,88 +160,93 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 103,
-        "uniques": 34
+        "count": 79,
+        "uniques": 40
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openblockchains/programming-bitcoin-script",
           "title": "openblockchains/programming-bitcoin-script: Programming Bitcoin Script Transa...",
-          "count": 45,
-          "uniques": 32
+          "count": 48,
+          "uniques": 38
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script",
           "title": "programming-bitcoin-script/bitcoin-script at master · openblockchains/program...",
-          "count": 10,
-          "uniques": 5
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/commit/8f27087f554edf71f319fb6147afebdd37004492",
-          "title": "up · openblockchains/programming-bitcoin-script@8f27087 · GitHub",
           "count": 4,
-          "uniques": 3
+          "uniques": 1
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/test",
           "title": "programming-bitcoin-script/bitcoin-script/test at master · openblockchains/pr...",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
-          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/hash160.rb",
-          "title": "programming-bitcoin-script/hash160.rb at master · openblockchains/programming...",
           "count": 3,
-          "uniques": 3
+          "uniques": 1
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_add.rb",
           "title": "programming-bitcoin-script/stackmachine_add.rb at master · openblockchains/pr...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/lib/bitcoin-script.rb",
-          "title": "programming-bitcoin-script/bitcoin-script.rb at master · openblockchains/prog...",
-          "count": 3,
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/lib/bitcoin-script/version.rb",
-          "title": "programming-bitcoin-script/version.rb at master · openblockchains/programming...",
-          "count": 3,
-          "uniques": 2
+          "path": "/openblockchains/programming-bitcoin-script/commit/8f27087f554edf71f319fb6147afebdd37004492",
+          "title": "up · openblockchains/programming-bitcoin-script@8f27087 · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
+          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib/bitcoin-script",
           "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script at master · open...",
-          "count": 3,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/lib/bitcoin-script.rb",
+          "title": "programming-bitcoin-script/bitcoin-script.rb at master · openblockchains/prog...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/lib/bitcoin-script/version.rb",
+          "title": "programming-bitcoin-script/version.rb at master · openblockchains/programming...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/test/helper.rb",
+          "title": "programming-bitcoin-script/helper.rb at master · openblockchains/programming-...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 26,
-          "uniques": 22
+          "count": 28,
+          "uniques": 24
         },
         {
           "referrer": "github.com",
-          "count": 13,
-          "uniques": 6
+          "count": 6,
+          "uniques": 5
         },
         {
-          "referrer": "openblockchains.github.io",
+          "referrer": "yandex.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "private.sh",
           "count": 1,
           "uniques": 1
         },
@@ -1751,6 +1760,98 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-08-19": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2021-08-20": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-21": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-08-22": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-23": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-08-24": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-25": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-08-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-27": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-08-28": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-30": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2021-08-31": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-01": {
+        "views": {
+          "count": 12,
+          "uniques": 2
         }
       }
     }

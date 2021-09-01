@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
-  "updated_at": "2021-08-12T22:17:06Z",
-  "pushed_at": "2021-08-12T22:17:00Z",
-  "size": 12543,
+  "updated_at": "2021-08-26T22:17:59Z",
+  "pushed_at": "2021-08-26T22:17:53Z",
+  "size": 13860,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -58,19 +58,23 @@
     "2021-08-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-09-01": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-12T22:16:56Z",
+        "date": "2021-08-26T22:17:50Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2021-08-12T22:16:56Z",
+        "date": "2021-08-26T22:17:50Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 32"
+      "message": "auto-update week 34"
     }
   ],
   "topics": [
@@ -81,71 +85,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 30,
-        "uniques": 8
+        "count": 10,
+        "uniques": 5
       },
       "clones": {
-        "count": 46,
-        "uniques": 23
+        "count": 10,
+        "uniques": 6
       },
       "paths": [
         {
-          "path": "/factbook/cache.factbook.json/blob/8e6ea2ef828ce92f8c908d2588d8068612765349/europe/hu.json",
-          "title": "cache.factbook.json/hu.json at 8e6ea2ef828ce92f8c908d2588d8068612765349 · fac...",
-          "count": 10,
-          "uniques": 1
-        },
-        {
           "path": "/factbook/cache.factbook.json",
           "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 7,
-          "uniques": 5
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/factbook/cache.factbook.json/blob/8e6ea2ef828ce92f8c908d2588d8068612765349/central-america-n-caribbean/rq.json",
-          "title": "cache.factbook.json/rq.json at 8e6ea2ef828ce92f8c908d2588d8068612765349 · fac...",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/15e1dd3abfeebd1a1c91f1c3c2fecf3bab3a0b29/south-america/ci.json",
-          "title": "cache.factbook.json/ci.json at 15e1dd3abfeebd1a1c91f1c3c2fecf3bab3a0b29 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/15e1dd3abfeebd1a1c91f1c3c2fecf3bab3a0b29/south-america/ec.json",
-          "title": "cache.factbook.json/ec.json at 15e1dd3abfeebd1a1c91f1c3c2fecf3bab3a0b29 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/8e6ea2ef828ce92f8c908d2588d8068612765349/central-america-n-caribbean/gt.json",
-          "title": "cache.factbook.json/gt.json at 8e6ea2ef828ce92f8c908d2588d8068612765349 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/8e6ea2ef828ce92f8c908d2588d8068612765349/north-america/mx.json",
-          "title": "cache.factbook.json/mx.json at 8e6ea2ef828ce92f8c908d2588d8068612765349 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/8e6ea2ef828ce92f8c908d2588d8068612765349/south-america/pa.json",
-          "title": "cache.factbook.json/pa.json at 8e6ea2ef828ce92f8c908d2588d8068612765349 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/ag.json",
-          "title": "cache.factbook.json/ag.json at master · factbook/cache.factbook.json · GitHub",
+          "path": "/factbook/cache.factbook.json/blob/a42a42c70919f73aa3ee7beaaedd07165c4e4005/central-america-n-caribbean/vi.json",
+          "title": "cache.factbook.json/vi.json at a42a42c70919f73aa3ee7beaaedd07165c4e4005 · fac...",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/factbook/cache.factbook.json/tree/master/africa",
-          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json · GitHub",
+          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/world",
+          "title": "cache.factbook.json/world at master · factbook/cache.factbook.json",
           "count": 1,
           "uniques": 1
         }
@@ -153,16 +121,6 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "referrer": "ec2-34-248-93-242.eu-west-1.compute.amazonaws.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "groups.google.com",
           "count": 1,
           "uniques": 1
         }
@@ -923,6 +881,68 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2021-08-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-08-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-01": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-08-19": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

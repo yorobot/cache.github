@@ -82,6 +82,10 @@
     "2021-08-15": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2021-09-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -107,18 +111,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/wikiscript/countries.json",
+          "title": "GitHub - wikiscript/countries.json: World Country Profiles Sourced from Wikip...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/_source/France.txt",
+          "title": "countries.json/France.txt at master · wikiscript/countries.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/_source",
+          "title": "countries.json/_source at master · wikiscript/countries.json",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -498,6 +523,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-08-19": {
+        "views": {
+          "count": 5,
+          "uniques": 2
         }
       }
     }

@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/core",
   "created_at": "2013-02-12T22:45:32Z",
-  "updated_at": "2021-08-09T12:34:03Z",
-  "pushed_at": "2021-08-09T12:34:00Z",
-  "size": 130,
+  "updated_at": "2021-08-25T18:18:08Z",
+  "pushed_at": "2021-08-25T18:18:04Z",
+  "size": 136,
   "description": "core tools, libraries & scripts - logger, config, dates, alphabets, shell & more",
   "language": "Ruby",
   "history": {
@@ -86,19 +86,23 @@
     "2021-08-15": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2021-09-01": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-09T12:34:00Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2021-08-09T12:34:00Z",
+        "date": "2021-08-25T18:17:56Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2021-08-25T18:17:56Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "add record"
     }
   ],
   "topics": [
@@ -110,7 +114,7 @@
     "dates"
   ],
   "languages": {
-    "Ruby": 148880,
+    "Ruby": 157128,
     "HTML": 1189,
     "CSS": 777
   },
@@ -121,67 +125,19 @@
         "uniques": 3
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/rubycoco/core",
           "title": "rubycoco/core: core tools, libraries & scripts - logger, config, dates, alpha...",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/rubycoco/core/tree/master/alphabets",
-          "title": "core/alphabets at master · rubycoco/core",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/rubycoco/core/commits/master",
-          "title": "Commits · rubycoco/core",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/issues",
-          "title": "Issues · rubycoco/core",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/blob/master/enums/README.md",
-          "title": "core/README.md at master · rubycoco/core",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/commit/06ce955ad06ad64f243c4991028f34396c085db7",
-          "title": "add enums · rubycoco/core@06ce955",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/commit/076ab10e8012f78a2db10799195b6c9d95405471",
-          "title": "up · rubycoco/core@076ab10",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/edit/master/enums/README.md",
-          "title": "Editing core/README.md at master · rubycoco/core",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/tree/master/enums",
-          "title": "core/enums at master · rubycoco/core",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/tree/master/props",
-          "title": "core/props at master · rubycoco/core",
+          "path": "/rubycoco/core/tree/master/records",
+          "title": "core/records at master · rubycoco/core",
           "count": 1,
           "uniques": 1
         }
@@ -189,8 +145,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -452,6 +408,28 @@
       "2021-08-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-25": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-09-01": {
+        "views": {
+          "count": 18,
           "uniques": 1
         }
       }

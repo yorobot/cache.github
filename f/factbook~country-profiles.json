@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/country-profiles",
   "created_at": "2013-09-02T17:18:10Z",
-  "updated_at": "2021-08-12T22:17:10Z",
-  "pushed_at": "2021-08-12T22:17:05Z",
-  "size": 7717,
+  "updated_at": "2021-08-26T22:18:02Z",
+  "pushed_at": "2021-08-26T22:17:57Z",
+  "size": 8318,
   "description": "World Factbook Country Profiles",
   "language": null,
   "history": {
@@ -14,19 +14,23 @@
     "2021-08-15": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2021-09-01": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-12T22:17:03Z",
+        "date": "2021-08-26T22:17:56Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2021-08-12T22:17:03Z",
+        "date": "2021-08-26T22:17:56Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 32"
+      "message": "auto-update week 34"
     }
   ],
   "topics": [
@@ -41,71 +45,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 24,
-        "uniques": 9
+        "count": 16,
+        "uniques": 7
       },
       "clones": {
-        "count": 37,
-        "uniques": 21
+        "count": 9,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/factbook/country-profiles",
           "title": "GitHub - factbook/country-profiles: World Factbook Country Profiles",
-          "count": 10,
-          "uniques": 4
+          "count": 4,
+          "uniques": 3
         },
         {
-          "path": "/factbook/country-profiles/blob/7d5a8cfb996d4cbff7884540e60fad39c1514d20/south-america/ecuador.md",
-          "title": "country-profiles/ecuador.md at 7d5a8cfb996d4cbff7884540e60fad39c1514d20 · fac...",
+          "path": "/factbook/country-profiles/blob/master/africa/algeria.md",
+          "title": "country-profiles/algeria.md at master · factbook/country-profiles · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/tree/master/africa",
+          "title": "country-profiles/africa at master · factbook/country-profiles · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/blob/e9a8975c6942ee628e2b1291bb64fc137037ee1d/africa/senegal.md",
+          "title": "country-profiles/senegal.md at e9a8975c6942ee628e2b1291bb64fc137037ee1d · fac...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/e1189074556fbabb23ec50b6583b7422735b6607/south-america/ecuador.md",
-          "title": "country-profiles/ecuador.md at e1189074556fbabb23ec50b6583b7422735b6607 · fac...",
+          "path": "/factbook/country-profiles/blob/master/europe/akrotiri.md",
+          "title": "country-profiles/akrotiri.md at master · factbook/country-profiles · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/australia-oceania/christmas-island.md",
-          "title": "country-profiles/christmas-island.md at master · factbook/country-profiles · ...",
+          "path": "/factbook/country-profiles/commit/191d41234092ebbbd5ba1e3a2a34b9a394470ce6",
+          "title": "auto-update week 34 · factbook/country-profiles@191d412",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/south-america/colombia.md",
-          "title": "country-profiles/colombia.md at master · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/commit/e9a8975c6942ee628e2b1291bb64fc137037ee1d",
+          "title": "auto-update week 33 · factbook/country-profiles@e9a8975",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/world/world.md",
-          "title": "country-profiles/world.md at master · factbook/country-profiles · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/commit/7d5a8cfb996d4cbff7884540e60fad39c1514d20",
-          "title": "auto-update week 31 · factbook/country-profiles@7d5a8cf",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/commit/b0e9b202a40ee76961f998ecf57d7c59d3397f78",
-          "title": "auto-update week 32 · factbook/country-profiles@b0e9b20",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/commit/e1189074556fbabb23ec50b6583b7422735b6607",
-          "title": "auto-update week 30 · factbook/country-profiles@e118907",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/issues",
-          "title": "Issues · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/tree/master/europe",
+          "title": "country-profiles/europe at master · factbook/country-profiles · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -113,11 +105,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 5
+          "count": 6,
+          "uniques": 4
         },
         {
-          "referrer": "ec2-34-248-93-242.eu-west-1.compute.amazonaws.com",
+          "referrer": "cgws.acrmepwq.saas.cubesec.cn",
           "count": 1,
           "uniques": 1
         }
@@ -255,6 +247,66 @@
         }
       },
       "2021-08-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-20": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-24": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-08-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-26": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-01": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-08-19": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-08-30": {
         "clones": {
           "count": 1,
           "uniques": 1

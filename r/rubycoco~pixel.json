@@ -1,7 +1,7 @@
 {
   "full_name": "rubycoco/pixel",
   "created_at": "2017-05-14T17:33:27Z",
-  "updated_at": "2021-06-28T22:19:59Z",
+  "updated_at": "2021-08-31T05:19:52Z",
   "pushed_at": "2021-05-19T10:13:33Z",
   "size": 274,
   "description": "pixel (and graphics) libraries & scripts",
@@ -38,6 +38,10 @@
     "2021-08-15": {
       "stargazers_count": 27,
       "forks_count": 0
+    },
+    "2021-09-01": {
+      "stargazers_count": 29,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -65,8 +69,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 246,
-        "uniques": 48
+        "count": 545,
+        "uniques": 61
       },
       "clones": {
         "count": 2,
@@ -76,83 +80,88 @@
         {
           "path": "/rubycoco/pixel",
           "title": "rubycoco/pixel: pixel (and graphics) libraries & scripts",
-          "count": 39,
-          "uniques": 18
-        },
-        {
-          "path": "/rubycoco/pixel/tree/master/pixelart",
-          "title": "pixel/pixelart at master · rubycoco/pixel · GitHub",
-          "count": 37,
-          "uniques": 26
+          "count": 78,
+          "uniques": 30
         },
         {
           "path": "/rubycoco/pixel/tree/master/pixelart-characters",
           "title": "pixel/pixelart-characters at master · rubycoco/pixel · GitHub",
-          "count": 23,
-          "uniques": 15
+          "count": 70,
+          "uniques": 34
         },
         {
-          "path": "/rubycoco/pixel/search",
-          "title": "Search · Color::",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/pixel/tree/master/pixelart/lib",
-          "title": "pixel/pixelart/lib at master · rubycoco/pixel · GitHub",
-          "count": 6,
-          "uniques": 5
-        },
-        {
-          "path": "/rubycoco/pixel/tree/master/pixelator",
-          "title": "pixel/pixelator at master · rubycoco/pixel · GitHub",
-          "count": 6,
-          "uniques": 4
-        },
-        {
-          "path": "/rubycoco/pixel/blob/master/pixelart-characters/lib/pixelart/characters.rb",
-          "title": "pixel/characters.rb at master · rubycoco/pixel",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycoco/pixel/find/master",
-          "title": "File Finder · GitHub",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycoco/pixel/tree/master/8bit",
-          "title": "pixel/8bit at master · rubycoco/pixel · GitHub",
-          "count": 4,
-          "uniques": 3
+          "path": "/rubycoco/pixel/tree/master/pixelart",
+          "title": "pixel/pixelart at master · rubycoco/pixel · GitHub",
+          "count": 62,
+          "uniques": 31
         },
         {
           "path": "/rubycoco/pixel/tree/master/pixelart-characters/lib/pixelart",
           "title": "pixel/pixelart-characters/lib/pixelart at master · rubycoco/pixel · GitHub",
-          "count": 3,
-          "uniques": 3
+          "count": 17,
+          "uniques": 11
+        },
+        {
+          "path": "/rubycoco/pixel/tree/master/pixelart/lib",
+          "title": "pixel/pixelart/lib at master · rubycoco/pixel · GitHub",
+          "count": 15,
+          "uniques": 8
+        },
+        {
+          "path": "/rubycoco/pixel/tree/master/pixelart/lib/pixelart",
+          "title": "pixel/pixelart/lib/pixelart at master · rubycoco/pixel · GitHub",
+          "count": 14,
+          "uniques": 9
+        },
+        {
+          "path": "/rubycoco/pixel/tree/master/pixelart-characters/lib/pixelart/characters",
+          "title": "pixel/pixelart-characters/lib/pixelart/characters at master · rubycoco/pixel ...",
+          "count": 11,
+          "uniques": 8
+        },
+        {
+          "path": "/rubycoco/pixel/blob/master/pixelart-characters/lib/pixelart/characters.rb",
+          "title": "pixel/characters.rb at master · rubycoco/pixel · GitHub",
+          "count": 10,
+          "uniques": 8
+        },
+        {
+          "path": "/rubycoco/pixel/tree/master/pixelart/sandbox",
+          "title": "pixel/pixelart/sandbox at master · rubycoco/pixel · GitHub",
+          "count": 10,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycoco/pixel/blob/master/pixelart-characters/lib/pixelart/characters/version.rb",
+          "title": "pixel/version.rb at master · rubycoco/pixel · GitHub",
+          "count": 9,
+          "uniques": 7
         }
       ],
       "referrers": [
         {
           "referrer": "planetruby.github.io",
-          "count": 13,
-          "uniques": 10
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 9,
-          "uniques": 7
+          "count": 42,
+          "uniques": 24
         },
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 3
+          "count": 14,
+          "uniques": 8
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 12,
+          "uniques": 8
         },
         {
           "referrer": "ruby-toolbox.com",
-          "count": 6,
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 5,
           "uniques": 4
         },
         {
@@ -161,12 +170,12 @@
           "uniques": 2
         },
         {
-          "referrer": "old.reddit.com",
-          "count": 1,
+          "referrer": "Google",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "rubytalk.org",
+          "referrer": "old.reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -769,6 +778,98 @@
         "views": {
           "count": 82,
           "uniques": 8
+        }
+      },
+      "2021-08-19": {
+        "views": {
+          "count": 11,
+          "uniques": 4
+        }
+      },
+      "2021-08-20": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2021-08-21": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2021-08-22": {
+        "views": {
+          "count": 26,
+          "uniques": 5
+        }
+      },
+      "2021-08-23": {
+        "views": {
+          "count": 45,
+          "uniques": 4
+        }
+      },
+      "2021-08-24": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2021-08-25": {
+        "views": {
+          "count": 34,
+          "uniques": 2
+        }
+      },
+      "2021-08-26": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-08-27": {
+        "views": {
+          "count": 28,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-28": {
+        "views": {
+          "count": 45,
+          "uniques": 8
+        }
+      },
+      "2021-08-29": {
+        "views": {
+          "count": 131,
+          "uniques": 12
+        }
+      },
+      "2021-08-30": {
+        "views": {
+          "count": 106,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-08-31": {
+        "views": {
+          "count": 28,
+          "uniques": 7
+        }
+      },
+      "2021-09-01": {
+        "views": {
+          "count": 60,
+          "uniques": 5
         }
       }
     }
