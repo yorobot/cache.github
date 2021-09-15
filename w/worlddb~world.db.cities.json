@@ -169,6 +169,10 @@
     "2021-09-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-09-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -195,18 +199,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.cities",
+          "title": "GitHub - worlddb/world.db.cities: world.db web app sample listing the world's...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.cities/tree/master/views",
+          "title": "world.db.cities/views at master · worlddb/world.db.cities · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -291,6 +310,12 @@
       "2021-07-02": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-11": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

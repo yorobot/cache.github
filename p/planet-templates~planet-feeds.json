@@ -169,6 +169,10 @@
     "2021-09-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2021-09-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -195,18 +199,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/planet-templates/planet-feeds",
+          "title": "GitHub - planet-templates/planet-feeds: feeds - planet template pack - rss 2....",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/atom.xml.erb",
+          "title": "planet-feeds/atom.xml.erb at master · planet-templates/planet-feeds · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -351,6 +370,12 @@
       "2021-08-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-10": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

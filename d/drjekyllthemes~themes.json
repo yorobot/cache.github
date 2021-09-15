@@ -169,24 +169,28 @@
     "2021-09-01": {
       "stargazers_count": 98,
       "forks_count": 77
+    },
+    "2021-09-15": {
+      "stargazers_count": 98,
+      "forks_count": 78
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-30T15:03:50Z",
+        "date": "2021-09-07T10:46:10Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-08-30T15:03:50Z",
-        "name": "Andrew Park"
+        "date": "2021-09-07T10:46:10Z",
+        "name": "Brajeshwar"
       },
-      "message": "Change minimal-bootstrap-blog to brutalist-blog (#154)\n\n* Add theme minimal-bootstrap-blog\r\n\r\n* Change minimal-bootstrap-theme to brutalist-blog"
+      "message": "There is a malformed YAML from prior commit - Fixed. (#156)\n\n* Oinam Jekyll Theme\r\n\r\n* Fixed malformed YAML stopping Github Pages from building."
     }
   ],
-  "size": 9931,
-  "updated_at": "2021-08-30T15:03:54Z",
-  "pushed_at": "2021-08-30T15:03:50Z",
+  "size": 9962,
+  "updated_at": "2021-09-07T10:46:15Z",
+  "pushed_at": "2021-09-07T10:46:10Z",
   "description": "Dr. Jekyll's Themes - Add Your Theme!",
   "language": "HTML",
   "topics": [
@@ -197,19 +201,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 4
+        "count": 15,
+        "uniques": 6
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/drjekyllthemes/themes",
           "title": "GitHub - drjekyllthemes/themes: Dr. Jekyll's Themes - Add Your Theme!",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/drjekyllthemes/themes/pull/155",
+          "title": "Oinam Jekyll Theme by brajeshwar · Pull Request #155 · drjekyllthemes/themes",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/themes/pull/156/files",
+          "title": "There is a malformed YAML from prior commit - Fixed. by brajeshwar · Pull Req...",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/drjekyllthemes/themes/blob/master/themes.yml",
@@ -218,38 +234,32 @@
           "uniques": 1
         },
         {
-          "path": "/drjekyllthemes/themes/pull/151",
-          "title": "Add Forever Jekyll. by forever-jekyll · Pull Request #151 · drjekyllthemes/th...",
+          "path": "/drjekyllthemes/themes/commits/master",
+          "title": "Commits · drjekyllthemes/themes",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/drjekyllthemes/themes/pull/154",
-          "title": "Change minimal-bootstrap-blog to brutalist-blog by andrewhwanpark · Pull Requ...",
+          "path": "/drjekyllthemes/themes/pull/155/files",
+          "title": "Oinam Jekyll Theme by brajeshwar · Pull Request #155 · drjekyllthemes/themes",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/drjekyllthemes/themes/pull/154/files",
-          "title": "Change minimal-bootstrap-blog to brutalist-blog by andrewhwanpark · Pull Requ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/drjekyllthemes/themes/pulls",
-          "title": "Pull requests · drjekyllthemes/themes",
+          "path": "/drjekyllthemes/themes/tree/master/test",
+          "title": "themes/test at master · drjekyllthemes/themes",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "drjekyllthemes.github.io",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 4
         },
         {
-          "referrer": "github.com",
+          "referrer": "drjekyllthemes.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -1156,6 +1166,46 @@
       },
       "2021-08-31": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-07": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-09-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-15": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

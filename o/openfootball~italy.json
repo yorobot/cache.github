@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/italy",
   "created_at": "2013-09-07T17:34:06Z",
-  "updated_at": "2021-08-31T08:29:32Z",
-  "pushed_at": "2021-08-31T08:29:29Z",
-  "size": 840,
+  "updated_at": "2021-09-03T15:37:52Z",
+  "pushed_at": "2021-09-03T15:37:49Z",
+  "size": 841,
   "history": {
     "2019-12-08": {
       "stargazers_count": 22
@@ -124,19 +124,23 @@
     "2021-09-01": {
       "stargazers_count": 33,
       "forks_count": 18
+    },
+    "2021-09-15": {
+      "stargazers_count": 33,
+      "forks_count": 17
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-31T08:29:29Z",
+        "date": "2021-09-03T15:37:49Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-08-31T08:29:29Z",
+        "date": "2021-09-03T15:37:49Z",
         "name": "Giorgio Basilisco"
       },
-      "message": "Insert start values for the 2021-22 season (#12)"
+      "message": "Inserted all rounds (#13)\n\n* Insert start values for the 2021-22 season\r\n\r\n* Update 1-seriea.txt\r\n\r\nCo-authored-by: Gerald Bauer <gerald.bauer@gmail.com>"
     }
   ],
   "description": "Free open public domain football data (football.db) for Italy / Europe - Serie A etc.",
@@ -159,89 +163,74 @@
         {
           "path": "/openfootball/italy",
           "title": "openfootball/italy: Free open public domain football data (football.db) for I...",
-          "count": 34,
-          "uniques": 16
+          "count": 57,
+          "uniques": 28
         },
         {
-          "path": "/openfootball/italy/tree/master/2020-21",
-          "title": "italy/2020-21 at master · openfootball/italy · GitHub",
-          "count": 16,
+          "path": "/openfootball/italy/tree/master/2021-22",
+          "title": "italy/2021-22 at master · openfootball/italy · GitHub",
+          "count": 18,
           "uniques": 12
         },
         {
-          "path": "/openfootball/italy/blob/master/2020-21/1-seriea.txt",
+          "path": "/openfootball/italy/blob/master/2021-22/1-seriea.txt",
           "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
-          "count": 12,
-          "uniques": 10
+          "count": 13,
+          "uniques": 11
         },
         {
-          "path": "/openfootball/italy/network/members",
-          "title": "Forks · openfootball/italy",
-          "count": 9,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/italy/pulls",
-          "title": "Pull requests · openfootball/italy · GitHub",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/italy/blob/master/clubs/clubs.props.txt",
-          "title": "italy/clubs.props.txt at master · openfootball/italy · GitHub",
-          "count": 5,
+          "path": "/openfootball/italy/pull/13",
+          "title": "Inserted all rounds by gbasilisco · Pull Request #13 · openfootball/italy · G...",
+          "count": 7,
           "uniques": 4
         },
         {
           "path": "/openfootball/italy/tree/master/clubs",
           "title": "italy/clubs at master · openfootball/italy · GitHub",
-          "count": 5,
+          "count": 6,
           "uniques": 4
         },
         {
-          "path": "/openfootball/italy/pull/12",
-          "title": "Insert start values for the 2021-22 season by gbasilisco · Pull Request #12 ·...",
-          "count": 4,
-          "uniques": 2
+          "path": "/openfootball/italy/tree/master/2020-21",
+          "title": "italy/2020-21 at master · openfootball/italy · GitHub",
+          "count": 5,
+          "uniques": 5
         },
         {
-          "path": "/openfootball/italy/blob/master/2020-21/2-serieb.txt",
-          "title": "italy/2-serieb.txt at master · openfootball/italy · GitHub",
-          "count": 3,
+          "path": "/openfootball/italy/blob/master/clubs/clubs.props.txt",
+          "title": "italy/clubs.props.txt at master · openfootball/italy · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/italy/pull/13/files",
+          "title": "Inserted all rounds by gbasilisco · Pull Request #13 · openfootball/italy · G...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/italy/blob/master/2020-21/1-seriea.txt",
+          "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
+          "count": 4,
           "uniques": 3
         },
         {
-          "path": "/openfootball/italy/issues",
-          "title": "Issues · openfootball/italy · GitHub",
-          "count": 3,
-          "uniques": 2
+          "path": "/openfootball/italy/pulls",
+          "title": "Pull requests · openfootball/italy",
+          "count": 4,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 19,
-          "uniques": 12
+          "count": 39,
+          "uniques": 27
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 6
-        },
-        {
-          "referrer": "groups.google.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "findbestopensource.com",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 4
         },
         {
           "referrer": "npmjs.com",
@@ -250,12 +239,12 @@
         }
       ],
       "views": {
-        "count": 135,
-        "uniques": 28
+        "count": 160,
+        "uniques": 32
       },
       "clones": {
-        "count": 16,
-        "uniques": 14
+        "count": 3,
+        "uniques": 2
       }
     },
     "history": {
@@ -1927,6 +1916,98 @@
         "views": {
           "count": 17,
           "uniques": 3
+        }
+      },
+      "2021-09-02": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-03": {
+        "views": {
+          "count": 36,
+          "uniques": 5
+        }
+      },
+      "2021-09-04": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        }
+      },
+      "2021-09-05": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2021-09-06": {
+        "views": {
+          "count": 18,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-08": {
+        "views": {
+          "count": 23,
+          "uniques": 3
+        }
+      },
+      "2021-09-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-10": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        }
+      },
+      "2021-09-11": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-09-12": {
+        "views": {
+          "count": 21,
+          "uniques": 5
+        }
+      },
+      "2021-09-13": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2021-09-14": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-09-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

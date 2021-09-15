@@ -121,6 +121,10 @@
     "2021-09-01": {
       "stargazers_count": 9,
       "forks_count": 0
+    },
+    "2021-09-15": {
+      "stargazers_count": 9,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -153,59 +157,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
+        "count": 16,
         "uniques": 6
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/sportdb/football.db",
-          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/sportdb/football.db",
+          "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/commits",
-          "title": "Commits · sportdb/football.db · GitHub",
+          "path": "/sportdb/football.db/tree/master/football-to-psql",
+          "title": "football.db/football-to-psql at master · sportdb/football.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs/test",
-          "title": "football.db/footballdb-clubs/test at master · sportdb/football.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/commit/543aa7333299dc99ec88a0641a525733cdf2029d",
-          "title": "Create mksquads.rb · sportdb/football.db@543aa73 · GitHub",
+          "path": "/sportdb/football.db/tree/master/fifa",
+          "title": "football.db/fifa at master · sportdb/football.db",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/sportdb/football.db/tree/master/football-cat",
-          "title": "football.db/football-cat at master · sportdb/football.db · GitHub",
+          "title": "football.db/football-cat at master · sportdb/football.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs/lib/footballdb",
-          "title": "football.db/footballdb-clubs/lib/footballdb at master · sportdb/football.db ·...",
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
+          "title": "football.db/footballdb-clubs at master · sportdb/football.db",
           "count": 1,
           "uniques": 1
         },
@@ -214,13 +206,30 @@
           "title": "football.db/footballdb-clubs/lib/footballdb/clubs at master · sportdb/footbal...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-leagues",
+          "title": "football.db/footballdb-leagues at master · sportdb/football.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
+          "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
           "count": 4,
-          "uniques": 2
+          "uniques": 4
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 1
         }
       ]
     },
@@ -1263,6 +1272,58 @@
         "views": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2021-09-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-08": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2021-09-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

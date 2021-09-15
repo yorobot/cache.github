@@ -161,6 +161,10 @@
     "2021-09-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2021-09-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -186,14 +190,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
+        {
+          "path": "/journaltxt/journaltxt.github.io",
+          "title": "journaltxt/journaltxt.github.io: Journal.TXT Website and Spec(ification) - Si...",
+          "count": 2,
+          "uniques": 1
+        },
         {
           "path": "/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt",
           "title": "journaltxt.github.io/Vienna.txt at master · journaltxt/journaltxt.github.io ·...",
@@ -202,7 +212,11 @@
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "journaltxt.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -501,6 +515,18 @@
       "2021-08-24": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-06": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

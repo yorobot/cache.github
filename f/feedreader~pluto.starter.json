@@ -164,6 +164,10 @@
     "2021-09-01": {
       "stargazers_count": 8,
       "forks_count": 9
+    },
+    "2021-09-15": {
+      "stargazers_count": 8,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -194,12 +198,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
+        "count": 15,
         "uniques": 8
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
@@ -210,29 +214,37 @@
         },
         {
           "path": "/feedreader/pluto.starter/blob/master/planet.ini",
-          "title": "pluto.starter/planet.ini at master · feedreader/pluto.starter · GitHub",
+          "title": "pluto.starter/planet.ini at master · feedreader/pluto.starter",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto.starter/tree/master/planet-starter",
+          "title": "pluto.starter/planet-starter at master · feedreader/pluto.starter",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto.starter/blob/master/planet-starter/planet.starter.html.erb",
+          "title": "pluto.starter/planet.starter.html.erb at master · feedreader/pluto.starter · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto.starter/blob/master/README.md",
+          "title": "pluto.starter/README.md at master · feedreader/pluto.starter",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 3
+          "count": 7,
+          "uniques": 6
         },
         {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "feedreader.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -843,6 +855,44 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2021-09-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-08": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-09-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

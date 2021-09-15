@@ -169,6 +169,10 @@
     "2021-09-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2021-09-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -195,22 +199,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 3,
         "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/book-templates/beer",
-          "title": "GitHub - book-templates/beer: Beer, Brewery 'n' Brewpubs Guide Book Template",
+          "title": "book-templates/beer: Beer, Brewery 'n' Brewpubs Guide Book Template",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/book-templates/beer/blob/gh-pages/README.md",
+          "title": "beer/README.md at gh-pages · book-templates/beer",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
         {
           "referrer": "github.com",
           "count": 1,
@@ -359,6 +374,18 @@
       },
       "2021-08-23": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-12": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

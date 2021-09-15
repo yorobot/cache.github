@@ -164,6 +164,10 @@
     "2021-09-01": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2021-09-15": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -200,19 +204,19 @@
         "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/feedparser/feeds/blob/master/misc/rubyonrails.atom",
           "title": "feeds/rubyonrails.atom at master · feedparser/feeds",
-          "count": 7,
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/feedparser/feeds/blob/67211e60ec9a621efa955a9c3ff60babbd16adfc/books/oreilly.feedburner.atom",
-          "title": "feeds/oreilly.feedburner.atom at 67211e60ec9a621efa955a9c3ff60babbd16adfc · f...",
+          "path": "/feedparser/feeds/blob/master/misc/intertwingly.atom",
+          "title": "feeds/intertwingly.atom at master · feedparser/feeds",
           "count": 2,
           "uniques": 1
         },
@@ -221,18 +225,36 @@
           "title": "GitHub - feedparser/feeds: Tests, Tests, Tests - Feeds (in Atom, RSS, JSON Fe...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/feedparser/feeds/blob/67211e60ec9a621efa955a9c3ff60babbd16adfc/osm/mapbox.rss",
+          "title": "feeds/mapbox.rss at 67211e60ec9a621efa955a9c3ff60babbd16adfc · feedparser/feeds",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feeds/blob/master/misc/daringfireball.atom",
+          "title": "feeds/daringfireball.atom at master · feedparser/feeds",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feeds/blob/master/misc/learnenough.feedburner.atom",
+          "title": "feeds/learnenough.feedburner.atom at master · feedparser/feeds",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 7,
+          "count": 8,
           "uniques": 1
         },
         {
           "referrer": "github.com",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         }
       ]
     },
@@ -426,6 +448,28 @@
       "2021-08-27": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-14": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

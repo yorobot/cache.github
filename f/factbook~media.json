@@ -62,6 +62,10 @@
     "2021-09-01": {
       "stargazers_count": 9,
       "forks_count": 2
+    },
+    "2021-09-15": {
+      "stargazers_count": 9,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -85,8 +89,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 19,
-        "uniques": 5
+        "count": 23,
+        "uniques": 4
       },
       "clones": {
         "count": 1,
@@ -96,14 +100,26 @@
         {
           "path": "/factbook/media",
           "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
-          "count": 5,
-          "uniques": 4
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/factbook/media/tree/master/flags",
           "title": "media/flags at master · factbook/media · GitHub",
-          "count": 2,
+          "count": 3,
           "uniques": 2
+        },
+        {
+          "path": "/factbook/media/tree/master/locators",
+          "title": "media/locators at master · factbook/media · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/blob/master/locators/as.png",
+          "title": "media/as.png at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/factbook/media/blob/master/flags/aa.png",
@@ -112,26 +128,32 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/locators/ac.png",
+          "path": "/factbook/media/blob/master/flags/ac.png",
           "title": "media/ac.png at master · factbook/media · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/maps/af.png",
-          "title": "media/af.png at master · factbook/media · GitHub",
+          "path": "/factbook/media/blob/master/flags/as.png",
+          "title": "media/as.png at master · factbook/media · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/media/tree/master/locators",
-          "title": "media/locators at master · factbook/media · GitHub",
+          "path": "/factbook/media/blob/master/locators/aa.png",
+          "title": "media/aa.png at master · factbook/media · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/media/tree/master/maps",
-          "title": "media/maps at master · factbook/media · GitHub",
+          "path": "/factbook/media/blob/master/maps/aa.png",
+          "title": "media/aa.png at master · factbook/media · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/blob/master/maps/as.png",
+          "title": "media/as.png at master · factbook/media · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -140,7 +162,7 @@
         {
           "referrer": "github.com",
           "count": 3,
-          "uniques": 3
+          "uniques": 2
         }
       ]
     },
@@ -506,6 +528,24 @@
       "2021-09-01": {
         "views": {
           "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-09-13": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2021-09-15": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-09-08": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

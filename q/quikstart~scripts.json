@@ -169,6 +169,10 @@
     "2021-09-01": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2021-09-15": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -200,18 +204,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
-        "uniques": 1
+        "count": 9,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/quikstart/scripts",
+          "title": "quikstart/scripts: Quik Scripts Catalog / Directory / Registry - Ruby Quick S...",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/quikstart/scripts/issues/4",
+          "title": "Calling API with sampled data and use return values · Issue #4 · quikstart/sc...",
+          "count": 2,
+          "uniques": 2
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -418,6 +437,24 @@
       "2021-09-01": {
         "views": {
           "count": 11,
+          "uniques": 1
+        }
+      },
+      "2021-09-02": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2021-09-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-12": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

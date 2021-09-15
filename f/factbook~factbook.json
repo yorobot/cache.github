@@ -169,6 +169,10 @@
     "2021-09-01": {
       "stargazers_count": 125,
       "forks_count": 17
+    },
+    "2021-09-15": {
+      "stargazers_count": 126,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -185,7 +189,7 @@
     }
   ],
   "size": 1028,
-  "updated_at": "2021-08-09T21:05:23Z",
+  "updated_at": "2021-09-10T12:03:14Z",
   "pushed_at": "2021-08-04T18:22:23Z",
   "description": "factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)",
   "language": "HTML",
@@ -199,88 +203,88 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
-        "uniques": 14
+        "count": 221,
+        "uniques": 32
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 17,
-          "uniques": 10
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-importers",
-          "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
-          "count": 5,
-          "uniques": 3
+          "count": 48,
+          "uniques": 15
         },
         {
           "path": "/factbook/factbook/tree/master/factbook",
           "title": "factbook/factbook at master · factbook/factbook · GitHub",
-          "count": 4,
+          "count": 10,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-writers",
+          "title": "factbook/factbook-writers at master · factbook/factbook · GitHub",
+          "count": 10,
           "uniques": 2
         },
         {
-          "path": "/factbook/factbook/blob/master/CATEGORIES.md",
-          "title": "factbook/CATEGORIES.md at master · factbook/factbook · GitHub",
-          "count": 3,
-          "uniques": 2
+          "path": "/factbook/factbook/tree/master/factbook-codes",
+          "title": "factbook/factbook-codes at master · factbook/factbook · GitHub",
+          "count": 8,
+          "uniques": 5
         },
         {
-          "path": "/factbook/factbook/tree/master/factbook-readers",
-          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/tree/master/script",
-          "title": "factbook/script at master · factbook/factbook · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/blob/master/factbook-importers/test/test_convert.rb",
-          "title": "factbook/test_convert.rb at master · factbook/factbook · GitHub",
-          "count": 2,
+          "path": "/factbook/factbook/tree/master/factbook-writers/lib",
+          "title": "factbook/factbook-writers/lib/factbook-writers at master · factbook/factbook ...",
+          "count": 8,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/blob/master/ATTRIBUTES.md",
-          "title": "factbook/ATTRIBUTES.md at master · factbook/factbook · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/factbook/factbook/search",
+          "title": "Search · languages",
+          "count": 7,
+          "uniques": 2
         },
         {
-          "path": "/factbook/factbook/blob/master/CONVERT.md",
-          "title": "factbook/CONVERT.md at master · factbook/factbook",
-          "count": 1,
-          "uniques": 1
+          "path": "/factbook/factbook/blob/master/factbook-codes/data/codes.csv",
+          "title": "factbook/codes.csv at master · factbook/factbook · GitHub",
+          "count": 6,
+          "uniques": 3
         },
         {
-          "path": "/factbook/factbook/blob/master/factbook-importers/lib/factbook-importers/importer.rb",
-          "title": "factbook/importer.rb at master · factbook/factbook · GitHub",
-          "count": 1,
+          "path": "/factbook/factbook/tree/master/factbook/lib",
+          "title": "factbook/factbook/lib at master · factbook/factbook · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-codes/data",
+          "title": "factbook/factbook-codes/data at master · factbook/factbook · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook/issues",
+          "title": "Issues · factbook/factbook · GitHub",
+          "count": 5,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 5
+          "count": 22,
+          "uniques": 7
         },
         {
-          "referrer": "rdocumentation.org",
-          "count": 1,
+          "referrer": "reddit.com",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "awesomeopensource.com",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -1982,6 +1986,92 @@
         }
       },
       "2021-08-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-02": {
+        "views": {
+          "count": 56,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-03": {
+        "views": {
+          "count": 44,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-06": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-09-07": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-08": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2021-09-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-10": {
+        "views": {
+          "count": 29,
+          "uniques": 2
+        }
+      },
+      "2021-09-11": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-09-13": {
+        "views": {
+          "count": 16,
+          "uniques": 4
+        }
+      },
+      "2021-09-15": {
+        "views": {
+          "count": 46,
+          "uniques": 12
+        },
         "clones": {
           "count": 1,
           "uniques": 1

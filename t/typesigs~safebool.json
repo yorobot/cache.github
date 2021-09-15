@@ -130,6 +130,10 @@
     "2021-09-01": {
       "stargazers_count": 299,
       "forks_count": 15
+    },
+    "2021-09-15": {
+      "stargazers_count": 299,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -153,18 +157,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 9,
+        "uniques": 6
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
-
+        {
+          "path": "/typesigs/safebool",
+          "title": "typesigs/safebool: safebool gem / library - safe bool / boolean type adds Boo...",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/typesigs/safebool/blob/master/lib/safebool.rb",
+          "title": "safebool/safebool.rb at master · typesigs/safebool",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/typesigs/safebool/tree/master/lib",
+          "title": "safebool/lib at master · typesigs/safebool",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -730,6 +765,40 @@
       },
       "2021-08-31": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-14": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-09-15": {
+        "views": {
           "count": 1,
           "uniques": 1
         }
