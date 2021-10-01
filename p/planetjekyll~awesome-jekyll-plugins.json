@@ -173,24 +173,28 @@
     "2021-09-15": {
       "stargazers_count": 972,
       "forks_count": 69
+    },
+    "2021-10-01": {
+      "stargazers_count": 976,
+      "forks_count": 70
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-12T07:56:09Z",
+        "date": "2021-09-24T14:31:46Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-08-12T07:56:09Z",
-        "name": "Erik Westrup"
+        "date": "2021-09-24T14:31:46Z",
+        "name": "JT"
       },
-      "message": "Add jekyll-google_search_console_verification_file (#61)"
+      "message": "feat: update jekyll-deploy-action information (#62)"
     }
   ],
   "size": 223,
-  "updated_at": "2021-09-10T06:13:42Z",
-  "pushed_at": "2021-08-12T07:56:09Z",
+  "updated_at": "2021-10-01T11:32:34Z",
+  "pushed_at": "2021-09-24T14:31:46Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
   "topics": [
@@ -199,31 +203,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 271,
-        "uniques": 150
+        "count": 358,
+        "uniques": 204
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 240,
-          "uniques": 139
+          "count": 317,
+          "uniques": 192
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
           "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 14,
-          "uniques": 8
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
-          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
           "count": 3,
           "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...jeffreytse-patch-1",
+          "title": "Comparing master...jeffreytse-patch-1 · planetjekyll/awesome-jekyll-plugins",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/62",
+          "title": "feat: update jekyll-deploy-action information by jeffreytse · Pull Request #6...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/issues",
+          "title": "Issues · planetjekyll/awesome-jekyll-plugins",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
@@ -232,8 +254,8 @@
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/7ea5b04c32db2d73c12f43ca401e1b81ca743362",
-          "title": "Create NOTES.md · planetjekyll/awesome-jekyll-plugins@7ea5b04 · GitHub",
+          "path": "/planetjekyll/awesome-jekyll-plugins/branches",
+          "title": "Branches · planetjekyll/awesome-jekyll-plugins",
           "count": 1,
           "uniques": 1
         },
@@ -244,62 +266,46 @@
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/tree/jeffreytse-patch-1",
-          "title": "planetjekyll/awesome-jekyll-plugins at jeffreytse-patch-1",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/tree/master",
-          "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare",
+          "title": "Compare · planetjekyll/awesome-jekyll-plugins",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 109,
-          "uniques": 57
+          "referrer": "jekyllrb.com",
+          "count": 140,
+          "uniques": 89
         },
         {
-          "referrer": "jekyllrb.com",
-          "count": 77,
-          "uniques": 51
+          "referrer": "Google",
+          "count": 93,
+          "uniques": 60
         },
         {
           "referrer": "github.com",
-          "count": 14,
-          "uniques": 7
+          "count": 16,
+          "uniques": 8
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 8,
-          "uniques": 4
-        },
-        {
-          "referrer": "Bing",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "referrer": "jekyll.com.cn",
-          "count": 4,
-          "uniques": 4
+          "count": 14,
+          "uniques": 6
         },
         {
           "referrer": "youtube.com",
-          "count": 1,
-          "uniques": 1
+          "count": 5,
+          "uniques": 4
         },
         {
-          "referrer": "stackshare.io",
-          "count": 1,
-          "uniques": 1
+          "referrer": "learn-the-web.algonquindesign.ca",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "dev.to",
-          "count": 1,
+          "referrer": "egghead.io",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -2359,6 +2365,102 @@
         "views": {
           "count": 9,
           "uniques": 8
+        }
+      },
+      "2021-09-18": {
+        "views": {
+          "count": 19,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-19": {
+        "views": {
+          "count": 19,
+          "uniques": 16
+        }
+      },
+      "2021-09-20": {
+        "views": {
+          "count": 35,
+          "uniques": 20
+        }
+      },
+      "2021-09-21": {
+        "views": {
+          "count": 14,
+          "uniques": 13
+        }
+      },
+      "2021-09-22": {
+        "views": {
+          "count": 21,
+          "uniques": 14
+        }
+      },
+      "2021-09-23": {
+        "views": {
+          "count": 36,
+          "uniques": 21
+        }
+      },
+      "2021-09-24": {
+        "views": {
+          "count": 46,
+          "uniques": 21
+        }
+      },
+      "2021-09-25": {
+        "views": {
+          "count": 25,
+          "uniques": 12
+        }
+      },
+      "2021-09-26": {
+        "views": {
+          "count": 22,
+          "uniques": 17
+        }
+      },
+      "2021-09-27": {
+        "views": {
+          "count": 34,
+          "uniques": 19
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-28": {
+        "views": {
+          "count": 19,
+          "uniques": 17
+        }
+      },
+      "2021-09-29": {
+        "views": {
+          "count": 18,
+          "uniques": 15
+        }
+      },
+      "2021-09-30": {
+        "views": {
+          "count": 28,
+          "uniques": 18
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-01": {
+        "views": {
+          "count": 22,
+          "uniques": 15
         }
       }
     }

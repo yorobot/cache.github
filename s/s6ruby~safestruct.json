@@ -137,6 +137,10 @@
     "2021-09-15": {
       "stargazers_count": 18,
       "forks_count": 1
+    },
+    "2021-10-01": {
+      "stargazers_count": 18,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -160,18 +164,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 2,
+        "count": 4,
         "uniques": 2
       },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
       "paths": [
-
+        {
+          "path": "/s6ruby/safestruct",
+          "title": "s6ruby/safestruct: safestruct library / gem - safe data structures (array, ha...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/safestruct/blob/master/lib/safestruct.rb",
+          "title": "safestruct/safestruct.rb at master · s6ruby/safestruct",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/safestruct/tree/master/lib",
+          "title": "safestruct/lib at master · s6ruby/safestruct",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -418,6 +443,24 @@
         }
       },
       "2021-09-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-21": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-09-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-29": {
         "clones": {
           "count": 1,
           "uniques": 1

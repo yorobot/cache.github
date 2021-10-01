@@ -1,9 +1,9 @@
 {
   "full_name": "cryptocopycats/mooncats",
   "created_at": "2016-02-18T01:00:51Z",
-  "updated_at": "2021-08-16T23:36:54Z",
-  "pushed_at": "2021-05-01T16:36:18Z",
-  "size": 411,
+  "updated_at": "2021-09-25T19:47:08Z",
+  "pushed_at": "2021-09-25T19:47:05Z",
+  "size": 706,
   "description": "mooncats libraries, tools & scripts - mint your own mooncat  pixel art images off chain using any of the 128 True Official Genuine Mooncat™ md5-verified original designs; incl. 2x/4x/8x zoom for bigger sizes and much more",
   "language": "Ruby",
   "history": {
@@ -54,19 +54,23 @@
     "2021-09-15": {
       "stargazers_count": 10,
       "forks_count": 2
+    },
+    "2021-10-01": {
+      "stargazers_count": 12,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-05-01T16:36:08Z",
-        "name": "Gerald Bauer"
+        "date": "2021-09-25T19:47:05Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2021-05-01T16:36:08Z",
+        "date": "2021-09-25T19:47:05Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update spots.rb"
     }
   ],
   "topics": [
@@ -78,105 +82,95 @@
     "pixelart"
   ],
   "languages": {
-    "Ruby": 109041
+    "Ruby": 110358
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 126,
-        "uniques": 19
+        "count": 96,
+        "uniques": 9
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
+        {
+          "path": "/cryptocopycats/mooncats/tree/master/spots",
+          "title": "mooncats/spots at master · cryptocopycats/mooncats · GitHub",
+          "count": 43,
+          "uniques": 4
+        },
         {
           "path": "/cryptocopycats/mooncats",
           "title": "GitHub - cryptocopycats/mooncats: mooncats libraries, tools & scripts - mint ...",
           "count": 22,
-          "uniques": 11
+          "uniques": 5
         },
         {
           "path": "/cryptocopycats/mooncats/tree/master/mooncats",
           "title": "mooncats/mooncats at master · cryptocopycats/mooncats · GitHub",
-          "count": 21,
-          "uniques": 9
-        },
-        {
-          "path": "/cryptocopycats/mooncats/tree/master/mooncats-graphql",
-          "title": "mooncats/mooncats-graphql at master · cryptocopycats/mooncats · GitHub",
-          "count": 9,
-          "uniques": 4
-        },
-        {
-          "path": "/cryptocopycats/mooncats/tree/master/mooncats/config",
-          "title": "mooncats/mooncats/config at master · cryptocopycats/mooncats · GitHub",
-          "count": 6,
+          "count": 10,
           "uniques": 3
         },
         {
-          "path": "/cryptocopycats/mooncats/tree/master/coolcats",
-          "title": "mooncats/coolcats at master · cryptocopycats/mooncats · GitHub",
-          "count": 4,
-          "uniques": 3
+          "path": "/cryptocopycats/mooncats/blob/master/spots/README.md",
+          "title": "mooncats/README.md at master · cryptocopycats/mooncats",
+          "count": 5,
+          "uniques": 1
         },
         {
-          "path": "/cryptocopycats/mooncats/tree/master/mooncats/bin",
-          "title": "mooncats/mooncats/bin at master · cryptocopycats/mooncats · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptocopycats/mooncats/tree/master/mooncats/sandbox",
-          "title": "mooncats/mooncats/sandbox at master · cryptocopycats/mooncats · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptocopycats/mooncats/tree/master/designs",
-          "title": "mooncats/designs at master · cryptocopycats/mooncats · GitHub",
-          "count": 3,
-          "uniques": 3
+          "path": "/cryptocopycats/mooncats/blob/master/spots/spots.rb",
+          "title": "mooncats/spots.rb at master · cryptocopycats/mooncats",
+          "count": 5,
+          "uniques": 1
         },
         {
           "path": "/cryptocopycats/mooncats/tree/master/doppelganger",
-          "title": "mooncats/doppelganger at master · cryptocopycats/mooncats",
+          "title": "mooncats/doppelganger at master · cryptocopycats/mooncats · GitHub",
           "count": 3,
-          "uniques": 2
+          "uniques": 3
         },
         {
-          "path": "/cryptocopycats/mooncats/tree/master/mooncats/config/cryptocats",
-          "title": "mooncats/mooncats/config/cryptocats at master · cryptocopycats/mooncats · Git...",
-          "count": 3,
-          "uniques": 2
+          "path": "/cryptocopycats/mooncats/blob/master/doppelganger/README.md",
+          "title": "mooncats/README.md at master · cryptocopycats/mooncats · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/mooncats/blob/master/spots/i/currency-v1-0077c8278d@2x.png",
+          "title": "mooncats/currency-v1-0077c8278d@2x.png at master · cryptocopycats/mooncats · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/mooncats/edit/master/spots/README.md",
+          "title": "Editing mooncats/README.md at master · cryptocopycats/mooncats",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/mooncats/edit/master/spots/spots.rb",
+          "title": "Editing mooncats/spots.rb at master · cryptocopycats/mooncats",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 12,
-          "uniques": 7
+          "referrer": "old.reddit.com",
+          "count": 27,
+          "uniques": 2
         },
         {
-          "referrer": "Google",
-          "count": 5,
+          "referrer": "github.com",
+          "count": 18,
           "uniques": 4
         },
         {
           "referrer": "reddit.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "planetruby.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 5,
+          "uniques": 3
         }
       ]
     },
@@ -1083,6 +1077,72 @@
         "views": {
           "count": 10,
           "uniques": 2
+        }
+      },
+      "2021-09-18": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-20": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-09-24": {
+        "views": {
+          "count": 23,
+          "uniques": 1
+        }
+      },
+      "2021-09-25": {
+        "views": {
+          "count": 24,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-09-26": {
+        "views": {
+          "count": 17,
+          "uniques": 3
+        }
+      },
+      "2021-09-27": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-09-28": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

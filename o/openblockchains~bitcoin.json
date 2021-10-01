@@ -70,6 +70,10 @@
     "2021-09-15": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2021-10-01": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -102,17 +106,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 16,
-        "uniques": 3
+        "count": 25,
+        "uniques": 7
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openblockchains/bitcoin",
           "title": "openblockchains/bitcoin: Bitcoin! Bitcoin! Bitcoin! Q: Dear sir, how do I get...",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "path": "/openblockchains/bitcoin/tree/master/bitcoin_proof_of_work.rb",
+          "title": "bitcoin/bitcoin_proof_of_work.rb at master · openblockchains/bitcoin",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/bitcoin/blob/master/BITCOIN-BITCOIN-BITCOIN.md",
+          "title": "bitcoin/BITCOIN-BITCOIN-BITCOIN.md at master · openblockchains/bitcoin · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -123,59 +139,46 @@
           "uniques": 2
         },
         {
-          "path": "/openblockchains/bitcoin/issues",
-          "title": "Issues · openblockchains/bitcoin · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/bitcoin/pulls",
-          "title": "Pull requests · openblockchains/bitcoin · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/bitcoin/actions",
-          "title": "Actions · openblockchains/bitcoin · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/bitcoin/blob/master/BITCOIN-CO2.md",
-          "title": "bitcoin/BITCOIN-CO2.md at master · openblockchains/bitcoin · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/openblockchains/bitcoin/blob/master/BITCOIN-SCRIPT.md",
           "title": "bitcoin/BITCOIN-SCRIPT.md at master · openblockchains/bitcoin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/bitcoin/branches",
-          "title": "Branches · openblockchains/bitcoin · GitHub",
+          "path": "/openblockchains/bitcoin/blob/master/BITCOIN-STORAGE.md",
+          "title": "bitcoin/BITCOIN-STORAGE.md at master · openblockchains/bitcoin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/bitcoin/commits/master/BITCOIN-CO2.md",
-          "title": "History for BITCOIN-CO2.md - openblockchains/bitcoin · GitHub",
+          "path": "/openblockchains/bitcoin/blob/master/BITCOIN-TOKENS.md",
+          "title": "bitcoin/BITCOIN-TOKENS.md at master · openblockchains/bitcoin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/bitcoin/find/master",
-          "title": "File Finder · GitHub",
+          "path": "/openblockchains/bitcoin/blob/master/v0.1.0/src/script.cpp",
+          "title": "bitcoin/script.cpp at master · openblockchains/bitcoin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/bitcoin/tree/master/v0.1.0/src",
+          "title": "bitcoin/v0.1.0/src at master · openblockchains/bitcoin · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "reddit.com",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -605,6 +608,46 @@
       "2021-09-15": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-18": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-09-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-28": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-30": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

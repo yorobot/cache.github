@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/core",
   "created_at": "2013-02-12T22:45:32Z",
-  "updated_at": "2021-08-25T18:18:08Z",
-  "pushed_at": "2021-08-25T18:18:04Z",
-  "size": 136,
+  "updated_at": "2021-09-28T16:06:54Z",
+  "pushed_at": "2021-09-28T16:06:51Z",
+  "size": 158,
   "description": "core tools, libraries & scripts - logger, config, dates, alphabets, shell & more",
   "language": "Ruby",
   "history": {
@@ -94,19 +94,23 @@
     "2021-09-15": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2021-10-01": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-25T18:17:56Z",
+        "date": "2021-09-28T16:06:43Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-08-25T18:17:56Z",
+        "date": "2021-09-28T16:06:43Z",
         "name": "Gerald Bauer"
       },
-      "message": "add record"
+      "message": "up"
     }
   ],
   "topics": [
@@ -118,35 +122,88 @@
     "dates"
   ],
   "languages": {
-    "Ruby": 157128,
+    "Ruby": 187878,
     "HTML": 1189,
     "CSS": 777
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 1
+        "count": 37,
+        "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 10,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/rubycoco/core",
           "title": "rubycoco/core: core tools, libraries & scripts - logger, config, dates, alpha...",
+          "count": 12,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/core/commits/master",
+          "title": "Commits · rubycoco/core",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/tree/master/safebool",
+          "title": "core/safebool at master · rubycoco/core",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/tree/master/typesig",
+          "title": "core/typesig at master · rubycoco/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/blob/master/safebool/lib/safebool.rb",
+          "title": "core/safebool.rb at master · rubycoco/core",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/core/tree/master/logutils-activerecord",
-          "title": "core/logutils-activerecord at master · rubycoco/core",
+          "path": "/rubycoco/core/blob/master/safebool/lib/safebool/version.rb",
+          "title": "core/version.rb at master · rubycoco/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/blob/master/typesig/lib/typesig.rb",
+          "title": "core/typesig.rb at master · rubycoco/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/blob/master/typesig/lib/typesig/version.rb",
+          "title": "core/version.rb at master · rubycoco/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/commit/478601c41bbf28357ee360c744855fa8f8d436fe",
+          "title": "up bytes · rubycoco/core@478601c",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/core/commit/50c5e622fc68750c2bfe221b3456e43c82d6d1c1",
+          "title": "up · rubycoco/core@50c5e62",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
         {
           "referrer": "planetruby.github.io",
           "count": 1,
@@ -456,6 +513,58 @@
         }
       },
       "2021-09-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-21": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-26": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2021-09-27": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-28": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-19": {
         "clones": {
           "count": 1,
           "uniques": 1

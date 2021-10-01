@@ -94,6 +94,10 @@
     "2021-09-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-10-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -121,17 +125,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 12,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/rubycoco/text",
-          "title": "GitHub - rubycoco/text: text tools, libraries & scripts incl. text filters, h...",
+          "title": "rubycoco/text: text tools, libraries & scripts incl. text filters, helpers, r...",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycoco/text/tree/master/textutils",
+          "title": "text/textutils at master · rubycoco/text · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/text/blob/master/textutils/README.md",
+          "title": "text/README.md at master · rubycoco/text · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -139,8 +155,13 @@
       "referrers": [
         {
           "referrer": "rubygems.org",
-          "count": 1,
+          "count": 3,
           "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -417,6 +438,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-09-18": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-09-20": {
+        "views": {
+          "count": 5,
+          "uniques": 2
         }
       }
     }

@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
-  "updated_at": "2021-09-09T22:17:41Z",
-  "pushed_at": "2021-09-09T22:17:36Z",
-  "size": 15286,
+  "updated_at": "2021-09-30T22:17:45Z",
+  "pushed_at": "2021-09-30T22:17:40Z",
+  "size": 23101,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -66,19 +66,23 @@
     "2021-09-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2021-10-01": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-09-09T22:17:33Z",
+        "date": "2021-09-30T22:17:37Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2021-09-09T22:17:33Z",
+        "date": "2021-09-30T22:17:37Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 36"
+      "message": "auto-update week 39"
     }
   ],
   "topics": [
@@ -89,23 +93,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 3
+        "count": 11,
+        "uniques": 4
       },
       "clones": {
-        "count": 11,
-        "uniques": 7
+        "count": 16,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/factbook/cache.factbook.json",
           "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 5,
+          "count": 4,
           "uniques": 3
         },
         {
-          "path": "/factbook/cache.factbook.json/commit/975c43449620e67d4694b2371d3a50af4a518d99",
-          "title": "Update README.md · factbook/cache.factbook.json@975c434",
+          "path": "/factbook/cache.factbook.json/blob/master/africa/od.json",
+          "title": "cache.factbook.json/od.json at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/australia-oceania/tv.json",
+          "title": "cache.factbook.json/tv.json at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/world/xx.json",
+          "title": "cache.factbook.json/xx.json at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/africa",
+          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/australia-oceania",
+          "title": "cache.factbook.json/australia-oceania at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/middle-east",
+          "title": "cache.factbook.json/middle-east at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/world",
+          "title": "cache.factbook.json/world at master · factbook/cache.factbook.json",
           "count": 1,
           "uniques": 1
         }
@@ -113,13 +153,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
+          "count": 2,
           "uniques": 2
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -995,6 +1030,84 @@
         }
       },
       "2021-09-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-21": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-09-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-18": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-20": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-09-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-09-30": {
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2021-10-01": {
         "clones": {
           "count": 1,
           "uniques": 1
