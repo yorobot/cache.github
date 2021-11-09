@@ -177,6 +177,10 @@
     "2021-10-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2021-11-09": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -203,18 +207,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/book-templates/world",
+          "title": "book-templates/world: World Fact Book Template",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/world/blob/gh-pages/_config.yml",
+          "title": "world/_config.yml at gh-pages · book-templates/world",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -341,6 +360,18 @@
       "2021-10-01": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-11-06": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

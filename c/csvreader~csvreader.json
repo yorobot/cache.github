@@ -1,9 +1,9 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2021-10-01T17:23:16Z",
-  "pushed_at": "2021-10-01T17:23:13Z",
-  "size": 303,
+  "updated_at": "2021-10-29T15:58:49Z",
+  "pushed_at": "2021-10-29T15:58:46Z",
+  "size": 389,
   "history": {
     "2018-11-02": {
       "stargazers_count": 154
@@ -147,19 +147,23 @@
     "2021-10-01": {
       "stargazers_count": 170,
       "forks_count": 6
+    },
+    "2021-11-09": {
+      "stargazers_count": 175,
+      "forks_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-10-01T17:23:06Z",
+        "date": "2021-10-29T15:58:41Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-10-01T17:23:06Z",
+        "date": "2021-10-29T15:58:41Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "add docs"
     }
   ],
   "description": "csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)",
@@ -180,71 +184,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 51,
-        "uniques": 24
+        "count": 50,
+        "uniques": 12
       },
       "clones": {
         "count": 25,
-        "uniques": 18
+        "uniques": 16
       },
       "paths": [
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 34,
-          "uniques": 23
+          "count": 11,
+          "uniques": 5
         },
         {
-          "path": "/csvreader/csvreader/tree/master/lib",
-          "title": "csvreader/lib at master · csvreader/csvreader · GitHub",
-          "count": 2,
+          "path": "/csvreader/csvreader/tree/master/csvreader/lib/csvreader",
+          "title": "csvreader/csvreader/lib/csvreader at master · csvreader/csvreader",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/csvreader",
+          "title": "csvreader/csvreader at master · csvreader/csvreader",
+          "count": 4,
           "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/tree/master/lib/csvreader",
-          "title": "csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/base.rb",
+          "title": "csvreader/base.rb at master · csvreader/csvreader",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader.rb",
+          "title": "csvreader/csvreader.rb at master · csvreader/csvreader",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/reader_hash.rb",
+          "title": "csvreader/reader_hash.rb at master · csvreader/csvreader",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/reader.rb",
+          "title": "csvreader/reader.rb at master · csvreader/csvreader",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/csvreader/lib",
+          "title": "csvreader/csvreader/lib at master · csvreader/csvreader",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/csvjson",
-          "title": "csvreader/csvjson at master · csvreader/csvreader",
-          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
-          "title": "csvreader/DIALECTS.md at master · csvreader/csvreader",
+          "path": "/csvreader/csvreader/blob/f0150b3eaae07199d95d105d9c51d90b200636b7/csvreader/lib/csvreader/reader.rb",
+          "title": "csvreader/reader.rb at f0150b3eaae07199d95d105d9c51d90b200636b7 · csvreader/c...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/blob/master/lib/csvreader/reader.rb",
-          "title": "csvreader/reader.rb at master · csvreader/csvreader · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/blob/master/README.md",
-          "title": "csvreader/README.md at master · csvreader/csvreader",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/commit/3e20822ff0b57c2f9e0d8da8acaa022dc50fa7b6",
-          "title": "up · csvreader/csvreader@3e20822",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/commits/master",
-          "title": "Commits · csvreader/csvreader",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/edit/master/README.md",
-          "title": "Editing csvreader/README.md at master · csvreader/csvreader",
+          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/parser_fixed.rb",
+          "title": "csvreader/parser_fixed.rb at master · csvreader/csvreader",
           "count": 1,
           "uniques": 1
         }
@@ -252,18 +256,23 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 14,
-          "uniques": 13
+          "count": 5,
+          "uniques": 3
         },
         {
           "referrer": "github.com",
-          "count": 9,
-          "uniques": 6
+          "count": 2,
+          "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
-          "count": 4,
-          "uniques": 4
+          "referrer": "bitbucket.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2949,10 +2958,133 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-10-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-29": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-11-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-03": {
+        "views": {
+          "count": 27,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-11-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-08": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-28": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-10-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-31": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 159826
+    "Ruby": 203888,
+    "Shell": 725
   }
 }

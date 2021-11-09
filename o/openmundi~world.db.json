@@ -177,6 +177,10 @@
     "2021-10-01": {
       "stargazers_count": 566,
       "forks_count": 53
+    },
+    "2021-11-09": {
+      "stargazers_count": 568,
+      "forks_count": 53
     }
   },
   "commits": [
@@ -193,7 +197,7 @@
     }
   ],
   "size": 1088,
-  "updated_at": "2021-06-14T03:43:36Z",
+  "updated_at": "2021-11-08T11:14:50Z",
   "pushed_at": "2017-08-31T18:19:59Z",
   "description": "Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)",
   "language": null,
@@ -203,41 +207,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 8
+        "count": 56,
+        "uniques": 19
       },
       "clones": {
-        "count": 8,
-        "uniques": 6
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 9,
-          "uniques": 6
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/north-america/ca-canada/cities.txt",
-          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/north-america/countries.txt",
-          "title": "world.db/countries.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 15,
+          "uniques": 12
         },
         {
           "path": "/openmundi/world.db/tree/master/europe",
-          "title": "world.db/europe at master · openmundi/world.db",
-          "count": 1,
+          "title": "world.db/europe at master · openmundi/world.db · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/europe/fr-france",
+          "title": "world.db/europe/fr-france at master · openmundi/world.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/fr-france/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/fr-france/states.txt",
+          "title": "world.db/states.txt at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/branches",
+          "title": "Branches · openmundi/world.db · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/tree/master/europe/be-belgium",
-          "title": "world.db/europe/be-belgium at master · openmundi/world.db",
+          "path": "/openmundi/world.db/tree/master/europe/cz-czech-republic",
+          "title": "world.db/europe/cz-czech-republic at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/europe/it-italy",
+          "title": "world.db/europe/it-italy at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/europe/pt-portugal",
+          "title": "world.db/europe/pt-portugal at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/cz-czech-republic/states_tags_geos.txt",
+          "title": "world.db/states_tags_geos.txt at master · openmundi/world.db · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -245,21 +279,26 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "count": 10,
+          "uniques": 5
         },
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "groups.google.com",
+          "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 1,
+          "referrer": "Google",
+          "count": 2,
           "uniques": 1
         },
         {
           "referrer": "kabytes.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "www-kabytes-com.cdn.ampproject.org",
           "count": 1,
           "uniques": 1
         }
@@ -1882,6 +1921,100 @@
         "clones": {
           "count": 3,
           "uniques": 1
+        }
+      },
+      "2021-10-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-28": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-10-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-30": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2021-11-01": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2021-11-02": {
+        "views": {
+          "count": 23,
+          "uniques": 3
+        }
+      },
+      "2021-11-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-11-04": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2021-11-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

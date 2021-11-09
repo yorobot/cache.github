@@ -98,6 +98,10 @@
     "2021-10-01": {
       "stargazers_count": 52,
       "forks_count": 1
+    },
+    "2021-11-09": {
+      "stargazers_count": 52,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -129,25 +133,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 9,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/rubycoco/monos",
           "title": "rubycoco/monos: monorepo / mono source tree tools, libraries & scripts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/monos/blob/master/monos/test/test_path.rb",
+          "title": "monos/test_path.rb at master · rubycoco/monos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/monos/tree/master/monofile",
+          "title": "monos/monofile at master · rubycoco/monos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/monos/tree/master/monos",
+          "title": "monos/monos at master · rubycoco/monos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/monos/tree/master/monos/test",
+          "title": "monos/monos/test at master · rubycoco/monos",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubyflow.com",
-          "count": 1,
+          "referrer": "rubygems.org",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -530,6 +558,18 @@
       "2021-09-26": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-10-31": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

@@ -177,24 +177,28 @@
     "2021-10-01": {
       "stargazers_count": 74,
       "forks_count": 26
+    },
+    "2021-11-09": {
+      "stargazers_count": 74,
+      "forks_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-07-25T15:14:47Z",
+        "date": "2021-11-01T04:01:02Z",
         "name": "Andy Maleh"
       },
       "author": {
-        "date": "2021-07-23T15:27:40Z",
+        "date": "2021-10-31T09:33:25Z",
         "name": "Andy Maleh"
       },
-      "message": "Update Tetris URLs (#70)"
+      "message": "Add Glimmer Tetris to README.md"
     }
   ],
-  "size": 3384,
-  "updated_at": "2021-08-13T21:51:01Z",
-  "pushed_at": "2021-07-25T15:14:50Z",
+  "size": 3428,
+  "updated_at": "2021-11-01T04:01:09Z",
+  "pushed_at": "2021-11-01T04:01:05Z",
   "description": "Ruby Football Week 2021, June 11th to June 17th - 7 Days of Ruby (Sports) Gems ++  Best of Ruby Gems Series",
   "language": "HTML",
   "topics": [
@@ -215,23 +219,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 3
+        "count": 39,
+        "uniques": 4
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 26,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/planetruby/gems",
           "title": "planetruby/gems: Ruby Football Week 2021, June 11th to June 17th - 7 Days of ...",
-          "count": 3,
-          "uniques": 3
+          "count": 18,
+          "uniques": 4
         },
         {
-          "path": "/planetruby/gems/tree/master/_layouts",
-          "title": "gems/_layouts at master · planetruby/gems · GitHub",
+          "path": "/planetruby/gems/pull/69",
+          "title": "Glimmer Tetris article series by AMaleh · Pull Request #69 · planetruby/gems",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/gems/issues",
+          "title": "Issues · planetruby/gems",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/pulls",
+          "title": "Pull requests · planetruby/gems",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/glimmer/05-glimmer-tetris-playfield.md",
+          "title": "gems/05-glimmer-tetris-playfield.md at master · planetruby/gems",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/2020/05-factory-bot.md",
+          "title": "gems/05-factory-bot.md at master · planetruby/gems",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/blob/master/glimmer/07-glimmer-tetris-high-score-dialog-menu-bar-icon.md",
+          "title": "gems/07-glimmer-tetris-high-score-dialog-menu-bar-icon.md at master · planetr...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/commit/2b68e12e98e3c31692a44efdba2c95e0225d216b",
+          "title": "Add Glimmer Tetris to README.md · planetruby/gems@2b68e12",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/commit/440a8c8dd29e59d35bd080f9137586e5cb718f24",
+          "title": "Add Glimmer Tetris to README.md · planetruby/gems@440a8c8",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/gems/commit/678dbda6dcd6461e81d8992a68749cbc5531cb69",
+          "title": "Add Glimmer Tetris to README.md · planetruby/gems@678dbda",
           "count": 1,
           "uniques": 1
         }
@@ -239,11 +291,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 2,
+          "count": 29,
           "uniques": 2
         },
         {
-          "referrer": "news.ycombinator.com",
+          "referrer": "rubydoc.info",
           "count": 1,
           "uniques": 1
         }
@@ -1539,11 +1591,65 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-10-31": {
+        "views": {
+          "count": 28,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 6
+        }
+      },
+      "2021-11-01": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 6
+        }
+      },
+      "2021-11-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 8073,
+    "HTML": 8678,
     "SCSS": 396
   }
 }

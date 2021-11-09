@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2021-09-30T22:17:47Z",
-  "pushed_at": "2021-09-30T22:17:42Z",
-  "size": 30894,
+  "updated_at": "2021-11-08T11:46:43Z",
+  "pushed_at": "2021-11-04T22:18:06Z",
+  "size": 34013,
   "history": {
     "2018-04-08": {
       "stargazers_count": 547
@@ -156,19 +156,23 @@
     "2021-10-01": {
       "stargazers_count": 793,
       "forks_count": 91
+    },
+    "2021-11-09": {
+      "stargazers_count": 795,
+      "forks_count": 93
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-09-30T22:17:40Z",
+        "date": "2021-11-04T22:18:04Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2021-09-30T22:17:40Z",
+        "date": "2021-11-04T22:18:04Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 39"
+      "message": "auto-update week 44"
     }
   ],
   "description": "World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)",
@@ -194,108 +198,93 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 342,
-        "uniques": 88
+        "count": 494,
+        "uniques": 53
       },
       "clones": {
-        "count": 22,
-        "uniques": 13
+        "count": 40,
+        "uniques": 18
       },
       "paths": [
         {
           "path": "/factbook/factbook.json",
           "title": "GitHub - factbook/factbook.json: World Factbook Country Profiles in JSON - Fr...",
-          "count": 158,
-          "uniques": 76
+          "count": 114,
+          "uniques": 25
         },
         {
           "path": "/factbook/factbook.json/tree/master/africa",
           "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
-          "count": 15,
-          "uniques": 9
+          "count": 28,
+          "uniques": 10
         },
         {
           "path": "/factbook/factbook.json/tree/master/europe",
           "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
-          "count": 13,
-          "uniques": 10
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/MONGO.md",
-          "title": "factbook.json/MONGO.md at master · factbook/factbook.json · GitHub",
-          "count": 9,
-          "uniques": 7
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/world",
-          "title": "factbook.json/world at master · factbook/factbook.json · GitHub",
-          "count": 8,
-          "uniques": 8
+          "count": 21,
+          "uniques": 6
         },
         {
           "path": "/factbook/factbook.json/blob/master/africa/ag.json",
-          "title": "factbook.json/ag.json at master · factbook/factbook.json · GitHub",
-          "count": 8,
-          "uniques": 6
+          "title": "factbook.json/ag.json at master · factbook/factbook.json",
+          "count": 12,
+          "uniques": 5
         },
         {
-          "path": "/factbook/factbook.json/tree/master/south-asia",
-          "title": "factbook.json/south-asia at master · factbook/factbook.json · GitHub",
-          "count": 8,
-          "uniques": 6
+          "path": "/factbook/factbook.json/tree/master/middle-east",
+          "title": "factbook.json/middle-east at master · factbook/factbook.json · GitHub",
+          "count": 12,
+          "uniques": 2
         },
         {
           "path": "/factbook/factbook.json/tree/master/east-n-southeast-asia",
-          "title": "factbook.json/east-n-southeast-asia at master · factbook/factbook.json · GitHub",
-          "count": 7,
-          "uniques": 4
+          "title": "factbook.json/east-n-southeast-asia at master · factbook/factbook.json",
+          "count": 11,
+          "uniques": 2
         },
         {
-          "path": "/factbook/factbook.json/tree/master/antarctica",
-          "title": "factbook.json/antarctica at master · factbook/factbook.json",
-          "count": 7,
-          "uniques": 1
+          "path": "/factbook/factbook.json/tree/master/australia-oceania",
+          "title": "factbook.json/australia-oceania at master · factbook/factbook.json",
+          "count": 10,
+          "uniques": 2
         },
         {
-          "path": "/factbook/factbook.json/blob/master/SUMMARY.md",
-          "title": "factbook.json/SUMMARY.md at master · factbook/factbook.json · GitHub",
-          "count": 6,
+          "path": "/factbook/factbook.json/tree/master/north-america",
+          "title": "factbook.json/north-america at master · factbook/factbook.json",
+          "count": 9,
           "uniques": 5
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/central-america-n-caribbean",
+          "title": "factbook.json/central-america-n-caribbean at master · factbook/factbook.json",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/south-asia",
+          "title": "factbook.json/south-asia at master · factbook/factbook.json",
+          "count": 7,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 45,
-          "uniques": 32
-        },
-        {
           "referrer": "github.com",
-          "count": 45,
-          "uniques": 29
+          "count": 96,
+          "uniques": 13
         },
         {
-          "referrer": "reddit.com",
-          "count": 3,
-          "uniques": 3
+          "referrer": "Google",
+          "count": 52,
+          "uniques": 10
         },
         {
-          "referrer": "opendata.stackexchange.com",
-          "count": 1,
+          "referrer": "out.reddit.com",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "trello.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "mail01.tinyletterapp.com",
+          "referrer": "keep.google.com",
           "count": 1,
           "uniques": 1
         }
@@ -2736,6 +2725,122 @@
         "views": {
           "count": 24,
           "uniques": 7
+        }
+      },
+      "2021-10-27": {
+        "views": {
+          "count": 38,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-28": {
+        "views": {
+          "count": 35,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-10-29": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2021-10-30": {
+        "views": {
+          "count": 14,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-31": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2021-11-01": {
+        "views": {
+          "count": 80,
+          "uniques": 7
+        }
+      },
+      "2021-11-02": {
+        "views": {
+          "count": 91,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-11-03": {
+        "views": {
+          "count": 101,
+          "uniques": 5
+        }
+      },
+      "2021-11-04": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2021-11-05": {
+        "views": {
+          "count": 56,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 2
+        }
+      },
+      "2021-11-06": {
+        "views": {
+          "count": 16,
+          "uniques": 4
+        }
+      },
+      "2021-11-07": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-11-08": {
+        "views": {
+          "count": 20,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-09": {
+        "views": {
+          "count": 6,
+          "uniques": 2
         }
       }
     }

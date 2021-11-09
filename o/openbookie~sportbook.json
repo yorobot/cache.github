@@ -177,6 +177,10 @@
     "2021-10-01": {
       "stargazers_count": 120,
       "forks_count": 47
+    },
+    "2021-11-09": {
+      "stargazers_count": 120,
+      "forks_count": 46
     }
   },
   "commits": [
@@ -203,53 +207,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 86,
-        "uniques": 39
+        "count": 131,
+        "uniques": 41
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 7,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/openbookie/sportbook",
           "title": "openbookie/sportbook: sportbook web app - free open source sports betting (or...",
-          "count": 70,
-          "uniques": 38
+          "count": 45,
+          "uniques": 20
         },
         {
-          "path": "/openbookie/sportbook/projects",
-          "title": "Projects · openbookie/sportbook · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/tree/master/public",
-          "title": "sportbook/public at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/db",
+          "title": "sportbook/db at master · openbookie/sportbook · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openbookie/sportbook/blob/master/.gitignore",
-          "title": "sportbook/.gitignore at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/blob/master/db/schema.rb",
+          "title": "sportbook/schema.rb at master · openbookie/sportbook",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/blob/master/public/404.html",
-          "title": "sportbook/404.html at master · openbookie/sportbook · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/commit/8b72a37ef126cd72658a4f730ceb507dd5a14f0f",
-          "title": "some polish · openbookie/sportbook@8b72a37",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/commit/a98127c4399d2d73195d116d765b8cb41d529e9c",
-          "title": "add folders for engines - admin,pubsub · openbookie/sportbook@a98127c",
+          "path": "/openbookie/sportbook/blob/master/db/setups/brazil2014/users.rb",
+          "title": "sportbook/users.rb at master · openbookie/sportbook · GitHub",
           "count": 1,
           "uniques": 1
         },
@@ -260,14 +246,26 @@
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/issues",
-          "title": "Issues · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/search",
+          "title": "Search · admin cms",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/pulls",
-          "title": "Pull requests · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/app",
+          "title": "sportbook/app at master · openbookie/sportbook",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/tree/master/db/setups",
+          "title": "sportbook/db/setups at master · openbookie/sportbook · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/tree/master/db/setups/brazil2014",
+          "title": "sportbook/db/setups/brazil2014 at master · openbookie/sportbook · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -275,21 +273,21 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 36,
-          "uniques": 21
-        },
-        {
-          "referrer": "Google",
-          "count": 12,
-          "uniques": 7
+          "count": 34,
+          "uniques": 14
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 11,
-          "uniques": 7
+          "count": 12,
+          "uniques": 3
         },
         {
-          "referrer": "yandex.com.tr",
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         }
@@ -2372,6 +2370,110 @@
           "uniques": 1
         },
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-26": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-10-27": {
+        "views": {
+          "count": 10,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-10-28": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-10-29": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-10-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-10-31": {
+        "views": {
+          "count": 9,
+          "uniques": 5
+        }
+      },
+      "2021-11-01": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        }
+      },
+      "2021-11-02": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-03": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-11-04": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-11-05": {
+        "views": {
+          "count": 14,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-06": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2021-11-08": {
+        "views": {
+          "count": 48,
+          "uniques": 6
+        }
+      },
+      "2021-11-09": {
+        "views": {
           "count": 1,
           "uniques": 1
         }
