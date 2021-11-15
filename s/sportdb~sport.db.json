@@ -176,6 +176,10 @@
     "2021-11-09": {
       "stargazers_count": 207,
       "forks_count": 24
+    },
+    "2021-11-15": {
+      "stargazers_count": 208,
+      "forks_count": 24
     }
   },
   "commits": [
@@ -191,7 +195,7 @@
       "message": "up"
     }
   ],
-  "updated_at": "2021-10-13T14:25:54Z",
+  "updated_at": "2021-11-15T09:32:07Z",
   "pushed_at": "2020-11-22T17:48:14Z",
   "description": "sport.db - open sports database (e.g. football.db, formula1.db etc.) command line tool and libraries",
   "language": "Ruby",
@@ -205,31 +209,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 132,
-        "uniques": 25
+        "count": 166,
+        "uniques": 20
       },
       "clones": {
-        "count": 7,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 47,
-          "uniques": 14
+          "count": 58,
+          "uniques": 17
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 12,
-          "uniques": 6
+          "count": 18,
+          "uniques": 8
         },
         {
           "path": "/sportdb/sport.db/tree/master/football",
-          "title": "sport.db/football at master · sportdb/sport.db",
-          "count": 8,
-          "uniques": 1
+          "title": "sport.db/football at master · sportdb/sport.db · GitHub",
+          "count": 9,
+          "uniques": 2
         },
         {
           "path": "/sportdb/sport.db/tree/master/football.db.models",
@@ -238,10 +242,28 @@
           "uniques": 2
         },
         {
+          "path": "/sportdb/sport.db/tree/master/football/lib",
+          "title": "sport.db/football/lib at master · sportdb/sport.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
           "path": "/sportdb/sport.db/tree/master/sport",
           "title": "sport.db/sport at master · sportdb/sport.db · GitHub",
           "count": 3,
           "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb-catalogs",
+          "title": "sport.db/sportdb-catalogs at master · sportdb/sport.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/blob/master/sportdb-calc/lib/sportdb/calc.rb",
+          "title": "sport.db/calc.rb at master · sportdb/sport.db",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/sportdb/sport.db/issues",
@@ -254,36 +276,23 @@
           "title": "Pull requests · sportdb/sport.db · GitHub",
           "count": 2,
           "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/sportdb-catalogs",
-          "title": "sport.db/sportdb-catalogs at master · sportdb/sport.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/sportdb-readers",
-          "title": "sport.db/sportdb-readers at master · sportdb/sport.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/football.db.models/README.md",
-          "title": "sport.db/README.md at master · sportdb/sport.db · GitHub",
-          "count": 2,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 7,
-          "uniques": 3
+          "referrer": "rsssf.github.io",
+          "count": 27,
+          "uniques": 2
         },
         {
           "referrer": "github.com",
-          "count": 6,
-          "uniques": 4
+          "count": 21,
+          "uniques": 6
+        },
+        {
+          "referrer": "Google",
+          "count": 14,
+          "uniques": 6
         },
         {
           "referrer": "reddit.com",
@@ -298,6 +307,21 @@
         {
           "referrer": "opensport.github.io",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "opensourcelibs.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "libraries.io",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2425,6 +2449,42 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-11-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-10": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2021-11-11": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2021-11-12": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        }
+      },
+      "2021-11-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-15": {
+        "views": {
+          "count": 20,
+          "uniques": 2
         }
       }
     }

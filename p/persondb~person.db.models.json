@@ -181,6 +181,10 @@
     "2021-11-09": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-11-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -207,17 +211,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/persondb/person.db.models",
           "title": "persondb/person.db.models: persondb gem - person schema & models for easy reu...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb",
+          "title": "person.db.models/lib/persondb at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb/models",
+          "title": "person.db.models/lib/persondb/models at master · persondb/person.db.models",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb/models/world",
+          "title": "person.db.models/lib/persondb/models/world at master · persondb/person.db.mod...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/test",
+          "title": "person.db.models/test at master · persondb/person.db.models",
           "count": 1,
           "uniques": 1
         }
@@ -225,8 +253,8 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 6,
+          "uniques": 2
         }
       ]
     },
@@ -473,6 +501,16 @@
       },
       "2021-11-02": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-12": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
           "count": 1,
           "uniques": 1
         }

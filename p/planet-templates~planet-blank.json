@@ -181,6 +181,10 @@
     "2021-11-09": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2021-11-15": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -207,17 +211,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "clones": {
-        "count": 10,
-        "uniques": 2
+        "count": 3,
+        "uniques": 1
       },
       "paths": [
         {
+          "path": "/planet-templates/planet-blank",
+          "title": "GitHub - planet-templates/planet-blank: blank - planet template pack",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "path": "/planet-templates/planet-blank/blob/master/blank.html.erb",
           "title": "planet-blank/blank.html.erb at master · planet-templates/planet-blank · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-blank/commits",
+          "title": "Commits · planet-templates/planet-blank · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -225,6 +241,11 @@
       "referrers": [
         {
           "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -485,6 +506,12 @@
         "clones": {
           "count": 4,
           "uniques": 2
+        }
+      },
+      "2021-11-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

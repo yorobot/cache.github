@@ -181,6 +181,10 @@
     "2021-11-09": {
       "stargazers_count": 156,
       "forks_count": 5
+    },
+    "2021-11-15": {
+      "stargazers_count": 157,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -197,7 +201,7 @@
     }
   ],
   "size": 899,
-  "updated_at": "2021-05-21T02:25:00Z",
+  "updated_at": "2021-11-12T12:21:47Z",
   "pushed_at": "2020-05-29T11:12:27Z",
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
   "language": "Ruby",
@@ -221,31 +225,76 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 36,
-        "uniques": 14
+        "count": 30,
+        "uniques": 15
       },
       "clones": {
         "count": 16,
-        "uniques": 8
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/feedparser/feedparser",
           "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
-          "count": 10,
-          "uniques": 8
+          "count": 21,
+          "uniques": 12
         },
         {
           "path": "/feedparser/feedparser/blob/master/lib/feedparser/generator.rb",
           "title": "feedparser/generator.rb at master · feedparser/feedparser · GitHub",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib/feedparser",
+          "title": "feedparser/lib/feedparser at master · feedparser/feedparser",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/feed.rb",
+          "title": "feedparser/feed.rb at master · feedparser/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/parser.rb",
+          "title": "feedparser/parser.rb at master · feedparser/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/commit/e9aca1886007f8f67d12c87cf924a361306089dc",
+          "title": "make oga soft dependency · feedparser/feedparser@e9aca18 · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib",
+          "title": "feedparser/lib at master · feedparser/feedparser",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 4,
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "referrer": "kod10.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
           "uniques": 2
         },
         {
@@ -260,16 +309,6 @@
         },
         {
           "referrer": "ruby-toolbox.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "kod10.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -2632,6 +2671,58 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-11-10": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-12": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-13": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-14": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

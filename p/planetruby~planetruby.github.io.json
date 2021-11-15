@@ -181,24 +181,28 @@
     "2021-11-09": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-11-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-10-07T15:41:20Z",
+        "date": "2021-11-10T17:19:25Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-10-07T15:41:20Z",
+        "date": "2021-11-10T17:19:25Z",
         "name": "Gerald Bauer"
       },
       "message": "Update index.md"
     }
   ],
-  "size": 702,
-  "updated_at": "2021-10-07T15:41:23Z",
-  "pushed_at": "2021-10-07T15:41:20Z",
+  "size": 706,
+  "updated_at": "2021-11-10T17:19:28Z",
+  "pushed_at": "2021-11-10T17:19:25Z",
   "description": "planet ruby site",
   "language": "HTML",
   "topics": [
@@ -207,18 +211,57 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 14,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 15,
+        "uniques": 11
       },
       "paths": [
-
+        {
+          "path": "/planetruby/planetruby.github.io",
+          "title": "planetruby/planetruby.github.io: planet ruby site",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/blob/master/index.md",
+          "title": "planetruby.github.io/index.md at master · planetruby/planetruby.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/edit/master/index.md",
+          "title": "Editing planetruby.github.io/index.md at master · planetruby/planetruby.githu...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/tree/master/_includes",
+          "title": "planetruby.github.io/_includes at master · planetruby/planetruby.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/commits/master",
+          "title": "Commits · planetruby/planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planetruby.github.io/new/master/_includes",
+          "title": "New File",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -349,11 +392,27 @@
           "count": 2,
           "uniques": 1
         }
+      },
+      "2021-11-10": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 10
+        }
+      },
+      "2021-11-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 20806,
+    "HTML": 21594,
     "SCSS": 3048
   }
 }

@@ -181,6 +181,10 @@
     "2021-11-09": {
       "stargazers_count": 14,
       "forks_count": 12
+    },
+    "2021-11-15": {
+      "stargazers_count": 14,
+      "forks_count": 12
     }
   },
   "commits": [
@@ -207,19 +211,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 18,
-        "uniques": 8
+        "count": 20,
+        "uniques": 9
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openmundi/world.csv",
-          "title": "GitHub - openmundi/world.csv: Free open public domain world data (incl. count...",
-          "count": 4,
-          "uniques": 2
+          "title": "openmundi/world.csv: Free open public domain world data (incl. countries ) in...",
+          "count": 12,
+          "uniques": 7
+        },
+        {
+          "path": "/openmundi/world.csv/tree/master/script",
+          "title": "world.csv/script at master · openmundi/world.csv",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/openmundi/world.csv/actions",
@@ -228,8 +238,32 @@
           "uniques": 1
         },
         {
+          "path": "/openmundi/world.csv/blob/master/countries(249)_alpha2.csv",
+          "title": "world.csv/countries(249)_alpha2.csv at master · openmundi/world.csv · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.csv/blob/master/countries(249)_alpha3.csv",
+          "title": "world.csv/countries(249)_alpha3.csv at master · openmundi/world.csv",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.csv/blob/master/countries(249)_num3.csv",
+          "title": "world.csv/countries(249)_num3.csv at master · openmundi/world.csv",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "path": "/openmundi/world.csv/find/master",
           "title": "File Finder · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.csv/tree/master/attic",
+          "title": "world.csv/attic at master · openmundi/world.csv",
           "count": 1,
           "uniques": 1
         }
@@ -237,7 +271,27 @@
       "referrers": [
         {
           "referrer": "Google",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "ecosia.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -830,6 +884,18 @@
       "2021-11-01": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-12": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

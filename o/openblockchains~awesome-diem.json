@@ -98,6 +98,10 @@
     "2021-11-09": {
       "stargazers_count": 55,
       "forks_count": 21
+    },
+    "2021-11-15": {
+      "stargazers_count": 55,
+      "forks_count": 21
     }
   },
   "commits": [
@@ -130,31 +134,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 26,
-        "uniques": 18
+        "count": 24,
+        "uniques": 15
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-diem",
           "title": "openblockchains/awesome-diem: A collection about all things Diem (formerly Li...",
-          "count": 8,
-          "uniques": 8
+          "count": 16,
+          "uniques": 12
+        },
+        {
+          "path": "/openblockchains/awesome-diem/blob/master/README.md",
+          "title": "awesome-diem/README.md at master · openblockchains/awesome-diem · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/awesome-diem/tree/master/contracts",
+          "title": "awesome-diem/contracts at master · openblockchains/awesome-diem · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/tree/master/contracts/snippets",
+          "title": "awesome-diem/contracts/snippets at master · openblockchains/awesome-diem · Gi...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/blob/master/contracts/snippets/create_account.mvir",
+          "title": "awesome-diem/create_account.mvir at master · openblockchains/awesome-diem · G...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 4,
-          "uniques": 4
+          "referrer": "Google",
+          "count": 12,
+          "uniques": 5
         },
         {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 6
         }
       ]
     },
@@ -1637,6 +1665,46 @@
         "views": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2021-11-10": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2021-11-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-12": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-14": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
