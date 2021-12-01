@@ -161,6 +161,10 @@
     "2021-11-15": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2021-12-01": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -184,18 +188,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 3,
-        "uniques": 3
-      },
       "paths": [
-
+        {
+          "path": "/mundimark/why-text/blob/master/samples/abc.text",
+          "title": "why-text/abc.text at master · mundimark/why-text · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/mundimark/why-text/tree/master/samples",
+          "title": "why-text/samples at master · mundimark/why-text · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -420,6 +439,12 @@
       "2021-11-07": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-30": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

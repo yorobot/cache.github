@@ -185,6 +185,10 @@
     "2021-11-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2021-12-01": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -211,18 +215,81 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 14,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/beercsv/world",
+          "title": "beercsv/world: beer, brewery n brewpub data",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/europe",
+          "title": "world/europe at master · beercsv/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/south-america",
+          "title": "world/south-america at master · beercsv/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/blob/master/europe/at-austria/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/blob/master/europe/ru-russia/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/blob/master/south-america/ar-argentina/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/blob/master/south-america/co-colombia/beers.csv",
+          "title": "world/beers.csv at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/europe/at-austria",
+          "title": "world/europe/at-austria at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/europe/ru-russia",
+          "title": "world/europe/ru-russia at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/south-america/ar-argentina",
+          "title": "world/south-america/ar-argentina at master · beercsv/world",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 14,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -433,6 +500,12 @@
       "2021-11-02": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-22": {
+        "views": {
+          "count": 14,
           "uniques": 1
         }
       }

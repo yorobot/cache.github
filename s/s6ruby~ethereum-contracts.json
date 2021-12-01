@@ -1,7 +1,7 @@
 {
   "full_name": "s6ruby/ethereum-contracts",
   "created_at": "2015-11-22T21:38:58Z",
-  "updated_at": "2021-07-09T10:21:04Z",
+  "updated_at": "2021-11-25T11:07:50Z",
   "pushed_at": "2019-08-06T08:01:42Z",
   "size": 89,
   "history": {
@@ -149,6 +149,10 @@
     "2021-11-15": {
       "stargazers_count": 7,
       "forks_count": 1
+    },
+    "2021-12-01": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -172,29 +176,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
-          "title": "GitHub - s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / t...",
-          "count": 1,
-          "uniques": 1
+          "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GodsUnchained.sol",
-          "title": "ethereum-contracts/GodsUnchained.sol at master · s6ruby/ethereum-contracts · ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePonzi.sol",
-          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts · Gi...",
+          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
+          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
           "count": 1,
           "uniques": 1
         }
@@ -203,7 +201,7 @@
         {
           "referrer": "github.com",
           "count": 3,
-          "uniques": 1
+          "uniques": 3
         }
       ]
     },
@@ -1097,6 +1095,24 @@
       "2021-11-15": {
         "views": {
           "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-11-18": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-11-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-25": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }

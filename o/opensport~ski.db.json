@@ -185,6 +185,10 @@
     "2021-11-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-12-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -211,18 +215,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/opensport/ski.db",
+          "title": "opensport/ski.db: Free open public domain Ski Alpin/Alpine Ski database 'n' s...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/ski.db/blob/master/de-deutschland/skiers.men.txt",
+          "title": "ski.db/skiers.men.txt at master · opensport/ski.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/ski.db/blob/master/de-deutschland/tracks.txt",
+          "title": "ski.db/tracks.txt at master · opensport/ski.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/ski.db/tree/master/de-deutschland",
+          "title": "ski.db/de-deutschland at master · opensport/ski.db",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "opensport.github.io",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -573,6 +604,12 @@
       "2021-11-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-28": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

@@ -185,6 +185,10 @@
     "2021-11-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-12-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -211,18 +215,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/openmundi/wien.db",
+          "title": "openmundi/wien.db: Free open public domain data about Vienna, Austria (Wien, ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/wien.db/blob/master/11-simmering/cafes.txt",
+          "title": "wien.db/cafes.txt at master · openmundi/wien.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/wien.db/tree/master/11-simmering",
+          "title": "wien.db/11-simmering at master · openmundi/wien.db",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -289,6 +314,12 @@
       "2021-10-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-29": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

@@ -185,6 +185,10 @@
     "2021-11-15": {
       "stargazers_count": 18,
       "forks_count": 3
+    },
+    "2021-12-01": {
+      "stargazers_count": 17,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -201,7 +205,7 @@
     }
   ],
   "size": 204,
-  "updated_at": "2021-11-15T09:32:07Z",
+  "updated_at": "2021-11-23T06:33:03Z",
   "pushed_at": "2013-09-15T15:44:47Z",
   "description": "Free open public domain Formula 1/Formula One database 'n' schema (formula1.db) for use in any (programming) language (e.g. uses plain text fixtures/data sets)",
   "language": null,
@@ -211,8 +215,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 62,
-        "uniques": 24
+        "count": 60,
+        "uniques": 23
       },
       "clones": {
         "count": 1,
@@ -222,60 +226,60 @@
         {
           "path": "/opensport/formula1.db",
           "title": "opensport/formula1.db: Free open public domain Formula 1/Formula One database...",
-          "count": 35,
-          "uniques": 23
-        },
-        {
-          "path": "/opensport/formula1.db/blob/master/circuits.txt",
-          "title": "formula1.db/circuits.txt at master · opensport/formula1.db · GitHub",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "path": "/opensport/formula1.db/blob/master/drivers.txt",
-          "title": "formula1.db/drivers.txt at master · opensport/formula1.db · GitHub",
-          "count": 3,
-          "uniques": 3
+          "count": 24,
+          "uniques": 20
         },
         {
           "path": "/opensport/formula1.db/tree/master/2013",
-          "title": "formula1.db/2013 at master · opensport/formula1.db · GitHub",
+          "title": "formula1.db/2013 at master · opensport/formula1.db",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/opensport/formula1.db/tree/master/setups",
+          "title": "formula1.db/setups at master · opensport/formula1.db",
           "count": 3,
           "uniques": 3
         },
         {
-          "path": "/opensport/formula1.db/blob/master/teams.txt",
-          "title": "formula1.db/teams.txt at master · opensport/formula1.db · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/opensport/formula1.db/tree/master/setups",
-          "title": "formula1.db/setups at master · opensport/formula1.db · GitHub",
+          "path": "/opensport/formula1.db/blob/master/2013/races.txt",
+          "title": "formula1.db/races.txt at master · opensport/formula1.db",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/opensport/formula1.db/blob/master/leagues.txt",
-          "title": "formula1.db/leagues.txt at master · opensport/formula1.db",
+          "path": "/opensport/formula1.db/blob/master/circuits.txt",
+          "title": "formula1.db/circuits.txt at master · opensport/formula1.db",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/opensport/formula1.db/actions",
-          "title": "Actions · opensport/formula1.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/opensport/formula1.db/blob/master/drivers.txt",
+          "title": "formula1.db/drivers.txt at master · opensport/formula1.db",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/opensport/formula1.db/blob/master/2013/06-gp-monaco.txt",
-          "title": "formula1.db/06-gp-monaco.txt at master · opensport/formula1.db",
-          "count": 1,
-          "uniques": 1
+          "path": "/opensport/formula1.db/blob/master/en.wikipedia.drivers.yml",
+          "title": "formula1.db/en.wikipedia.drivers.yml at master · opensport/formula1.db",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/opensport/formula1.db/blob/master/2013/07-gp-canada.txt",
-          "title": "formula1.db/07-gp-canada.txt at master · opensport/formula1.db · GitHub",
+          "path": "/opensport/formula1.db/blob/master/seasons.yml",
+          "title": "formula1.db/seasons.yml at master · opensport/formula1.db",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/setups/all.yml",
+          "title": "formula1.db/all.yml at master · opensport/formula1.db",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/formula1.db/blob/master/2013/04-gp-bahrain.txt",
+          "title": "formula1.db/04-gp-bahrain.txt at master · opensport/formula1.db",
           "count": 1,
           "uniques": 1
         }
@@ -283,21 +287,21 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 44,
-          "uniques": 18
+          "count": 34,
+          "uniques": 14
         },
         {
-          "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "Bing",
-          "count": 1,
+          "referrer": "opensport.github.io",
+          "count": 10,
           "uniques": 1
         },
         {
-          "referrer": "in.search.yahoo.com",
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         }
@@ -1936,6 +1940,82 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-11-17": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2021-11-18": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-11-19": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-20": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2021-11-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-22": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2021-11-23": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2021-11-25": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-28": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2021-11-30": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        }
+      },
+      "2021-12-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

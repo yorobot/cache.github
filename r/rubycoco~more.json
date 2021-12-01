@@ -106,6 +106,10 @@
     "2021-11-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2021-12-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -136,18 +140,62 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 10,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/rubycoco/more",
+          "title": "rubycoco/more: more tools, libraries & scripts",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/more/tree/master/gutenberg",
+          "title": "more/gutenberg at master · rubycoco/more",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/more/blob/master/gutenberg/lib/gutenberg.rb",
+          "title": "more/gutenberg.rb at master · rubycoco/more",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/more/blob/master/gutenberg/lib/gutenberg/version.rb",
+          "title": "more/version.rb at master · rubycoco/more",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/more/tree/master/gutenberg/lib",
+          "title": "more/gutenberg/lib at master · rubycoco/more",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/more/tree/master/gutenberg/lib/gutenberg",
+          "title": "more/gutenberg/lib/gutenberg at master · rubycoco/more",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -408,6 +456,18 @@
       "2021-11-02": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-19": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2021-11-28": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

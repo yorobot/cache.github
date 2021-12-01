@@ -185,6 +185,10 @@
     "2021-11-15": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2021-12-01": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -211,18 +215,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 5,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openmundi/notes",
+          "title": "openmundi/notes: Open Mundi (world.db) Notes",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/notes/projects",
+          "title": "Projects · openmundi/notes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/notes/pulls",
+          "title": "Pull requests · openmundi/notes",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -289,6 +314,12 @@
       "2021-11-02": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-20": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }

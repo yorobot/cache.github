@@ -185,6 +185,10 @@
     "2021-11-15": {
       "stargazers_count": 18,
       "forks_count": 3
+    },
+    "2021-12-01": {
+      "stargazers_count": 19,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -201,7 +205,7 @@
     }
   ],
   "size": 66,
-  "updated_at": "2021-04-18T17:11:56Z",
+  "updated_at": "2021-11-23T05:10:52Z",
   "pushed_at": "2020-10-24T07:35:15Z",
   "description": "planet setup / configuration samples - planetarium - add your planets!",
   "language": "Ruby",
@@ -211,14 +215,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
+        "count": 9,
         "uniques": 6
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
+        {
+          "path": "/feedreader/planets/blob/master/haskell.ini",
+          "title": "planets/haskell.ini at master · feedreader/planets · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
         {
           "path": "/feedreader/planets",
           "title": "GitHub - feedreader/planets: planet setup / configuration samples - planetari...",
@@ -226,19 +236,30 @@
           "uniques": 2
         },
         {
-          "path": "/feedreader/planets/commit/3602ad9ef60a05fb1dd1f22b31c42408b7b53fad",
-          "title": "up planets · feedreader/planets@3602ad9 · GitHub",
+          "path": "/feedreader/planets/blob/master/nytimes.ini",
+          "title": "planets/nytimes.ini at master · feedreader/planets · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/planets/commit/94fe94b5165fcd204852f5f281612af82e5d7752",
-          "title": "up source · feedreader/planets@94fe94b · GitHub",
+          "path": "/feedreader/planets/blob/master/web20.ini",
+          "title": "planets/web20.ini at master · feedreader/planets · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/tree/master/web",
+          "title": "planets/web at master · feedreader/planets · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 1
+        },
         {
           "referrer": "github.com",
           "count": 1,
@@ -928,6 +949,36 @@
       "2021-11-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-11-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-11-30": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }
