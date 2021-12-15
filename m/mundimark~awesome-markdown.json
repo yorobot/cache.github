@@ -189,6 +189,10 @@
     "2021-12-01": {
       "stargazers_count": 853,
       "forks_count": 142
+    },
+    "2021-12-15": {
+      "stargazers_count": 857,
+      "forks_count": 145
     }
   },
   "commits": [
@@ -205,7 +209,7 @@
     }
   ],
   "size": 118,
-  "updated_at": "2021-11-30T18:43:16Z",
+  "updated_at": "2021-12-13T17:01:42Z",
   "pushed_at": "2021-09-21T10:59:02Z",
   "description": "A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)",
   "language": null,
@@ -215,65 +219,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 569,
-        "uniques": 387
+        "count": 682,
+        "uniques": 415
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/mundimark/awesome-markdown",
           "title": "mundimark/awesome-markdown: A collection of awesome markdown goodies (librari...",
-          "count": 478,
-          "uniques": 358
+          "count": 591,
+          "uniques": 381
         },
         {
           "path": "/mundimark/awesome-markdown/blob/master/README.md",
           "title": "awesome-markdown/README.md at master · mundimark/awesome-markdown · GitHub",
-          "count": 26,
-          "uniques": 9
+          "count": 20,
+          "uniques": 10
+        },
+        {
+          "path": "/mundimark/awesome-markdown/blob/master/NOTES.md",
+          "title": "awesome-markdown/NOTES.md at master · mundimark/awesome-markdown · GitHub",
+          "count": 7,
+          "uniques": 5
         },
         {
           "path": "/mundimark/awesome-markdown/blob/master/MORE.md",
           "title": "awesome-markdown/MORE.md at master · mundimark/awesome-markdown · GitHub",
-          "count": 11,
-          "uniques": 11
-        },
-        {
-          "path": "/mundimark/awesome-markdown/blob/master/NOTES.md",
-          "title": "awesome-markdown/NOTES.md at master · mundimark/awesome-markdown",
           "count": 6,
           "uniques": 5
         },
         {
           "path": "/mundimark/awesome-markdown/issues",
           "title": "Issues · mundimark/awesome-markdown · GitHub",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/mundimark/awesome-markdown/find/master",
-          "title": "File Finder · GitHub",
-          "count": 2,
+          "count": 3,
           "uniques": 2
         },
         {
           "path": "/mundimark/awesome-markdown/search",
-          "title": "Search · omnioutliner",
+          "title": "Search · markdown · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/mundimark/awesome-markdown/edit/master/README.md",
+          "title": "Editing awesome-markdown/README.md at master · mundimark/awesome-markdown",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/mundimark/awesome-markdown/pulls",
-          "title": "Pull requests · mundimark/awesome-markdown · GitHub",
-          "count": 2,
+          "path": "/mundimark/awesome-markdown/blame/master/README.md",
+          "title": "awesome-markdown/README.md at master · mundimark/awesome-markdown",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/mundimark/awesome-markdown/branches",
-          "title": "Branches · mundimark/awesome-markdown · GitHub",
+          "path": "/mundimark/awesome-markdown/commit/1dc42fec19a09def431ef2a30d401cdd9568f822",
+          "title": "up · mundimark/awesome-markdown@1dc42fe",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/mundimark/awesome-markdown/commit/2678c01c10a32dda2f20dd2d86e255fdef2edeab",
+          "title": "Add converter from SPIP CMS syntax to Markdown · mundimark/awesome-markdown@2...",
           "count": 1,
           "uniques": 1
         }
@@ -281,52 +291,52 @@
       "referrers": [
         {
           "referrer": "markdownguide.org",
-          "count": 155,
-          "uniques": 122
+          "count": 189,
+          "uniques": 134
         },
         {
           "referrer": "Google",
-          "count": 136,
-          "uniques": 99
+          "count": 156,
+          "uniques": 103
         },
         {
           "referrer": "github.com",
-          "count": 58,
-          "uniques": 34
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 12,
-          "uniques": 8
-        },
-        {
-          "referrer": "youtube.com",
-          "count": 11,
-          "uniques": 2
-        },
-        {
-          "referrer": "markdown.xyz",
-          "count": 7,
-          "uniques": 5
+          "count": 57,
+          "uniques": 37
         },
         {
           "referrer": "markdown.p2hp.com",
-          "count": 6,
-          "uniques": 5
+          "count": 15,
+          "uniques": 13
         },
         {
-          "referrer": "tutorialmarkdown.com",
+          "referrer": "DuckDuckGo",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "referrer": "Bing",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "referrer": "markdown.xyz",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "Bing",
-          "count": 1,
+          "referrer": "cn.bing.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "akawah.ru",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "codingnconcepts.com",
-          "count": 1,
+          "referrer": "seenthis.net",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2802,12 +2812,120 @@
       },
       "2021-12-01": {
         "views": {
-          "count": 33,
-          "uniques": 27
+          "count": 1,
+          "uniques": 1
         },
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-12-02": {
+        "views": {
+          "count": 67,
+          "uniques": 45
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-03": {
+        "views": {
+          "count": 61,
+          "uniques": 35
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-04": {
+        "views": {
+          "count": 44,
+          "uniques": 31
+        }
+      },
+      "2021-12-05": {
+        "views": {
+          "count": 31,
+          "uniques": 22
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-06": {
+        "views": {
+          "count": 66,
+          "uniques": 41
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-07": {
+        "views": {
+          "count": 66,
+          "uniques": 42
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-08": {
+        "views": {
+          "count": 51,
+          "uniques": 36
+        }
+      },
+      "2021-12-09": {
+        "views": {
+          "count": 50,
+          "uniques": 29
+        }
+      },
+      "2021-12-10": {
+        "views": {
+          "count": 59,
+          "uniques": 34
+        }
+      },
+      "2021-12-11": {
+        "views": {
+          "count": 18,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-12": {
+        "views": {
+          "count": 33,
+          "uniques": 24
+        }
+      },
+      "2021-12-13": {
+        "views": {
+          "count": 46,
+          "uniques": 25
+        }
+      },
+      "2021-12-14": {
+        "views": {
+          "count": 46,
+          "uniques": 33
+        }
+      },
+      "2021-12-15": {
+        "views": {
+          "count": 43,
+          "uniques": 32
         }
       }
     }

@@ -153,6 +153,10 @@
     "2021-12-01": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2021-12-15": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -176,23 +180,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 3
+        "count": 16,
+        "uniques": 5
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 3,
-          "uniques": 3
+          "count": 11,
+          "uniques": 5
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
-          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
+          "path": "/s6ruby/ethereum-contracts/blob/master/KingOfTheEtherThrone.sol",
+          "title": "ethereum-contracts/KingOfTheEtherThrone.sol at master · s6ruby/ethereum-contr...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
+          "title": "ethereum-contracts/FckDice.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
+          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts",
           "count": 1,
           "uniques": 1
         }
@@ -200,8 +216,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 11,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1113,6 +1134,40 @@
       "2021-11-25": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-05": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2021-12-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-13": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

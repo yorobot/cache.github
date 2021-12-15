@@ -141,6 +141,10 @@
     "2021-12-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2021-12-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -164,18 +168,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/rsssf/austria/blob/master/tables/oost2016.txt",
+          "title": "austria/oost2016.txt at master · rsssf/austria",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria",
+          "title": "rsssf/austria: football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Arc...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/blob/master/tables/oost2011.txt",
+          "title": "austria/oost2011.txt at master · rsssf/austria",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/tree/master/tables",
+          "title": "austria/tables at master · rsssf/austria",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -290,6 +321,12 @@
       "2021-09-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-06": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }

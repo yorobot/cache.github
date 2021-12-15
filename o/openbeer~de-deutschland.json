@@ -189,6 +189,10 @@
     "2021-12-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2021-12-15": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -215,8 +219,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
@@ -224,14 +228,30 @@
       },
       "paths": [
         {
-          "path": "/openbeer/de-deutschland/pulls",
-          "title": "Pull requests · openbeer/de-deutschland · GitHub",
+          "path": "/openbeer/de-deutschland",
+          "title": "openbeer/de-deutschland: Free open public domain beer, brewery n brewpub data...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/de-deutschland/blob/master/4--bw-baden-wuerttemberg--black-forest/breweries.txt",
+          "title": "de-deutschland/breweries.txt at master · openbeer/de-deutschland · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/de-deutschland/tree/master/4--bw-baden-wuerttemberg--black-forest",
+          "title": "de-deutschland/4--bw-baden-wuerttemberg--black-forest at master · openbeer/de...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -386,6 +406,18 @@
       "2021-11-25": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-12": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

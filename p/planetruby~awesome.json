@@ -189,6 +189,10 @@
     "2021-12-01": {
       "stargazers_count": 205,
       "forks_count": 10
+    },
+    "2021-12-15": {
+      "stargazers_count": 205,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -215,23 +219,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 2
       },
       "clones": {
         "count": 10,
-        "uniques": 10
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/planetruby/awesome",
-          "title": "GitHub - planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Fram...",
+          "title": "planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Frameworks, R...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/pull/5",
+          "title": "Note support for pipelining by tarcieri · Pull Request #5 · planetruby/awesome",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/pull/5/files",
+          "title": "Note support for pipelining by tarcieri · Pull Request #5 · planetruby/awesome",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/tree/master/WEBSOCKETS",
+          "title": "awesome/WEBSOCKETS at master · planetruby/awesome",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1057,6 +1083,42 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-12-08": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2021-12-02": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-06": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-12-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

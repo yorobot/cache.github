@@ -1,7 +1,7 @@
 {
   "full_name": "rubycoco/pixel",
   "created_at": "2017-05-14T17:33:27Z",
-  "updated_at": "2021-11-15T19:12:16Z",
+  "updated_at": "2021-12-12T09:27:18Z",
   "pushed_at": "2021-11-15T15:27:57Z",
   "size": 306,
   "description": "pixel (and graphics) libraries & scripts",
@@ -62,6 +62,10 @@
     "2021-12-01": {
       "stargazers_count": 38,
       "forks_count": 5
+    },
+    "2021-12-15": {
+      "stargazers_count": 41,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -89,103 +93,108 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 65,
-        "uniques": 17
+        "count": 92,
+        "uniques": 25
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/rubycoco/pixel",
           "title": "rubycoco/pixel: pixel (and graphics) libraries & scripts",
-          "count": 19,
-          "uniques": 10
+          "count": 28,
+          "uniques": 14
         },
         {
           "path": "/rubycoco/pixel/tree/master/pixelart-characters",
           "title": "pixel/pixelart-characters at master · rubycoco/pixel · GitHub",
-          "count": 14,
-          "uniques": 8
+          "count": 18,
+          "uniques": 11
         },
         {
           "path": "/rubycoco/pixel/tree/master/pixelart",
           "title": "pixel/pixelart at master · rubycoco/pixel · GitHub",
-          "count": 13,
+          "count": 18,
           "uniques": 9
         },
         {
-          "path": "/rubycoco/pixel/commits",
-          "title": "Commits · rubycoco/pixel",
-          "count": 3,
-          "uniques": 1
+          "path": "/rubycoco/pixel/tree/master/pixelart-glimmer",
+          "title": "pixel/pixelart-glimmer at master · rubycoco/pixel · GitHub",
+          "count": 9,
+          "uniques": 5
         },
         {
-          "path": "/rubycoco/pixel/blob/32421bbf014aeac91cd2306ac825c2d6f02d7308/pixelart/lib/pixelart/image.rb",
-          "title": "pixel/image.rb at 32421bbf014aeac91cd2306ac825c2d6f02d7308 · rubycoco/pixel",
+          "path": "/rubycoco/pixel/tree/master/pixelart-glimmer/sandbox",
+          "title": "pixel/pixelart-glimmer/sandbox at master · rubycoco/pixel",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/pixel/tree/master/pixelart/sandbox",
+          "title": "pixel/pixelart/sandbox at master · rubycoco/pixel",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/pixel/blob/master/pixelart-glimmer/i/punk3100-round-nose.svg",
+          "title": "pixel/punk3100-round-nose.svg at master · rubycoco/pixel · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/pixel/search",
-          "title": "Search · compose",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/pixel/blob/master/pixelart-characters/i/polka-male-randomx3.png",
-          "title": "pixel/polka-male-randomx3.png at master · rubycoco/pixel",
+          "path": "/rubycoco/pixel/blob/master/8bit/cheat.rb",
+          "title": "pixel/cheat.rb at master · rubycoco/pixel",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/pixel/blob/master/pixelart-characters/i/polka-random1x3.png",
-          "title": "pixel/polka-random1x3.png at master · rubycoco/pixel",
+          "path": "/rubycoco/pixel/blob/master/8bit/outline.rb",
+          "title": "pixel/outline.rb at master · rubycoco/pixel",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/pixel/blob/master/pixelart-characters/README.md",
-          "title": "pixel/README.md at master · rubycoco/pixel",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/pixel/blob/master/pixelart/README.md",
-          "title": "pixel/README.md at master · rubycoco/pixel",
+          "path": "/rubycoco/pixel/blob/master/pixelart-glimmer/sandbox/test_glimmer.rb",
+          "title": "pixel/test_glimmer.rb at master · rubycoco/pixel",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "ruby-toolbox.com",
-          "count": 12,
-          "uniques": 5
-        },
-        {
-          "referrer": "planetruby.github.io",
-          "count": 11,
-          "uniques": 4
-        },
-        {
           "referrer": "rubygems.org",
-          "count": 5,
+          "count": 8,
           "uniques": 2
         },
         {
-          "referrer": "rubydoc.info",
+          "referrer": "planetruby.github.io",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "referrer": "ruby-toolbox.com",
           "count": 4,
           "uniques": 2
         },
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "rubydoc.info",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "awesomeopensource.com",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "referrer": "feedly.com",
           "count": 1,
           "uniques": 1
         }
@@ -1298,6 +1307,86 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-12-02": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2021-12-03": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-04": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2021-12-05": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2021-12-06": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-11": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2021-12-12": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-12-14": {
+        "views": {
+          "count": 20,
+          "uniques": 6
+        }
+      },
+      "2021-12-15": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }
