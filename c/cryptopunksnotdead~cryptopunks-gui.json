@@ -1,9 +1,9 @@
 {
   "full_name": "cryptopunksnotdead/cryptopunks-gui",
   "created_at": "2021-10-22T22:23:19Z",
-  "updated_at": "2021-12-09T14:39:38Z",
-  "pushed_at": "2021-12-05T19:51:44Z",
-  "size": 2687,
+  "updated_at": "2021-12-29T01:24:21Z",
+  "pushed_at": "2021-12-28T16:37:18Z",
+  "size": 2688,
   "description": "CryptoPunks GUI for Simplified Minting",
   "language": "Ruby",
   "history": {
@@ -18,19 +18,23 @@
     "2021-12-15": {
       "stargazers_count": 6,
       "forks_count": 2
+    },
+    "2022-01-01": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-12-05T19:51:35Z",
+        "date": "2021-12-28T16:37:16Z",
         "name": "Andy Maleh"
       },
       "author": {
-        "date": "2021-12-05T19:47:39Z",
+        "date": "2021-12-28T16:29:49Z",
         "name": "Andy Maleh"
       },
-      "message": "Upgrade to glimmer-dsl-tk 0.0.49"
+      "message": "Mention ActiveTcl version 8.6 instructions"
     }
   ],
   "topics": [
@@ -52,95 +56,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 101,
-        "uniques": 39
+        "count": 110,
+        "uniques": 29
       },
       "clones": {
-        "count": 9,
-        "uniques": 9
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/cryptopunks-gui",
           "title": "GitHub - cryptopunksnotdead/cryptopunks-gui: CryptoPunks GUI for Simplified M...",
           "count": 61,
-          "uniques": 36
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/issues",
-          "title": "Issues · cryptopunksnotdead/cryptopunks-gui",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/app",
-          "title": "cryptopunks-gui/app at master · cryptopunksnotdead/cryptopunks-gui · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/icons",
-          "title": "cryptopunks-gui/icons at master · cryptopunksnotdead/cryptopunks-gui",
-          "count": 3,
-          "uniques": 1
+          "uniques": 27
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks-gui/issues/1",
           "title": "`map': undefined method `name' · Issue #1 · cryptopunksnotdead/cryptopunks-gui",
-          "count": 2,
-          "uniques": 2
+          "count": 10,
+          "uniques": 3
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/icons/cryptopunks-gui.icns",
-          "title": "cryptopunks-gui/cryptopunks-gui.icns at master · cryptopunksnotdead/cryptopun...",
-          "count": 2,
-          "uniques": 1
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/app",
+          "title": "cryptopunks-gui/app at master · cryptopunksnotdead/cryptopunks-gui · GitHub",
+          "count": 9,
+          "uniques": 5
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/commits/master",
-          "title": "Commits · cryptopunksnotdead/cryptopunks-gui",
-          "count": 2,
-          "uniques": 1
+          "path": "/cryptopunksnotdead/cryptopunks-gui/issues",
+          "title": "Issues · cryptopunksnotdead/cryptopunks-gui · GitHub",
+          "count": 6,
+          "uniques": 3
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/stargazers",
-          "title": "Stargazers · cryptopunksnotdead/cryptopunks-gui",
-          "count": 2,
-          "uniques": 1
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/app/model",
+          "title": "cryptopunks-gui/app/model at master · cryptopunksnotdead/cryptopunks-gui · Gi...",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/screenshots/cryptopunks-gui-screenshot-collection-apes.png",
+          "title": "cryptopunks-gui/cryptopunks-gui-screenshot-collection-apes.png at master · cr...",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/app/view",
           "title": "cryptopunks-gui/app/view at master · cryptopunksnotdead/cryptopunks-gui",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/icons",
+          "title": "cryptopunks-gui/icons at master · cryptopunksnotdead/cryptopunks-gui",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/packaging",
-          "title": "cryptopunks-gui/packaging at master · cryptopunksnotdead/cryptopunks-gui",
-          "count": 2,
+          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/app/model/image.rb",
+          "title": "cryptopunks-gui/image.rb at master · cryptopunksnotdead/cryptopunks-gui · Git...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/cryptopunks-collections.yml",
+          "title": "cryptopunks-gui/cryptopunks-collections.yml at master · cryptopunksnotdead/cr...",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 47,
-          "uniques": 25
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "blade.nagaokaut.ac.jp",
-          "count": 1,
-          "uniques": 1
+          "count": 65,
+          "uniques": 24
         },
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -491,6 +485,96 @@
       },
       "2021-12-15": {
         "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2021-12-20": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2021-12-21": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2021-12-22": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-23": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-26": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-27": {
+        "views": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2021-12-28": {
+        "views": {
+          "count": 35,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-29": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2021-12-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-31": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2022-01-01": {
+        "clones": {
           "count": 2,
           "uniques": 1
         }

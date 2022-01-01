@@ -188,6 +188,10 @@
     "2021-12-15": {
       "stargazers_count": 207,
       "forks_count": 24
+    },
+    "2022-01-01": {
+      "stargazers_count": 207,
+      "forks_count": 24
     }
   },
   "commits": [
@@ -217,29 +221,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 74,
-        "uniques": 29
+        "count": 88,
+        "uniques": 17
       },
       "clones": {
-        "count": 13,
-        "uniques": 11
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 34,
-          "uniques": 22
+          "count": 29,
+          "uniques": 16
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 9,
-          "uniques": 7
+          "count": 13,
+          "uniques": 5
         },
         {
-          "path": "/sportdb/sport.db/tree/master/test",
-          "title": "sport.db/test at master · sportdb/sport.db · GitHub",
+          "path": "/sportdb/sport.db/tree/master/sportdb/script",
+          "title": "sport.db/sportdb/script at master · sportdb/sport.db",
           "count": 4,
           "uniques": 1
         },
@@ -247,7 +251,19 @@
           "path": "/sportdb/sport.db/tree/master/football",
           "title": "sport.db/football at master · sportdb/sport.db · GitHub",
           "count": 3,
-          "uniques": 3
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb-formats/script",
+          "title": "sport.db/sportdb-formats/script at master · sportdb/sport.db",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb/test",
+          "title": "sport.db/sportdb/test at master · sportdb/sport.db",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/sportdb/sport.db/blob/master/football/lib/football.rb",
@@ -262,68 +278,46 @@
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-models",
-          "title": "sport.db/sportdb-models at master · sportdb/sport.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/season-formats",
-          "title": "sport.db/season-formats at master · sportdb/sport.db",
+          "path": "/sportdb/sport.db/blob/master/sportdb-importers/README.md",
+          "title": "sport.db/README.md at master · sportdb/sport.db · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db/blob/master/sportdb-models/lib/sportdb/models/schema.rb",
-          "title": "sport.db/schema.rb at master · sportdb/sport.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/sportdb-models/sportdb-models.png",
-          "title": "sport.db/sportdb-models.png at master · sportdb/sport.db · GitHub",
-          "count": 1,
+          "path": "/sportdb/sport.db/tree/master/sportdb/bin",
+          "title": "sport.db/sportdb/bin at master · sportdb/sport.db",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 22,
-          "uniques": 10
-        },
-        {
           "referrer": "Google",
-          "count": 5,
-          "uniques": 4
+          "count": 9,
+          "uniques": 5
         },
         {
-          "referrer": "rubygems.org",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "referrer": "opensport.github.io",
-          "count": 4,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 5
         },
         {
           "referrer": "sportdb.github.io",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "opensourcelibs.com",
-          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "rsssf.github.io",
+          "referrer": "ruby-toolbox.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "awesomeopensource.com",
+          "referrer": "opensport.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rsssf.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -2679,6 +2673,76 @@
       "2021-12-11": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2021-12-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-21": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2021-12-22": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2021-12-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-12-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-12-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-31": {
+        "views": {
+          "count": 59,
+          "uniques": 3
+        }
+      },
+      "2021-12-29": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

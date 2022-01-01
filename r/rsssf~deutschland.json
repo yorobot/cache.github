@@ -145,6 +145,10 @@
     "2021-12-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-01-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -168,18 +172,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/rsssf/deutschland",
+          "title": "rsssf/deutschland: football.db RSSSF (Rec.Sport.Soccer Statistics Foundation)...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/deutschland/blob/master/archive/2000s/2002-03/1-bundesliga.txt",
+          "title": "deutschland/1-bundesliga.txt at master · rsssf/deutschland",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/deutschland/blob/master/README.md",
+          "title": "deutschland/README.md at master · rsssf/deutschland",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -392,6 +417,12 @@
       "2021-11-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

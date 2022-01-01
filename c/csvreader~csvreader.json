@@ -1,9 +1,9 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2021-12-13T13:24:01Z",
-  "pushed_at": "2021-12-13T13:23:58Z",
-  "size": 397,
+  "updated_at": "2021-12-22T10:59:02Z",
+  "pushed_at": "2021-12-22T10:58:59Z",
+  "size": 456,
   "history": {
     "2018-11-02": {
       "stargazers_count": 154
@@ -163,19 +163,23 @@
     "2021-12-15": {
       "stargazers_count": 176,
       "forks_count": 7
+    },
+    "2022-01-01": {
+      "stargazers_count": 176,
+      "forks_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-12-13T13:23:47Z",
-        "name": "Gerald Bauer"
+        "date": "2021-12-22T10:58:59Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2021-12-13T13:23:47Z",
+        "date": "2021-12-22T10:58:59Z",
         "name": "Gerald Bauer"
       },
-      "message": "add tabreader"
+      "message": "Update README.md"
     }
   ],
   "description": "csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)",
@@ -196,113 +200,98 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 138,
-        "uniques": 25
+        "count": 44,
+        "uniques": 20
       },
       "clones": {
-        "count": 25,
-        "uniques": 18
+        "count": 24,
+        "uniques": 14
       },
       "paths": [
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 45,
-          "uniques": 23
+          "count": 26,
+          "uniques": 19
         },
         {
           "path": "/csvreader/csvreader/tree/master/csvreader",
           "title": "csvreader/csvreader at master · csvreader/csvreader · GitHub",
-          "count": 17,
-          "uniques": 5
+          "count": 7,
+          "uniques": 6
         },
         {
-          "path": "/csvreader/csvreader/tree/master/csvreader/lib/csvreader",
-          "title": "csvreader/csvreader/lib/csvreader at master · csvreader/csvreader · GitHub",
-          "count": 12,
-          "uniques": 5
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/csvreader/lib",
-          "title": "csvreader/csvreader/lib at master · csvreader/csvreader · GitHub",
-          "count": 10,
-          "uniques": 5
-        },
-        {
-          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader.rb",
-          "title": "csvreader/csvreader.rb at master · csvreader/csvreader",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/csvreader/csvreader/issues",
-          "title": "Issues · csvreader/csvreader · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/reader_hash.rb",
-          "title": "csvreader/reader_hash.rb at master · csvreader/csvreader",
-          "count": 3,
+          "path": "/csvreader/csvreader/blob/master/README.md",
+          "title": "csvreader/README.md at master · csvreader/csvreader · GitHub",
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/parser.rb",
-          "title": "csvreader/parser.rb at master · csvreader/csvreader",
-          "count": 3,
+          "path": "/csvreader/csvreader/tree/master/csvutils",
+          "title": "csvreader/csvutils at master · csvreader/csvreader",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader/base.rb",
-          "title": "csvreader/base.rb at master · csvreader/csvreader",
-          "count": 2,
-          "uniques": 2
+          "path": "/csvreader/csvreader/edit/master/README.md",
+          "title": "Editing csvreader/README.md at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/projects",
+          "title": "Projects · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/csvhuman",
+          "title": "csvreader/csvhuman at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/csvjson",
+          "title": "csvreader/csvjson at master · csvreader/csvreader",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/tree/master/csvreader/datasets",
+          "title": "csvreader/csvreader/datasets at master · csvreader/csvreader · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/csvreader/csvreader/tree/master/csvrecord",
           "title": "csvreader/csvrecord at master · csvreader/csvreader",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 23,
-          "uniques": 9
-        },
-        {
           "referrer": "Google",
-          "count": 7,
-          "uniques": 5
+          "count": 10,
+          "uniques": 8
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 7,
-          "uniques": 3
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 4
         },
         {
-          "referrer": "news.ycombinator.com",
+          "referrer": "ruby-toolbox.com",
           "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "yandex.ru",
-          "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "rubygems.org",
+          "referrer": "tipsfordev.com",
           "count": 2,
           "uniques": 1
         },
         {
           "referrer": "cn.bing.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "ruby-toolbox.com",
           "count": 1,
           "uniques": 1
         }
@@ -3426,11 +3415,131 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2021-12-20": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-22": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-26": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-27": {
+        "views": {
+          "count": 13,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-28": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-23": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-29": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-12-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 215096,
+    "Ruby": 262487,
     "Shell": 725
   }
 }

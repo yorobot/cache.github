@@ -179,6 +179,10 @@
     "2021-12-15": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2022-01-01": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -204,8 +208,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 10,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
@@ -214,15 +218,45 @@
       "paths": [
         {
           "path": "/octobook/book-2017-theme",
-          "title": "GitHub - octobook/book-2017-theme: book git theme",
+          "title": "octobook/book-2017-theme: book git theme",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/_layouts/default.html",
+          "title": "book-2017-theme/default.html at gh-pages · octobook/book-2017-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/tree/gh-pages/_layouts",
+          "title": "book-2017-theme/_layouts at gh-pages · octobook/book-2017-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/_data/book.yml",
+          "title": "book-2017-theme/book.yml at gh-pages · octobook/book-2017-theme",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/index.html",
+          "title": "book-2017-theme/index.html at gh-pages · octobook/book-2017-theme",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/tree/gh-pages/_data",
+          "title": "book-2017-theme/_data at gh-pages · octobook/book-2017-theme",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "reddit.com",
-          "count": 1,
+          "referrer": "github.com",
+          "count": 9,
           "uniques": 1
         }
       ]
@@ -437,6 +471,18 @@
       "2021-12-12": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-27": {
+        "views": {
+          "count": 9,
           "uniques": 1
         }
       }

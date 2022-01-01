@@ -193,6 +193,10 @@
     "2021-12-15": {
       "stargazers_count": 53,
       "forks_count": 2
+    },
+    "2022-01-01": {
+      "stargazers_count": 53,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -219,18 +223,32 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/worlddb/world.lite",
+          "title": "worlddb/world.lite: worldlite gem - lightweight public domain country data (a...",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -676,6 +694,18 @@
       },
       "2021-12-11": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-01": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

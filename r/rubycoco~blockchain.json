@@ -1,7 +1,7 @@
 {
   "full_name": "rubycoco/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2021-11-17T13:15:36Z",
+  "updated_at": "2021-12-25T18:06:03Z",
   "pushed_at": "2021-06-06T14:45:02Z",
   "size": 1682,
   "description": "blockchain (crypto) tools, libraries & scripts in ruby",
@@ -114,6 +114,10 @@
     "2021-12-15": {
       "stargazers_count": 157,
       "forks_count": 26
+    },
+    "2022-01-01": {
+      "stargazers_count": 161,
+      "forks_count": 28
     }
   },
   "commits": [
@@ -158,124 +162,124 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 198,
-        "uniques": 67
+        "count": 269,
+        "uniques": 79
       },
       "clones": {
-        "count": 8,
-        "uniques": 6
+        "count": 7,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/rubycoco/blockchain",
           "title": "rubycoco/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 58,
-          "uniques": 39
+          "count": 91,
+          "uniques": 54
         },
         {
           "path": "/rubycoco/blockchain/tree/master/cryptopunks",
           "title": "blockchain/cryptopunks at master · rubycoco/blockchain · GitHub",
-          "count": 25,
-          "uniques": 21
+          "count": 24,
+          "uniques": 19
         },
         {
           "path": "/rubycoco/blockchain/tree/master/blockchain-lite",
           "title": "blockchain/blockchain-lite at master · rubycoco/blockchain · GitHub",
-          "count": 12,
-          "uniques": 10
+          "count": 13,
+          "uniques": 11
         },
         {
           "path": "/rubycoco/blockchain/tree/master/crypto-lite",
           "title": "blockchain/crypto-lite at master · rubycoco/blockchain · GitHub",
-          "count": 9,
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/base32-alphabets",
+          "title": "blockchain/base32-alphabets at master · rubycoco/blockchain · GitHub",
+          "count": 10,
           "uniques": 5
         },
         {
-          "path": "/rubycoco/blockchain/tree/master/merkletree",
-          "title": "blockchain/merkletree at master · rubycoco/blockchain · GitHub",
-          "count": 7,
-          "uniques": 6
+          "path": "/rubycoco/blockchain/tree/master/ledger-lite",
+          "title": "blockchain/ledger-lite at master · rubycoco/blockchain · GitHub",
+          "count": 8,
+          "uniques": 5
         },
         {
-          "path": "/rubycoco/blockchain/tree/master/centralbank",
-          "title": "blockchain/centralbank at master · rubycoco/blockchain · GitHub",
+          "path": "/rubycoco/blockchain/tree/master/elliptic-lite",
+          "title": "blockchain/elliptic-lite at master · rubycoco/blockchain · GitHub",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/base58-alphabets",
+          "title": "blockchain/base58-alphabets at master · rubycoco/blockchain · GitHub",
           "count": 6,
           "uniques": 4
         },
         {
-          "path": "/rubycoco/blockchain/blob/master/crypto-lite/sandbox/test_ethereum.rb",
-          "title": "blockchain/test_ethereum.rb at master · rubycoco/blockchain · GitHub",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycoco/blockchain/blob/master/cryptopunks/README.md",
-          "title": "blockchain/README.md at master · rubycoco/blockchain · GitHub",
+          "path": "/rubycoco/blockchain/tree/master/centralbank",
+          "title": "blockchain/centralbank at master · rubycoco/blockchain · GitHub",
           "count": 5,
           "uniques": 5
         },
         {
-          "path": "/rubycoco/blockchain/tree/master/crypto-lite/lib",
-          "title": "blockchain/crypto-lite/lib at master · rubycoco/blockchain",
+          "path": "/rubycoco/blockchain/tree/master/cryptoquotes",
+          "title": "blockchain/cryptoquotes at master · rubycoco/blockchain · GitHub",
           "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/crypto-lite/lib/crypto-lite",
-          "title": "blockchain/crypto-lite/lib/crypto-lite at master · rubycoco/blockchain",
-          "count": 4,
-          "uniques": 2
+          "uniques": 4
         }
       ],
       "referrers": [
         {
-          "referrer": "reddit.com",
-          "count": 39,
-          "uniques": 18
-        },
-        {
           "referrer": "Google",
-          "count": 35,
-          "uniques": 22
+          "count": 61,
+          "uniques": 37
         },
         {
           "referrer": "github.com",
-          "count": 27,
-          "uniques": 10
+          "count": 48,
+          "uniques": 9
         },
         {
-          "referrer": "rubydoc.info",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "referrer": "awesomeopensource.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "githubmemory.com",
-          "count": 3,
-          "uniques": 1
+          "referrer": "reddit.com",
+          "count": 32,
+          "uniques": 14
         },
         {
           "referrer": "rubygems.org",
-          "count": 2,
+          "count": 17,
           "uniques": 2
         },
         {
-          "referrer": "r.lihkg.com",
-          "count": 1,
+          "referrer": "kandi.openweaver.com",
+          "count": 9,
           "uniques": 1
         },
         {
-          "referrer": "out.reddit.com",
-          "count": 1,
+          "referrer": "rubydoc.info",
+          "count": 8,
           "uniques": 1
         },
         {
-          "referrer": "awesome-ruby.com",
-          "count": 1,
+          "referrer": "rubyflow.com",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubytalk.org",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2585,6 +2589,108 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2021-12-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "views": {
+          "count": 10,
+          "uniques": 6
+        }
+      },
+      "2021-12-20": {
+        "views": {
+          "count": 35,
+          "uniques": 11
+        }
+      },
+      "2021-12-21": {
+        "views": {
+          "count": 16,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-22": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2021-12-23": {
+        "views": {
+          "count": 27,
+          "uniques": 7
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 32,
+          "uniques": 3
+        }
+      },
+      "2021-12-25": {
+        "views": {
+          "count": 56,
+          "uniques": 10
+        }
+      },
+      "2021-12-26": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2021-12-27": {
+        "views": {
+          "count": 26,
+          "uniques": 7
+        }
+      },
+      "2021-12-28": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2021-12-29": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2021-12-30": {
+        "views": {
+          "count": 20,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2021-12-31": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-01": {
+        "views": {
+          "count": 7,
+          "uniques": 4
         }
       }
     }

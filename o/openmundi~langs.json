@@ -193,6 +193,10 @@
     "2021-12-15": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2022-01-01": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -219,18 +223,51 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 6,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openmundi/langs",
+          "title": "openmundi/langs: Free open public domain world database addon - languages of ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/langs/blob/master/central-america/lang.yml",
+          "title": "langs/lang.yml at master · openmundi/langs · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/langs/blob/master/middle-east/lang.yml",
+          "title": "langs/lang.yml at master · openmundi/langs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/langs/tree/master/central-america",
+          "title": "langs/central-america at master · openmundi/langs · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/langs/tree/master/middle-east",
+          "title": "langs/middle-east at master · openmundi/langs",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -315,6 +352,18 @@
       "2021-12-07": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-12-28": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

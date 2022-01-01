@@ -157,6 +157,10 @@
     "2021-12-15": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2022-01-01": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -180,19 +184,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 16,
-        "uniques": 5
+        "count": 44,
+        "uniques": 10
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 11,
-          "uniques": 5
+          "count": 18,
+          "uniques": 8
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
+          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
+          "title": "ethereum-contracts/FckDice.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/CryptoPunksMarket.sol",
+          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contracts",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GodsUnchained.sol",
+          "title": "ethereum-contracts/GodsUnchained.sol at master · s6ruby/ethereum-contracts · ...",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/KingOfTheEtherThrone.sol",
@@ -201,14 +229,26 @@
           "uniques": 2
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
-          "title": "ethereum-contracts/FckDice.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
+          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blame/master/Dice2Win.sol",
+          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
-          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts",
+          "path": "/s6ruby/ethereum-contracts/blob/master/Cryptostamp.sol",
+          "title": "ethereum-contracts/Cryptostamp.sol at master · s6ruby/ethereum-contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/PonziGovernmental.sol",
+          "title": "ethereum-contracts/PonziGovernmental.sol at master · s6ruby/ethereum-contract...",
           "count": 1,
           "uniques": 1
         }
@@ -216,12 +256,17 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 4
+          "count": 25,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 1,
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "qwant.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -1168,6 +1213,48 @@
       "2021-12-13": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2021-12-22": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2021-12-25": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2021-12-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-31": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2021-12-28": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

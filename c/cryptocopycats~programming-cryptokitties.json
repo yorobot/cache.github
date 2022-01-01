@@ -1,7 +1,7 @@
 {
   "full_name": "cryptocopycats/programming-cryptokitties",
   "created_at": "2018-12-25T17:28:35Z",
-  "updated_at": "2021-12-11T08:24:31Z",
+  "updated_at": "2021-12-16T13:35:19Z",
   "pushed_at": "2021-10-05T11:00:40Z",
   "size": 404,
   "description": "Crypto Collectibles Series. Programming CryptoKitties & Copycats Step-by-Step Book / Guide. Inside Unique Bits & Bytes on the Blockchain...",
@@ -82,6 +82,10 @@
     "2021-12-15": {
       "stargazers_count": 64,
       "forks_count": 20
+    },
+    "2022-01-01": {
+      "stargazers_count": 66,
+      "forks_count": 21
     }
   },
   "commits": [
@@ -113,47 +117,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 68,
-        "uniques": 31
+        "count": 139,
+        "uniques": 45
       },
       "clones": {
         "count": 4,
-        "uniques": 4
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/cryptocopycats/programming-cryptokitties",
           "title": "GitHub - cryptocopycats/programming-cryptokitties: Crypto Collectibles Series...",
-          "count": 40,
-          "uniques": 28
+          "count": 75,
+          "uniques": 42
         },
         {
           "path": "/cryptocopycats/programming-cryptokitties/blob/master/01_genes.md",
           "title": "programming-cryptokitties/01_genes.md at master · cryptocopycats/programming-...",
-          "count": 9,
-          "uniques": 9
-        },
-        {
-          "path": "/cryptocopycats/programming-cryptokitties/tree/master/i",
-          "title": "programming-cryptokitties/i at master · cryptocopycats/programming-cryptokitt...",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptocopycats/programming-cryptokitties/search",
-          "title": "Search · · GitHub",
-          "count": 3,
-          "uniques": 1
+          "count": 23,
+          "uniques": 12
         },
         {
           "path": "/cryptocopycats/programming-cryptokitties/blob/master/02_genereader.md",
           "title": "programming-cryptokitties/02_genereader.md at master · cryptocopycats/program...",
-          "count": 2,
-          "uniques": 2
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/cryptocopycats/programming-cryptokitties/blob/master/05_kittycalc.md",
+          "title": "programming-cryptokitties/05_kittycalc.md at master · cryptocopycats/programm...",
+          "count": 4,
+          "uniques": 4
         },
         {
           "path": "/cryptocopycats/programming-cryptokitties/tree/master/datasets",
           "title": "programming-cryptokitties/datasets at master · cryptocopycats/programming-cry...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptocopycats/programming-cryptokitties/blob/master/03_cattributes.md",
+          "title": "programming-cryptokitties/03_cattributes.md at master · cryptocopycats/progra...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/programming-cryptokitties/search",
+          "title": "Search · CryptoKitties",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/programming-cryptokitties/blob/master/datasets/cattributes.json",
+          "title": "programming-cryptokitties/cattributes.json at master · cryptocopycats/program...",
           "count": 2,
           "uniques": 2
         },
@@ -164,20 +180,8 @@
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/programming-cryptokitties/blob/master/05_kittycalc.md",
-          "title": "programming-cryptokitties/05_kittycalc.md at master · cryptocopycats/programm...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/programming-cryptokitties/blob/master/datasets/cattributes.json",
-          "title": "programming-cryptokitties/cattributes.json at master · cryptocopycats/program...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/programming-cryptokitties/blob/master/i/cattributes-offspring.png",
-          "title": "programming-cryptokitties/cattributes-offspring.png at master · cryptocopycat...",
+          "path": "/cryptocopycats/programming-cryptokitties/blob/master/base32.rb",
+          "title": "programming-cryptokitties/base32.rb at master · cryptocopycats/programming-cr...",
           "count": 1,
           "uniques": 1
         }
@@ -185,18 +189,43 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 28,
-          "uniques": 10
+          "count": 31,
+          "uniques": 18
         },
         {
           "referrer": "reddit.com",
-          "count": 17,
-          "uniques": 11
+          "count": 11,
+          "uniques": 8
+        },
+        {
+          "referrer": "remotasks.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "openblockchains.github.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "hub.fastgit.org",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "libhunt.com",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1956,6 +1985,98 @@
       "2021-12-15": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2021-12-19": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2021-12-20": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2021-12-21": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2021-12-22": {
+        "views": {
+          "count": 10,
+          "uniques": 4
+        }
+      },
+      "2021-12-23": {
+        "views": {
+          "count": 16,
+          "uniques": 9
+        }
+      },
+      "2021-12-24": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2021-12-25": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2021-12-26": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        }
+      },
+      "2021-12-27": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2021-12-28": {
+        "views": {
+          "count": 24,
+          "uniques": 6
+        }
+      },
+      "2021-12-30": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2021-12-31": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-01": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2021-12-29": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
