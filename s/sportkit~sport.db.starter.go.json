@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-01-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -223,18 +227,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 3,
-        "uniques": 3
-      },
       "paths": [
-
+        {
+          "path": "/sportkit/sport.db.starter.go",
+          "title": "GitHub - sportkit/sport.db.starter.go: sportdb web service starter sample - b...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/sport.db.starter.go/blob/master/server.go",
+          "title": "sport.db.starter.go/server.go at master · sportkit/sport.db.starter.go · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -509,6 +528,12 @@
       "2021-12-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-05": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/worldcup",
   "created_at": "2013-05-22T06:57:03Z",
-  "updated_at": "2021-12-17T17:58:36Z",
+  "updated_at": "2022-01-14T13:20:05Z",
   "pushed_at": "2020-09-13T11:30:50Z",
   "size": 638,
   "description": "Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)",
@@ -58,6 +58,10 @@
     "2022-01-01": {
       "stargazers_count": 461,
       "forks_count": 163
+    },
+    "2022-01-15": {
+      "stargazers_count": 462,
+      "forks_count": 163
     }
   },
   "commits": [
@@ -86,104 +90,104 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 495,
-        "uniques": 140
+        "count": 524,
+        "uniques": 161
       },
       "clones": {
-        "count": 10,
-        "uniques": 8
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/openfootball/worldcup",
           "title": "openfootball/worldcup: Free open public domain football data for the World Cu...",
-          "count": 189,
-          "uniques": 128
+          "count": 187,
+          "uniques": 132
         },
         {
           "path": "/openfootball/worldcup/tree/master/2018--russia",
           "title": "worldcup/2018--russia at master · openfootball/worldcup · GitHub",
-          "count": 35,
+          "count": 39,
           "uniques": 31
         },
         {
           "path": "/openfootball/worldcup/blob/master/2018--russia/cup.txt",
           "title": "worldcup/cup.txt at master · openfootball/worldcup · GitHub",
-          "count": 18,
-          "uniques": 18
+          "count": 23,
+          "uniques": 22
+        },
+        {
+          "path": "/openfootball/worldcup/blob/master/2014--brazil/cup.txt",
+          "title": "worldcup/cup.txt at master · openfootball/worldcup · GitHub",
+          "count": 17,
+          "uniques": 12
         },
         {
           "path": "/openfootball/worldcup/tree/master/2022--qatar",
           "title": "worldcup/2022--qatar at master · openfootball/worldcup · GitHub",
-          "count": 18,
-          "uniques": 16
-        },
-        {
-          "path": "/openfootball/worldcup/tree/master/1930--uruguay",
-          "title": "worldcup/1930--uruguay at master · openfootball/worldcup · GitHub",
-          "count": 18,
+          "count": 16,
           "uniques": 14
-        },
-        {
-          "path": "/openfootball/worldcup/tree/master/1930--uruguay/squads",
-          "title": "worldcup/1930--uruguay/squads at master · openfootball/worldcup · GitHub",
-          "count": 12,
-          "uniques": 10
         },
         {
           "path": "/openfootball/worldcup/blob/master/2018--russia/cup_finals.txt",
           "title": "worldcup/cup_finals.txt at master · openfootball/worldcup · GitHub",
-          "count": 11,
-          "uniques": 10
+          "count": 15,
+          "uniques": 13
         },
         {
-          "path": "/openfootball/worldcup/blob/master/2022--qatar/cup.txt",
-          "title": "worldcup/cup.txt at master · openfootball/worldcup · GitHub",
-          "count": 11,
+          "path": "/openfootball/worldcup/find/master",
+          "title": "File Finder · GitHub",
+          "count": 10,
           "uniques": 9
         },
         {
-          "path": "/openfootball/worldcup/blob/master/2018--russia/NOTES.md",
-          "title": "worldcup/NOTES.md at master · openfootball/worldcup · GitHub",
-          "count": 9,
-          "uniques": 9
-        },
-        {
-          "path": "/openfootball/worldcup/blob/master/1930--uruguay/cup.txt",
-          "title": "worldcup/cup.txt at master · openfootball/worldcup · GitHub",
-          "count": 7,
+          "path": "/openfootball/worldcup/tree/master/2014--brazil",
+          "title": "worldcup/2014--brazil at master · openfootball/worldcup · GitHub",
+          "count": 10,
           "uniques": 6
+        },
+        {
+          "path": "/openfootball/worldcup/tree/master/1934--italy",
+          "title": "worldcup/1934--italy at master · openfootball/worldcup · GitHub",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/worldcup/tree/master/1930--uruguay",
+          "title": "worldcup/1930--uruguay at master · openfootball/worldcup · GitHub",
+          "count": 6,
+          "uniques": 5
         }
       ],
       "referrers": [
         {
           "referrer": "datahub.io",
-          "count": 254,
-          "uniques": 76
+          "count": 281,
+          "uniques": 89
         },
         {
           "referrer": "Google",
-          "count": 101,
-          "uniques": 30
-        },
-        {
-          "referrer": "github.com",
-          "count": 36,
-          "uniques": 9
+          "count": 53,
+          "uniques": 20
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 32,
-          "uniques": 13
+          "count": 52,
+          "uniques": 22
         },
         {
-          "referrer": "Bing",
-          "count": 5,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 22,
+          "uniques": 7
         },
         {
-          "referrer": "groups.google.com",
-          "count": 3,
+          "referrer": "lms.thaimooc.org",
+          "count": 17,
+          "uniques": 4
+        },
+        {
+          "referrer": "trackmyhashtag.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1609,6 +1613,102 @@
         "views": {
           "count": 11,
           "uniques": 7
+        }
+      },
+      "2022-01-02": {
+        "views": {
+          "count": 9,
+          "uniques": 9
+        }
+      },
+      "2022-01-03": {
+        "views": {
+          "count": 32,
+          "uniques": 10
+        }
+      },
+      "2022-01-04": {
+        "views": {
+          "count": 49,
+          "uniques": 16
+        }
+      },
+      "2022-01-05": {
+        "views": {
+          "count": 94,
+          "uniques": 22
+        }
+      },
+      "2022-01-06": {
+        "views": {
+          "count": 28,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-07": {
+        "views": {
+          "count": 22,
+          "uniques": 8
+        }
+      },
+      "2022-01-08": {
+        "views": {
+          "count": 20,
+          "uniques": 6
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 44,
+          "uniques": 9
+        }
+      },
+      "2022-01-10": {
+        "views": {
+          "count": 32,
+          "uniques": 15
+        }
+      },
+      "2022-01-11": {
+        "views": {
+          "count": 53,
+          "uniques": 17
+        }
+      },
+      "2022-01-12": {
+        "views": {
+          "count": 43,
+          "uniques": 14
+        }
+      },
+      "2022-01-13": {
+        "views": {
+          "count": 15,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-14": {
+        "views": {
+          "count": 38,
+          "uniques": 8
+        }
+      },
+      "2022-01-15": {
+        "views": {
+          "count": 45,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

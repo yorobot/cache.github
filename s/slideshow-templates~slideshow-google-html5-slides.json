@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 42,
       "forks_count": 16
+    },
+    "2022-01-15": {
+      "stargazers_count": 42,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -223,26 +227,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 6
+        "count": 10,
+        "uniques": 10
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/slideshow-templates/slideshow-google-html5-slides",
           "title": "slideshow-templates/slideshow-google-html5-slides: Google HTML5 Rocks - Slide...",
-          "count": 7,
-          "uniques": 6
+          "count": 9,
+          "uniques": 9
+        },
+        {
+          "path": "/slideshow-templates/slideshow-google-html5-slides/blob/master/attic/01-offline-storage/02-web-sql-db.html",
+          "title": "slideshow-google-html5-slides/02-web-sql-db.html at master · slideshow-templa...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 4
+          "count": 6,
+          "uniques": 6
         },
         {
           "referrer": "cezarywalenciuk.pl",
@@ -250,7 +260,17 @@
           "uniques": 1
         },
         {
-          "referrer": "slideshow-templates.github.io",
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "ecosia.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -1638,6 +1658,64 @@
       "2021-12-29": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

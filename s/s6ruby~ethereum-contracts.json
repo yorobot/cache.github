@@ -161,6 +161,10 @@
     "2022-01-01": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2022-01-15": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -184,41 +188,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 44,
-        "uniques": 10
+        "count": 51,
+        "uniques": 14
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 7,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 18,
-          "uniques": 8
+          "count": 32,
+          "uniques": 13
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
           "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 5,
+          "count": 6,
           "uniques": 4
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
+          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
           "title": "ethereum-contracts/FckDice.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/CryptoPunksMarket.sol",
-          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contracts",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GodsUnchained.sol",
-          "title": "ethereum-contracts/GodsUnchained.sol at master · s6ruby/ethereum-contracts · ...",
+          "path": "/s6ruby/ethereum-contracts/tree/master/utils",
+          "title": "ethereum-contracts/utils at master · s6ruby/ethereum-contracts · GitHub",
           "count": 2,
           "uniques": 2
         },
@@ -226,29 +230,23 @@
           "path": "/s6ruby/ethereum-contracts/blob/master/KingOfTheEtherThrone.sol",
           "title": "ethereum-contracts/KingOfTheEtherThrone.sol at master · s6ruby/ethereum-contr...",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
-          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blame/master/Dice2Win.sol",
-          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/Cryptostamp.sol",
-          "title": "ethereum-contracts/Cryptostamp.sol at master · s6ruby/ethereum-contracts",
+          "path": "/s6ruby/ethereum-contracts/blob/master/CryptoPunksMarket.sol",
+          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contracts",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/PonziGovernmental.sol",
-          "title": "ethereum-contracts/PonziGovernmental.sol at master · s6ruby/ethereum-contract...",
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePonzi.sol",
+          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts · Gi...",
           "count": 1,
           "uniques": 1
         }
@@ -256,18 +254,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 25,
-          "uniques": 5
-        },
-        {
-          "referrer": "Google",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "referrer": "qwant.com",
-          "count": 2,
-          "uniques": 1
+          "count": 30,
+          "uniques": 12
         }
       ]
     },
@@ -1255,6 +1243,80 @@
       "2021-12-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-05": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-07": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2022-01-08": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-01-11": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2022-01-12": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-01-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-15": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -170,6 +170,10 @@
     "2022-01-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-01-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -193,29 +197,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 2
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/sportdb/docs",
-          "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
-          "title": "docs/generating-json-datasets.md at master · sportdb/docs",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/docs/blob/master/working-with-csv-packages.md",
-          "title": "docs/working-with-csv-packages.md at master · sportdb/docs · GitHub",
+          "path": "/sportdb/docs/blob/master/working-with-csv-files.md",
+          "title": "docs/working-with-csv-files.md at master · sportdb/docs",
           "count": 1,
           "uniques": 1
         }
@@ -223,11 +221,6 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -862,6 +855,18 @@
         "views": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2022-01-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-14": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

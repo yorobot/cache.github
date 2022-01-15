@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-01-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -223,18 +227,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 3
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/openbeer/collections",
+          "title": "openbeer/collections: Beer n brewery collections (e.g. great beers from the b...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openbeer/collections/blob/master/great-beers-europe.txt",
+          "title": "collections/great-beers-europe.txt at master · openbeer/collections · GitHub",
+          "count": 3,
+          "uniques": 3
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 3
+        }
       ]
     },
     "history": {
@@ -544,6 +563,18 @@
         "views": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2022-01-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

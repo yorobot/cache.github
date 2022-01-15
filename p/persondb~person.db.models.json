@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-01-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -223,49 +227,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 3
-      },
-      "clones": {
         "count": 0,
         "uniques": 0
       },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
       "paths": [
-        {
-          "path": "/persondb/person.db.models",
-          "title": "persondb/person.db.models: persondb gem - person schema & models for easy reu...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/persondb/person.db.models/blob/master/lib/persondb/schema.rb",
-          "title": "person.db.models/schema.rb at master · persondb/person.db.models",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/persondb/person.db.models/tree/master/lib/persondb",
-          "title": "person.db.models/lib/persondb at master · persondb/person.db.models",
-          "count": 1,
-          "uniques": 1
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -552,6 +525,12 @@
       "2021-12-27": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-02": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

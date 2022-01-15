@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 66,
       "forks_count": 16
+    },
+    "2022-01-15": {
+      "stargazers_count": 66,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -223,18 +227,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openbeer/world",
+          "title": "GitHub - openbeer/world: Free open public domain beer, brewery n brewpub data",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/beers.txt",
+          "title": "world/beers.txt at master · openbeer/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/breweries.txt",
+          "title": "world/breweries.txt at master · openbeer/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/europe",
+          "title": "world/europe at master · openbeer/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/europe/1--en-england--british-isles",
+          "title": "world/europe/1--en-england--british-isles at master · openbeer/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1010,6 +1047,18 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-01-13": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

@@ -149,6 +149,10 @@
     "2022-01-01": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2022-01-15": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -181,84 +185,104 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 17,
-        "uniques": 4
+        "count": 73,
+        "uniques": 11
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/sportdb/football.db",
           "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
-          "count": 4,
-          "uniques": 4
+          "count": 11,
+          "uniques": 6
         },
         {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
+          "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/fifa",
+          "title": "football.db/fifa at master · sportdb/football.db · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/fifa/lib",
+          "title": "football.db/fifa/lib at master · sportdb/football.db",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs/config",
+          "title": "football.db/footballdb-clubs/config at master · sportdb/football.db",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/fifa/lib/fifa/countries.rb",
+          "title": "football.db/countries.rb at master · sportdb/football.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/bin/football2sqlite",
+          "title": "football.db/football2sqlite at master · sportdb/football.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/bin/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/sportdb/football.db/tree/master/football-to-psql",
-          "title": "football.db/football-to-psql at master · sportdb/football.db · GitHub",
+          "path": "/sportdb/football.db/find/master",
+          "title": "File Finder · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-clubs/config/clubs.wiki.txt",
-          "title": "football.db/clubs.wiki.txt at master · sportdb/football.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/fifa",
-          "title": "football.db/fifa at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/fifa/lib",
-          "title": "football.db/fifa/lib at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "uniques": 2
         },
         {
           "path": "/sportdb/football.db/tree/master/fifa/lib/fifa",
-          "title": "football.db/fifa/lib/fifa at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/football-cat",
-          "title": "football.db/football-cat at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/football-cat/test",
-          "title": "football.db/football-cat/test at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db",
-          "count": 1,
-          "uniques": 1
+          "title": "football.db/fifa/lib/fifa at master · sportdb/football.db",
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 9,
-          "uniques": 3
+          "count": 23,
+          "uniques": 6
         },
         {
           "referrer": "Google",
-          "count": 6,
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "referrer": "bundler.rubygems.org",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "awesomeopensource.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1575,6 +1599,74 @@
       "2021-12-31": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-02": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2022-01-03": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-01-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-08": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        }
+      },
+      "2022-01-11": {
+        "views": {
+          "count": 30,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-15": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-01-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-13": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

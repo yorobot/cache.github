@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 15,
       "forks_count": 3
+    },
+    "2022-01-15": {
+      "stargazers_count": 15,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -223,18 +227,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/sportkit/sport.db.starter.ruby",
+          "title": "sportkit/sport.db.starter.ruby: sportdb web service starter sample - build yo...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/sport.db.starter.ruby/blob/master/app.rb",
+          "title": "sport.db.starter.ruby/app.rb at master · sportkit/sport.db.starter.ruby",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/sport.db.starter.ruby/blob/master/server.rb",
+          "title": "sport.db.starter.ruby/server.rb at master · sportkit/sport.db.starter.ruby",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -603,6 +628,18 @@
       "2021-12-08": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-13": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

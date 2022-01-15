@@ -167,6 +167,10 @@
     "2022-01-01": {
       "stargazers_count": 62,
       "forks_count": 2
+    },
+    "2022-01-15": {
+      "stargazers_count": 62,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -190,29 +194,63 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 10,
+        "uniques": 5
       },
       "clones": {
-        "count": 3,
+        "count": 4,
         "uniques": 2
       },
       "paths": [
         {
+          "path": "/planetruby/quiz/tree/master/002",
+          "title": "quiz/002 at master · planetruby/quiz · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/008/README.md",
+          "title": "quiz/README.md at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/tree/master/001",
+          "title": "quiz/001 at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/planetruby/quiz",
           "title": "planetruby/quiz: Ruby Quiz is a fortnightly programming challenge for Ruby pr...",
-          "count": 2,
-          "uniques": 2
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         },
         {
+          "path": "/planetruby/quiz/tree/master/015",
+          "title": "quiz/015 at master · planetruby/quiz · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "reddit.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "ruby-china.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -1050,6 +1088,42 @@
       "2021-12-30": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-07": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-01-10": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-13": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

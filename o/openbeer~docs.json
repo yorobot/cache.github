@@ -186,6 +186,10 @@
     "2022-01-01": {
       "stargazers_count": 11,
       "forks_count": 1
+    },
+    "2022-01-15": {
+      "stargazers_count": 11,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -211,35 +215,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 2
+        "count": 8,
+        "uniques": 5
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/openbeer/docs",
           "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
-          "count": 3,
-          "uniques": 2
+          "count": 6,
+          "uniques": 5
         },
         {
           "path": "/openbeer/docs/blob/master/BEERS.md",
-          "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openbeer/docs/blob/master/BREWERIES.md",
-          "title": "docs/BREWERIES.md at master · openbeer/docs",
+          "title": "docs/BEERS.md at master · openbeer/docs",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbeer/docs/blob/master/README.md",
-          "title": "docs/README.md at master · openbeer/docs · GitHub",
+          "path": "/openbeer/docs/blob/master/BREWERIES.md",
+          "title": "docs/BREWERIES.md at master · openbeer/docs · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -247,7 +245,12 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "openbeer.github.io",
+          "count": 2,
           "uniques": 2
         }
       ]
@@ -1282,6 +1285,42 @@
       "2021-12-28": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-05": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-11": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-01-14": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

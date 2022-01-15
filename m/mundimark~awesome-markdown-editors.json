@@ -197,6 +197,10 @@
     "2022-01-01": {
       "stargazers_count": 323,
       "forks_count": 40
+    },
+    "2022-01-15": {
+      "stargazers_count": 328,
+      "forks_count": 40
     }
   },
   "commits": [
@@ -213,7 +217,7 @@
     }
   ],
   "size": 67,
-  "updated_at": "2021-12-31T13:25:57Z",
+  "updated_at": "2022-01-11T18:43:26Z",
   "pushed_at": "2021-08-19T10:20:58Z",
   "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
   "language": null,
@@ -223,8 +227,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 724,
-        "uniques": 483
+        "count": 855,
+        "uniques": 605
       },
       "clones": {
         "count": 4,
@@ -233,61 +237,37 @@
       "paths": [
         {
           "path": "/mundimark/awesome-markdown-editors",
-          "title": "mundimark/awesome-markdown-editors：一个很棒的 Markdown 编辑器和（预）查看器的集合，适用于 Linux、App...",
-          "count": 669,
-          "uniques": 463
+          "title": "mundimark/awesome-markdown-editors: A collection of awesome markdown editors ...",
+          "count": 801,
+          "uniques": 582
         },
         {
-          "path": "/mundimark/awesome-markdown-editors/blob/master/README.md",
-          "title": "awesome-markdown-editors/README.md at master · mundimark/awesome-markdown-edi...",
-          "count": 12,
-          "uniques": 8
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/issues",
-          "title": "Issues · mundimark/awesome-markdown-editors · GitHub",
+          "path": "/mundimark/awesome-markdown-editors/blob/master/NOTES.md",
+          "title": "mundimark/awesome-markdown-editors: A collection of awesome markdown editors ...",
           "count": 5,
           "uniques": 3
         },
         {
-          "path": "/mundimark/awesome-markdown-editors/blob/master/NOTES.md",
-          "title": "awesome-markdown-editors/NOTES.md at master · mundimark/awesome-markdown-edit...",
-          "count": 4,
+          "path": "/mundimark/awesome-markdown-editors/search",
+          "title": "Search · markdown",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/blob/master/README.md",
+          "title": "awesome-markdown-editors/README.md at master · mundimark/awesome-markdown-edi...",
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/mundimark/awesome-markdown-editors/pulls",
-          "title": "Pull requests · mundimark/awesome-markdown-editors",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/edit/master/README.md",
-          "title": "Editing awesome-markdown-editors/README.md at master · mundimark/awesome-mark...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/blob/f371dbe5a417d9dcda491250426446686935c150/README.md",
-          "title": "awesome-markdown-editors/README.md at f371dbe5a417d9dcda491250426446686935c15...",
+          "path": "/mundimark/awesome-markdown-editors/find/master",
+          "title": "File Finder",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/mundimark/awesome-markdown-editors/commit/f371dbe5a417d9dcda491250426446686935c150",
-          "title": "Adding editor: Deepdwn (#22) · mundimark/awesome-markdown-editors@f371dbe",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/pull/21",
-          "title": "Visual Studio Code is open source by victorbnl · Pull Request #21 · mundimark...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/search",
-          "title": "Search · markdown",
+          "path": "/mundimark/awesome-markdown-editors/issues",
+          "title": "Issues · mundimark/awesome-markdown-editors",
           "count": 1,
           "uniques": 1
         }
@@ -295,51 +275,51 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 520,
-          "uniques": 367
+          "count": 629,
+          "uniques": 472
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 62,
-          "uniques": 27
+          "count": 38,
+          "uniques": 24
         },
         {
           "referrer": "github.com",
-          "count": 33,
-          "uniques": 21
-        },
-        {
-          "referrer": "yandex.ru",
-          "count": 17,
-          "uniques": 11
+          "count": 34,
+          "uniques": 25
         },
         {
           "referrer": "Bing",
-          "count": 8,
+          "count": 11,
           "uniques": 6
         },
         {
-          "referrer": "cn.bing.com",
-          "count": 4,
-          "uniques": 4
+          "referrer": "cloutpub.org",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 7,
+          "uniques": 7
         },
         {
           "referrer": "StartPage",
-          "count": 3,
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "referrer": "phil.uregina.ca",
+          "count": 4,
           "uniques": 2
         },
         {
-          "referrer": "qwant.com",
-          "count": 3,
+          "referrer": "qiita.com",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "yandex.ua",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "Yahoo",
+          "referrer": "cn.bing.com",
           "count": 1,
           "uniques": 1
         }
@@ -2922,12 +2902,100 @@
       },
       "2022-01-01": {
         "views": {
-          "count": 25,
-          "uniques": 21
+          "count": 12,
+          "uniques": 2
         },
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-01-02": {
+        "views": {
+          "count": 40,
+          "uniques": 34
+        }
+      },
+      "2022-01-03": {
+        "views": {
+          "count": 63,
+          "uniques": 40
+        }
+      },
+      "2022-01-04": {
+        "views": {
+          "count": 71,
+          "uniques": 53
+        }
+      },
+      "2022-01-05": {
+        "views": {
+          "count": 76,
+          "uniques": 50
+        }
+      },
+      "2022-01-06": {
+        "views": {
+          "count": 81,
+          "uniques": 60
+        }
+      },
+      "2022-01-07": {
+        "views": {
+          "count": 55,
+          "uniques": 50
+        }
+      },
+      "2022-01-08": {
+        "views": {
+          "count": 51,
+          "uniques": 33
+        }
+      },
+      "2022-01-09": {
+        "views": {
+          "count": 53,
+          "uniques": 35
+        }
+      },
+      "2022-01-10": {
+        "views": {
+          "count": 65,
+          "uniques": 57
+        }
+      },
+      "2022-01-11": {
+        "views": {
+          "count": 78,
+          "uniques": 58
+        }
+      },
+      "2022-01-12": {
+        "views": {
+          "count": 60,
+          "uniques": 46
+        }
+      },
+      "2022-01-13": {
+        "views": {
+          "count": 64,
+          "uniques": 42
+        }
+      },
+      "2022-01-14": {
+        "views": {
+          "count": 56,
+          "uniques": 41
+        }
+      },
+      "2022-01-15": {
+        "views": {
+          "count": 30,
+          "uniques": 25
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
         }
       }
     }
