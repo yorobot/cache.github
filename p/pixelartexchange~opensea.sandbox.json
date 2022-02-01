@@ -1,9 +1,9 @@
 {
   "full_name": "pixelartexchange/opensea.sandbox",
   "created_at": "2018-08-17T08:14:35Z",
-  "updated_at": "2022-01-10T15:11:21Z",
-  "pushed_at": "2022-01-15T18:06:52Z",
-  "size": 4773,
+  "updated_at": "2022-01-17T15:49:28Z",
+  "pushed_at": "2022-01-29T17:47:38Z",
+  "size": 4855,
   "description": "Quick & Dirty \"One-Off\" Scripts to Download Complete Collections (from Open Sea)",
   "language": "Ruby",
   "history": {
@@ -14,16 +14,20 @@
     "2022-01-15": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2022-02-01": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-01-15T18:05:45Z",
+        "date": "2022-01-29T17:47:28Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-01-15T18:05:45Z",
+        "date": "2022-01-29T17:47:28Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -33,105 +37,100 @@
 
   ],
   "languages": {
-    "Ruby": 168975
+    "Ruby": 164685
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 92,
-        "uniques": 10
+        "count": 235,
+        "uniques": 18
       },
       "clones": {
-        "count": 53,
-        "uniques": 14
+        "count": 41,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/pixelartexchange/opensea.sandbox",
           "title": "pixelartexchange/opensea.sandbox: Quick & Dirty \"One-Off\" Scripts to Download...",
-          "count": 18,
+          "count": 66,
+          "uniques": 16
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/tree/master/blockydoge/attributes",
+          "title": "opensea.sandbox/blockydoge/attributes at master · pixelartexchange/opensea.sa...",
+          "count": 19,
+          "uniques": 4
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/blob/master/24px/download_meta.rb",
+          "title": "opensea.sandbox/download_meta.rb at master · pixelartexchange/opensea.sandbox...",
+          "count": 14,
           "uniques": 9
         },
         {
           "path": "/pixelartexchange/opensea.sandbox/commits/master",
           "title": "Commits · pixelartexchange/opensea.sandbox",
+          "count": 11,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/blob/master/blockydoge/generate.rb",
+          "title": "opensea.sandbox/generate.rb at master · pixelartexchange/opensea.sandbox · Gi...",
+          "count": 9,
+          "uniques": 3
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/tree/master/blockydoge",
+          "title": "opensea.sandbox/blockydoge at master · pixelartexchange/opensea.sandbox · Git...",
           "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/blob/master/NOTES.md",
-          "title": "opensea.sandbox/NOTES.md at master · pixelartexchange/opensea.sandbox · GitHub",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/tree/master/weape24",
-          "title": "opensea.sandbox/weape24 at master · pixelartexchange/opensea.sandbox · GitHub",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/blob/master/24px/download_meta.rb",
-          "title": "opensea.sandbox/download_meta.rb at master · pixelartexchange/opensea.sandbox...",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/blob/master/helper_image.rb",
-          "title": "opensea.sandbox/helper_image.rb at master · pixelartexchange/opensea.sandbox ...",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/find/master",
-          "title": "File Finder · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/edit/master/NOTES.md",
-          "title": "Editing opensea.sandbox/NOTES.md at master · pixelartexchange/opensea.sandbox",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/blob/master/24px/composite.rb",
-          "title": "opensea.sandbox/composite.rb at master · pixelartexchange/opensea.sandbox · G...",
-          "count": 2,
-          "uniques": 2
+          "uniques": 6
         },
         {
           "path": "/pixelartexchange/opensea.sandbox/blob/master/24px/download_images.rb",
-          "title": "opensea.sandbox/download_images.rb at master · pixelartexchange/opensea.sandb...",
-          "count": 2,
+          "title": "opensea.sandbox/download_images.rb at master · pixelartexchange/opensea.sandbox",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/tree/master/basicboredapeclub",
+          "title": "opensea.sandbox/basicboredapeclub at master · pixelartexchange/opensea.sandbox",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/tree/master/cryptoapes-official",
+          "title": "opensea.sandbox/cryptoapes-official at master · pixelartexchange/opensea.sand...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/blob/master/README.md",
+          "title": "opensea.sandbox/README.md at master · pixelartexchange/opensea.sandbox · GitHub",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 35,
-          "uniques": 6
+          "count": 89,
+          "uniques": 11
         },
         {
           "referrer": "old.reddit.com",
-          "count": 4,
-          "uniques": 1
+          "count": 49,
+          "uniques": 5
         },
         {
-          "referrer": "libraries.io",
-          "count": 2,
-          "uniques": 1
+          "referrer": "reddit.com",
+          "count": 8,
+          "uniques": 2
         },
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -387,6 +386,128 @@
       "2022-01-14": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-19": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2022-01-20": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2022-01-21": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-01-22": {
+        "views": {
+          "count": 34,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-23": {
+        "views": {
+          "count": 42,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2022-01-26": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2022-01-27": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-28": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-29": {
+        "views": {
+          "count": 41,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-01-30": {
+        "views": {
+          "count": 39,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-01": {
+        "views": {
+          "count": 26,
+          "uniques": 1
+        }
+      },
+      "2022-01-24": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

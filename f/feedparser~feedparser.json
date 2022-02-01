@@ -201,6 +201,10 @@
     "2022-01-15": {
       "stargazers_count": 155,
       "forks_count": 5
+    },
+    "2022-02-01": {
+      "stargazers_count": 156,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -217,7 +221,7 @@
     }
   ],
   "size": 899,
-  "updated_at": "2021-11-28T01:13:32Z",
+  "updated_at": "2022-01-23T17:18:52Z",
   "pushed_at": "2020-05-29T11:12:27Z",
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
   "language": "Ruby",
@@ -241,40 +245,81 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 8
+        "count": 21,
+        "uniques": 11
       },
       "clones": {
-        "count": 41,
-        "uniques": 15
+        "count": 20,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/feedparser/feedparser",
           "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
-          "count": 6,
-          "uniques": 6
+          "count": 12,
+          "uniques": 10
         },
         {
-          "path": "/feedparser/feedparser/blob/master/lib/feedparser/builder/atom.rb",
-          "title": "feedparser/atom.rb at master · feedparser/feedparser",
+          "path": "/feedparser/feedparser/tree/master/lib",
+          "title": "feedparser/lib at master · feedparser/feedparser",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/parser.rb",
+          "title": "feedparser/parser.rb at master · feedparser/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/issues",
+          "title": "Issues · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/attic",
+          "title": "feedparser/attic at master · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/lib/feedparser",
+          "title": "feedparser/lib/feedparser at master · feedparser/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/sandbox",
+          "title": "feedparser/sandbox at master · feedparser/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/test",
+          "title": "feedparser/test at master · feedparser/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
+          "referrer": "kod10.com",
+          "count": 6,
+          "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 2,
+          "referrer": "github.com",
+          "count": 5,
           "uniques": 2
         },
         {
           "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "findbestopensource.com",
           "count": 1,
           "uniques": 1
         }
@@ -3151,6 +3196,118 @@
         "clones": {
           "count": 13,
           "uniques": 4
+        }
+      },
+      "2022-01-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-23": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-26": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-02-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-27": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-01-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-31": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

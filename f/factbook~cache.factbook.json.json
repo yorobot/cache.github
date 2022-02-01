@@ -2,8 +2,8 @@
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
   "updated_at": "2022-01-06T22:10:58Z",
-  "pushed_at": "2022-01-13T22:10:55Z",
-  "size": 37630,
+  "pushed_at": "2022-01-20T22:10:17Z",
+  "size": 41400,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -94,19 +94,23 @@
     "2022-01-15": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2022-02-01": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-01-13T22:10:53Z",
+        "date": "2022-01-20T22:10:14Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2022-01-13T22:10:53Z",
+        "date": "2022-01-20T22:10:14Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 2"
+      "message": "auto-update week 3"
     }
   ],
   "topics": [
@@ -117,18 +121,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 13,
+        "uniques": 5
       },
       "clones": {
-        "count": 18,
-        "uniques": 9
+        "count": 20,
+        "uniques": 13
       },
       "paths": [
-
+        {
+          "path": "/factbook/cache.factbook.json",
+          "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/9e2359661d483e8c7f4fb15983fd55ad62598aa9/south-america/ci.json",
+          "title": "cache.factbook.json/ci.json at 9e2359661d483e8c7f4fb15983fd55ad62598aa9 · fac...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/9e2359661d483e8c7f4fb15983fd55ad62598aa9/south-america/ec.json",
+          "title": "cache.factbook.json/ec.json at 9e2359661d483e8c7f4fb15983fd55ad62598aa9 · fac...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/europe/bk.json",
+          "title": "cache.factbook.json/bk.json at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/europe",
+          "title": "cache.factbook.json/europe at master · factbook/cache.factbook.json",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1388,6 +1425,68 @@
         "clones": {
           "count": 8,
           "uniques": 5
+        }
+      },
+      "2022-01-20": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2022-01-24": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-01-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-02-01": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2022-01-21": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-01-22": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-23": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-01-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

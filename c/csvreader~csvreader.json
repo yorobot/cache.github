@@ -1,7 +1,7 @@
 {
   "full_name": "csvreader/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2021-12-22T10:59:02Z",
+  "updated_at": "2022-01-17T01:46:07Z",
   "pushed_at": "2021-12-22T10:58:59Z",
   "size": 456,
   "history": {
@@ -171,6 +171,10 @@
     "2022-01-15": {
       "stargazers_count": 176,
       "forks_count": 7
+    },
+    "2022-02-01": {
+      "stargazers_count": 177,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -204,71 +208,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 68,
-        "uniques": 22
+        "count": 84,
+        "uniques": 32
       },
       "clones": {
-        "count": 24,
-        "uniques": 13
+        "count": 19,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/csvreader/csvreader",
           "title": "GitHub - csvreader/csvreader: csvreader library / gem - read tabular data in ...",
-          "count": 32,
-          "uniques": 20
+          "count": 35,
+          "uniques": 23
         },
         {
           "path": "/csvreader/csvreader/tree/master/csvreader",
           "title": "csvreader/csvreader at master · csvreader/csvreader · GitHub",
-          "count": 9,
-          "uniques": 6
+          "count": 10,
+          "uniques": 10
         },
         {
-          "path": "/csvreader/csvreader/tree/master/benchmarks",
-          "title": "csvreader/benchmarks at master · csvreader/csvreader · GitHub",
-          "count": 6,
+          "path": "/csvreader/csvreader/issues/11",
+          "title": "Record, and therefore CsvRecord, not Ruby3 compatible. · Issue #11 · csvreade...",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/tree/master/benchmarks/datasets",
-          "title": "csvreader/benchmarks/datasets at master · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/issues",
+          "title": "Issues · csvreader/csvreader",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/csvreader/csvreader/blob/master/DIALECTS.md",
+          "title": "csvreader/DIALECTS.md at master · csvreader/csvreader · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/csvreader/csvreader/tree/master/benchmarks/test",
-          "title": "csvreader/benchmarks/test at master · csvreader/csvreader · GitHub",
-          "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
           "path": "/csvreader/csvreader/tree/master/csvreader/lib",
-          "title": "csvreader/csvreader/lib at master · csvreader/csvreader · GitHub",
+          "title": "csvreader/csvreader/lib at master · csvreader/csvreader",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/actions",
-          "title": "Actions · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/blob/master/LICENSE.md",
+          "title": "csvreader/LICENSE.md at master · csvreader/csvreader · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/blob/master/benchmarks/io/parser_nobuf.rb",
-          "title": "csvreader/parser_nobuf.rb at master · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/issues/8",
+          "title": "How do I get different file encodings? · Issue #8 · csvreader/csvreader",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/blob/master/csv11/lib/csv11/version.rb",
-          "title": "csvreader/version.rb at master · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/tree/master/csvhuman",
+          "title": "csvreader/csvhuman at master · csvreader/csvreader",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/csvreader/csvreader/blob/master/csvreader/lib/csvreader.rb",
-          "title": "csvreader/csvreader.rb at master · csvreader/csvreader · GitHub",
+          "path": "/csvreader/csvreader/tree/master/csvjson",
+          "title": "csvreader/csvjson at master · csvreader/csvreader · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -276,26 +280,36 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 35,
-          "uniques": 7
+          "count": 16,
+          "uniques": 4
         },
         {
           "referrer": "Google",
-          "count": 7,
+          "count": 12,
           "uniques": 6
         },
         {
           "referrer": "ruby-toolbox.com",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.yuuza.net",
+          "count": 1,
           "uniques": 1
         },
         {
           "referrer": "awesome-ruby.com",
-          "count": 2,
+          "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "csvy.org",
           "count": 1,
           "uniques": 1
         }
@@ -3666,6 +3680,138 @@
         "clones": {
           "count": 4,
           "uniques": 3
+        }
+      },
+      "2022-01-19": {
+        "views": {
+          "count": 10,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-20": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-23": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-24": {
+        "views": {
+          "count": 10,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-25": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-01-26": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-01-27": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-28": {
+        "views": {
+          "count": 14,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-29": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-01": {
+        "views": {
+          "count": 20,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-31": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

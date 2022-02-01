@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/leagues",
   "created_at": "2014-06-29T20:38:44Z",
-  "updated_at": "2021-09-06T22:25:12Z",
+  "updated_at": "2022-01-23T18:27:50Z",
   "pushed_at": "2020-11-09T09:50:17Z",
   "size": 782,
   "history": {
@@ -159,6 +159,10 @@
     "2022-01-15": {
       "stargazers_count": 37,
       "forks_count": 12
+    },
+    "2022-02-01": {
+      "stargazers_count": 36,
+      "forks_count": 12
     }
   },
   "commits": [
@@ -182,19 +186,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
+        "count": 26,
         "uniques": 5
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openfootball/leagues",
           "title": "openfootball/leagues: Free open public domain football datasets for national ...",
-          "count": 5,
-          "uniques": 4
+          "count": 9,
+          "uniques": 5
         },
         {
           "path": "/openfootball/leagues/blob/master/europe/england/eng.leagues.txt",
@@ -215,14 +219,38 @@
           "uniques": 2
         },
         {
-          "path": "/openfootball/leagues/blob/master/europe/england/eng.seasons.txt",
-          "title": "leagues/eng.seasons.txt at master · openfootball/leagues · GitHub",
+          "path": "/openfootball/leagues/search",
+          "title": "Search · primier league",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/tree/master/1-wikipedia",
+          "title": "leagues/1-wikipedia at master · openfootball/leagues",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/8acde96000c5e4944651ef111b9432cdba5828bc/leagues.txt",
+          "title": "leagues/leagues.txt at 8acde96000c5e4944651ef111b9432cdba5828bc · openfootbal...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/1-wikipedia/en.wikipedia/eng.1.(1992-)_premierleague.csv",
+          "title": "leagues/eng.1.(1992-)_premierleague.csv at master · openfootball/leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/africa/leagues.txt",
+          "title": "leagues/leagues.txt at master · openfootball/leagues · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/openfootball/leagues/blob/master/leagues.txt",
-          "title": "leagues/leagues.txt at master · openfootball/leagues · GitHub",
+          "title": "leagues/leagues.txt at master · openfootball/leagues",
           "count": 1,
           "uniques": 1
         }
@@ -230,18 +258,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 21,
+          "uniques": 5
         }
       ]
     },
@@ -1807,6 +1825,56 @@
       "2022-01-12": {
         "views": {
           "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-01-23": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2022-01-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-25": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-01-27": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-28": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

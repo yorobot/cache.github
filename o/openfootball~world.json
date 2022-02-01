@@ -159,6 +159,10 @@
     "2022-01-15": {
       "stargazers_count": 3,
       "forks_count": 6
+    },
+    "2022-02-01": {
+      "stargazers_count": 3,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -182,18 +186,33 @@
   "traffic": {
     "summary": {
       "paths": [
-
+        {
+          "path": "/openfootball/world",
+          "title": "openfootball/world: Free open public domain football data incl. major leagues...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/asia",
+          "title": "world/asia at master · openfootball/world",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ],
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 5
       }
     },
     "history": {
@@ -1512,6 +1531,22 @@
       "2021-12-19": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-01-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-01-28": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

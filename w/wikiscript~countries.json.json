@@ -1,7 +1,7 @@
 {
   "full_name": "wikiscript/countries.json",
   "created_at": "2014-06-09T17:23:13Z",
-  "updated_at": "2020-12-30T12:03:02Z",
+  "updated_at": "2022-01-29T14:55:08Z",
   "pushed_at": "2020-12-10T19:40:26Z",
   "size": 706,
   "description": "World Country Profiles Sourced from Wikipedia's Country Page Infoboxes Converted into JSON - Free Open Public Domain Data",
@@ -118,6 +118,10 @@
     "2022-01-15": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2022-02-01": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -147,31 +151,31 @@
         "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/wikiscript/countries.json",
-          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "path": "/wikiscript/countries.json/tree/master/Caribbean_Islands",
+          "title": "countries.json/Caribbean_Islands at master · wikiscript/countries.json · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/countries.json/blob/master/Caribbean_Islands/Anguilla.json",
-          "title": "countries.json/Anguilla.json at master · wikiscript/countries.json",
+          "path": "/wikiscript/countries.json/blob/master/Caribbean_Islands/Antigua_and_Barbuda.json",
+          "title": "countries.json/Antigua_and_Barbuda.json at master · wikiscript/countries.json...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/countries.json/blob/master/Caribbean_Islands/Aruba.json",
-          "title": "countries.json/Aruba.json at master · wikiscript/countries.json",
+          "path": "/wikiscript/countries.json/blob/master/Europe/Armenia.json",
+          "title": "countries.json/Armenia.json at master · wikiscript/countries.json · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/countries.json/tree/master/Caribbean_Islands",
-          "title": "countries.json/Caribbean_Islands at master · wikiscript/countries.json",
+          "path": "/wikiscript/countries.json/tree/master/Europe",
+          "title": "countries.json/Europe at master · wikiscript/countries.json · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -666,6 +670,24 @@
       "2022-01-03": {
         "views": {
           "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-01-31": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-01-29": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-01": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
