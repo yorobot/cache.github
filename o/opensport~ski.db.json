@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-02-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -231,7 +235,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 17,
         "uniques": 2
       },
       "clones": {
@@ -241,19 +245,46 @@
       "paths": [
         {
           "path": "/opensport/ski.db",
-          "title": "GitHub - opensport/ski.db: Free open public domain Ski Alpin/Alpine Ski datab...",
-          "count": 1,
+          "title": "opensport/ski.db: Free open public domain Ski Alpin/Alpine Ski database 'n' s...",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/ski.db/tree/master/ch-switzerland",
+          "title": "ski.db/ch-switzerland at master · opensport/ski.db · GitHub",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/opensport/ski.db/blob/master/it-italy/skiers.men.txt",
+          "path": "/opensport/ski.db/blob/master/ch-switzerland/skiers.men.txt",
           "title": "ski.db/skiers.men.txt at master · opensport/ski.db · GitHub",
-          "count": 1,
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/ski.db/blob/master/ch-switzerland/tracks.txt",
+          "title": "ski.db/tracks.txt at master · opensport/ski.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/ski.db/blob/master/leagues.txt",
+          "title": "ski.db/leagues.txt at master · opensport/ski.db · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "opensport.github.io",
+          "count": 14,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -641,6 +672,18 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-02-07": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2022-02-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

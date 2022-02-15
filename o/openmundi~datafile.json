@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-02-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -231,12 +235,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 2
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
@@ -244,12 +248,18 @@
           "title": "GitHub - openmundi/datafile: world.db quick starter datafile templates",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/openmundi/datafile/blob/master/world.rb",
+          "title": "datafile/world.rb at master · openmundi/datafile · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -560,6 +570,12 @@
         },
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-05": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

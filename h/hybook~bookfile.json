@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2022-02-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -231,18 +235,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/hybook/bookfile",
+          "title": "GitHub - hybook/bookfile: bookfile gem - builder for books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/hybook/bookfile/search",
+          "title": "Search · game of thrones · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -469,6 +488,12 @@
       "2022-01-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-09": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

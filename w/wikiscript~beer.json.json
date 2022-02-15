@@ -122,6 +122,10 @@
     "2022-02-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-02-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -145,18 +149,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 4,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/wikiscript/beer.json",
+          "title": "wikiscript/beer.json: Beers 'n' Breweries Sourced from Wikipedia Pages Conver...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/beer.json/blob/master/_source/List_of_Belgian_beer.txt",
+          "title": "beer.json/List_of_Belgian_beer.txt at master · wikiscript/beer.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/beer.json/tree/master/_source",
+          "title": "beer.json/_source at master · wikiscript/beer.json",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -388,6 +413,12 @@
       },
       "2022-01-29": {
         "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-02-08": {
+        "views": {
           "count": 3,
           "uniques": 1
         }

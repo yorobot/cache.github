@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 53,
       "forks_count": 90
+    },
+    "2022-02-15": {
+      "stargazers_count": 53,
+      "forks_count": 90
     }
   },
   "commits": [
@@ -231,25 +235,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 71,
-        "uniques": 34
+        "count": 106,
+        "uniques": 43
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/henrythemes/jekyll-bootstrap-theme",
           "title": "henrythemes/jekyll-bootstrap-theme: jekyll starter theme w/ bootstrap (sass v...",
-          "count": 51,
-          "uniques": 29
+          "count": 66,
+          "uniques": 40
         },
         {
-          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/images",
-          "title": "jekyll-bootstrap-theme/images at master · henrythemes/jekyll-bootstrap-theme ...",
+          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/_layouts/default.html",
+          "title": "jekyll-bootstrap-theme/default.html at master · henrythemes/jekyll-bootstrap-...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/_layouts",
+          "title": "jekyll-bootstrap-theme/_layouts at master · henrythemes/jekyll-bootstrap-theme",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/css",
+          "title": "jekyll-bootstrap-theme/css at master · henrythemes/jekyll-bootstrap-theme",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/index.html",
+          "title": "jekyll-bootstrap-theme/index.html at master · henrythemes/jekyll-bootstrap-th...",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/css/bootstrap",
+          "title": "jekyll-bootstrap-theme/css/bootstrap at master · henrythemes/jekyll-bootstrap...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/fonts/bootstrap",
+          "title": "jekyll-bootstrap-theme/fonts/bootstrap at master · henrythemes/jekyll-bootstr...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/actions",
+          "title": "henrythemes/jekyll-bootstrap-theme: jekyll starter theme w/ bootstrap (sass v...",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/_config.yml",
@@ -258,71 +298,40 @@
           "uniques": 1
         },
         {
-          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/images/.keep",
-          "title": "jekyll-bootstrap-theme/.keep at master · henrythemes/jekyll-bootstrap-theme ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/index.html",
-          "title": "jekyll-bootstrap-theme/index.html at master · henrythemes/jekyll-bootstrap-th...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/_layouts/default.html",
-          "title": "jekyll-bootstrap-theme/default.html at master · henrythemes/jekyll-bootstrap-...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-bootstrap-theme/issues",
-          "title": "Issues · henrythemes/jekyll-bootstrap-theme",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-bootstrap-theme/search",
-          "title": "Search · file uploader site · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/css",
-          "title": "jekyll-bootstrap-theme/css at master · henrythemes/jekyll-bootstrap-theme · G...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/fonts",
-          "title": "jekyll-bootstrap-theme/fonts at master · henrythemes/jekyll-bootstrap-theme ·...",
+          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/css/_bootstrap.scss",
+          "title": "jekyll-bootstrap-theme/_bootstrap.scss at master · henrythemes/jekyll-bootstr...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 32,
-          "uniques": 13
-        },
-        {
           "referrer": "github.com",
-          "count": 18,
-          "uniques": 12
+          "count": 25,
+          "uniques": 20
         },
         {
           "referrer": "henrythemes.github.io",
-          "count": 8,
-          "uniques": 7
+          "count": 20,
+          "uniques": 16
         },
         {
-          "referrer": "yandex.ru",
-          "count": 1,
+          "referrer": "DuckDuckGo",
+          "count": 14,
           "uniques": 1
         },
         {
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 8
+        },
+        {
           "referrer": "jekyllthemes.org",
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "referrer": "drjekyllthemes.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -2680,6 +2689,104 @@
         }
       },
       "2022-01-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-02": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2022-02-03": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-04": {
+        "views": {
+          "count": 12,
+          "uniques": 7
+        }
+      },
+      "2022-02-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-02-06": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        }
+      },
+      "2022-02-07": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-11": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 21,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-13": {
+        "views": {
+          "count": 10,
+          "uniques": 5
+        }
+      },
+      "2022-02-14": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-02-15": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2022-02-08": {
         "clones": {
           "count": 1,
           "uniques": 1

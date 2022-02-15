@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 8,
       "forks_count": 0
+    },
+    "2022-02-15": {
+      "stargazers_count": 8,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -231,17 +235,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/manuscripts/manuscripts",
-          "title": "GitHub - manuscripts/manuscripts: Manuscripts Handbook and Notes",
+          "title": "manuscripts/manuscripts: Manuscripts Handbook and Notes",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/manuscripts/manuscripts/tree/master/samples",
+          "title": "manuscripts/samples at master · manuscripts/manuscripts · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/manuscripts/manuscripts/tree/master/samples/shakespeare",
+          "title": "manuscripts/samples/shakespeare at master · manuscripts/manuscripts · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -249,8 +265,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 5,
+          "uniques": 2
         }
       ]
     },
@@ -636,6 +652,18 @@
       "2022-01-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

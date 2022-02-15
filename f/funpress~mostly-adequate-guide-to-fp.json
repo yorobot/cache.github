@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 17,
       "forks_count": 2
+    },
+    "2022-02-15": {
+      "stargazers_count": 17,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -231,14 +235,26 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 10,
+        "uniques": 6
+      },
+      "clones": {
         "count": 1,
         "uniques": 1
       },
-      "clones": {
-        "count": 3,
-        "uniques": 2
-      },
       "paths": [
+        {
+          "path": "/funpress/mostly-adequate-guide-to-fp",
+          "title": "funpress/mostly-adequate-guide-to-fp: Professor Frisby's Mostly Adequate Guid...",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/funpress/mostly-adequate-guide-to-fp/blob/master/01__What_ever_are_we_doing.md",
+          "title": "mostly-adequate-guide-to-fp/01__What_ever_are_we_doing.md at master · funpres...",
+          "count": 1,
+          "uniques": 1
+        },
         {
           "path": "/funpress/mostly-adequate-guide-to-fp/blob/master/02__First_Class_Functions.md",
           "title": "mostly-adequate-guide-to-fp/02__First_Class_Functions.md at master · funpress...",
@@ -247,7 +263,21 @@
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "DuckDuckGo",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "funpress.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -801,6 +831,34 @@
       },
       "2022-01-27": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2022-02-15": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

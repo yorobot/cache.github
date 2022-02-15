@@ -1,7 +1,7 @@
 {
   "full_name": "rubycoco/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2022-01-14T12:02:30Z",
+  "updated_at": "2022-02-12T23:23:13Z",
   "pushed_at": "2021-06-06T14:45:02Z",
   "size": 1682,
   "description": "blockchain (crypto) tools, libraries & scripts in ruby",
@@ -126,6 +126,10 @@
     "2022-02-01": {
       "stargazers_count": 165,
       "forks_count": 28
+    },
+    "2022-02-15": {
+      "stargazers_count": 167,
+      "forks_count": 29
     }
   },
   "commits": [
@@ -170,110 +174,105 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 281,
-        "uniques": 83
+        "count": 461,
+        "uniques": 112
       },
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/rubycoco/blockchain",
           "title": "rubycoco/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 76,
-          "uniques": 54
+          "count": 121,
+          "uniques": 70
         },
         {
           "path": "/rubycoco/blockchain/tree/master/cryptopunks",
           "title": "blockchain/cryptopunks at master · rubycoco/blockchain · GitHub",
-          "count": 28,
-          "uniques": 19
+          "count": 47,
+          "uniques": 36
         },
         {
           "path": "/rubycoco/blockchain/tree/master/blockchain-lite",
           "title": "blockchain/blockchain-lite at master · rubycoco/blockchain · GitHub",
-          "count": 16,
-          "uniques": 8
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/elliptic/lib",
-          "title": "blockchain/elliptic/lib at master · rubycoco/blockchain",
-          "count": 11,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/centralbank",
-          "title": "blockchain/centralbank at master · rubycoco/blockchain · GitHub",
-          "count": 8,
-          "uniques": 6
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/elliptic",
-          "title": "blockchain/elliptic at master · rubycoco/blockchain",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/elliptic/lib/elliptic",
-          "title": "blockchain/elliptic/lib/elliptic at master · rubycoco/blockchain",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/elliptic-lite",
-          "title": "blockchain/elliptic-lite at master · rubycoco/blockchain · GitHub",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/base32-alphabets",
-          "title": "blockchain/base32-alphabets at master · rubycoco/blockchain",
-          "count": 5,
-          "uniques": 2
+          "count": 21,
+          "uniques": 10
         },
         {
           "path": "/rubycoco/blockchain/tree/master/crypto-lite",
           "title": "blockchain/crypto-lite at master · rubycoco/blockchain · GitHub",
-          "count": 4,
-          "uniques": 4
+          "count": 20,
+          "uniques": 7
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/centralbank",
+          "title": "blockchain/centralbank at master · rubycoco/blockchain · GitHub",
+          "count": 18,
+          "uniques": 9
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/centralbank/lib/centralbank",
+          "title": "blockchain/centralbank/lib/centralbank at master · rubycoco/blockchain",
+          "count": 14,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/merkletree",
+          "title": "blockchain/merkletree at master · rubycoco/blockchain · GitHub",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/centralbank/lib",
+          "title": "blockchain/centralbank/lib at master · rubycoco/blockchain",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/blockchain/blob/master/cryptopunks/README.md",
+          "title": "blockchain/README.md at master · rubycoco/blockchain · GitHub",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/blockchain-lite/lib",
+          "title": "blockchain/blockchain-lite/lib at master · rubycoco/blockchain",
+          "count": 6,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 62,
-          "uniques": 33
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 32,
-          "uniques": 5
+          "count": 68,
+          "uniques": 32
         },
         {
           "referrer": "github.com",
-          "count": 21,
-          "uniques": 14
+          "count": 53,
+          "uniques": 26
         },
         {
           "referrer": "reddit.com",
-          "count": 20,
-          "uniques": 16
+          "count": 43,
+          "uniques": 28
         },
         {
-          "referrer": "rubyflow.com",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubytalk.org",
-          "count": 7,
-          "uniques": 2
+          "referrer": "rubygems.org",
+          "count": 39,
+          "uniques": 6
         },
         {
           "referrer": "rubydoc.info",
-          "count": 6,
-          "uniques": 2
+          "count": 14,
+          "uniques": 4
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 12,
+          "uniques": 1
         },
         {
           "referrer": "awesome-ruby.com",
@@ -281,12 +280,17 @@
           "uniques": 2
         },
         {
-          "referrer": "kandi.openweaver.com",
+          "referrer": "rubyflow.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "ruby-doc.com",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "qiita.com",
+          "referrer": "project-awesome.org",
           "count": 1,
           "uniques": 1
         }
@@ -2907,6 +2911,106 @@
         "views": {
           "count": 54,
           "uniques": 8
+        }
+      },
+      "2022-02-02": {
+        "views": {
+          "count": 38,
+          "uniques": 13
+        }
+      },
+      "2022-02-03": {
+        "views": {
+          "count": 18,
+          "uniques": 9
+        }
+      },
+      "2022-02-04": {
+        "views": {
+          "count": 24,
+          "uniques": 5
+        }
+      },
+      "2022-02-05": {
+        "views": {
+          "count": 9,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-06": {
+        "views": {
+          "count": 61,
+          "uniques": 10
+        }
+      },
+      "2022-02-07": {
+        "views": {
+          "count": 17,
+          "uniques": 11
+        }
+      },
+      "2022-02-08": {
+        "views": {
+          "count": 19,
+          "uniques": 9
+        }
+      },
+      "2022-02-09": {
+        "views": {
+          "count": 82,
+          "uniques": 11
+        }
+      },
+      "2022-02-10": {
+        "views": {
+          "count": 39,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-02-11": {
+        "views": {
+          "count": 14,
+          "uniques": 6
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 56,
+          "uniques": 9
+        }
+      },
+      "2022-02-13": {
+        "views": {
+          "count": 15,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-14": {
+        "views": {
+          "count": 19,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-15": {
+        "views": {
+          "count": 50,
+          "uniques": 9
         }
       }
     }

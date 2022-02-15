@@ -126,6 +126,10 @@
     "2022-02-01": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2022-02-15": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -157,24 +161,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 18,
-        "uniques": 3
+        "count": 9,
+        "uniques": 2
       },
       "clones": {
-        "count": 5,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/rubycoco/core/tree/master/records",
-          "title": "core/records at master · rubycoco/core",
-          "count": 6,
-          "uniques": 1
-        },
-        {
           "path": "/rubycoco/core",
           "title": "rubycoco/core: core tools, libraries & scripts - logger, config, dates, alpha...",
-          "count": 5,
+          "count": 4,
           "uniques": 2
         },
         {
@@ -184,44 +182,32 @@
           "uniques": 1
         },
         {
-          "path": "/rubycoco/core/blob/dc6b4c8786155fb123cd9ac2014802d581d26a92/alphabets/benchmark/unaccent.rb",
-          "title": "core/unaccent.rb at dc6b4c8786155fb123cd9ac2014802d581d26a92 · rubycoco/core",
+          "path": "/rubycoco/core/search",
+          "title": "Search · async",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/core/blob/master/enums/test/helper.rb",
-          "title": "core/helper.rb at master · rubycoco/core",
+          "path": "/rubycoco/core/tree/master/logutils/lib",
+          "title": "core/logutils/lib at master · rubycoco/core",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/core/blob/master/enums/test/test_enum.rb",
-          "title": "core/test_enum.rb at master · rubycoco/core",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/tree/master/enums",
-          "title": "core/enums at master · rubycoco/core",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/core/tree/master/enums/test",
-          "title": "core/enums/test at master · rubycoco/core",
+          "path": "/rubycoco/core/tree/master/logutils/lib/logutils",
+          "title": "core/logutils/lib/logutils at master · rubycoco/core",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 14,
-          "uniques": 2
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 1
         },
         {
-          "referrer": "Google",
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -697,6 +683,18 @@
       "2022-01-22": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-11": {
+        "views": {
+          "count": 8,
           "uniques": 1
         }
       }

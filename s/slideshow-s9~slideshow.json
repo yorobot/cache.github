@@ -205,6 +205,10 @@
     "2022-02-01": {
       "stargazers_count": 178,
       "forks_count": 20
+    },
+    "2022-02-15": {
+      "stargazers_count": 178,
+      "forks_count": 20
     }
   },
   "commits": [
@@ -247,53 +251,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 45,
-        "uniques": 19
+        "count": 31,
+        "uniques": 21
       },
       "clones": {
-        "count": 11,
-        "uniques": 7
+        "count": 7,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/slideshow-s9/slideshow",
           "title": "slideshow-s9/slideshow: slideshow gems - write your slides / talks / presenta...",
-          "count": 27,
-          "uniques": 19
+          "count": 19,
+          "uniques": 18
         },
         {
           "path": "/slideshow-s9/slideshow/tree/master/slideshow",
           "title": "slideshow/slideshow at master · slideshow-s9/slideshow · GitHub",
-          "count": 7,
-          "uniques": 7
+          "count": 5,
+          "uniques": 5
         },
         {
-          "path": "/slideshow-s9/slideshow/tree/master/slideshow-models",
-          "title": "slideshow/slideshow-models at master · slideshow-s9/slideshow",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/slideshow-s9/slideshow/blob/master/slideshow/lib/slideshow/cli/opts.rb",
-          "title": "slideshow/opts.rb at master · slideshow-s9/slideshow · GitHub",
+          "path": "/slideshow-s9/slideshow/blob/master/slideshow/lib/slideshow/cli/main.rb",
+          "title": "slideshow/main.rb at master · slideshow-s9/slideshow · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/slideshow-s9/slideshow/blob/master/slideshow-models/lib/slideshow/models/deck.rb",
-          "title": "slideshow/deck.rb at master · slideshow-s9/slideshow",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/slideshow-s9/slideshow/blob/master/slideshow-models/lib/slideshow/models.rb",
-          "title": "slideshow/models.rb at master · slideshow-s9/slideshow",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/slideshow-s9/slideshow/blob/master/slideshow-models/lib/slideshow/models/slide.rb",
-          "title": "slideshow/slide.rb at master · slideshow-s9/slideshow",
+          "path": "/slideshow-s9/slideshow/blob/master/slideshow-models/lib/slideshow/helpers/syntax/uv_helper.rb",
+          "title": "slideshow/uv_helper.rb at master · slideshow-s9/slideshow · GitHub",
           "count": 1,
           "uniques": 1
         },
@@ -308,28 +294,37 @@
           "title": "slideshow/slideshow/lib/slideshow/cli at master · slideshow-s9/slideshow · Gi...",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/slideshow-s9/slideshow/tree/master/slideshow-models/lib/slideshow",
-          "title": "slideshow/slideshow-models/lib/slideshow at master · slideshow-s9/slideshow",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 21,
-          "uniques": 15
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "referrer": "qiita.com",
+          "count": 2,
+          "uniques": 1
         },
         {
           "referrer": "rubygems.org",
-          "count": 6,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         },
         {
-          "referrer": "Google",
-          "count": 2,
+          "referrer": "habr.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "t.co",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Baidu",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2407,6 +2402,98 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-02-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-06": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-08": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2022-02-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-11": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-15": {
+        "views": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

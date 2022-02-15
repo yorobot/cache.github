@@ -90,6 +90,10 @@
     "2022-02-01": {
       "stargazers_count": 14,
       "forks_count": 13
+    },
+    "2022-02-15": {
+      "stargazers_count": 14,
+      "forks_count": 13
     }
   },
   "commits": [
@@ -124,53 +128,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 80,
-        "uniques": 18
+        "count": 41,
+        "uniques": 15
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/cryptocopycats/contracts",
           "title": "GitHub - cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Frien...",
-          "count": 28,
-          "uniques": 13
+          "count": 11,
+          "uniques": 10
         },
         {
           "path": "/cryptocopycats/contracts/tree/master/cryptokitties",
           "title": "contracts/cryptokitties at master · cryptocopycats/contracts · GitHub",
-          "count": 11,
-          "uniques": 6
-        },
-        {
-          "path": "/cryptocopycats/contracts/tree/master/cryptokitties-wrapped",
-          "title": "contracts/cryptokitties-wrapped at master · cryptocopycats/contracts · GitHub",
-          "count": 6,
+          "count": 4,
           "uniques": 3
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/CHEATSHEET.md",
-          "title": "contracts/CHEATSHEET.md at master · cryptocopycats/contracts",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/GeneScience.sol",
-          "title": "contracts/GeneScience.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptocopycats/contracts/tree/master/lasercats",
-          "title": "contracts/lasercats at master · cryptocopycats/contracts · GitHub",
-          "count": 3,
+          "path": "/cryptocopycats/contracts/tree/master/doomcats",
+          "title": "contracts/doomcats at master · cryptocopycats/contracts",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/contracts/tree/master/mooncats",
-          "title": "contracts/mooncats at master · cryptocopycats/contracts · GitHub",
+          "path": "/cryptocopycats/contracts/blob/master/marscats/MarsCatRescue.sol",
+          "title": "contracts/MarsCatRescue.sol at master · cryptocopycats/contracts",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/doomcats/DoomCat.sol",
+          "title": "contracts/DoomCat.sol at master · cryptocopycats/contracts",
           "count": 3,
           "uniques": 1
         },
@@ -181,37 +173,44 @@
           "uniques": 2
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ClockAuction.sol",
-          "title": "contracts/ClockAuction.sol at master · cryptocopycats/contracts",
+          "path": "/cryptocopycats/contracts/tree/master/mooncats",
+          "title": "contracts/mooncats at master · cryptocopycats/contracts · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptocats/CryptoCatsMarket.sol",
+          "title": "contracts/CryptoCatsMarket.sol at master · cryptocopycats/contracts",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyAuction.sol",
-          "title": "contracts/KittyAuction.sol at master · cryptocopycats/contracts",
-          "count": 2,
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyCore.sol",
+          "title": "contracts/KittyCore.sol at master · cryptocopycats/contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyMinting.sol",
+          "title": "contracts/KittyMinting.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 35,
-          "uniques": 8
+          "count": 19,
+          "uniques": 7
         },
         {
-          "referrer": "Bing",
-          "count": 12,
-          "uniques": 2
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 3
         },
         {
-          "referrer": "reddit.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "ecosia.org",
-          "count": 2,
+          "referrer": "old.reddit.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1883,6 +1882,74 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-02-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-02-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-10": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-11": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-14": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2022-02-15": {
+        "views": {
+          "count": 6,
+          "uniques": 2
         }
       }
     }

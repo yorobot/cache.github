@@ -200,6 +200,10 @@
     "2022-02-01": {
       "stargazers_count": 71,
       "forks_count": 5
+    },
+    "2022-02-15": {
+      "stargazers_count": 71,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -232,71 +236,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 40,
-        "uniques": 14
+        "count": 26,
+        "uniques": 10
       },
       "clones": {
-        "count": 5,
-        "uniques": 3
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/worlddb/world.db",
           "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 22,
-          "uniques": 13
+          "count": 15,
+          "uniques": 9
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb",
           "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
-          "count": 6,
-          "uniques": 4
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat",
-          "title": "world.db/worlddb-compat at master · worlddb/world.db · GitHub",
-          "count": 3,
+          "count": 5,
           "uniques": 3
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb/compat",
-          "title": "world.db/worlddb-compat/lib/worlddb/compat at master · worlddb/world.db · Git...",
+          "path": "/worlddb/world.db/tree/master/worlddb/script",
+          "title": "world.db/worlddb/script at master · worlddb/world.db · GitHub",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb/assets/webservice-worlddb-32x32.png",
-          "title": "world.db/webservice-worlddb-32x32.png at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/issues",
+          "title": "Issues · worlddb/world.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/city.rb",
-          "title": "world.db/city.rb at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/issues/1",
+          "title": "Valencia city · Issue #1 · worlddb/world.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat.rb",
-          "title": "world.db/compat.rb at master · worlddb/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb/assets",
-          "title": "world.db/worlddb/assets at master · worlddb/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb/bin",
-          "title": "world.db/worlddb/bin at master · worlddb/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb",
-          "title": "world.db/worlddb-compat/lib/worlddb at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/tree/master/worlddb-models",
+          "title": "world.db/worlddb-models at master · worlddb/world.db",
           "count": 1,
           "uniques": 1
         }
@@ -304,12 +284,32 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 26,
-          "uniques": 11
+          "count": 12,
+          "uniques": 4
         },
         {
           "referrer": "github.com",
-          "count": 2,
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2150,6 +2150,72 @@
       "2022-01-29": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-02": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2022-02-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-08": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-02-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-15": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }
