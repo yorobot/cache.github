@@ -209,6 +209,10 @@
     "2022-02-15": {
       "stargazers_count": 178,
       "forks_count": 15
+    },
+    "2022-03-01": {
+      "stargazers_count": 178,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -248,41 +252,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 24,
-        "uniques": 16
+        "count": 28,
+        "uniques": 18
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 14,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 19,
-          "uniques": 14
+          "count": 18,
+          "uniques": 15
         },
         {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto",
+          "path": "/feedreader/pluto/blob/master/pluto-models/lib/pluto/models/item.rb",
+          "title": "pluto/item.rb at master · feedreader/pluto",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues/33",
-          "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
+          "path": "/feedreader/pluto/blob/master/pluto-models/lib/pluto/models.rb",
+          "title": "pluto/models.rb at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/sandbox/stats.rb",
+          "title": "pluto/stats.rb at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues",
+          "title": "Issues · feedreader/pluto · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/35",
+          "title": "Youtube feeds don't print in order · Issue #35 · feedreader/pluto",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto",
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/pluto",
-          "title": "pluto/pluto at master · feedreader/pluto",
+          "path": "/feedreader/pluto/tree/master/pluto-models",
+          "title": "pluto/pluto-models at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/pluto-models/lib/pluto",
+          "title": "pluto/pluto-models/lib/pluto at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/pluto-models/lib/pluto/models",
+          "title": "pluto/pluto-models/lib/pluto/models at master · feedreader/pluto",
           "count": 1,
           "uniques": 1
         }
@@ -290,21 +324,26 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 15,
-          "uniques": 10
+          "count": 7,
+          "uniques": 7
         },
         {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "count": 5,
+          "uniques": 3
         },
         {
-          "referrer": "rubydoc.info",
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "libhunt.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "planetruby.github.io",
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -2340,6 +2379,98 @@
         }
       },
       "2022-02-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-17": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-02-18": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-19": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-20": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-02-21": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-22": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-02-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-28": {
         "clones": {
           "count": 1,
           "uniques": 1

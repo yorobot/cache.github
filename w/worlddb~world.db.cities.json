@@ -209,6 +209,10 @@
     "2022-02-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-03-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -235,18 +239,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.cities",
+          "title": "worlddb/world.db.cities: world.db web app sample listing the world's greatest...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.cities/tree/master/public",
+          "title": "world.db.cities/public at master · worlddb/world.db.cities",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.cities/tree/master/views",
+          "title": "world.db.cities/views at master · worlddb/world.db.cities",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -342,6 +367,24 @@
       },
       "2022-01-23": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-25": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-03-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-23": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

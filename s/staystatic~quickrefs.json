@@ -195,6 +195,10 @@
     "2022-02-15": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2022-03-01": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -220,18 +224,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/staystatic/quickrefs",
+          "title": "staystatic/quickrefs: Quick References (Cheat Sheets)",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/staystatic/quickrefs/blob/master/HUGO.md",
+          "title": "quickrefs/HUGO.md at master · staystatic/quickrefs",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -375,6 +394,18 @@
       },
       "2022-01-29": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-16": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-02-21": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

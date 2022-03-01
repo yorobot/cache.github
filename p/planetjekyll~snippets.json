@@ -209,6 +209,10 @@
     "2022-02-15": {
       "stargazers_count": 13,
       "forks_count": 2
+    },
+    "2022-03-01": {
+      "stargazers_count": 13,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -235,23 +239,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
+          "path": "/planetjekyll/snippets/pulls",
+          "title": "Pull requests · planetjekyll/snippets · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
           "path": "/planetjekyll/snippets",
-          "title": "GitHub - planetjekyll/snippets: jekyll snippets",
+          "title": "planetjekyll/snippets: jekyll snippets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/snippets/blob/master/include-nav-with-data.md",
+          "title": "snippets/include-nav-with-data.md at master · planetjekyll/snippets",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "planetjekyll.github.io",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -567,6 +587,30 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2022-02-21": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-02-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

@@ -209,24 +209,28 @@
     "2022-02-15": {
       "stargazers_count": 156,
       "forks_count": 5
+    },
+    "2022-03-01": {
+      "stargazers_count": 156,
+      "forks_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-05-29T11:12:17Z",
+        "date": "2022-02-17T19:45:29Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-05-29T11:12:17Z",
+        "date": "2022-02-17T19:45:29Z",
         "name": "Gerald Bauer"
       },
-      "message": "make oga soft dependency"
+      "message": "add feedfinder"
     }
   ],
-  "size": 899,
-  "updated_at": "2022-01-23T17:18:52Z",
-  "pushed_at": "2020-05-29T11:12:27Z",
+  "size": 968,
+  "updated_at": "2022-02-17T19:20:00Z",
+  "pushed_at": "2022-02-17T19:45:36Z",
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
   "language": "Ruby",
   "topics": [
@@ -249,53 +253,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
-        "uniques": 16
+        "count": 41,
+        "uniques": 14
       },
       "clones": {
-        "count": 22,
-        "uniques": 15
+        "count": 38,
+        "uniques": 25
       },
       "paths": [
         {
           "path": "/feedparser/feedparser",
           "title": "GitHub - feedparser/feedparser: feedparser gem - (universal) web feed parser ...",
-          "count": 20,
-          "uniques": 14
+          "count": 22,
+          "uniques": 12
         },
         {
-          "path": "/feedparser/feedparser/blob/master/README.md",
-          "title": "feedparser/README.md at master · feedparser/feedparser · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/feedparser/feedparser/tree/master/feedparser",
+          "title": "feedparser/feedparser at master · feedparser/feedparser",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/feedparser/feedparser/issues",
-          "title": "Issues · feedparser/feedparser · GitHub",
+          "title": "Issues · feedparser/feedparser",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/feedfilter",
+          "title": "feedparser/feedfilter at master · feedparser/feedparser",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/generator.rb",
+          "title": "feedparser/generator.rb at master · feedparser/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedparser/feedparser/issues/7",
-          "title": "HTTPError 307 · Issue #7 · feedparser/feedparser · GitHub",
+          "path": "/feedparser/feedparser/blob/master/lib/feedparser/parser.rb",
+          "title": "feedparser/parser.rb at master · feedparser/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedparser/feedparser/tree/master/lib",
-          "title": "feedparser/lib at master · feedparser/feedparser · GitHub",
+          "path": "/feedparser/feedparser/commit/49b8bc5358c4da5095358f58e0ae40e7df4dc462",
+          "title": "add feedfinder · feedparser/feedparser@49b8bc5",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedparser/feedparser/tree/master/lib/feedparser",
-          "title": "feedparser/lib/feedparser at master · feedparser/feedparser · GitHub",
+          "path": "/feedparser/feedparser/commits/master",
+          "title": "Commits · feedparser/feedparser",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedparser/feedparser/tree/master/lib/feedparser/builder",
-          "title": "feedparser/lib/feedparser/builder at master · feedparser/feedparser · GitHub",
+          "path": "/feedparser/feedparser/search",
+          "title": "Search · lastBuildDate",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedparser/feedparser/tree/master/feedparser/lib",
+          "title": "feedparser/feedparser/lib at master · feedparser/feedparser",
           "count": 1,
           "uniques": 1
         }
@@ -303,26 +325,26 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 4
-        },
-        {
-          "referrer": "Google",
-          "count": 4,
+          "count": 13,
           "uniques": 3
         },
         {
-          "referrer": "yandex.ru",
-          "count": 2,
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 6,
           "uniques": 2
         },
         {
-          "referrer": "awesome-ruby.com",
+          "referrer": "ruby-toolbox.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "kod10.com",
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         }
@@ -3432,10 +3454,130 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2022-02-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-17": {
+        "views": {
+          "count": 23,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2022-02-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-23": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-02-26": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-27": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-02-18": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-02-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-21": {
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-02-22": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-28": {
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 60699
+    "Ruby": 67075
   }
 }

@@ -209,6 +209,10 @@
     "2022-02-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2022-03-01": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -235,7 +239,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
+        "count": 8,
         "uniques": 3
       },
       "clones": {
@@ -247,25 +251,32 @@
           "path": "/opensport/rugby.db",
           "title": "GitHub - opensport/rugby.db: Free open public domain rugby database 'n' schem...",
           "count": 3,
-          "uniques": 3
+          "uniques": 2
         },
         {
-          "path": "/opensport/rugby.db/commit/5a48ffae9809922e401dd48d32e685fb058c2c55",
-          "title": "add pool b,c,d · opensport/rugby.db@5a48ffa · GitHub",
+          "path": "/opensport/rugby.db/blob/master/Datafile",
+          "title": "rugby.db/Datafile at master · opensport/rugby.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/blob/master/leagues.txt",
+          "title": "rugby.db/leagues.txt at master · opensport/rugby.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/2015",
+          "title": "rugby.db/2015 at master · opensport/rugby.db · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 3,
+          "referrer": "opendata.stackexchange.com",
+          "count": 6,
           "uniques": 2
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -693,6 +704,24 @@
       "2022-02-11": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-16": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-02-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-01": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

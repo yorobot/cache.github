@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/worldcup.json",
   "created_at": "2018-06-05T08:49:51Z",
-  "updated_at": "2021-09-12T23:03:41Z",
+  "updated_at": "2022-02-18T21:18:40Z",
   "pushed_at": "2021-06-12T17:54:28Z",
   "size": 81,
   "description": "Free open public domain football data for the world cups in JSON incl. Russia 2018 and more - No API key required ;-)",
@@ -70,6 +70,10 @@
     "2022-02-15": {
       "stargazers_count": 156,
       "forks_count": 19
+    },
+    "2022-03-01": {
+      "stargazers_count": 157,
+      "forks_count": 19
     }
   },
   "commits": [
@@ -99,73 +103,105 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 73,
-        "uniques": 34
+        "count": 113,
+        "uniques": 46
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 14,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/openfootball/worldcup.json",
           "title": "openfootball/worldcup.json: Free open public domain football data for the wor...",
-          "count": 50,
-          "uniques": 33
+          "count": 57,
+          "uniques": 43
         },
         {
           "path": "/openfootball/worldcup.json/tree/master/2018",
           "title": "worldcup.json/2018 at master · openfootball/worldcup.json · GitHub",
-          "count": 11,
+          "count": 15,
+          "uniques": 12
+        },
+        {
+          "path": "/openfootball/worldcup.json/tree/master/2014",
+          "title": "worldcup.json/2014 at master · openfootball/worldcup.json · GitHub",
+          "count": 13,
           "uniques": 9
         },
         {
           "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.json",
           "title": "worldcup.json/worldcup.json at master · openfootball/worldcup.json · GitHub",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.json",
+          "title": "worldcup.json/worldcup.json at master · openfootball/worldcup.json · GitHub",
           "count": 4,
           "uniques": 3
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.groups.json",
+          "title": "worldcup.json/worldcup.groups.json at master · openfootball/worldcup.json · G...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.standings.json",
+          "title": "worldcup.json/worldcup.standings.json at master · openfootball/worldcup.json ...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+          "title": "worldcup.json/worldcup.stadiums.json at master · openfootball/worldcup.json",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.teams.json",
           "title": "worldcup.json/worldcup.teams.json at master · openfootball/worldcup.json · Gi...",
-          "count": 4,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.groups.json",
-          "title": "worldcup.json/worldcup.groups.json at master · openfootball/worldcup.json",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.standings.json",
-          "title": "worldcup.json/worldcup.standings.json at master · openfootball/worldcup.json ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/worldcup.json/branches",
-          "title": "Branches · openfootball/worldcup.json · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/worldcup.json/tree/master/2014",
-          "title": "worldcup.json/2014 at master · openfootball/worldcup.json",
+          "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.teams.json",
+          "title": "worldcup.json/worldcup.teams.json at master · openfootball/worldcup.json",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 39,
+          "uniques": 21
+        },
+        {
           "referrer": "Google",
-          "count": 37,
+          "count": 39,
           "uniques": 16
         },
         {
-          "referrer": "github.com",
-          "count": 31,
-          "uniques": 14
+          "referrer": "rzencoder.github.io",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "morioh.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "t.co",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "chandoo.org",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1484,6 +1520,122 @@
         "views": {
           "count": 11,
           "uniques": 5
+        }
+      },
+      "2022-02-16": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-02-17": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-02-18": {
+        "views": {
+          "count": 10,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-02-19": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-20": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-21": {
+        "views": {
+          "count": 17,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-02-22": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-23": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-24": {
+        "views": {
+          "count": 16,
+          "uniques": 5
+        }
+      },
+      "2022-02-25": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-26": {
+        "views": {
+          "count": 15,
+          "uniques": 7
+        }
+      },
+      "2022-02-27": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2022-02-28": {
+        "views": {
+          "count": 14,
+          "uniques": 6
+        }
+      },
+      "2022-03-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

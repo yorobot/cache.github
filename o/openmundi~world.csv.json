@@ -209,6 +209,10 @@
     "2022-02-15": {
       "stargazers_count": 14,
       "forks_count": 13
+    },
+    "2022-03-01": {
+      "stargazers_count": 14,
+      "forks_count": 13
     }
   },
   "commits": [
@@ -235,23 +239,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 6,
         "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
-          "path": "/openmundi/world.csv/find/master",
-          "title": "File Finder · GitHub",
+          "path": "/openmundi/world.csv",
+          "title": "openmundi/world.csv: Free open public domain world data (incl. countries ) in...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.csv/tree/master/attic",
+          "title": "world.csv/attic at master · openmundi/world.csv",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.csv/tree/master/script",
+          "title": "world.csv/script at master · openmundi/world.csv",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1033,6 +1053,44 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-02-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-20": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-02-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
