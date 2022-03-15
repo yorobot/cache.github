@@ -186,6 +186,10 @@
     "2022-03-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-03-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -209,40 +213,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 6
+        "count": 5,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/sportdb/docs",
           "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
-          "count": 4,
-          "uniques": 4
+          "count": 3,
+          "uniques": 2
         },
         {
-          "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
-          "title": "docs/generating-json-datasets.md at master · sportdb/docs · GitHub",
-          "count": 2,
-          "uniques": 2
+          "path": "/sportdb/docs/blob/master/working-with-csv-files.md",
+          "title": "docs/working-with-csv-files.md at master · sportdb/docs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/working-with-csv-packages.md",
+          "title": "docs/working-with-csv-packages.md at master · sportdb/docs · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "groups.google.com",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "old.reddit.com",
+          "referrer": "groups.google.com",
           "count": 1,
           "uniques": 1
         },
@@ -952,6 +957,24 @@
       },
       "2022-02-27": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-03-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-06": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

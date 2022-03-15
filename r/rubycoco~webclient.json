@@ -159,6 +159,10 @@
     "2022-03-01": {
       "stargazers_count": 5,
       "forks_count": 1
+    },
+    "2022-03-15": {
+      "stargazers_count": 5,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -183,29 +187,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 3
+        "count": 14,
+        "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/rubycoco/webclient",
-          "title": "rubycoco/webclient: web command line tools, libraries & scripts",
+          "path": "/rubycoco/webclient/tree/master/fetcher",
+          "title": "webclient/fetcher at master · rubycoco/webclient",
           "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient.rb",
-          "title": "webclient/webclient.rb at master · rubycoco/webclient",
-          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient/webclient.rb",
-          "title": "webclient/webclient.rb at master · rubycoco/webclient",
+          "path": "/rubycoco/webclient",
+          "title": "rubycoco/webclient: web command line tools, libraries & scripts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/LICENSE.md",
+          "title": "webclient/LICENSE.md at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
         },
@@ -216,24 +220,14 @@
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/tree/master/webclient/lib",
-          "title": "webclient/webclient/lib at master · rubycoco/webclient",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webclient/lib/webclient",
-          "title": "webclient/webclient/lib/webclient at master · rubycoco/webclient",
+          "path": "/rubycoco/webclient/tree/master/webget",
+          "title": "webclient/webget at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-        {
-          "referrer": "rubygems.org",
-          "count": 1,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -1111,6 +1105,30 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-03-12": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2022-03-15": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-03-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

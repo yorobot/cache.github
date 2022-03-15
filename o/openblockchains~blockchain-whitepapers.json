@@ -189,6 +189,10 @@
     "2022-03-01": {
       "stargazers_count": 8,
       "forks_count": 6
+    },
+    "2022-03-15": {
+      "stargazers_count": 8,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -212,26 +216,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 9,
+        "uniques": 7
       },
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       },
       "paths": [
         {
+          "path": "/openblockchains/blockchain-whitepapers",
+          "title": "openblockchains/blockchain-whitepapers: Bitcoin & Blockchain Whitepapers - In...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
           "path": "/openblockchains/blockchain-whitepapers/blob/master/hashcash.pdf",
           "title": "blockchain-whitepapers/hashcash.pdf at master · openblockchains/blockchain-wh...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/blockchain-whitepapers/blob/master/bitcoin-announce.txt",
+          "title": "blockchain-whitepapers/bitcoin-announce.txt at master · openblockchains/block...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain-whitepapers/blob/master/bitcoin-v0.1-released.txt",
+          "title": "blockchain-whitepapers/bitcoin-v0.1-released.txt at master · openblockchains/...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/blockchain-whitepapers/blob/master/hashcash-announce.txt",
+          "title": "blockchain-whitepapers/hashcash-announce.txt at master · openblockchains/bloc...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 4
+        },
+        {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 3
         }
       ]
     },
@@ -847,6 +880,34 @@
         }
       },
       "2022-02-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-02": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-03-06": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-03-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-15": {
         "clones": {
           "count": 1,
           "uniques": 1

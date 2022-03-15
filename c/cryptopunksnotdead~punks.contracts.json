@@ -62,6 +62,10 @@
     "2022-03-01": {
       "stargazers_count": 23,
       "forks_count": 12
+    },
+    "2022-03-15": {
+      "stargazers_count": 23,
+      "forks_count": 12
     }
   },
   "commits": [
@@ -90,123 +94,98 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 144,
-        "uniques": 55
+        "count": 226,
+        "uniques": 41
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/punks.contracts",
           "title": "GitHub - cryptopunksnotdead/punks.contracts: Inside the CryptoPunks Blockchai...",
-          "count": 68,
-          "uniques": 49
+          "count": 66,
+          "uniques": 36
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punksdata",
-          "title": "punks.contracts/punksdata at master · cryptopunksnotdead/punks.contracts · Gi...",
-          "count": 6,
-          "uniques": 6
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v1/CryptoPunks.sol",
+          "title": "punks.contracts/CryptoPunks.sol at master · cryptopunksnotdead/punks.contracts",
+          "count": 16,
+          "uniques": 4
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/bored",
-          "title": "punks.contracts/bored at master · cryptopunksnotdead/punks.contracts · GitHub",
-          "count": 6,
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt",
+          "title": "punks.contracts/transactions.txt at master · cryptopunksnotdead/punks.contracts",
+          "count": 15,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v4/V4Punks.sol",
+          "title": "punks.contracts/V4Punks.sol at master · cryptopunksnotdead/punks.contracts · ...",
+          "count": 15,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punks-v1-market",
+          "title": "punks.contracts/punks-v1-market at master · cryptopunksnotdead/punks.contracts",
+          "count": 14,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punks-v4",
+          "title": "punks.contracts/punks-v4 at master · cryptopunksnotdead/punks.contracts · Git...",
+          "count": 13,
           "uniques": 5
         },
         {
           "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v2-wrapped/WrappedPunk.sol",
-          "title": "punks.contracts/WrappedPunk.sol at master · cryptopunksnotdead/punks.contracts",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punks-v2",
-          "title": "punks.contracts/punks-v2 at master · cryptopunksnotdead/punks.contracts · Git...",
-          "count": 4,
+          "title": "punks.contracts/WrappedPunk.sol at master · cryptopunksnotdead/punks.contract...",
+          "count": 9,
           "uniques": 4
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/CryptoPunksData.sol",
-          "title": "punks.contracts/CryptoPunksData.sol at master · cryptopunksnotdead/punks.cont...",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt",
-          "title": "punks.contracts/transactions.txt at master · cryptopunksnotdead/punks.contrac...",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/bored/BoredPunkYachtClub.sol",
-          "title": "punks.contracts/BoredPunkYachtClub.sol at master · cryptopunksnotdead/punks.c...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v2/CryptoPunksMarket.sol",
-          "title": "punks.contracts/CryptoPunksMarket.sol at master · cryptopunksnotdead/punks.co...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
           "path": "/cryptopunksnotdead/punks.contracts/tree/master/ape",
-          "title": "punks.contracts/ape at master · cryptopunksnotdead/punks.contracts",
-          "count": 2,
+          "title": "punks.contracts/ape at master · cryptopunksnotdead/punks.contracts · GitHub",
+          "count": 9,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v1-market/PunksMarket.sol",
+          "title": "punks.contracts/PunksMarket.sol at master · cryptopunksnotdead/punks.contracts",
+          "count": 9,
           "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punks-v1",
+          "title": "punks.contracts/punks-v1 at master · cryptopunksnotdead/punks.contracts",
+          "count": 5,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 42,
-          "uniques": 20
+          "referrer": "github.com",
+          "count": 47,
+          "uniques": 8
         },
         {
-          "referrer": "github.com",
-          "count": 38,
+          "referrer": "Google",
+          "count": 33,
           "uniques": 17
         },
         {
-          "referrer": "t.co",
-          "count": 7,
+          "referrer": "reddit.com",
+          "count": 8,
           "uniques": 3
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 6,
-          "uniques": 4
-        },
-        {
-          "referrer": "Bing",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "libhunt.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "engine.presearch.org",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "cryptopunksnotdead.github.io",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "old.reddit.com",
+          "referrer": "t.co",
           "count": 2,
           "uniques": 1
         }
@@ -1601,6 +1580,110 @@
         "views": {
           "count": 2,
           "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-02": {
+        "views": {
+          "count": 54,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-03": {
+        "views": {
+          "count": 11,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-03-04": {
+        "views": {
+          "count": 18,
+          "uniques": 5
+        }
+      },
+      "2022-03-05": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2022-03-06": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2022-03-07": {
+        "views": {
+          "count": 50,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-08": {
+        "views": {
+          "count": 11,
+          "uniques": 4
+        }
+      },
+      "2022-03-09": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-03-10": {
+        "views": {
+          "count": 16,
+          "uniques": 4
+        }
+      },
+      "2022-03-11": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-03-12": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-13": {
+        "views": {
+          "count": 20,
+          "uniques": 5
+        }
+      },
+      "2022-03-14": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
+      },
+      "2022-03-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         },
         "clones": {
           "count": 1,

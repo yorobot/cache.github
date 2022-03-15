@@ -213,6 +213,10 @@
     "2022-03-01": {
       "stargazers_count": 53,
       "forks_count": 2
+    },
+    "2022-03-15": {
+      "stargazers_count": 53,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -239,54 +243,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 4
+        "count": 15,
+        "uniques": 2
       },
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
+          "path": "/worlddb/world.lite/tree/master/lib/worldlite",
+          "title": "world.lite/lib/worldlite at master · worlddb/world.lite",
+          "count": 4,
+          "uniques": 1
+        },
+        {
           "path": "/worlddb/world.lite",
           "title": "worlddb/world.lite: worldlite gem - lightweight public domain country data (a...",
-          "count": 2,
+          "count": 3,
           "uniques": 2
-        },
-        {
-          "path": "/worlddb/world.lite/blob/master/lib/worldlite/europe/at_austria.rb",
-          "title": "world.lite/at_austria.rb at master · worlddb/world.lite",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.lite/issues",
-          "title": "Issues · worlddb/world.lite · GitHub",
-          "count": 1,
-          "uniques": 1
         },
         {
           "path": "/worlddb/world.lite/tree/master/lib",
           "title": "world.lite/lib at master · worlddb/world.lite",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.lite/tree/master/lib/worldlite",
-          "title": "world.lite/lib/worldlite at master · worlddb/world.lite",
-          "count": 1,
+          "path": "/worlddb/world.lite/tree/master/lib/worldlite/asia",
+          "title": "world.lite/lib/worldlite/asia at master · worlddb/world.lite",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/worlddb/world.lite/tree/master/lib/worldlite/europe",
           "title": "world.lite/lib/worldlite/europe at master · worlddb/world.lite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.lite/blob/1c05adc4b4811329e9711c170d5999c96cb1189f/lib/worldlite/country.rb",
+          "title": "world.lite/country.rb at 1c05adc4b4811329e9711c170d5999c96cb1189f · worlddb/w...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.lite/blob/master/lib/worldlite/europe/tr_turkey.rb",
+          "title": "world.lite/tr_turkey.rb at master · worlddb/world.lite",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "planetruby.github.io",
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -903,6 +918,24 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-03-08": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2022-03-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

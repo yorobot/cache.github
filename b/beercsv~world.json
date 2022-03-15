@@ -213,6 +213,10 @@
     "2022-03-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-03-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -239,18 +243,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/beercsv/world",
+          "title": "GitHub - beercsv/world: beer, brewery n brewpub data",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/world/tree/master/africa",
+          "title": "world/africa at master · beercsv/world · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -479,6 +498,18 @@
       "2021-12-07": {
         "views": {
           "count": 12,
+          "uniques": 1
+        }
+      },
+      "2022-03-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

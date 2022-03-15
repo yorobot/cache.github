@@ -2,8 +2,8 @@
   "full_name": "pixelartexchange/artbase.server",
   "created_at": "2015-04-23T20:43:07Z",
   "updated_at": "2022-02-28T16:01:11Z",
-  "pushed_at": "2022-03-01T13:01:43Z",
-  "size": 153,
+  "pushed_at": "2022-03-04T19:59:04Z",
+  "size": 182,
   "description": "artbase - zero-config web server / services; (auto-)downloads & serves pre-configured pixel art collections \"out-of-the-box\"; incl. 2x/4x/8x zoom for bigger image sizes and more; binaries for easy \"xcopy\" installation for windows, linux & friends",
   "language": "Go",
   "history": {
@@ -14,19 +14,23 @@
     "2022-03-01": {
       "stargazers_count": 74,
       "forks_count": 5
+    },
+    "2022-03-15": {
+      "stargazers_count": 74,
+      "forks_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-03-01T13:01:37Z",
-        "name": "Gerald Bauer"
+        "date": "2022-03-04T19:59:04Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2022-03-01T13:01:37Z",
+        "date": "2022-03-04T19:59:04Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update README.md"
     }
   ],
   "topics": [
@@ -39,104 +43,99 @@
     "cryptopunks"
   ],
   "languages": {
-    "Go": 46367
+    "Go": 53013
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 333,
+        "count": 79,
         "uniques": 14
       },
       "clones": {
-        "count": 61,
-        "uniques": 18
+        "count": 22,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.server",
           "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 113,
-          "uniques": 13
+          "count": 51,
+          "uniques": 11
         },
         {
           "path": "/pixelartexchange/artbase.server/commits/master",
           "title": "Commits · pixelartexchange/artbase.server",
-          "count": 29,
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/releases",
-          "title": "Releases · pixelartexchange/artbase.server",
-          "count": 25,
+          "path": "/pixelartexchange/artbase.server/blob/master/pixelart/imageTile.go",
+          "title": "artbase.server/imageTile.go at master · pixelartexchange/artbase.server",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.server/tree/master/pixelart",
-          "title": "artbase.server/pixelart at master · pixelartexchange/artbase.server · GitHub",
-          "count": 11,
-          "uniques": 4
+          "title": "artbase.server/pixelart at master · pixelartexchange/artbase.server",
+          "count": 3,
+          "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/artbase.go",
-          "title": "artbase.server/artbase.go at master · pixelartexchange/artbase.server · GitHub",
-          "count": 10,
-          "uniques": 2
+          "path": "/pixelartexchange/artbase.server/commit/2b5d3884f814eabb7a9b7af9e1512ea13c8e8f95",
+          "title": "up · pixelartexchange/artbase.server@2b5d388",
+          "count": 2,
+          "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/actions",
-          "title": "Actions · pixelartexchange/artbase.server",
-          "count": 9,
+          "path": "/pixelartexchange/artbase.server/blob/master/i/coolcats-000000.svg",
+          "title": "artbase.server/coolcats-000000.svg at master · pixelartexchange/artbase.serve...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/master/i/punks-000001%402x.png",
+          "title": "artbase.server/punks-000001@2x.png at master · pixelartexchange/artbase.serve...",
+          "count": 1,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.server/blob/master/README.md",
           "title": "artbase.server/README.md at master · pixelartexchange/artbase.server",
-          "count": 9,
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/edit/master/README.md",
-          "title": "Editing artbase.server/README.md at master · pixelartexchange/artbase.server",
-          "count": 9,
+          "path": "/pixelartexchange/artbase.server/blob/master/router/router.go",
+          "title": "artbase.server/router.go at master · pixelartexchange/artbase.server",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/.goreleaser.yml",
-          "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 8,
+          "path": "/pixelartexchange/artbase.server/commit/308ca67fdb92c8d8c182601e7053c979b4704e5c",
+          "title": "up · pixelartexchange/artbase.server@308ca67",
+          "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/master/artbase",
-          "title": "artbase.server/artbase at master · pixelartexchange/artbase.server · GitHub",
-          "count": 7,
-          "uniques": 4
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 128,
+          "count": 42,
           "uniques": 9
         },
         {
-          "referrer": "cryptopunksnotdead.github.io",
-          "count": 20,
+          "referrer": "old.reddit.com",
+          "count": 16,
           "uniques": 2
         },
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "cryptopunksnotdead.github.io",
+          "count": 5,
+          "uniques": 2
         },
         {
           "referrer": "reddit.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -350,6 +349,110 @@
         "clones": {
           "count": 4,
           "uniques": 3
+        }
+      },
+      "2022-03-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-03-03": {
+        "views": {
+          "count": 25,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-03-04": {
+        "views": {
+          "count": 27,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2022-03-05": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-03-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-08": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-03-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-03-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-03-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-15": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

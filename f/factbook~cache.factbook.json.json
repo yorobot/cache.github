@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
-  "updated_at": "2022-01-06T22:10:58Z",
-  "pushed_at": "2022-02-24T22:12:04Z",
-  "size": 45846,
+  "updated_at": "2022-03-13T11:56:26Z",
+  "pushed_at": "2022-03-14T19:36:05Z",
+  "size": 48331,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -106,19 +106,23 @@
     "2022-03-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2022-03-15": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-02-24T22:12:01Z",
+        "date": "2022-03-14T19:36:02Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2022-02-24T22:12:01Z",
+        "date": "2022-03-14T19:36:02Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 8"
+      "message": "auto-update week 11"
     }
   ],
   "topics": [
@@ -129,73 +133,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 6
+        "count": 5,
+        "uniques": 3
       },
       "clones": {
-        "count": 27,
-        "uniques": 14
+        "count": 29,
+        "uniques": 16
       },
       "paths": [
         {
           "path": "/factbook/cache.factbook.json",
           "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 5,
+          "count": 3,
           "uniques": 3
         },
         {
-          "path": "/factbook/cache.factbook.json/tree/master/africa",
-          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/af02735a269eee102f1523d8bb4e82a025a1c584/central-america-n-caribbean/bh.json",
-          "title": "cache.factbook.json/bh.json at af02735a269eee102f1523d8bb4e82a025a1c584 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/af02735a269eee102f1523d8bb4e82a025a1c584/south-asia/pk.json",
-          "title": "cache.factbook.json/pk.json at af02735a269eee102f1523d8bb4e82a025a1c584 · fac...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/ag.json",
-          "title": "cache.factbook.json/ag.json at master · factbook/cache.factbook.json · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/rw.json",
-          "title": "cache.factbook.json/rw.json at master · factbook/cache.factbook.json · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/north-america/us.json",
-          "title": "cache.factbook.json/us.json at master · factbook/cache.factbook.json",
+          "path": "/factbook/cache.factbook.json/blob/master/north-america/ca.json",
+          "title": "cache.factbook.json/ca.json at master · factbook/cache.factbook.json · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/factbook/cache.factbook.json/tree/master/north-america",
-          "title": "cache.factbook.json/north-america at master · factbook/cache.factbook.json",
+          "title": "cache.factbook.json/north-america at master · factbook/cache.factbook.json · ...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "groups.google.com",
-          "count": 5,
+          "referrer": "github.com",
+          "count": 4,
           "uniques": 2
         },
         {
-          "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1665,6 +1639,74 @@
       "2022-02-26": {
         "clones": {
           "count": 8,
+          "uniques": 6
+        }
+      },
+      "2022-03-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-04": {
+        "clones": {
+          "count": 10,
+          "uniques": 7
+        }
+      },
+      "2022-03-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-14": {
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2022-03-15": {
+        "clones": {
+          "count": 6,
           "uniques": 6
         }
       }

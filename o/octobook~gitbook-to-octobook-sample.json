@@ -199,6 +199,10 @@
     "2022-03-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-03-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -231,24 +235,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/octobook/gitbook-to-octobook-sample",
           "title": "octobook/gitbook-to-octobook-sample: Gitbook to Octobook - How to publish you...",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         }
@@ -561,6 +570,24 @@
       },
       "2022-02-24": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-03": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-15": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

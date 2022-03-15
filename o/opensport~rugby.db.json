@@ -213,6 +213,10 @@
     "2022-03-01": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2022-03-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -239,29 +243,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 3
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/opensport/rugby.db",
-          "title": "GitHub - opensport/rugby.db: Free open public domain rugby database 'n' schem...",
-          "count": 3,
+          "path": "/opensport/rugby.db/blob/master/2015/cup.txt",
+          "title": "rugby.db/cup.txt at master · opensport/rugby.db · GitHub",
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/opensport/rugby.db/blob/master/Datafile",
-          "title": "rugby.db/Datafile at master · opensport/rugby.db · GitHub",
+          "path": "/opensport/rugby.db",
+          "title": "GitHub - opensport/rugby.db: Free open public domain rugby database 'n' schem...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/opensport/rugby.db/blob/master/leagues.txt",
-          "title": "rugby.db/leagues.txt at master · opensport/rugby.db · GitHub",
+          "path": "/opensport/rugby.db/blob/master/setups/all.txt",
+          "title": "rugby.db/all.txt at master · opensport/rugby.db · GitHub",
           "count": 1,
           "uniques": 1
         },
@@ -270,12 +274,18 @@
           "title": "rugby.db/2015 at master · opensport/rugby.db · GitHub",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/setups",
+          "title": "rugby.db/setups at master · opensport/rugby.db · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "opendata.stackexchange.com",
-          "count": 6,
+          "count": 4,
           "uniques": 2
         }
       ]
@@ -722,6 +732,30 @@
       "2022-03-01": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-03-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
