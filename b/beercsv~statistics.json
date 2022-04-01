@@ -217,6 +217,10 @@
     "2022-03-15": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2022-04-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -243,23 +247,69 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 12,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
+        "count": 3,
         "uniques": 2
       },
       "paths": [
         {
-          "path": "/beercsv/statistics/blob/master/production.csv",
-          "title": "statistics/production.csv at master · beercsv/statistics · GitHub",
+          "path": "/beercsv/statistics",
+          "title": "beercsv/statistics: beer statistics (production in hl, consumption per capita...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/beercsv/statistics/tree/master/consumption",
+          "title": "statistics/consumption at master · beercsv/statistics",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/consumption.csv",
+          "title": "statistics/consumption.csv at master · beercsv/statistics",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/consumption/de_deutschland.csv",
+          "title": "statistics/de_deutschland.csv at master · beercsv/statistics",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/consumption_per_capita.csv",
+          "title": "statistics/consumption_per_capita.csv at master · beercsv/statistics",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/production/pt_portugal.csv",
+          "title": "statistics/pt_portugal.csv at master · beercsv/statistics · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/blob/master/SUMMARY.md",
+          "title": "statistics/SUMMARY.md at master · beercsv/statistics · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/statistics/tree/master/breweries",
+          "title": "statistics/breweries at master · beercsv/statistics",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -592,6 +642,42 @@
         }
       },
       "2022-03-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-20": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-03-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-25": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-03-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-23": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-30": {
         "clones": {
           "count": 1,
           "uniques": 1

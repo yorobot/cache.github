@@ -217,6 +217,10 @@
     "2022-03-15": {
       "stargazers_count": 571,
       "forks_count": 53
+    },
+    "2022-04-01": {
+      "stargazers_count": 571,
+      "forks_count": 53
     }
   },
   "commits": [
@@ -243,71 +247,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 52,
-        "uniques": 19
+        "count": 39,
+        "uniques": 9
       },
       "clones": {
-        "count": 10,
-        "uniques": 10
+        "count": 9,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 23,
-          "uniques": 17
+          "count": 12,
+          "uniques": 8
+        },
+        {
+          "path": "/openmundi/world.db/issues",
+          "title": "Issues · openmundi/world.db",
+          "count": 4,
+          "uniques": 1
         },
         {
           "path": "/openmundi/world.db/tree/master/europe",
-          "title": "world.db/europe at master · openmundi/world.db · GitHub",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/1-codes",
-          "title": "world.db/1-codes at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/1-codes/motor.txt",
-          "title": "world.db/motor.txt at master · openmundi/world.db",
-          "count": 2,
+          "title": "world.db/europe at master · openmundi/world.db",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/1-codes/iso.txt",
-          "title": "world.db/iso.txt at master · openmundi/world.db",
-          "count": 1,
+          "path": "/openmundi/world.db/tree/master/europe/be-belgium",
+          "title": "world.db/europe/be-belgium at master · openmundi/world.db",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/continents.txt",
-          "title": "world.db/continents.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/europe/2-more/continents.yml",
-          "title": "world.db/continents.yml at master · openmundi/world.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/europe/2-more/neighbours.yml",
-          "title": "world.db/neighbours.yml at master · openmundi/world.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/europe/2-more/oceans.yml",
-          "title": "world.db/oceans.yml at master · openmundi/world.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/europe/cz-czech-republic/cities.txt",
+          "path": "/openmundi/world.db/blob/master/europe/be-belgium/cities.txt",
           "title": "world.db/cities.txt at master · openmundi/world.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/be-belgium/states.txt",
+          "title": "world.db/states.txt at master · openmundi/world.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/commits",
+          "title": "Commits · openmundi/world.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/africa/eg-egypt/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/be-belgium/states_tags_geos.txt",
+          "title": "world.db/states_tags_geos.txt at master · openmundi/world.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/countries_wikipedia.txt",
+          "title": "world.db/countries_wikipedia.txt at master · openmundi/world.db",
           "count": 1,
           "uniques": 1
         }
@@ -315,37 +319,12 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 18,
-          "uniques": 4
-        },
-        {
-          "referrer": "kabytes.com",
-          "count": 6,
-          "uniques": 2
+          "count": 14,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "referrer": "lm.facebook.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "m.facebook.com",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "groups.google.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "facebook.com",
-          "count": 1,
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -2816,6 +2795,96 @@
         }
       },
       "2022-03-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-21": {
+        "views": {
+          "count": 19,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-03-22": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-03-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-25": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-03-26": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-03-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-31": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-01": {
         "clones": {
           "count": 1,
           "uniques": 1

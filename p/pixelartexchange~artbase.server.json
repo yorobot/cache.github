@@ -1,9 +1,9 @@
 {
   "full_name": "pixelartexchange/artbase.server",
   "created_at": "2015-04-23T20:43:07Z",
-  "updated_at": "2022-02-28T16:01:11Z",
-  "pushed_at": "2022-03-04T19:59:04Z",
-  "size": 182,
+  "updated_at": "2022-03-25T14:49:31Z",
+  "pushed_at": "2022-03-27T19:10:12Z",
+  "size": 196,
   "description": "artbase - zero-config web server / services; (auto-)downloads & serves pre-configured pixel art collections \"out-of-the-box\"; incl. 2x/4x/8x zoom for bigger image sizes and more; binaries for easy \"xcopy\" installation for windows, linux & friends",
   "language": "Go",
   "history": {
@@ -18,19 +18,23 @@
     "2022-03-15": {
       "stargazers_count": 74,
       "forks_count": 5
+    },
+    "2022-04-01": {
+      "stargazers_count": 76,
+      "forks_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-03-04T19:59:04Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2022-03-04T19:59:04Z",
+        "date": "2022-03-27T19:10:05Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2022-03-27T19:10:05Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "topics": [
@@ -43,77 +47,78 @@
     "cryptopunks"
   ],
   "languages": {
-    "Go": 53013
+    "Go": 52365,
+    "Procfile": 21
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 79,
-        "uniques": 14
+        "count": 186,
+        "uniques": 40
       },
       "clones": {
-        "count": 22,
-        "uniques": 15
+        "count": 551,
+        "uniques": 154
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.server",
           "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 51,
-          "uniques": 11
+          "count": 86,
+          "uniques": 38
         },
         {
-          "path": "/pixelartexchange/artbase.server/commits/master",
-          "title": "Commits · pixelartexchange/artbase.server",
+          "path": "/pixelartexchange/artbase.server/tree/master/pixelart",
+          "title": "artbase.server/pixelart at master · pixelartexchange/artbase.server · GitHub",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/tree/master/artbase",
+          "title": "artbase.server/artbase at master · pixelartexchange/artbase.server · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/master/pixelart/imageComposite.go",
+          "title": "artbase.server/imageComposite.go at master · pixelartexchange/artbase.server",
           "count": 5,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.server/blob/master/pixelart/imageTile.go",
           "title": "artbase.server/imageTile.go at master · pixelartexchange/artbase.server",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/commits/master",
+          "title": "Commits · pixelartexchange/artbase.server",
           "count": 4,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/tree/master/pixelart",
-          "title": "artbase.server/pixelart at master · pixelartexchange/artbase.server",
+          "path": "/pixelartexchange/artbase.server/releases",
+          "title": "Releases · pixelartexchange/artbase.server",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/stargazers",
+          "title": "Stargazers · pixelartexchange/artbase.server",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/commit/2b5d3884f814eabb7a9b7af9e1512ea13c8e8f95",
-          "title": "up · pixelartexchange/artbase.server@2b5d388",
+          "path": "/pixelartexchange/artbase.server/blob/master/pixelart/ioutil.go",
+          "title": "artbase.server/ioutil.go at master · pixelartexchange/artbase.server",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/i/coolcats-000000.svg",
-          "title": "artbase.server/coolcats-000000.svg at master · pixelartexchange/artbase.serve...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/blob/master/i/punks-000001%402x.png",
-          "title": "artbase.server/punks-000001@2x.png at master · pixelartexchange/artbase.serve...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/blob/master/README.md",
-          "title": "artbase.server/README.md at master · pixelartexchange/artbase.server",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/blob/master/router/router.go",
-          "title": "artbase.server/router.go at master · pixelartexchange/artbase.server",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/commit/308ca67fdb92c8d8c182601e7053c979b4704e5c",
-          "title": "up · pixelartexchange/artbase.server@308ca67",
-          "count": 1,
+          "path": "/pixelartexchange/artbase.server/tags",
+          "title": "Tags · pixelartexchange/artbase.server",
+          "count": 2,
           "uniques": 1
         }
       ],
@@ -124,18 +129,38 @@
           "uniques": 9
         },
         {
-          "referrer": "old.reddit.com",
-          "count": 16,
-          "uniques": 2
-        },
-        {
-          "referrer": "cryptopunksnotdead.github.io",
-          "count": 5,
-          "uniques": 2
-        },
-        {
           "referrer": "reddit.com",
-          "count": 2,
+          "count": 22,
+          "uniques": 17
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 13,
+          "uniques": 2
+        },
+        {
+          "referrer": "pixelartexchange.herokuapp.com",
+          "count": 11,
+          "uniques": 4
+        },
+        {
+          "referrer": "dataatwork.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.premii.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "pkg.go.dev",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -453,6 +478,118 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-03-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-03-24": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-03-25": {
+        "views": {
+          "count": 47,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 36,
+          "uniques": 11
+        }
+      },
+      "2022-03-26": {
+        "views": {
+          "count": 21,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-03-27": {
+        "views": {
+          "count": 41,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 104,
+          "uniques": 62
+        }
+      },
+      "2022-03-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 85,
+          "uniques": 53
+        }
+      },
+      "2022-03-30": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 46,
+          "uniques": 30
+        }
+      },
+      "2022-03-31": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 59,
+          "uniques": 37
+        }
+      },
+      "2022-04-01": {
+        "views": {
+          "count": 49,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 56,
+          "uniques": 31
+        }
+      },
+      "2022-03-28": {
+        "clones": {
+          "count": 154,
+          "uniques": 75
         }
       }
     }

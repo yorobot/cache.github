@@ -217,6 +217,10 @@
     "2022-03-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-04-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -243,18 +247,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
         "count": 2,
-        "uniques": 2
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openbeer/oberbayern",
+          "title": "openbeer/oberbayern: Free open public domain beer, brewery n brewpub data for...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/oberbayern/blob/master/2--eichstaett/beers.txt",
+          "title": "oberbayern/beers.txt at master · openbeer/oberbayern",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/oberbayern/blob/master/2--eichstaett/breweries.txt",
+          "title": "oberbayern/breweries.txt at master · openbeer/oberbayern",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/oberbayern/tree/master/2--eichstaett",
+          "title": "oberbayern/2--eichstaett at master · openbeer/oberbayern",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -429,6 +460,18 @@
       "2022-03-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-28": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-03-19": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -217,6 +217,10 @@
     "2022-03-15": {
       "stargazers_count": 205,
       "forks_count": 11
+    },
+    "2022-04-01": {
+      "stargazers_count": 205,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -243,35 +247,44 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 2
+        "count": 6,
+        "uniques": 5
       },
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 14,
+        "uniques": 12
       },
       "paths": [
         {
           "path": "/planetruby/awesome",
-          "title": "GitHub - planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Fram...",
-          "count": 2,
-          "uniques": 2
+          "title": "planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Frameworks, R...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/awesome/issues/12",
+          "title": "Cannot run agoo benchmark · Issue #12 · planetruby/awesome · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/planetruby/awesome/tree/master/WEBSERVERS",
           "title": "awesome/WEBSERVERS at master · planetruby/awesome · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/planetruby/awesome/tree/master/WEBSERVERS/benchmark",
-          "title": "awesome/WEBSERVERS/benchmark at master · planetruby/awesome · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "t.co",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1342,6 +1355,82 @@
       "2022-03-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-03-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-03-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-26": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-03-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-31": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-01": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

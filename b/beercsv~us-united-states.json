@@ -217,6 +217,10 @@
     "2022-03-15": {
       "stargazers_count": 5,
       "forks_count": 5
+    },
+    "2022-04-01": {
+      "stargazers_count": 5,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -243,18 +247,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 1
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/beercsv/us-united-states",
+          "title": "beercsv/us-united-states: Beer, brewery n brewpub data for the United States",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/us-united-states/blob/master/4--il-illinois--great-lakes/beers.csv",
+          "title": "us-united-states/beers.csv at master · beercsv/us-united-states",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/us-united-states/tree/master/4--il-illinois--great-lakes",
+          "title": "us-united-states/4--il-illinois--great-lakes at master · beercsv/us-united-st...",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -645,6 +670,18 @@
       "2022-03-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-03-25": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-03-26": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }
