@@ -2,7 +2,7 @@
   "full_name": "rubycoco/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
   "updated_at": "2022-03-25T22:37:16Z",
-  "pushed_at": "2022-02-07T20:24:05Z",
+  "pushed_at": "2022-04-05T07:35:15Z",
   "size": 468,
   "description": "csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)",
   "language": "Ruby",
@@ -10,6 +10,10 @@
     "2022-04-01": {
       "stargazers_count": 179,
       "forks_count": 8
+    },
+    "2022-04-15": {
+      "stargazers_count": 179,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -45,113 +49,108 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 73,
-        "uniques": 36
+        "count": 99,
+        "uniques": 40
       },
       "clones": {
-        "count": 28,
-        "uniques": 18
+        "count": 30,
+        "uniques": 16
       },
       "paths": [
         {
           "path": "/rubycoco/csvreader",
           "title": "rubycoco/csvreader: csvreader library / gem - read tabular data in the comma-...",
-          "count": 39,
-          "uniques": 32
+          "count": 52,
+          "uniques": 37
         },
         {
           "path": "/rubycoco/csvreader/tree/master/csvreader",
           "title": "csvreader/csvreader at master · rubycoco/csvreader · GitHub",
-          "count": 14,
-          "uniques": 11
+          "count": 18,
+          "uniques": 16
         },
         {
-          "path": "/rubycoco/csvreader/tree/master/csvutils",
-          "title": "csvreader/csvutils at master · rubycoco/csvreader · GitHub",
+          "path": "/rubycoco/csvreader/tree/master/csvreader/lib",
+          "title": "csvreader/csvreader/lib at master · rubycoco/csvreader",
           "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/csvreader/csvreader/issues/2",
+          "title": "Returning an Enumerator? · Issue #2 · csvreader/csvreader · GitHub",
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/rubycoco/csvreader/search",
-          "title": "Search · encoding",
+          "path": "/rubycoco/csvreader/tree/master/csvreader/lib/csvreader",
+          "title": "csvreader/csvreader/lib/csvreader at master · rubycoco/csvreader",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/csvreader/csvreader/pulls",
-          "title": "Pull requests · csvreader/csvreader · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/rubycoco/csvreader/tree/master/csvrecord",
+          "title": "csvreader/csvrecord at master · rubycoco/csvreader",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/rubycoco/csvreader/blob/master/csvreader/lib/csvreader/parser_fixed.rb",
-          "title": "csvreader/parser_fixed.rb at master · rubycoco/csvreader",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/csvreader/blob/master/csvreader/lib/csvreader/parser.rb",
+          "path": "/rubycoco/csvreader/blob/master/csvjson/lib/csvjson/parser.rb",
           "title": "csvreader/parser.rb at master · rubycoco/csvreader",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/csvreader/blob/master/csvreader/lib/csvreader/parser_std.rb",
-          "title": "csvreader/parser_std.rb at master · rubycoco/csvreader",
+          "path": "/rubycoco/csvreader/blob/master/csvreader/datasets/beer.csv",
+          "title": "csvreader/beer.csv at master · rubycoco/csvreader",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/csvreader/issues",
-          "title": "Issues · rubycoco/csvreader · GitHub",
+          "path": "/rubycoco/csvreader/compare/master...Sjenica1:patch-1",
+          "title": "Comparing rubycoco:master...Sjenica1:patch-1 · rubycoco/csvreader",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/csvreader/tree/master/csvreader/lib",
-          "title": "csvreader/csvreader/lib at master · rubycoco/csvreader",
+          "path": "/rubycoco/csvreader/compare/master...Sjenica1:patch-2",
+          "title": "Comparing rubycoco:master...Sjenica1:patch-2 · rubycoco/csvreader",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 8,
-          "uniques": 7
-        },
-        {
-          "referrer": "ruby-toolbox.com",
-          "count": 6,
-          "uniques": 4
-        },
-        {
           "referrer": "Google",
-          "count": 5,
+          "count": 22,
+          "uniques": 15
+        },
+        {
+          "referrer": "github.com",
+          "count": 18,
           "uniques": 5
         },
         {
-          "referrer": "rubygems.org",
-          "count": 4,
+          "referrer": "awesome-ruby.com",
+          "count": 3,
           "uniques": 3
         },
         {
-          "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "awesome-ruby.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "laptrinhx.com",
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "csvy.org",
           "count": 1,
           "uniques": 1
         }
@@ -296,6 +295,134 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2022-04-02": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-04": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-04-05": {
+        "views": {
+          "count": 22,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-06": {
+        "views": {
+          "count": 11,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-04-07": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-08": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-10": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-11": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-12": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-04-13": {
+        "views": {
+          "count": 15,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-04-14": {
+        "views": {
+          "count": 7,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-04-03": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

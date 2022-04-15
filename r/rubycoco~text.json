@@ -2,7 +2,7 @@
   "full_name": "rubycoco/text",
   "created_at": "2012-06-09T10:07:00Z",
   "updated_at": "2021-12-12T09:29:40Z",
-  "pushed_at": "2020-11-01T10:27:47Z",
+  "pushed_at": "2022-04-05T07:45:00Z",
   "size": 200,
   "description": "text tools, libraries & scripts incl. text filters, helpers, readers and more",
   "language": "Ruby",
@@ -142,6 +142,10 @@
     "2022-04-01": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2022-04-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -169,18 +173,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
-        "count": 6,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/rubycoco/text",
+          "title": "rubycoco/text: text tools, libraries & scripts incl. text filters, helpers, r...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/text/compare/master...Sjenica1:patch-1",
+          "title": "Comparing rubycoco:master...Sjenica1:patch-1 · rubycoco/text",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/text/new/master",
+          "title": "New File",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/text/pull/3",
+          "title": "Create Sjenica1 by Sjenica1 · Pull Request #3 · rubycoco/text",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -589,6 +620,18 @@
         }
       },
       "2022-03-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-05": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-04-07": {
         "clones": {
           "count": 1,
           "uniques": 1

@@ -2,7 +2,7 @@
   "full_name": "rubycoco/flow",
   "created_at": "2013-10-31T17:23:02Z",
   "updated_at": "2021-05-03T22:11:25Z",
-  "pushed_at": "2020-11-04T16:18:07Z",
+  "pushed_at": "2022-04-05T07:46:20Z",
   "size": 37,
   "description": "(work) flow command line tools, libraries & scripts",
   "language": "Ruby",
@@ -142,6 +142,10 @@
     "2022-04-01": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2022-04-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -171,18 +175,56 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 8,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/rubycoco/flow",
+          "title": "GitHub - rubycoco/flow: (work) flow command line tools, libraries & scripts",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/flow/new/master",
+          "title": "New File",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/flow/compare/master...Sjenica1:patch-1",
+          "title": "Comparing rubycoco:master...Sjenica1:patch-1 · rubycoco/flow",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/flow/pull/1",
+          "title": "Create Sjenica1 by Sjenica1 · Pull Request #1 · rubycoco/flow",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/flow/tree/master/flow-lite",
+          "title": "flow/flow-lite at master · rubycoco/flow · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -632,6 +674,12 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2022-04-05": {
+        "views": {
+          "count": 8,
+          "uniques": 2
         }
       }
     }

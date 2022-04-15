@@ -130,6 +130,10 @@
     "2022-04-01": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2022-04-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -159,33 +163,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
-      },
-      "clones": {
         "count": 0,
         "uniques": 0
       },
+      "clones": {
+        "count": 2,
+        "uniques": 1
+      },
       "paths": [
-        {
-          "path": "/planetruby/changes/blob/master/_data/ruby25.yml",
-          "title": "changes/ruby25.yml at master · planetruby/changes",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/changes/blob/master/_data/ruby30.yml",
-          "title": "changes/ruby30.yml at master · planetruby/changes",
-          "count": 1,
-          "uniques": 1
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "planetruby.github.io",
-          "count": 2,
-          "uniques": 2
-        }
+
       ]
     },
     "history": {
@@ -480,6 +469,12 @@
       "2022-03-30": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-02": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

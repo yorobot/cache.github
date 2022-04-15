@@ -221,6 +221,10 @@
     "2022-04-01": {
       "stargazers_count": 7,
       "forks_count": 1
+    },
+    "2022-04-15": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -247,18 +251,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
-        "count": 7,
-        "uniques": 4
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.codes",
+          "title": "worlddb/world.db.codes: world.db web app for country codes (alpha 2, alpha 3,...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -511,6 +524,18 @@
       "2022-04-01": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-12": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -221,6 +221,10 @@
     "2022-04-01": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2022-04-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -256,12 +260,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 3,
         "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
@@ -269,10 +273,26 @@
           "title": "GitHub - openmundi/austria.db: Free open public domain data for Austria (Öste...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/openmundi/austria.db/blob/master/rivers.txt",
+          "title": "austria.db/rivers.txt at master · openmundi/austria.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/austria.db/tree/master/1--n-niederoesterreich",
+          "title": "austria.db/1--n-niederoesterreich at master · openmundi/austria.db · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -493,6 +513,12 @@
       "2022-03-22": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-07": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

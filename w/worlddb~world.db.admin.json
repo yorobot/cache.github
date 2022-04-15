@@ -221,6 +221,10 @@
     "2022-04-01": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2022-04-15": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -247,41 +251,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 2
+        "count": 15,
+        "uniques": 7
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/worlddb/world.db.admin",
-          "title": "GitHub - worlddb/world.db.admin: world.db web app - open world database (worl...",
-          "count": 2,
-          "uniques": 2
+          "title": "worlddb/world.db.admin: world.db web app - open world database (world.db) web...",
+          "count": 12,
+          "uniques": 7
         },
         {
-          "path": "/worlddb/world.db.admin/tree/master/config",
-          "title": "world.db.admin/config at master · worlddb/world.db.admin · GitHub",
+          "path": "/worlddb/world.db.admin/blob/master/config.ru",
+          "title": "world.db.admin/config.ru at master · worlddb/world.db.admin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.admin/tree/master/db",
-          "title": "world.db.admin/db at master · worlddb/world.db.admin · GitHub",
+          "path": "/worlddb/world.db.admin/blob/master/Gemfile",
+          "title": "world.db.admin/Gemfile at master · worlddb/world.db.admin",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.admin/tree/master/db/migrate",
-          "title": "world.db.admin/db/migrate at master · worlddb/world.db.admin · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db.admin/tree/master/script",
-          "title": "world.db.admin/script at master · worlddb/world.db.admin · GitHub",
+          "path": "/worlddb/world.db.admin/blob/master/Rakefile",
+          "title": "world.db.admin/Rakefile at master · worlddb/world.db.admin",
           "count": 1,
           "uniques": 1
         }
@@ -289,11 +287,16 @@
       "referrers": [
         {
           "referrer": "openmundi.github.io",
-          "count": 5,
-          "uniques": 1
+          "count": 9,
+          "uniques": 4
         },
         {
           "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -646,6 +649,42 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-04-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-10": {
+        "views": {
+          "count": 8,
+          "uniques": 2
         }
       }
     }

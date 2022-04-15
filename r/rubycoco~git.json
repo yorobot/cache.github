@@ -2,7 +2,7 @@
   "full_name": "rubycoco/git",
   "created_at": "2015-11-16T22:06:07Z",
   "updated_at": "2021-10-23T01:03:22Z",
-  "pushed_at": "2020-11-02T16:15:32Z",
+  "pushed_at": "2022-04-05T07:33:22Z",
   "size": 196,
   "history": {
     "2020-10-09": {
@@ -167,6 +167,10 @@
     "2022-04-01": {
       "stargazers_count": 16,
       "forks_count": 2
+    },
+    "2022-04-15": {
+      "stargazers_count": 16,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -200,18 +204,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 6,
+        "count": 5,
         "uniques": 3
       },
       "paths": [
-
+        {
+          "path": "/rubycoco/git",
+          "title": "rubycoco/git: git (and github) command line tools, libraries & scripts",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/git/compare/master...Sjenica1:patch-1",
+          "title": "Comparing rubycoco:master...Sjenica1:patch-1 · rubycoco/git",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/git/new/master",
+          "title": "New File",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/git/pull/3",
+          "title": "Create Sjenica1 by Sjenica1 · Pull Request #3 · rubycoco/git",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1158,6 +1189,46 @@
       "2022-03-28": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-05": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-04-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

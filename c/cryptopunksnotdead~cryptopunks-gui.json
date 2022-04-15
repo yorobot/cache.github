@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/cryptopunks-gui",
   "created_at": "2021-10-22T22:23:19Z",
-  "updated_at": "2021-12-29T01:24:21Z",
+  "updated_at": "2022-04-06T15:59:02Z",
   "pushed_at": "2022-02-12T01:39:13Z",
   "size": 2699,
   "description": "CryptoPunks GUI for Simplified Minting",
@@ -46,6 +46,10 @@
     "2022-04-01": {
       "stargazers_count": 8,
       "forks_count": 3
+    },
+    "2022-04-15": {
+      "stargazers_count": 9,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -80,23 +84,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 21,
-        "uniques": 14
+        "count": 35,
+        "uniques": 17
       },
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/cryptopunks-gui",
           "title": "GitHub - cryptopunksnotdead/cryptopunks-gui: CryptoPunks GUI for Simplified M...",
-          "count": 18,
-          "uniques": 12
+          "count": 24,
+          "uniques": 15
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/README.md",
-          "title": "cryptopunks-gui/README.md at master · cryptopunksnotdead/cryptopunks-gui · Gi...",
+          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/cryptopunks-collections.yml",
+          "title": "cryptopunks-gui/cryptopunks-collections.yml at master · cryptopunksnotdead/cr...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/blob/master/screenshots/cryptopunks-gui-screenshot.png",
+          "title": "cryptopunks-gui/cryptopunks-gui-screenshot.png at master · cryptopunksnotdead...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/commit/fda468911d36072371642b2ce5c0e83539316b36",
+          "title": "Support configuring default collections through a web hosted yaml fil… · cryp...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/issues/1",
+          "title": "`map': undefined method `name' · Issue #1 · cryptopunksnotdead/cryptopunks-gui",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/app",
+          "title": "cryptopunks-gui/app at master · cryptopunksnotdead/cryptopunks-gui · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/bin",
+          "title": "cryptopunks-gui/bin at master · cryptopunksnotdead/cryptopunks-gui · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/icons",
+          "title": "cryptopunks-gui/icons at master · cryptopunksnotdead/cryptopunks-gui · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks-gui/tree/master/screenshots",
+          "title": "cryptopunks-gui/screenshots at master · cryptopunksnotdead/cryptopunks-gui · ...",
           "count": 1,
           "uniques": 1
         }
@@ -104,16 +150,21 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 7
-        },
-        {
-          "referrer": "Google",
-          "count": 3,
-          "uniques": 3
+          "count": 25,
+          "uniques": 13
         },
         {
           "referrer": "libhunt.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -1033,6 +1084,60 @@
       "2022-03-19": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-03": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2022-04-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-06": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-04-07": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2022-04-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-10": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-04-14": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-04-15": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }

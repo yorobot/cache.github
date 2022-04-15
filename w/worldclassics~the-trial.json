@@ -221,6 +221,10 @@
     "2022-04-01": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2022-04-15": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -247,23 +251,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 6,
         "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/worldclassics/the-trial",
-          "title": "GitHub - worldclassics/the-trial: The Trial by Franz Kafka",
-          "count": 1,
+          "title": "worldclassics/the-trial: The Trial by Franz Kafka",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worldclassics/the-trial/blame/master/01.md",
+          "title": "the-trial/01.md at master · worldclassics/the-trial",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worldclassics/the-trial/blob/master/01.md",
+          "title": "the-trial/01.md at master · worldclassics/the-trial",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -460,6 +480,18 @@
       "2022-03-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-06": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-04-05": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -34,6 +34,10 @@
     "2022-04-01": {
       "stargazers_count": 46,
       "forks_count": 6
+    },
+    "2022-04-15": {
+      "stargazers_count": 46,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -61,109 +65,104 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 131,
+        "count": 101,
         "uniques": 23
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/pixelart-characters",
-          "title": "pixelart/pixelart-characters at master · pixelartexchange/pixelart · GitHub",
-          "count": 35,
-          "uniques": 9
-        },
         {
           "path": "/pixelartexchange/pixelart",
           "title": "pixelartexchange/pixelart: pixel art (and graphics) libraries & scripts",
           "count": 25,
-          "uniques": 16
+          "uniques": 17
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/pixelart-characters",
+          "title": "pixelart/pixelart-characters at master · pixelartexchange/pixelart",
+          "count": 23,
+          "uniques": 6
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/pixelart",
           "title": "pixelart/pixelart at master · pixelartexchange/pixelart · GitHub",
           "count": 11,
-          "uniques": 9
+          "uniques": 7
         },
         {
-          "path": "/pixelartexchange/pixelart/tree/master/pixelart/lib",
-          "title": "pixelart/pixelart/lib at master · pixelartexchange/pixelart",
-          "count": 5,
-          "uniques": 4
+          "path": "/pixelartexchange/pixelart/tree/master/8bit",
+          "title": "pixelart/8bit at master · pixelartexchange/pixelart · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/pixelart/lib/pixelart",
           "title": "pixelart/pixelart/lib/pixelart at master · pixelartexchange/pixelart",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/pixelart-characters/lib/pixelart",
-          "title": "pixelart/pixelart-characters/lib/pixelart at master · pixelartexchange/pixela...",
           "count": 3,
-          "uniques": 3
+          "uniques": 2
         },
         {
-          "path": "/pixelartexchange/pixelart/tree/master/pixelart-characters/lib/pixelart/characters",
-          "title": "pixelart/pixelart-characters/lib/pixelart/characters at master · pixelartexch...",
+          "path": "/pixelartexchange/pixelart/search",
+          "title": "Search · pixelart",
           "count": 3,
-          "uniques": 3
+          "uniques": 1
         },
         {
-          "path": "/pixelartexchange/pixelart/blob/master/pixelart-characters/lib/pixelart/characters/version.rb",
-          "title": "pixelart/version.rb at master · pixelartexchange/pixelart · GitHub",
+          "path": "/pixelartexchange/pixelart/tree/master/pixelart-glimmer",
+          "title": "pixelart/pixelart-glimmer at master · pixelartexchange/pixelart",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/pixelartexchange/pixelart/blob/master/pixelart/lib/pixelart/image.rb",
-          "title": "pixelart/image.rb at master · pixelartexchange/pixelart",
+          "path": "/pixelartexchange/pixelart/tree/master/pixelart/sandbox",
+          "title": "pixelart/pixelart/sandbox at master · pixelartexchange/pixelart · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/pixelartexchange/pixelart/blob/master/pixelart/lib/pixelart/pixelator.rb",
+          "title": "pixelart/pixelator.rb at master · pixelartexchange/pixelart",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/pixelart/blob/03987153973a1133b630153ecf29bc5408c614d1/pixelart/lib/pixelart/image.rb",
-          "title": "pixelart/image.rb at 03987153973a1133b630153ecf29bc5408c614d1 · pixelartexcha...",
-          "count": 1,
+          "path": "/pixelartexchange/pixelart/blob/master/pixelart/lib/pixelart/transparent.rb",
+          "title": "pixelart/transparent.rb at master · pixelartexchange/pixelart",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 20,
+          "uniques": 9
+        },
+        {
           "referrer": "planetruby.github.io",
-          "count": 30,
+          "count": 20,
           "uniques": 3
         },
         {
-          "referrer": "github.com",
-          "count": 20,
-          "uniques": 6
-        },
-        {
           "referrer": "rubygems.org",
-          "count": 14,
-          "uniques": 5
+          "count": 17,
+          "uniques": 2
         },
         {
-          "referrer": "Google",
-          "count": 10,
-          "uniques": 5
-        },
-        {
-          "referrer": "ruby-toolbox.com",
-          "count": 6,
+          "referrer": "reddit.com",
+          "count": 17,
           "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 13,
+          "uniques": 4
         },
         {
           "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "index.rubygems.org",
-          "count": 1,
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -887,6 +886,106 @@
         "views": {
           "count": 22,
           "uniques": 3
+        }
+      },
+      "2022-04-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-03": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-04-04": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        }
+      },
+      "2022-04-05": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2022-04-06": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-04-07": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-04-08": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-09": {
+        "views": {
+          "count": 27,
+          "uniques": 4
+        }
+      },
+      "2022-04-10": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-12": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-13": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        }
+      },
+      "2022-04-14": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-04-15": {
+        "views": {
+          "count": 4,
+          "uniques": 1
         }
       }
     }
