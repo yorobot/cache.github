@@ -225,6 +225,10 @@
     "2022-04-15": {
       "stargazers_count": 171,
       "forks_count": 24
+    },
+    "2022-05-01": {
+      "stargazers_count": 175,
+      "forks_count": 25
     }
   },
   "commits": [
@@ -241,7 +245,7 @@
     }
   ],
   "size": 43,
-  "updated_at": "2022-04-03T13:40:33Z",
+  "updated_at": "2022-05-01T01:17:50Z",
   "pushed_at": "2021-12-13T11:28:16Z",
   "description": "A collection of awesome sqlite tools, scripts, books, etc",
   "language": null,
@@ -253,41 +257,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 151,
-        "uniques": 113
+        "count": 169,
+        "uniques": 109
       },
       "clones": {
-        "count": 7,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/planetopendata/awesome-sqlite",
           "title": "planetopendata/awesome-sqlite: A collection of awesome sqlite tools, scripts,...",
-          "count": 138,
-          "uniques": 106
+          "count": 139,
+          "uniques": 99
         },
         {
           "path": "/planetopendata/awesome-sqlite/blob/master/COMMERCIAL.md",
           "title": "awesome-sqlite/COMMERCIAL.md at master · planetopendata/awesome-sqlite · GitHub",
           "count": 5,
-          "uniques": 3
+          "uniques": 5
         },
         {
-          "path": "/planetopendata/awesome-sqlite/blob/master/README.md",
-          "title": "awesome-sqlite/README.md at master · planetopendata/awesome-sqlite",
-          "count": 2,
+          "path": "/planetopendata/awesome-sqlite/pulls",
+          "title": "Pull requests · planetopendata/awesome-sqlite",
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/planetopendata/awesome-sqlite/commit/dc2eedeb29f0cdf5ed13328be6177c0a5b1050ad",
-          "title": "Update COMMERCIAL.md · planetopendata/awesome-sqlite@dc2eede · GitHub",
+          "path": "/planetopendata/awesome-sqlite/commits/master",
+          "title": "Commits · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/fork",
+          "title": "Fork planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/2",
+          "title": "Add csvs-to-sqlite by simonw · Pull Request #2 · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pulse",
+          "title": "Pulse · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/actions",
+          "title": "Actions · planetopendata/awesome-sqlite",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetopendata/awesome-sqlite/find/master",
-          "title": "File Finder · GitHub",
+          "path": "/planetopendata/awesome-sqlite/commit/a7a933e961a162e33512e6a3bc3051bfed0a7a0a",
+          "title": "Create LICENSE.md · planetopendata/awesome-sqlite@a7a933e · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/commit/d9e1abab895150a175f0c5f8ca8ec3c788bf248b",
+          "title": "Update README.md (#8) · planetopendata/awesome-sqlite@d9e1aba",
           "count": 1,
           "uniques": 1
         }
@@ -295,51 +329,51 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 63,
-          "uniques": 44
+          "count": 84,
+          "uniques": 55
         },
         {
           "referrer": "github.com",
-          "count": 31,
-          "uniques": 28
+          "count": 25,
+          "uniques": 22
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 10,
-          "uniques": 9
-        },
-        {
-          "referrer": "wiki.nikitavoloboev.xyz",
-          "count": 10,
-          "uniques": 7
-        },
-        {
-          "referrer": "cn.bing.com",
           "count": 6,
-          "uniques": 2
+          "uniques": 6
         },
         {
-          "referrer": "awesome-python.com",
-          "count": 4,
-          "uniques": 3
+          "referrer": "libhunt.com",
+          "count": 6,
+          "uniques": 1
         },
         {
-          "referrer": "StartPage",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "profs.info.uaic.ro",
-          "count": 2,
-          "uniques": 2
+          "referrer": "ecosia.org",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "Bing",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         {
-          "referrer": "yandex.ru",
+          "referrer": "planetopendata.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "awesome-python.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Baidu",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "profs.info.uaic.ro",
           "count": 1,
           "uniques": 1
         }
@@ -3523,6 +3557,98 @@
         }
       },
       "2022-04-15": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-04-18": {
+        "views": {
+          "count": 8,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-19": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2022-04-20": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-04-21": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-04-22": {
+        "views": {
+          "count": 11,
+          "uniques": 10
+        }
+      },
+      "2022-04-23": {
+        "views": {
+          "count": 19,
+          "uniques": 8
+        }
+      },
+      "2022-04-24": {
+        "views": {
+          "count": 7,
+          "uniques": 7
+        }
+      },
+      "2022-04-25": {
+        "views": {
+          "count": 21,
+          "uniques": 7
+        }
+      },
+      "2022-04-26": {
+        "views": {
+          "count": 16,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-04-27": {
+        "views": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2022-04-28": {
+        "views": {
+          "count": 27,
+          "uniques": 11
+        }
+      },
+      "2022-04-29": {
+        "views": {
+          "count": 16,
+          "uniques": 15
+        }
+      },
+      "2022-04-30": {
+        "views": {
+          "count": 14,
+          "uniques": 13
+        }
+      },
+      "2022-05-01": {
         "views": {
           "count": 4,
           "uniques": 4

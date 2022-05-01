@@ -1,9 +1,9 @@
 {
   "full_name": "rubycoco/webclient",
   "created_at": "2012-06-02T20:09:04Z",
-  "updated_at": "2021-08-06T14:36:10Z",
-  "pushed_at": "2022-04-05T07:41:24Z",
-  "size": 45,
+  "updated_at": "2022-04-28T15:20:43Z",
+  "pushed_at": "2022-04-28T15:20:39Z",
+  "size": 47,
   "history": {
     "2020-10-09": {
       "stargazers_count": 5
@@ -171,19 +171,23 @@
     "2022-04-15": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2022-05-01": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-08-06T14:36:07Z",
-        "name": "GitHub"
+        "date": "2022-04-28T15:20:34Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-08-06T14:36:07Z",
-        "name": "pacbard"
+        "date": "2022-04-28T15:20:34Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Add support for redirect with cookie authentication (#1)\n\n* Add support for redirect with cookie authentication\r\n\r\nIn relation to feedreader/pluto#39, the request cookie gets saved for each redirect. This should support cookie based authentication.\r\n\r\n* Support multiple cookies\r\n\r\nSome websites return more than one cookie. This iterates over the multiple\r\ncookies and concatenates them in a single one.\r\n\r\nIf only one cookie is returned, just pass that one to the next request.\r\n\r\n* Make cookie header compliant with RFC 6265\r\n\r\nRFC 6265 states that the client should pass a colon-separated cookie header\r\nto the server as a single string. This commit should make the cookie request\r\ncompliant to this RFC."
+      "message": "up"
     }
   ],
   "description": "web command line tools, libraries & scripts",
@@ -195,60 +199,89 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
-        "uniques": 3
+        "count": 29,
+        "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 7,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/rubycoco/webclient",
           "title": "rubycoco/webclient: web command line tools, libraries & scripts",
+          "count": 8,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient",
+          "title": "webclient/webclient at master · rubycoco/webclient",
           "count": 4,
           "uniques": 2
         },
         {
-          "path": "/rubycoco/webclient/new/master",
-          "title": "New File",
+          "path": "/rubycoco/webclient/tree/master/webclient/lib",
+          "title": "webclient/webclient/lib at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webclient/sandbox/test_get.rb",
+          "title": "webclient/test_get.rb at master · rubycoco/webclient",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/tree/master/fetcher",
-          "title": "webclient/fetcher at master · rubycoco/webclient",
+          "path": "/rubycoco/webclient/commit/c115ac78f065406d1c9d8ce00f7fde72b903f415",
+          "title": "Add support for redirect with cookie authentication (#1) · rubycoco/webclient...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/compare/master...Sjenica1:patch-1",
-          "title": "Comparing rubycoco:master...Sjenica1:patch-1 · rubycoco/webclient",
+          "path": "/rubycoco/webclient/pulse",
+          "title": "Pulse · rubycoco/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient/sandbox",
+          "title": "webclient/webclient/sandbox at master · rubycoco/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient.rb",
+          "title": "webclient/webclient.rb at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/pull/2",
-          "title": "Create Sjenica1 by Sjenica1 · Pull Request #2 · rubycoco/webclient",
+          "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient/webclient.rb",
+          "title": "webclient/webclient.rb at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/stargazers",
-          "title": "Stargazers · rubycoco/webclient · GitHub",
+          "path": "/rubycoco/webclient/commit/73d43d7ab06ac587cca11a7be7989e23209f8133",
+          "title": "up · rubycoco/webclient@73d43d7",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubydoc.info",
-          "count": 4,
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 5,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
-          "count": 2,
+          "referrer": "Google",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1199,10 +1232,32 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2022-04-21": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-04-26": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2022-04-28": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 36426
+    "Ruby": 38194
   }
 }

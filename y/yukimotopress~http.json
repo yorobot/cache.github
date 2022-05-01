@@ -211,6 +211,10 @@
     "2022-04-15": {
       "stargazers_count": 15,
       "forks_count": 3
+    },
+    "2022-05-01": {
+      "stargazers_count": 16,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -226,7 +230,7 @@
       "message": "up"
     }
   ],
-  "updated_at": "2021-10-12T15:49:59Z",
+  "updated_at": "2022-04-28T03:29:54Z",
   "pushed_at": "2018-01-18T09:22:16Z",
   "description": "Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Edition) by August Lilleaas, et al",
   "language": null,
@@ -236,18 +240,44 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 10,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
+        "count": 4,
         "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/yukimotopress/http/blob/master/index.md",
+          "title": "http/index.md at master · yukimotopress/http · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/yukimotopress/http",
+          "title": "yukimotopress/http: Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Editio...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/yukimotopress/http/blob/master/fetcher.md",
+          "title": "http/fetcher.md at master · yukimotopress/http · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -600,6 +630,32 @@
       "2022-04-11": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-25": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2022-04-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

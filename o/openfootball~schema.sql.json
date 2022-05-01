@@ -225,6 +225,10 @@
     "2022-04-15": {
       "stargazers_count": 40,
       "forks_count": 16
+    },
+    "2022-05-01": {
+      "stargazers_count": 40,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -251,71 +255,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 146,
-        "uniques": 46
+        "count": 164,
+        "uniques": 42
       },
       "clones": {
         "count": 2,
-        "uniques": 2
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openfootball/schema.sql",
           "title": "openfootball/schema.sql: football.db database schema (tables, views, etc.) sc...",
-          "count": 67,
-          "uniques": 41
+          "count": 57,
+          "uniques": 34
         },
         {
           "path": "/openfootball/schema.sql/blob/master/football.sql",
           "title": "schema.sql/football.sql at master · openfootball/schema.sql · GitHub",
-          "count": 32,
-          "uniques": 21
+          "count": 33,
+          "uniques": 18
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/README.md",
-          "title": "schema.sql/README.md at master · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/blob/master/football.views.sql",
+          "title": "schema.sql/football.views.sql at master · openfootball/schema.sql · GitHub",
+          "count": 10,
+          "uniques": 8
+        },
+        {
+          "path": "/openfootball/schema.sql/blob/master/football.events.views.sql",
+          "title": "schema.sql/football.events.views.sql at master · openfootball/schema.sql · Gi...",
           "count": 8,
-          "uniques": 7
+          "uniques": 8
         },
         {
           "path": "/openfootball/schema.sql/blob/master/world.sql",
           "title": "schema.sql/world.sql at master · openfootball/schema.sql · GitHub",
           "count": 7,
-          "uniques": 6
+          "uniques": 7
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/football.views.sql",
-          "title": "schema.sql/football.views.sql at master · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/search",
+          "title": "Search · soccer database · GitHub",
           "count": 6,
-          "uniques": 6
+          "uniques": 2
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/NOTES.md",
-          "title": "schema.sql/NOTES.md at master · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/blob/master/README.md",
+          "title": "schema.sql/README.md at master · openfootball/schema.sql · GitHub",
           "count": 5,
-          "uniques": 4
+          "uniques": 5
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/support.sql",
-          "title": "schema.sql/support.sql at master · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/find/master",
+          "title": "File Finder · GitHub",
           "count": 4,
-          "uniques": 4
+          "uniques": 2
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/football.events.views.sql",
-          "title": "schema.sql/football.events.views.sql at master · openfootball/schema.sql · Gi...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/schema.sql/issues",
-          "title": "Issues · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/blob/master/LICENSE.md",
+          "title": "schema.sql/LICENSE.md at master · openfootball/schema.sql · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openfootball/schema.sql/pulls",
-          "title": "Pull requests · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/blob/master/NOTES.md",
+          "title": "schema.sql/NOTES.md at master · openfootball/schema.sql · GitHub",
           "count": 2,
           "uniques": 2
         }
@@ -323,23 +327,18 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 69,
+          "count": 83,
           "uniques": 25
         },
         {
           "referrer": "github.com",
-          "count": 33,
-          "uniques": 12
-        },
-        {
-          "referrer": "yandex.ru",
-          "count": 4,
-          "uniques": 1
+          "count": 31,
+          "uniques": 7
         },
         {
           "referrer": "Bing",
           "count": 3,
-          "uniques": 3
+          "uniques": 1
         },
         {
           "referrer": "DuckDuckGo",
@@ -3319,6 +3318,88 @@
         "views": {
           "count": 5,
           "uniques": 3
+        }
+      },
+      "2022-04-18": {
+        "views": {
+          "count": 9,
+          "uniques": 5
+        }
+      },
+      "2022-04-19": {
+        "views": {
+          "count": 17,
+          "uniques": 7
+        }
+      },
+      "2022-04-20": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-04-21": {
+        "views": {
+          "count": 10,
+          "uniques": 6
+        }
+      },
+      "2022-04-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-04-23": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-04-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-04-26": {
+        "views": {
+          "count": 16,
+          "uniques": 5
+        }
+      },
+      "2022-04-27": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-04-28": {
+        "views": {
+          "count": 30,
+          "uniques": 5
+        }
+      },
+      "2022-04-29": {
+        "views": {
+          "count": 38,
+          "uniques": 3
+        }
+      },
+      "2022-04-30": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        }
+      },
+      "2022-05-01": {
+        "views": {
+          "count": 11,
+          "uniques": 5
         }
       }
     }

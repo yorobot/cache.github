@@ -189,6 +189,10 @@
     "2022-04-15": {
       "stargazers_count": 27,
       "forks_count": 1
+    },
+    "2022-05-01": {
+      "stargazers_count": 27,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -212,18 +216,38 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 10,
+        "uniques": 5
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 5,
-        "uniques": 3
-      },
       "paths": [
-
+        {
+          "path": "/s6ruby/units-time",
+          "title": "GitHub - s6ruby/units-time: units-time library / gem - units of time (in epoc...",
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "path": "/s6ruby/units-time/pulls",
+          "title": "Pull requests · s6ruby/units-time",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -625,6 +649,12 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2022-04-29": {
+        "views": {
+          "count": 10,
+          "uniques": 5
         }
       }
     }
