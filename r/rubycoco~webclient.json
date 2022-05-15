@@ -175,6 +175,10 @@
     "2022-05-01": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2022-05-15": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -199,55 +203,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 29,
+        "count": 13,
         "uniques": 2
       },
       "clones": {
-        "count": 7,
+        "count": 8,
         "uniques": 5
       },
       "paths": [
         {
           "path": "/rubycoco/webclient",
-          "title": "rubycoco/webclient: web command line tools, libraries & scripts",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webclient",
-          "title": "webclient/webclient at master · rubycoco/webclient",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webclient/lib",
-          "title": "webclient/webclient/lib at master · rubycoco/webclient",
+          "title": "GitHub - rubycoco/webclient: web command line tools, libraries & scripts",
           "count": 2,
           "uniques": 2
-        },
-        {
-          "path": "/rubycoco/webclient/blob/master/webclient/sandbox/test_get.rb",
-          "title": "webclient/test_get.rb at master · rubycoco/webclient",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/commit/c115ac78f065406d1c9d8ce00f7fde72b903f415",
-          "title": "Add support for redirect with cookie authentication (#1) · rubycoco/webclient...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/pulse",
-          "title": "Pulse · rubycoco/webclient",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycoco/webclient/tree/master/webclient/sandbox",
-          "title": "webclient/webclient/sandbox at master · rubycoco/webclient",
-          "count": 2,
-          "uniques": 1
         },
         {
           "path": "/rubycoco/webclient/blob/master/webclient/lib/webclient.rb",
@@ -262,8 +230,44 @@
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/commit/73d43d7ab06ac587cca11a7be7989e23209f8133",
-          "title": "up · rubycoco/webclient@73d43d7",
+          "path": "/rubycoco/webclient/blob/master/webget/lib/webget.rb",
+          "title": "webclient/webget.rb at master · rubycoco/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webget/lib/webget/webcache.rb",
+          "title": "webclient/webcache.rb at master · rubycoco/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/blob/master/webget/lib/webget/webget.rb",
+          "title": "webclient/webget.rb at master · rubycoco/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient",
+          "title": "webclient/webclient at master · rubycoco/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient/lib",
+          "title": "webclient/webclient/lib at master · rubycoco/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webclient/lib/webclient",
+          "title": "webclient/webclient/lib/webclient at master · rubycoco/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/webclient/tree/master/webget",
+          "title": "webclient/webget at master · rubycoco/webclient",
           "count": 1,
           "uniques": 1
         }
@@ -271,16 +275,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 5,
+          "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "Google",
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -1253,6 +1252,36 @@
         "clones": {
           "count": 7,
           "uniques": 5
+        }
+      },
+      "2022-05-12": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2022-05-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-08": {
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-05-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

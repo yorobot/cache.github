@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -255,50 +259,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 2
-      },
-      "clones": {
         "count": 0,
         "uniques": 0
       },
+      "clones": {
+        "count": 2,
+        "uniques": 1
+      },
       "paths": [
-        {
-          "path": "/persondb/person.db.models",
-          "title": "persondb/person.db.models: persondb gem - person schema & models for easy reu...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/persondb/person.db.models/blob/master/lib/persondb/models.rb",
-          "title": "person.db.models/models.rb at master · persondb/person.db.models",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/persondb/person.db.models/blob/master/Manifest.txt",
-          "title": "person.db.models/Manifest.txt at master · persondb/person.db.models",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/persondb/person.db.models/tree/master/lib/persondb",
-          "title": "person.db.models/lib/persondb at master · persondb/person.db.models",
-          "count": 1,
-          "uniques": 1
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -715,6 +687,12 @@
       "2022-04-26": {
         "views": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-05-04": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

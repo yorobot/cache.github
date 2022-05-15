@@ -150,6 +150,10 @@
     "2022-05-01": {
       "stargazers_count": 50,
       "forks_count": 5
+    },
+    "2022-05-15": {
+      "stargazers_count": 50,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -182,35 +186,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 4
+        "count": 24,
+        "uniques": 9
       },
       "clones": {
-        "count": 22,
-        "uniques": 9
+        "count": 3,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/rubycoco/markdown",
           "title": "rubycoco/markdown: markdown tools, libraries & scripts",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/rubycoco/markdown/tree/master/markdown",
+          "title": "markdown/markdown at master · rubycoco/markdown · GitHub",
           "count": 5,
-          "uniques": 3
+          "uniques": 4
         },
         {
-          "path": "/rubycoco/markdown/tree/master/markdown-tools",
-          "title": "markdown/markdown-tools at master · rubycoco/markdown · GitHub",
+          "path": "/rubycoco/markdown/blob/master/markdown/lib/markdown/config.rb",
+          "title": "markdown/config.rb at master · rubycoco/markdown",
           "count": 3,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/rubycoco/markdown/blob/master/markdown.note/README.md",
-          "title": "markdown/README.md at master · rubycoco/markdown · GitHub",
+          "path": "/rubycoco/markdown/blob/master/markdown/lib/markdown/engines/kramdown.rb",
+          "title": "markdown/kramdown.rb at master · rubycoco/markdown",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/markdown/tree/master/markdown.note",
-          "title": "markdown/markdown.note at master · rubycoco/markdown · GitHub",
+          "path": "/rubycoco/markdown/blob/master/markdown/lib/markdown.rb",
+          "title": "markdown/markdown.rb at master · rubycoco/markdown",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/markdown/blob/master/markdown/lib/markdown/version.rb",
+          "title": "markdown/version.rb at master · rubycoco/markdown",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/markdown/blob/master/markdown/lib/markdown/wrapper.rb",
+          "title": "markdown/wrapper.rb at master · rubycoco/markdown",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/markdown/fork",
+          "title": "Fork rubycoco/markdown",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/markdown/tree/master/markdown/lib",
+          "title": "markdown/markdown/lib at master · rubycoco/markdown",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/markdown/tree/master/markdown/lib/markdown",
+          "title": "markdown/markdown/lib/markdown at master · rubycoco/markdown",
           "count": 1,
           "uniques": 1
         }
@@ -218,8 +258,18 @@
       "referrers": [
         {
           "referrer": "rubygems.org",
-          "count": 4,
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
           "uniques": 2
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1525,6 +1575,64 @@
       "2022-04-27": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-09": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2022-05-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-05": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

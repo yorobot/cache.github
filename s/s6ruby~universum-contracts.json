@@ -193,6 +193,10 @@
     "2022-05-01": {
       "stargazers_count": 14,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 14,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -222,11 +226,11 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 6,
         "uniques": 2
       },
       "clones": {
-        "count": 15,
+        "count": 5,
         "uniques": 4
       },
       "paths": [
@@ -235,17 +239,30 @@
           "title": "s6ruby/universum-contracts: universum contract / transaction scripts (in plai...",
           "count": 2,
           "uniques": 2
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "planetruby.github.io",
+          "path": "/s6ruby/universum-contracts/tree/master/ballot",
+          "title": "universum-contracts/ballot at master · s6ruby/universum-contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum-contracts/blob/master/ballot/ballot.rb",
+          "title": "universum-contracts/ballot.rb at master · s6ruby/universum-contracts",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "path": "/s6ruby/universum-contracts/tree/master/ballot/dl",
+          "title": "universum-contracts/ballot/dl at master · s6ruby/universum-contracts",
           "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 5,
           "uniques": 1
         }
       ]
@@ -739,6 +756,30 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2022-05-02": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-05-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-13": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
         }
       }
     }

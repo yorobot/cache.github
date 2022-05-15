@@ -224,6 +224,10 @@
     "2022-05-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -258,12 +262,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 3,
         "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
@@ -271,14 +275,22 @@
           "title": "GitHub - feedtxt/feedtxt.github.io: Feeds in Text Website",
           "count": 1,
           "uniques": 1
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "github.com",
+          "path": "/feedtxt/feedtxt.github.io/blob/master/_includes/header.html",
+          "title": "feedtxt.github.io/header.html at master · feedtxt/feedtxt.github.io · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedtxt/feedtxt.github.io/tree/master/_includes",
+          "title": "feedtxt.github.io/_includes at master · feedtxt/feedtxt.github.io · GitHub",
           "count": 1,
           "uniques": 1
         }
+      ],
+      "referrers": [
+
       ]
     },
     "history": {
@@ -463,6 +475,12 @@
       "2022-04-22": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-11": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

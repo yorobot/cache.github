@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -255,8 +259,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 10,
+        "uniques": 3
       },
       "clones": {
         "count": 2,
@@ -265,7 +269,19 @@
       "paths": [
         {
           "path": "/openfootball/futbol-es",
-          "title": "GitHub - openfootball/futbol-es: Free open public domain football.db addon - ...",
+          "title": "openfootball/futbol-es: Free open public domain football.db addon - teams, le...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/futbol-es/blob/master/america-del-sur/teams.yml",
+          "title": "futbol-es/teams.yml at master · openfootball/futbol-es",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/futbol-es/tree/master/america-del-sur",
+          "title": "futbol-es/america-del-sur at master · openfootball/futbol-es",
           "count": 1,
           "uniques": 1
         }
@@ -273,8 +289,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -568,6 +584,28 @@
       "2022-04-20": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-15": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

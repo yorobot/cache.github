@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -255,18 +259,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/funpress/es6-features",
+          "title": "funpress/es6-features: ECMAScript 6 Features by Luke Hoban et al",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/funpress/es6-features/blob/master/00__Introduction.md",
+          "title": "es6-features/00__Introduction.md at master · funpress/es6-features",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/funpress/es6-features/blob/master/01__Arrows.md",
+          "title": "es6-features/01__Arrows.md at master · funpress/es6-features",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/funpress/es6-features/blob/master/21__Tail_Calls.md",
+          "title": "es6-features/21__Tail_Calls.md at master · funpress/es6-features",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -369,6 +400,18 @@
       "2022-03-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-04": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-05-06": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

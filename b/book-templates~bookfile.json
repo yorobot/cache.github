@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -255,17 +259,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/book-templates/bookfile",
-          "title": "book-templates/bookfile: quick starter bookfile templates - World Almanac, Wo...",
+          "title": "GitHub - book-templates/bookfile: quick starter bookfile templates - World Al...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/beer.rb",
+          "title": "bookfile/beer.rb at master · book-templates/bookfile",
           "count": 1,
           "uniques": 1
         }
@@ -273,6 +283,11 @@
       "referrers": [
         {
           "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -793,6 +808,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-05-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

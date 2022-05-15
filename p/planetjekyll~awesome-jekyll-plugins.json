@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 1062,
       "forks_count": 75
+    },
+    "2022-05-15": {
+      "stargazers_count": 1072,
+      "forks_count": 76
     }
   },
   "commits": [
@@ -245,7 +249,7 @@
     }
   ],
   "size": 255,
-  "updated_at": "2022-04-26T09:26:15Z",
+  "updated_at": "2022-05-15T21:18:40Z",
   "pushed_at": "2022-02-18T16:11:13Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
@@ -255,53 +259,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 524,
-        "uniques": 340
+        "count": 528,
+        "uniques": 308
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 471,
-          "uniques": 311
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
-          "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 13,
-          "uniques": 13
+          "count": 472,
+          "uniques": 287
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
           "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
-          "count": 3,
-          "uniques": 3
+          "count": 14,
+          "uniques": 5
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
+          "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/issues",
+          "title": "Issues · planetjekyll/awesome-jekyll-plugins · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
           "title": "awesome-jekyll-plugins/NOTES.md at master · planetjekyll/awesome-jekyll-plugins",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/51c37f48210841ea355306c7f3e973d67c89a26b",
-          "title": "feat: added jekyll_bootstrap5_tabs plugin (#65) · planetjekyll/awesome-jekyll...",
+          "path": "/https://github.com/planetjekyll/awesome-jekyll-plugins",
+          "title": "GitHub - planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll ...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commits/master",
-          "title": "Commits · planetjekyll/awesome-jekyll-plugins · GitHub",
+          "path": "/planetjekyll/awesome-jekyll-plugins/find/master",
+          "title": "File Finder · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/edit/master/README.md",
-          "title": "Editing awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jek...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/50",
+          "title": "Update jekyll-spaceship plugin by jeffreytse · Pull Request #50 · planetjekyl...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -309,53 +325,53 @@
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 205,
-          "uniques": 154
+          "count": 211,
+          "uniques": 141
         },
         {
           "referrer": "Google",
-          "count": 141,
-          "uniques": 97
+          "count": 151,
+          "uniques": 98
         },
         {
           "referrer": "github.com",
-          "count": 30,
-          "uniques": 14
+          "count": 48,
+          "uniques": 11
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 16,
-          "uniques": 9
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "youtube.com",
+          "count": 3,
+          "uniques": 3
         },
         {
           "referrer": "rubyflow.com",
-          "count": 8,
+          "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "snipcart.com",
-          "count": 7,
-          "uniques": 7
+          "referrer": "piaflu.tistory.com",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "referrer": "engine.presearch.org",
-          "count": 5,
+          "referrer": "planetjekyll.github.io",
+          "count": 1,
           "uniques": 1
         },
         {
           "referrer": "StartPage",
-          "count": 4,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
         },
         {
-          "referrer": "youtube.com",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "referrer": "planetjekyll.github.io",
-          "count": 2,
-          "uniques": 2
+          "referrer": "jekyllrb-ko.github.io",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -3776,8 +3792,116 @@
       },
       "2022-05-01": {
         "views": {
-          "count": 31,
-          "uniques": 25
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-02": {
+        "views": {
+          "count": 40,
+          "uniques": 27
+        }
+      },
+      "2022-05-03": {
+        "views": {
+          "count": 36,
+          "uniques": 28
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-04": {
+        "views": {
+          "count": 44,
+          "uniques": 34
+        }
+      },
+      "2022-05-05": {
+        "views": {
+          "count": 44,
+          "uniques": 32
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-06": {
+        "views": {
+          "count": 44,
+          "uniques": 26
+        }
+      },
+      "2022-05-07": {
+        "views": {
+          "count": 35,
+          "uniques": 27
+        }
+      },
+      "2022-05-08": {
+        "views": {
+          "count": 43,
+          "uniques": 32
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-09": {
+        "views": {
+          "count": 54,
+          "uniques": 24
+        }
+      },
+      "2022-05-10": {
+        "views": {
+          "count": 25,
+          "uniques": 21
+        }
+      },
+      "2022-05-11": {
+        "views": {
+          "count": 24,
+          "uniques": 20
+        }
+      },
+      "2022-05-12": {
+        "views": {
+          "count": 35,
+          "uniques": 28
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-13": {
+        "views": {
+          "count": 46,
+          "uniques": 23
+        }
+      },
+      "2022-05-14": {
+        "views": {
+          "count": 28,
+          "uniques": 24
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-15": {
+        "views": {
+          "count": 24,
+          "uniques": 17
         }
       }
     }

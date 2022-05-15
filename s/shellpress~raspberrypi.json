@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -255,43 +259,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
-        "uniques": 26
+        "count": 43,
+        "uniques": 13
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 8,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/shellpress/raspberrypi/blob/master/configuration/device-tree.md",
           "title": "raspberrypi/device-tree.md at master · shellpress/raspberrypi · GitHub",
-          "count": 23,
-          "uniques": 15
+          "count": 11,
+          "uniques": 8
         },
         {
-          "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/dt-blob-cam1.dts",
-          "title": "raspberrypi/dt-blob-cam1.dts at master · shellpress/raspberrypi",
+          "path": "/shellpress/raspberrypi/tree/master/linux",
+          "title": "raspberrypi/linux at master · shellpress/raspberrypi · GitHub",
           "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/shellpress/raspberrypi/tree/master/linux/kernel",
+          "title": "raspberrypi/linux/kernel at master · shellpress/raspberrypi · GitHub",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/shellpress/raspberrypi",
+          "title": "shellpress/raspberrypi: Raspberry Pi Documentation (Manuscripts Edition)",
+          "count": 4,
           "uniques": 3
         },
         {
-          "path": "/shellpress/raspberrypi/tree/master/hardware/computemodule",
-          "title": "raspberrypi/hardware/computemodule at master · shellpress/raspberrypi",
+          "path": "/shellpress/raspberrypi/tree/master/configuration",
+          "title": "raspberrypi/configuration at master · shellpress/raspberrypi · GitHub",
           "count": 3,
           "uniques": 3
-        },
-        {
-          "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/dt-blob-disp1-only.dts",
-          "title": "raspberrypi/dt-blob-disp1-only.dts at master · shellpress/raspberrypi",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/dt-blob-disp1-cam1.dts",
-          "title": "raspberrypi/dt-blob-disp1-cam1.dts at master · shellpress/raspberrypi · GitHub",
-          "count": 2,
-          "uniques": 2
         },
         {
           "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/dt-blob-dualcam.dts",
@@ -300,26 +304,26 @@
           "uniques": 2
         },
         {
-          "path": "/shellpress/raspberrypi",
-          "title": "GitHub - shellpress/raspberrypi: Raspberry Pi Documentation (Manuscripts Edit...",
-          "count": 1,
+          "path": "/shellpress/raspberrypi/blob/master/linux/kernel/configuring.md",
+          "title": "raspberrypi/configuring.md at master · shellpress/raspberrypi · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/cm-emmc-flashing.md",
-          "title": "raspberrypi/cm-emmc-flashing.md at master · shellpress/raspberrypi · GitHub",
-          "count": 1,
+          "path": "/shellpress/raspberrypi/blob/master/linux/kernel/headers.md",
+          "title": "raspberrypi/headers.md at master · shellpress/raspberrypi · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/shellpress/raspberrypi/blob/master/hardware/computemodule/example1-overlay.dts",
-          "title": "raspberrypi/example1-overlay.dts at master · shellpress/raspberrypi",
-          "count": 1,
+          "path": "/shellpress/raspberrypi/tree/master/linux/software",
+          "title": "raspberrypi/linux/software at master · shellpress/raspberrypi · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/shellpress/raspberrypi/blob/master/hardware/raspberrypi/schematics/Raspberry-Pi-B-Plus-V1.2-Schematics.pdf",
-          "title": "raspberrypi/Raspberry-Pi-B-Plus-V1.2-Schematics.pdf at master · shellpress/ra...",
+          "path": "/shellpress/raspberrypi/blob/master/configuration/images/dt-blob.dts",
+          "title": "raspberrypi/dt-blob.dts at master · shellpress/raspberrypi",
           "count": 1,
           "uniques": 1
         }
@@ -327,16 +331,11 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 41,
-          "uniques": 20
+          "count": 23,
+          "uniques": 11
         },
         {
-          "referrer": "confluence.adninfra.net",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "referrer": "Bing",
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         },
@@ -2078,6 +2077,74 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-05-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-05-04": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-06": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-09": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-13": {
+        "views": {
+          "count": 23,
+          "uniques": 1
+        }
+      },
+      "2022-05-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

@@ -229,6 +229,10 @@
     "2022-05-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-05-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -255,18 +259,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/hydepress/jekyll-themes",
+          "title": "hydepress/jekyll-themes: Jekyll Themes 'n' Templates (Book Edition) by Mark O...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/hydepress/jekyll-themes/blob/master/contents.yml",
+          "title": "jekyll-themes/contents.yml at master · hydepress/jekyll-themes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/hydepress/jekyll-themes/tree/master/01_starter",
+          "title": "jekyll-themes/01_starter at master · hydepress/jekyll-themes",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -393,6 +418,12 @@
       "2022-04-20": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-07": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

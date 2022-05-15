@@ -150,6 +150,10 @@
     "2022-05-01": {
       "stargazers_count": 171,
       "forks_count": 32
+    },
+    "2022-05-15": {
+      "stargazers_count": 171,
+      "forks_count": 32
     }
   },
   "commits": [
@@ -194,124 +198,124 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 207,
-        "uniques": 78
+        "count": 125,
+        "uniques": 53
       },
       "clones": {
-        "count": 17,
-        "uniques": 7
+        "count": 32,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/rubycoco/blockchain",
           "title": "rubycoco/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 71,
-          "uniques": 59
+          "count": 35,
+          "uniques": 31
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/elliptic",
+          "title": "blockchain/elliptic at master · rubycoco/blockchain",
+          "count": 14,
+          "uniques": 4
         },
         {
           "path": "/rubycoco/blockchain/tree/master/cryptopunks",
           "title": "blockchain/cryptopunks at master · rubycoco/blockchain · GitHub",
-          "count": 16,
-          "uniques": 13
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/blockchain-lite",
-          "title": "blockchain/blockchain-lite at master · rubycoco/blockchain · GitHub",
-          "count": 11,
-          "uniques": 6
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/centralbank",
-          "title": "blockchain/centralbank at master · rubycoco/blockchain · GitHub",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/ledger-lite",
-          "title": "blockchain/ledger-lite at master · rubycoco/blockchain · GitHub",
-          "count": 5,
-          "uniques": 2
+          "count": 12,
+          "uniques": 11
         },
         {
           "path": "/rubycoco/blockchain/tree/master/merkletree",
           "title": "blockchain/merkletree at master · rubycoco/blockchain · GitHub",
-          "count": 4,
+          "count": 7,
           "uniques": 4
         },
         {
-          "path": "/rubycoco/blockchain/blob/master/cryptopunks/README.md",
-          "title": "blockchain/README.md at master · rubycoco/blockchain · GitHub",
-          "count": 3,
+          "path": "/rubycoco/blockchain/tree/master/merkletree/lib",
+          "title": "blockchain/merkletree/lib at master · rubycoco/blockchain · GitHub",
+          "count": 6,
           "uniques": 3
         },
         {
-          "path": "/rubycoco/blockchain/tree/master/elliptic-lite",
-          "title": "blockchain/elliptic-lite at master · rubycoco/blockchain · GitHub",
-          "count": 3,
+          "path": "/rubycoco/blockchain/tree/master/blockchain-lite",
+          "title": "blockchain/blockchain-lite at master · rubycoco/blockchain · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycoco/blockchain/blob/master/merkletree/lib/merkletree.rb",
+          "title": "blockchain/merkletree.rb at master · rubycoco/blockchain · GitHub",
+          "count": 5,
           "uniques": 3
         },
         {
-          "path": "/rubycoco/blockchain/tree/master/p2p",
-          "title": "blockchain/p2p at master · rubycoco/blockchain · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/rubycoco/blockchain/tree/master/blockchain-lite/lib",
-          "title": "blockchain/blockchain-lite/lib at master · rubycoco/blockchain",
+          "path": "/rubycoco/blockchain/tree/master/merkletree/lib/merkletree",
+          "title": "blockchain/merkletree/lib/merkletree at master · rubycoco/blockchain · GitHub",
           "count": 3,
           "uniques": 2
+        },
+        {
+          "path": "/rubycoco/blockchain/commits",
+          "title": "Commits · rubycoco/blockchain",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycoco/blockchain/tree/master/base58-alphabets",
+          "title": "blockchain/base58-alphabets at master · rubycoco/blockchain",
+          "count": 3,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 31,
-          "uniques": 29
-        },
-        {
-          "referrer": "reddit.com",
           "count": 19,
-          "uniques": 11
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 19,
-          "uniques": 4
+          "uniques": 13
         },
         {
           "referrer": "github.com",
           "count": 18,
-          "uniques": 13
+          "uniques": 11
         },
         {
-          "referrer": "yukimotopress.github.io",
-          "count": 5,
+          "referrer": "reddit.com",
+          "count": 14,
+          "uniques": 11
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 13,
+          "uniques": 2
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 9,
           "uniques": 2
         },
         {
           "referrer": "rubydoc.info",
-          "count": 5,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         {
-          "referrer": "qiita.com",
-          "count": 4,
+          "referrer": "hn.algolia.com",
+          "count": 1,
           "uniques": 1
         },
         {
           "referrer": "awesome-ruby.com",
-          "count": 3,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "rubyflow.com",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "ruby-toolbox.com",
-          "count": 2,
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -3579,6 +3583,114 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-05-02": {
+        "views": {
+          "count": 21,
+          "uniques": 6
+        }
+      },
+      "2022-05-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-04": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2022-05-05": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-06": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2022-05-07": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-05-08": {
+        "views": {
+          "count": 14,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-05-10": {
+        "views": {
+          "count": 20,
+          "uniques": 6
+        }
+      },
+      "2022-05-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-12": {
+        "views": {
+          "count": 17,
+          "uniques": 3
+        }
+      },
+      "2022-05-13": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-05-14": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2022-05-15": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }
