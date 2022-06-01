@@ -233,6 +233,10 @@
     "2022-05-15": {
       "stargazers_count": 180,
       "forks_count": 15
+    },
+    "2022-06-01": {
+      "stargazers_count": 179,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -249,7 +253,7 @@
     }
   ],
   "size": 596,
-  "updated_at": "2022-05-07T20:06:42Z",
+  "updated_at": "2022-05-27T02:39:41Z",
   "pushed_at": "2020-10-31T16:55:53Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -272,71 +276,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 55,
-        "uniques": 25
+        "count": 15,
+        "uniques": 10
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 21,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 23,
-          "uniques": 21
+          "count": 11,
+          "uniques": 7
         },
         {
           "path": "/feedreader/pluto/tree/master/barcharts",
           "title": "pluto/barcharts at master · feedreader/pluto",
-          "count": 10,
-          "uniques": 2
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/barcharts/lib",
-          "title": "pluto/barcharts/lib at master · feedreader/pluto",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/barcharts/lib/barcharts.rb",
-          "title": "pluto/barcharts.rb at master · feedreader/pluto",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/barcharts/lib/barcharts",
-          "title": "pluto/barcharts/lib/barcharts at master · feedreader/pluto",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/blob/5105cef814c52ac9da9d2323da4e3e88fac3223c/newscast/test/test_queries.rb",
-          "title": "pluto/test_queries.rb at 5105cef814c52ac9da9d2323da4e3e88fac3223c · feedreade...",
+          "path": "/feedreader/pluto/blob/520022ac05e9240149cea9ed1cf1debd360914fb/newscast/lib/newscast.rb",
+          "title": "pluto/newscast.rb at 520022ac05e9240149cea9ed1cf1debd360914fb · feedreader/pl...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/blob/master/barcharts/Manifest.txt",
-          "title": "pluto/Manifest.txt at master · feedreader/pluto",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/opmlparser/lib/opmlparser.rb",
-          "title": "pluto/opmlparser.rb at master · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/pluto-merge/lib/pluto/merge/lister.rb",
-          "title": "pluto/lister.rb at master · feedreader/pluto",
+          "path": "/feedreader/pluto/blob/master/pluto-models/test/helper.rb",
+          "title": "pluto/helper.rb at master · feedreader/pluto · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -344,32 +312,22 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 13,
-          "uniques": 12
+          "count": 4,
+          "uniques": 3
         },
         {
           "referrer": "rubygems.org",
-          "count": 7,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubyweekly.com",
-          "count": 3,
+          "count": 4,
           "uniques": 1
         },
         {
           "referrer": "Google",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubyweekly.com",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "libhunt.com",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -2946,6 +2904,100 @@
       "2022-05-15": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-19": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-20": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-30": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-27": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-31": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

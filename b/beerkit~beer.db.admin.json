@@ -233,6 +233,10 @@
     "2022-05-15": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2022-06-01": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -259,60 +263,30 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 27,
-        "uniques": 2
+        "count": 32,
+        "uniques": 8
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/beerkit/beer.db.admin",
           "title": "GitHub - beerkit/beer.db.admin: beer.db web app - open beer database (beer.db...",
           "count": 7,
-          "uniques": 2
-        },
-        {
-          "path": "/beerkit/beer.db.admin/tree/master/db",
-          "title": "beer.db.admin/db at master · beerkit/beer.db.admin · GitHub",
-          "count": 4,
-          "uniques": 1
+          "uniques": 6
         },
         {
           "path": "/beerkit/beer.db.admin/tree/master/app",
           "title": "beer.db.admin/app at master · beerkit/beer.db.admin · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/beerkit/beer.db.admin/tree/master/public",
-          "title": "beer.db.admin/public at master · beerkit/beer.db.admin · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/beerkit/beer.db.admin/tree/master/app/controllers",
-          "title": "beer.db.admin/app/controllers at master · beerkit/beer.db.admin · GitHub",
-          "count": 2,
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db.admin/tree/master/db/migrate",
-          "title": "beer.db.admin/db/migrate at master · beerkit/beer.db.admin · GitHub",
+          "path": "/beerkit/beer.db.admin/blob/master/app/models/beer.rb",
+          "title": "beer.db.admin/beer.rb at master · beerkit/beer.db.admin · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db.admin/blob/master/app/controllers/application_controller.rb",
-          "title": "beer.db.admin/application_controller.rb at master · beerkit/beer.db.admin · G...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db.admin/blob/master/app/helpers/.gitkeep",
-          "title": "beer.db.admin/.gitkeep at master · beerkit/beer.db.admin · GitHub",
-          "count": 1,
           "uniques": 1
         },
         {
@@ -326,13 +300,53 @@
           "title": "beer.db.admin/app/assets at master · beerkit/beer.db.admin · GitHub",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/app/helpers",
+          "title": "beer.db.admin/app/helpers at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/app/models",
+          "title": "beer.db.admin/app/models at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/app/views",
+          "title": "beer.db.admin/app/views at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/public",
+          "title": "beer.db.admin/public at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/script",
+          "title": "beer.db.admin/script at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Bing",
+          "count": 13,
+          "uniques": 1
+        },
+        {
           "referrer": "openbeer.github.io",
-          "count": 20,
-          "uniques": 2
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1037,6 +1051,44 @@
         "views": {
           "count": 12,
           "uniques": 1
+        }
+      },
+      "2022-05-19": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2022-05-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-23": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-06-01": {
+        "views": {
+          "count": 13,
+          "uniques": 2
         }
       }
     }

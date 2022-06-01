@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/factbook.json",
   "created_at": "2014-07-12T12:43:52Z",
-  "updated_at": "2022-05-15T20:27:41Z",
-  "pushed_at": "2022-05-12T22:13:42Z",
-  "size": 21272,
+  "updated_at": "2022-05-23T13:34:35Z",
+  "pushed_at": "2022-05-26T22:12:45Z",
+  "size": 23356,
   "history": {
     "2018-04-08": {
       "stargazers_count": 547
@@ -212,19 +212,23 @@
     "2022-05-15": {
       "stargazers_count": 817,
       "forks_count": 96
+    },
+    "2022-06-01": {
+      "stargazers_count": 819,
+      "forks_count": 96
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-05-12T22:13:40Z",
+        "date": "2022-05-26T22:12:44Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2022-05-12T22:13:40Z",
+        "date": "2022-05-26T22:12:44Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 19"
+      "message": "auto-update week 21"
     }
   ],
   "description": "World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)",
@@ -250,103 +254,98 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 598,
-        "uniques": 104
+        "count": 298,
+        "uniques": 75
       },
       "clones": {
-        "count": 48,
-        "uniques": 23
+        "count": 36,
+        "uniques": 19
       },
       "paths": [
         {
           "path": "/factbook/factbook.json",
           "title": "GitHub - factbook/factbook.json: World Factbook Country Profiles in JSON - Fr...",
-          "count": 186,
-          "uniques": 72
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/europe",
-          "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
-          "count": 45,
-          "uniques": 14
+          "count": 114,
+          "uniques": 55
         },
         {
           "path": "/factbook/factbook.json/tree/master/africa",
           "title": "factbook.json/africa at master · factbook/factbook.json · GitHub",
-          "count": 36,
-          "uniques": 21
+          "count": 20,
+          "uniques": 10
         },
         {
-          "path": "/factbook/factbook.json/tree/master/world",
-          "title": "factbook.json/world at master · factbook/factbook.json · GitHub",
-          "count": 18,
-          "uniques": 18
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/africa/ag.json",
-          "title": "factbook.json/ag.json at master · factbook/factbook.json · GitHub",
-          "count": 18,
-          "uniques": 14
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/north-america",
-          "title": "factbook.json/north-america at master · factbook/factbook.json · GitHub",
+          "path": "/factbook/factbook.json/tree/master/europe",
+          "title": "factbook.json/europe at master · factbook/factbook.json · GitHub",
           "count": 13,
           "uniques": 7
         },
         {
-          "path": "/factbook/factbook.json/blob/master/world/xx.json",
-          "title": "factbook.json/xx.json at master · factbook/factbook.json · GitHub",
-          "count": 11,
-          "uniques": 11
-        },
-        {
-          "path": "/factbook/factbook.json/tree/master/antarctica",
-          "title": "factbook.json/antarctica at master · factbook/factbook.json · GitHub",
-          "count": 10,
-          "uniques": 6
-        },
-        {
-          "path": "/factbook/factbook.json/blob/master/north-america/us.json",
-          "title": "factbook.json/us.json at master · factbook/factbook.json · GitHub",
+          "path": "/factbook/factbook.json/blob/master/africa/ag.json",
+          "title": "factbook.json/ag.json at master · factbook/factbook.json · GitHub",
           "count": 10,
           "uniques": 5
         },
         {
-          "path": "/factbook/factbook.json/blob/master/MONGO.md",
-          "title": "factbook.json/MONGO.md at master · factbook/factbook.json · GitHub",
-          "count": 9,
-          "uniques": 8
+          "path": "/factbook/factbook.json/blob/master/world/xx.json",
+          "title": "factbook.json/xx.json at master · factbook/factbook.json · GitHub",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/world",
+          "title": "factbook.json/world at master · factbook/factbook.json · GitHub",
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/australia-oceania/aq.json",
+          "title": "factbook.json/aq.json at master · factbook/factbook.json · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.json/tree/master/south-asia",
+          "title": "factbook.json/south-asia at master · factbook/factbook.json · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook.json/issues",
+          "title": "Issues · factbook/factbook.json",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/factbook.json/blob/master/africa/ct.json",
+          "title": "factbook.json/ct.json at master · factbook/factbook.json · GitHub",
+          "count": 4,
+          "uniques": 4
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 234,
-          "uniques": 42
+          "count": 94,
+          "uniques": 29
         },
         {
           "referrer": "Google",
-          "count": 105,
-          "uniques": 36
+          "count": 52,
+          "uniques": 25
         },
         {
-          "referrer": "bitbucket.org",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "old.reddit.com",
+          "referrer": "Bing",
           "count": 3,
           "uniques": 1
         },
         {
-          "referrer": "confluence.wacom.com",
+          "referrer": "github-wiki-see.page",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "awesomeopensource.com",
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         },
@@ -4508,6 +4507,130 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-05-19": {
+        "views": {
+          "count": 27,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2022-05-20": {
+        "views": {
+          "count": 17,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-21": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-22": {
+        "views": {
+          "count": 38,
+          "uniques": 7
+        }
+      },
+      "2022-05-23": {
+        "views": {
+          "count": 40,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-24": {
+        "views": {
+          "count": 9,
+          "uniques": 5
+        }
+      },
+      "2022-05-25": {
+        "views": {
+          "count": 15,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-26": {
+        "views": {
+          "count": 27,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 6
+        }
+      },
+      "2022-05-27": {
+        "views": {
+          "count": 27,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-05-28": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-29": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-30": {
+        "views": {
+          "count": 37,
+          "uniques": 9
+        }
+      },
+      "2022-05-31": {
+        "views": {
+          "count": 23,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-06-01": {
+        "views": {
+          "count": 22,
+          "uniques": 6
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "full_name": "planetruby/quiz",
   "created_at": "2018-10-28T15:58:20Z",
-  "updated_at": "2022-02-04T02:37:36Z",
+  "updated_at": "2022-05-17T04:11:41Z",
   "pushed_at": "2021-10-02T12:23:09Z",
   "size": 275,
   "history": {
@@ -203,6 +203,10 @@
     "2022-05-15": {
       "stargazers_count": 63,
       "forks_count": 2
+    },
+    "2022-06-01": {
+      "stargazers_count": 64,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -226,12 +230,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 19,
-        "uniques": 4
+        "count": 21,
+        "uniques": 6
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
@@ -242,15 +246,15 @@
         },
         {
           "path": "/planetruby/quiz/tree/master/001",
-          "title": "quiz/001 at master · planetruby/quiz · GitHub",
-          "count": 3,
-          "uniques": 3
+          "title": "quiz/001 at master · planetruby/quiz",
+          "count": 4,
+          "uniques": 2
         },
         {
-          "path": "/planetruby/quiz/tree/master/002",
-          "title": "quiz/002 at master · planetruby/quiz · GitHub",
+          "path": "/planetruby/quiz/tree/master/011",
+          "title": "quiz/011 at master · planetruby/quiz · GitHub",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
           "path": "/planetruby/quiz/blob/master/001/solution.rb",
@@ -259,32 +263,26 @@
           "uniques": 1
         },
         {
-          "path": "/planetruby/quiz/blob/master/002/solution.rb",
-          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "path": "/planetruby/quiz/blob/master/011/opcodes.rb",
+          "title": "quiz/opcodes.rb at master · planetruby/quiz · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/quiz/blob/master/006/solution.rb",
-          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "path": "/planetruby/quiz/blob/master/011/solution.rb",
+          "title": "quiz/solution.rb at master · planetruby/quiz · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/quiz/blob/master/007/solution.rb",
-          "title": "quiz/solution.rb at master · planetruby/quiz",
+          "path": "/planetruby/quiz/tree/master/002",
+          "title": "quiz/002 at master · planetruby/quiz · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/quiz/tree/master/006",
-          "title": "quiz/006 at master · planetruby/quiz",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/quiz/tree/master/007",
-          "title": "quiz/007 at master · planetruby/quiz",
+          "path": "/planetruby/quiz/tree/master/004",
+          "title": "quiz/004 at master · planetruby/quiz · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -292,13 +290,18 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 5,
+          "count": 4,
           "uniques": 2
         },
         {
+          "referrer": "rubyflow.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "referrer": "reddit.com",
-          "count": 4,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1466,6 +1469,52 @@
         }
       },
       "2022-05-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-23": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2022-05-27": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2022-06-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-20": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-05-25": {
         "clones": {
           "count": 1,
           "uniques": 1

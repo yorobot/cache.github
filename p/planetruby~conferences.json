@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/conferences",
   "created_at": "2015-04-21T13:42:15Z",
-  "updated_at": "2022-03-30T14:00:10Z",
-  "pushed_at": "2022-01-22T11:42:10Z",
-  "size": 1085,
+  "updated_at": "2022-05-24T22:42:15Z",
+  "pushed_at": "2022-05-25T14:15:47Z",
+  "size": 1087,
   "description": "What's Upcoming in 2022? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!",
   "language": "HTML",
   "history": {
@@ -142,19 +142,23 @@
     "2022-05-15": {
       "stargazers_count": 250,
       "forks_count": 71
+    },
+    "2022-06-01": {
+      "stargazers_count": 251,
+      "forks_count": 72
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-01-22T11:42:10Z",
+        "date": "2022-05-25T14:15:47Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2022-01-22T11:42:10Z",
-        "name": "Gerald Bauer"
+        "date": "2022-05-25T14:15:47Z",
+        "name": "Michał Bronikowski"
       },
-      "message": "Update conferences2022.yml"
+      "message": "Update conferences2022.yml (#75)"
     }
   ],
   "topics": [
@@ -172,29 +176,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
+        "count": 52,
         "uniques": 8
       },
       "clones": {
-        "count": 8,
-        "uniques": 4
+        "count": 19,
+        "uniques": 12
       },
       "paths": [
         {
           "path": "/planetruby/conferences",
           "title": "planetruby/conferences: What's Upcoming in 2022? - A collection of awesome ru...",
-          "count": 10,
+          "count": 12,
           "uniques": 6
+        },
+        {
+          "path": "/planetruby/conferences/pull/75",
+          "title": "Update conferences2022.yml by mbronek7 · Pull Request #75 · planetruby/confer...",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/conferences/pull/75/files",
+          "title": "Update conferences2022.yml by mbronek7 · Pull Request #75 · planetruby/confer...",
+          "count": 6,
+          "uniques": 3
         },
         {
           "path": "/planetruby/conferences/blob/master/_data/conferences2022.yml",
           "title": "conferences/conferences2022.yml at master · planetruby/conferences",
-          "count": 2,
+          "count": 5,
           "uniques": 2
         },
         {
-          "path": "/https://github.com/planetruby/awesome-events",
-          "title": "GitHub - planetruby/conferences: What's Upcoming in 2022? - A collection of a...",
+          "path": "/planetruby/conferences/pulls",
+          "title": "Pull requests · planetruby/conferences",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/commits/master",
+          "title": "Commits · planetruby/conferences",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/compare/master...mbronek7:patch-1",
+          "title": "Comparing planetruby:master...mbronek7:patch-1 · planetruby/conferences",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/edit/master/_data/conferences2022.yml",
+          "title": "Editing conferences/conferences2022.yml at master · planetruby/conferences",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/issues",
+          "title": "Issues · planetruby/conferences",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/blob/master/conferences/EUROPE.md",
+          "title": "conferences/EUROPE.md at master · planetruby/conferences",
           "count": 1,
           "uniques": 1
         }
@@ -202,23 +248,18 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 3
+          "count": 33,
+          "uniques": 5
         },
         {
           "referrer": "planetruby.github.io",
-          "count": 3,
+          "count": 6,
           "uniques": 2
         },
         {
-          "referrer": "t.co",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -1792,6 +1833,82 @@
         }
       },
       "2022-05-05": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-05-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-24": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2022-05-25": {
+        "views": {
+          "count": 36,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2022-05-26": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-05-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-05-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-05-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-01": {
         "clones": {
           "count": 2,
           "uniques": 1
