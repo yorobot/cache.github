@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2022-06-15": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -263,18 +267,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 3
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/planet-templates/planet-blank",
+          "title": "GitHub - planet-templates/planet-blank: blank - planet template pack",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planet-templates/planet-blank/blob/master/screenshot-cards.png",
+          "title": "planet-blank/screenshot-cards.png at master · planet-templates/planet-blank ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-blank/commit/9d91c30c304f5fa315419b40bd8b44c7ed546bff",
+          "title": "fetched to updated on blank.cards + textify to whitelist for snippets… · plan...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -740,6 +765,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-06-13": {
+        "views": {
+          "count": 5,
+          "uniques": 2
         }
       }
     }

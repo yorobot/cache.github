@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-06-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -263,18 +267,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openbeer/schema",
+          "title": "GitHub - openbeer/schema: beer.db database schema docu",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/blob/master/_data/database.json",
+          "title": "schema/database.json at master · openbeer/schema · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/blob/master/index.html",
+          "title": "schema/index.html at master · openbeer/schema · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/tree/master/_data",
+          "title": "schema/_data at master · openbeer/schema · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -747,6 +778,12 @@
       "2022-05-23": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-05": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

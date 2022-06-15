@@ -229,6 +229,10 @@
     "2022-06-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-06-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -254,35 +258,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
+        "count": 6,
         "uniques": 4
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/journaltxt/journaltxt.github.io",
-          "title": "GitHub - journaltxt/journaltxt.github.io: Journal.TXT Website and Spec(ificat...",
-          "count": 5,
-          "uniques": 3
-        },
-        {
           "path": "/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt",
           "title": "journaltxt.github.io/Vienna.txt at master · journaltxt/journaltxt.github.io ·...",
-          "count": 2,
-          "uniques": 2
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "github.com",
           "count": 3,
           "uniques": 3
         },
         {
+          "path": "/journaltxt/journaltxt.github.io",
+          "title": "GitHub - journaltxt/journaltxt.github.io: Journal.TXT Website and Spec(ificat...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/journaltxt/journaltxt.github.io/tree/master/samples",
+          "title": "journaltxt.github.io/samples at master · journaltxt/journaltxt.github.io · Gi...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
           "referrer": "journaltxt.github.io",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -966,6 +976,30 @@
       "2022-05-30": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-11": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

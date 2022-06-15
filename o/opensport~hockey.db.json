@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2022-06-15": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -263,11 +267,11 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
@@ -276,10 +280,20 @@
           "title": "GitHub - opensport/hockey.db: Free open public domain National Hockey League ...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/opensport/hockey.db/blob/master/teams.txt",
+          "title": "hockey.db/teams.txt at master · opensport/hockey.db · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -952,6 +966,18 @@
       "2022-05-26": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-06": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

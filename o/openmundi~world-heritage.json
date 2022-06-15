@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-06-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -263,18 +267,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 2,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/openmundi/world-heritage",
+          "title": "openmundi/world-heritage: Free open public domain world heritage sites data (...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world-heritage/tree/master/europe",
+          "title": "world-heritage/europe at master · openmundi/world-heritage",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -537,6 +556,12 @@
       "2022-05-23": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-12": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -2,7 +2,7 @@
   "full_name": "webstart/webstart",
   "created_at": "2013-05-27T17:23:22Z",
   "updated_at": "2020-01-21T08:58:57Z",
-  "pushed_at": "2020-01-21T08:58:55Z",
+  "pushed_at": "2022-06-11T06:58:07Z",
   "size": 2939,
   "history": {
     "2019-12-08": {
@@ -192,6 +192,10 @@
     "2022-06-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2022-06-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -215,18 +219,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 1,
         "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/webstart/webstart/pull/1",
+          "title": "Bump jetty from 6.1.18 to 6.1.23 in /webstart-server by dependabot[bot] · Pul...",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -509,6 +522,16 @@
         }
       },
       "2022-05-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
         "clones": {
           "count": 1,
           "uniques": 1

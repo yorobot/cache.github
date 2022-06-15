@@ -2,8 +2,8 @@
   "full_name": "cryptopunksnotdead/lets-go-programming-cryptopunks",
   "created_at": "2017-06-02T13:24:55Z",
   "updated_at": "2022-05-17T08:36:44Z",
-  "pushed_at": "2022-04-15T18:28:16Z",
-  "size": 1359,
+  "pushed_at": "2022-06-08T09:01:37Z",
+  "size": 1367,
   "description": "Let's Go! Programming (Crypto) Pixel Punk Profile Pictures & (Generative) Art with Go - Step-by-Step Book / Guide Inside Unique 24×24 Pixel Art on the Blockchain...",
   "language": "Go",
   "history": {
@@ -30,19 +30,23 @@
     "2022-06-01": {
       "stargazers_count": 27,
       "forks_count": 2
+    },
+    "2022-06-15": {
+      "stargazers_count": 27,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-04-15T18:28:16Z",
+        "date": "2022-06-08T09:01:37Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2022-04-15T18:28:16Z",
+        "date": "2022-06-08T09:01:37Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update go.mod"
+      "message": "Update README.md"
     }
   ],
   "topics": [
@@ -58,47 +62,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 46,
+        "count": 64,
         "uniques": 12
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 14,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks",
           "title": "GitHub - cryptopunksnotdead/lets-go-programming-cryptopunks: Let's Go! Progra...",
-          "count": 20,
+          "count": 22,
           "uniques": 10
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/gophers.png",
-          "title": "lets-go-programming-cryptopunks/gophers.png at master · cryptopunksnotdead/le...",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/punkverse/pixmap.go",
+          "title": "lets-go-programming-cryptopunks/pixmap.go at master · cryptopunksnotdead/lets...",
+          "count": 15,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/A1_generate",
+          "title": "lets-go-programming-cryptopunks/A1_generate at master · cryptopunksnotdead/le...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/search",
+          "title": "Search · · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/punkverse",
+          "title": "lets-go-programming-cryptopunks/punkverse at master · cryptopunksnotdead/lets...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/01_tile_(gophers)",
+          "title": "lets-go-programming-cryptopunks/01_tile_(gophers) at master · cryptopunksnotd...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/stargazers",
-          "title": "Stargazers · cryptopunksnotdead/lets-go-programming-cryptopunks",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/more/f",
+          "title": "lets-go-programming-cryptopunks/more/f at master · cryptopunksnotdead/lets-go...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/README.md",
-          "title": "lets-go-programming-cryptopunks/README.md at master · cryptopunksnotdead/lets...",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/i/gopher28%404x.png",
+          "title": "lets-go-programming-cryptopunks/gopher28@4x.png at master · cryptopunksnotdea...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/network/members",
-          "title": "Forks · cryptopunksnotdead/lets-go-programming-cryptopunks",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/i/punks.png",
+          "title": "lets-go-programming-cryptopunks/punks.png at master · cryptopunksnotdead/lets...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/02_generate",
-          "title": "lets-go-programming-cryptopunks/02_generate at master · cryptopunksnotdead/le...",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/punkverse/image.go",
+          "title": "lets-go-programming-cryptopunks/image.go at master · cryptopunksnotdead/lets-...",
           "count": 1,
           "uniques": 1
         }
@@ -106,21 +134,36 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 16,
-          "uniques": 8
-        },
-        {
-          "referrer": "out.reddit.com",
-          "count": 2,
-          "uniques": 1
+          "count": 24,
+          "uniques": 6
         },
         {
           "referrer": "reddit.com",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
           "count": 2,
           "uniques": 1
         },
         {
           "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "out.reddit.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -692,6 +735,112 @@
       "2022-06-01": {
         "views": {
           "count": 19,
+          "uniques": 1
+        }
+      },
+      "2022-06-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-08": {
+        "views": {
+          "count": 33,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-06-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-11": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-12": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-13": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2022-06-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-04": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

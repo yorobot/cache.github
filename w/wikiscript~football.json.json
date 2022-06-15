@@ -154,6 +154,10 @@
     "2022-06-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-06-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -183,14 +187,26 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 6,
         "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
+        {
+          "path": "/wikiscript/football.json",
+          "title": "wikiscript/football.json: Football Players, World Cup Squads 'n' More Sourced...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/blob/master/_source/players/south-america/argentina/Lionel_Messi.txt",
+          "title": "football.json/Lionel_Messi.txt at master · wikiscript/football.json",
+          "count": 1,
+          "uniques": 1
+        },
         {
           "path": "/wikiscript/football.json/tree/master/_source",
           "title": "football.json/_source at master · wikiscript/football.json",
@@ -208,12 +224,18 @@
           "title": "football.json/_source/players/south-america at master · wikiscript/football.j...",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source/players/south-america/argentina",
+          "title": "football.json/_source/players/south-america/argentina at master · wikiscript/...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
+          "count": 6,
           "uniques": 1
         }
       ]
@@ -532,6 +554,12 @@
       "2022-05-29": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-05": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

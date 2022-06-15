@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2022-06-15": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -263,23 +267,56 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 9,
+        "uniques": 3
       },
       "clones": {
-        "count": 3,
+        "count": 6,
         "uniques": 3
       },
       "paths": [
         {
           "path": "/worlddb/world.db.admin",
           "title": "GitHub - worlddb/world.db.admin: world.db web app - open world database (worl...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db.admin/blob/master/lib/tasks/load_worlddb.rake",
+          "title": "world.db.admin/load_worlddb.rake at master · worlddb/world.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.admin/tree/master/app",
+          "title": "world.db.admin/app at master · worlddb/world.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.admin/tree/master/app/controllers",
+          "title": "world.db.admin/app/controllers at master · worlddb/world.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.admin/tree/master/lib/tasks",
+          "title": "world.db.admin/lib/tasks at master · worlddb/world.db.admin · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "openmundi.github.io",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -718,6 +755,40 @@
       "2022-05-25": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-06-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-05": {
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-14": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

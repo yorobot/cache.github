@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-06-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -263,18 +267,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
-        "count": 1,
+        "count": 2,
         "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openmundi/deutschland.db",
+          "title": "openmundi/deutschland.db: Free open public domain data for Germany (Deutschla...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/deutschland.db/blob/master/cities.txt",
+          "title": "deutschland.db/cities.txt at master · openmundi/deutschland.db",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -513,6 +532,18 @@
       "2022-05-23": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-13": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

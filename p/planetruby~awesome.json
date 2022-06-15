@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 206,
       "forks_count": 11
+    },
+    "2022-06-15": {
+      "stargazers_count": 206,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -263,23 +267,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 9,
+        "uniques": 3
       },
       "clones": {
-        "count": 5,
+        "count": 6,
         "uniques": 4
       },
       "paths": [
         {
           "path": "/planetruby/awesome",
-          "title": "GitHub - planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Fram...",
-          "count": 1,
+          "title": "planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Frameworks, R...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/CRYPTO/README.md",
+          "title": "awesome/README.md at master · planetruby/awesome · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/awesome/tree/master/CRYPTO",
+          "title": "awesome/CRYPTO at master · planetruby/awesome · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/awesome/tree/master/ACTIVERECORD",
+          "title": "awesome/ACTIVERECORD at master · planetruby/awesome",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 3
+        }
       ]
     },
     "history": {
@@ -1568,6 +1594,40 @@
       "2022-05-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-06-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-10": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

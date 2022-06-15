@@ -1,9 +1,9 @@
 {
   "full_name": "pixelartexchange/pixelart",
   "created_at": "2017-05-14T17:33:27Z",
-  "updated_at": "2022-05-28T14:59:41Z",
-  "pushed_at": "2022-06-01T15:41:02Z",
-  "size": 605,
+  "updated_at": "2022-06-12T20:07:53Z",
+  "pushed_at": "2022-06-10T18:42:51Z",
+  "size": 1056,
   "description": "pixel art (and graphics) libraries & scripts   incl. avatar / character generators for moonbirds, cyberpunks, coolcats, shiba inu doge, nouns & more",
   "language": "Ruby",
   "history": {
@@ -50,19 +50,23 @@
     "2022-06-01": {
       "stargazers_count": 46,
       "forks_count": 6
+    },
+    "2022-06-15": {
+      "stargazers_count": 49,
+      "forks_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-06-01T15:40:57Z",
+        "date": "2022-06-10T18:42:44Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-06-01T15:40:57Z",
+        "date": "2022-06-10T18:42:44Z",
         "name": "Gerald Bauer"
       },
-      "message": "rm tmp"
+      "message": "up"
     }
   ],
   "topics": [
@@ -80,123 +84,134 @@
     "cyberpunks",
     "doge",
     "shiba",
-    "shiba-inu"
+    "shiba-inu",
+    "goblins"
   ],
   "languages": {
-    "Ruby": 159864,
+    "Ruby": 220614,
     "Go": 9295
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 563,
-        "uniques": 39
+        "count": 1031,
+        "uniques": 126
       },
       "clones": {
-        "count": 101,
-        "uniques": 26
+        "count": 297,
+        "uniques": 38
       },
       "paths": [
         {
           "path": "/pixelartexchange/pixelart",
           "title": "pixelartexchange/pixelart: pixel art (and graphics) libraries & scripts incl....",
-          "count": 116,
-          "uniques": 29
+          "count": 277,
+          "uniques": 116
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/goblins",
+          "title": "pixelart/goblins at master · pixelartexchange/pixelart · GitHub",
+          "count": 67,
+          "uniques": 12
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/goblins/sandbox",
+          "title": "pixelart/goblins/sandbox at master · pixelartexchange/pixelart · GitHub",
+          "count": 42,
+          "uniques": 6
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/belles",
+          "title": "pixelart/belles at master · pixelartexchange/pixelart · GitHub",
+          "count": 41,
+          "uniques": 10
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/moonbirds",
           "title": "pixelart/moonbirds at master · pixelartexchange/pixelart · GitHub",
-          "count": 43,
-          "uniques": 11
+          "count": 34,
+          "uniques": 10
         },
         {
-          "path": "/pixelartexchange/pixelart/tree/master/cyberpunks",
-          "title": "pixelart/cyberpunks at master · pixelartexchange/pixelart · GitHub",
-          "count": 35,
-          "uniques": 5
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/coolcats",
-          "title": "pixelart/coolcats at master · pixelartexchange/pixelart",
-          "count": 26,
-          "uniques": 3
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/nouns",
-          "title": "pixelart/nouns at master · pixelartexchange/pixelart",
+          "path": "/pixelartexchange/pixelart/commits/master",
+          "title": "Commits · pixelartexchange/pixelart",
           "count": 23,
-          "uniques": 6
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/moonbirds/i",
-          "title": "pixelart/moonbirds/i at master · pixelartexchange/pixelart · GitHub",
-          "count": 18,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/pixelart/blob/master/cyberpunks/config/spritesheet.png",
-          "title": "pixelart/spritesheet.png at master · pixelartexchange/pixelart · GitHub",
-          "count": 16,
+          "path": "/pixelartexchange/pixelart/tree/master/readymades/sandbox",
+          "title": "pixelart/readymades/sandbox at master · pixelartexchange/pixelart · GitHub",
+          "count": 21,
           "uniques": 2
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/shibainus",
-          "title": "pixelart/shibainus at master · pixelartexchange/pixelart",
-          "count": 14,
-          "uniques": 1
+          "title": "pixelart/shibainus at master · pixelartexchange/pixelart · GitHub",
+          "count": 19,
+          "uniques": 6
         },
         {
-          "path": "/pixelartexchange/pixelart/tree/master/pixelart-characters",
-          "title": "pixelart/pixelart-characters at master · pixelartexchange/pixelart · GitHub",
-          "count": 13,
+          "path": "/pixelartexchange/pixelart/tree/master/cyberpunks",
+          "title": "pixelart/cyberpunks at master · pixelartexchange/pixelart · GitHub",
+          "count": 18,
+          "uniques": 6
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/readymades",
+          "title": "pixelart/readymades at master · pixelartexchange/pixelart · GitHub",
+          "count": 18,
           "uniques": 5
-        },
-        {
-          "path": "/pixelartexchange/pixelart/blob/master/cyberpunks/config/spritesheet.csv",
-          "title": "pixelart/spritesheet.csv at master · pixelartexchange/pixelart · GitHub",
-          "count": 13,
-          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 103,
-          "uniques": 23
+          "count": 275,
+          "uniques": 29
         },
         {
           "referrer": "old.reddit.com",
-          "count": 53,
+          "count": 130,
+          "uniques": 2
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 72,
+          "uniques": 51
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 47,
           "uniques": 3
         },
         {
           "referrer": "reddit.com",
-          "count": 24,
+          "count": 21,
           "uniques": 2
         },
         {
           "referrer": "rubydoc.info",
-          "count": 23,
-          "uniques": 4
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 11,
-          "uniques": 3
-        },
-        {
-          "referrer": "planetruby.github.io",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "count": 19,
+          "uniques": 1
         },
         {
           "referrer": "out.reddit.com",
-          "count": 2,
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "hn.premii.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "h-news.netlify.app",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1338,6 +1353,134 @@
         "clones": {
           "count": 9,
           "uniques": 7
+        }
+      },
+      "2022-06-02": {
+        "views": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2022-06-03": {
+        "views": {
+          "count": 44,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 110,
+          "uniques": 12
+        }
+      },
+      "2022-06-04": {
+        "views": {
+          "count": 249,
+          "uniques": 75
+        },
+        "clones": {
+          "count": 56,
+          "uniques": 14
+        }
+      },
+      "2022-06-05": {
+        "views": {
+          "count": 237,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 71,
+          "uniques": 19
+        }
+      },
+      "2022-06-06": {
+        "views": {
+          "count": 31,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-07": {
+        "views": {
+          "count": 86,
+          "uniques": 7
+        }
+      },
+      "2022-06-08": {
+        "views": {
+          "count": 26,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 12
+        }
+      },
+      "2022-06-09": {
+        "views": {
+          "count": 144,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 19,
+          "uniques": 9
+        }
+      },
+      "2022-06-10": {
+        "views": {
+          "count": 58,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 18,
+          "uniques": 10
+        }
+      },
+      "2022-06-11": {
+        "views": {
+          "count": 14,
+          "uniques": 3
+        }
+      },
+      "2022-06-12": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-13": {
+        "views": {
+          "count": 63,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-14": {
+        "views": {
+          "count": 18,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-15": {
+        "views": {
+          "count": 34,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

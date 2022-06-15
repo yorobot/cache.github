@@ -237,6 +237,10 @@
     "2022-06-01": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2022-06-15": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -268,23 +272,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
-      },
-      "clones": {
         "count": 3,
         "uniques": 3
       },
+      "clones": {
+        "count": 0,
+        "uniques": 0
+      },
       "paths": [
         {
-          "path": "/quikstart/scripts/blob/master/scripts.yml",
-          "title": "scripts/scripts.yml at master · quikstart/scripts · GitHub",
+          "path": "/quikstart/scripts",
+          "title": "quikstart/scripts: Quik Scripts Catalog / Directory / Registry - Ruby Quick S...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/quikstart/scripts/pulls",
+          "title": "Pull requests · quikstart/scripts · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -698,6 +712,18 @@
       },
       "2022-05-26": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-10": {
+        "views": {
           "count": 1,
           "uniques": 1
         }
