@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/country-profiles",
   "created_at": "2013-09-02T17:18:10Z",
-  "updated_at": "2022-06-05T20:51:00Z",
-  "pushed_at": "2022-06-09T22:11:59Z",
-  "size": 11244,
+  "updated_at": "2022-06-23T19:50:18Z",
+  "pushed_at": "2022-06-30T22:12:32Z",
+  "size": 17194,
   "description": "World Factbook Country Profiles",
   "language": null,
   "history": {
@@ -90,19 +90,23 @@
     "2022-06-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2022-07-01": {
+      "stargazers_count": 5,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-06-09T22:11:57Z",
+        "date": "2022-06-30T22:12:31Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2022-06-09T22:11:57Z",
+        "date": "2022-06-30T22:12:31Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 23"
+      "message": "auto-update week 26"
     }
   ],
   "topics": [
@@ -117,80 +121,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 37,
-        "uniques": 13
+        "count": 69,
+        "uniques": 12
       },
       "clones": {
-        "count": 14,
-        "uniques": 10
+        "count": 24,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/factbook/country-profiles",
           "title": "GitHub - factbook/country-profiles: World Factbook Country Profiles",
-          "count": 15,
-          "uniques": 13
+          "count": 21,
+          "uniques": 10
+        },
+        {
+          "path": "/factbook/country-profiles/tree/master/europe",
+          "title": "country-profiles/europe at master · factbook/country-profiles · GitHub",
+          "count": 8,
+          "uniques": 6
         },
         {
           "path": "/factbook/country-profiles/tree/master/africa",
           "title": "country-profiles/africa at master · factbook/country-profiles · GitHub",
-          "count": 5,
+          "count": 7,
           "uniques": 4
         },
         {
-          "path": "/factbook/country-profiles/blob/master/africa/algeria.md",
-          "title": "country-profiles/algeria.md at master · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/tree/master/world",
+          "title": "country-profiles/world at master · factbook/country-profiles · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/world/world.md",
+          "title": "country-profiles/world.md at master · factbook/country-profiles · GitHub",
           "count": 3,
           "uniques": 3
         },
         {
-          "path": "/factbook/country-profiles/blob/master/australia-oceania/cocos-keeling-islands.md",
-          "title": "country-profiles/cocos-keeling-islands.md at master · factbook/country-profiles",
+          "path": "/factbook/country-profiles/blob/master/europe/france.md",
+          "title": "country-profiles/france.md at master · factbook/country-profiles · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/africa/algeria.md",
+          "title": "country-profiles/algeria.md at master · factbook/country-profiles · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/africa/egypt.md",
+          "title": "country-profiles/egypt.md at master · factbook/country-profiles · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/commits/master",
+          "title": "Commits · factbook/country-profiles · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/tree/master/south-asia",
-          "title": "country-profiles/south-asia at master · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/tree/master/east-n-southeast-asia",
+          "title": "country-profiles/east-n-southeast-asia at master · factbook/country-profiles ...",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/africa/zimbabwe.md",
-          "title": "country-profiles/zimbabwe.md at master · factbook/country-profiles · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/europe/germany.md",
-          "title": "country-profiles/germany.md at master · factbook/country-profiles · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/south-asia/british-indian-ocean-territory.md",
-          "title": "country-profiles/british-indian-ocean-territory.md at master · factbook/count...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/south-asia/india.md",
-          "title": "country-profiles/india.md at master · factbook/country-profiles · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/south-asia/maldives.md",
-          "title": "country-profiles/maldives.md at master · factbook/country-profiles · GitHub",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 25,
-          "uniques": 11
+          "count": 43,
+          "uniques": 8
         }
       ]
     },
@@ -1709,6 +1713,88 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-06-18": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2022-06-19": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-22": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        }
+      },
+      "2022-06-23": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2022-06-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-06-25": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-26": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2022-06-29": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-07-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2022-06-30": {
+        "clones": {
+          "count": 7,
+          "uniques": 4
         }
       }
     }

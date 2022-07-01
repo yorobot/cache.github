@@ -1,7 +1,7 @@
 {
   "full_name": "factbook/media",
   "created_at": "2014-11-30T16:26:19Z",
-  "updated_at": "2021-03-04T17:45:55Z",
+  "updated_at": "2022-06-23T19:51:15Z",
   "pushed_at": "2021-02-03T08:41:17Z",
   "size": 15610,
   "description": "World Factbook Media - Flags, Maps, Locators",
@@ -134,6 +134,10 @@
     "2022-06-15": {
       "stargazers_count": 9,
       "forks_count": 2
+    },
+    "2022-07-01": {
+      "stargazers_count": 10,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -157,19 +161,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 2
+        "count": 16,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/factbook/media",
           "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/media/blob/master/locators/aa.png",
+          "title": "media/aa.png at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/media/blob/master/maps/aa.png",
+          "title": "media/aa.png at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/media/tree/master/flags",
+          "title": "media/flags at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/media/tree/master/locators",
+          "title": "media/locators at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/media/tree/master/maps",
+          "title": "media/maps at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/factbook/media/blob/master/flags/aa.png",
@@ -178,44 +212,8 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/locators/aa.png",
-          "title": "media/aa.png at master · factbook/media · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/blob/master/maps/aa.png",
-          "title": "media/aa.png at master · factbook/media · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/blob/master/maps/av.png",
-          "title": "media/av.png at master · factbook/media · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/issues",
-          "title": "Issues · factbook/media · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/tree/master/flags",
-          "title": "media/flags at master · factbook/media · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/tree/master/locators",
-          "title": "media/locators at master · factbook/media · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/tree/master/maps",
-          "title": "media/maps at master · factbook/media · GitHub",
+          "path": "/factbook/media/blob/master/LICENSE.md",
+          "title": "media/LICENSE.md at master · factbook/media · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -223,8 +221,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 1
+          "count": 16,
+          "uniques": 3
         }
       ]
     },
@@ -992,6 +990,30 @@
       "2022-06-06": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-06-25": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-06-26": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2022-06-19": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -236,6 +236,10 @@
     "2022-06-15": {
       "stargazers_count": 36,
       "forks_count": 1
+    },
+    "2022-07-01": {
+      "stargazers_count": 36,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -269,24 +273,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 4,
         "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/beerkit/beer.db",
-          "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
+          "title": "beerkit/beer.db: beerdb gems - open beer database (beer.db) command line tool...",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-models",
+          "title": "beer.db/beerdb-models at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-models/lib/beerdb",
+          "title": "beer.db/beerdb-models/lib/beerdb at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openbeer.github.io",
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -1316,6 +1337,22 @@
       "2022-06-10": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-23": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

@@ -241,6 +241,10 @@
     "2022-06-15": {
       "stargazers_count": 179,
       "forks_count": 15
+    },
+    "2022-07-01": {
+      "stargazers_count": 180,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -257,7 +261,7 @@
     }
   ],
   "size": 596,
-  "updated_at": "2022-05-27T02:39:41Z",
+  "updated_at": "2022-06-19T11:33:32Z",
   "pushed_at": "2020-10-31T16:55:53Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -280,55 +284,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
+        "count": 16,
         "uniques": 9
       },
       "clones": {
-        "count": 12,
-        "uniques": 7
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 7,
-          "uniques": 7
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/feedreader/pluto/issues/42",
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/feedreader/pluto/issues",
+          "title": "Issues · feedreader/pluto · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/issues/29",
+          "title": "Missing feed items author · Issue #29 · feedreader/pluto · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/feedreader/pluto/issues/33",
           "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/stargazers",
-          "title": "Stargazers · feedreader/pluto · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/barcharts",
-          "title": "pluto/barcharts at master · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/html-template",
-          "title": "pluto/html-template at master · feedreader/pluto · GitHub",
+          "path": "/feedreader/pluto/tree/master/pluto",
+          "title": "pluto/pluto at master · feedreader/pluto · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubygems.org",
-          "count": 5,
-          "uniques": 3
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 4
         },
         {
-          "referrer": "Google",
-          "count": 3,
-          "uniques": 2
+          "referrer": "rubydoc.info",
+          "count": 6,
+          "uniques": 1
         },
         {
           "referrer": "github.com",
@@ -336,7 +346,12 @@
           "uniques": 2
         },
         {
-          "referrer": "rubyonrails.ba",
+          "referrer": "yandex.ru",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "community.plone.org",
           "count": 1,
           "uniques": 1
         }
@@ -3080,6 +3095,60 @@
       "2022-06-05": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-23": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2022-06-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-29": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2022-06-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-06-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-26": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-01": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

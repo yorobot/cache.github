@@ -241,6 +241,10 @@
     "2022-06-15": {
       "stargazers_count": 3,
       "forks_count": 2
+    },
+    "2022-07-01": {
+      "stargazers_count": 3,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -270,18 +274,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/henrythemes/hello-pages-theme-v2/deployments/activity_log",
+          "title": "Deployments · henrythemes/hello-pages-theme-v2",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/hello-pages-theme-v2",
+          "title": "henrythemes/hello-pages-theme-v2: Hello, Pages! Theme v2",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/hello-pages-theme-v2/commit/f178ba3924926c7fda63b497e6df559cb47066d3",
+          "title": "up pages · henrythemes/hello-pages-theme-v2@f178ba3",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -802,6 +827,12 @@
       "2022-05-29": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-06-29": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

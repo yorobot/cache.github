@@ -241,6 +241,10 @@
     "2022-06-15": {
       "stargazers_count": 23,
       "forks_count": 2
+    },
+    "2022-07-01": {
+      "stargazers_count": 23,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -267,18 +271,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/yukimotopress/gem-dev",
+          "title": "GitHub - yukimotopress/gem-dev: Gem Developer's Guide (Book Edition) by Nick ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/gem-dev/blob/master/01__What_is_a_gem.md",
+          "title": "gem-dev/01__What_is_a_gem.md at master · yukimotopress/gem-dev · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -599,6 +618,12 @@
       "2022-06-09": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-06-21": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }
