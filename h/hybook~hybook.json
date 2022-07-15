@@ -245,24 +245,28 @@
     "2022-07-01": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2022-07-15": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-04-02T09:15:18Z",
+        "date": "2022-07-03T19:23:20Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2015-04-02T09:15:18Z",
+        "date": "2022-07-03T19:23:20Z",
         "name": "Gerald Bauer"
       },
-      "message": "move bookpress to bookman gem"
+      "message": "up"
     }
   ],
-  "size": 204,
-  "updated_at": "2015-07-21T10:38:37Z",
-  "pushed_at": "2015-04-02T09:15:28Z",
+  "size": 45,
+  "updated_at": "2022-07-03T19:24:01Z",
+  "pushed_at": "2022-07-03T19:23:25Z",
   "description": "hybook gem - Hyper Book (H9) - A Free Hypertext Book Generator in Ruby",
   "language": "Ruby",
   "topics": [
@@ -271,18 +275,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 9,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
-
+        {
+          "path": "/hybook/hybook",
+          "title": "hybook/hybook: hybook gem - Hyper Book (H9) - A Free Hypertext Book Generator...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/hybook/hybook/tree/master/bookfile",
+          "title": "hybook/bookfile at master · hybook/hybook",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/hybook/hybook/tree/master/bookman",
+          "title": "hybook/bookman at master · hybook/hybook",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/hybook/hybook/tree/master/hybook",
+          "title": "hybook/hybook at master · hybook/hybook",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -523,10 +554,38 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2022-07-03": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-07-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 10590
+    "Ruby": 59491
   }
 }

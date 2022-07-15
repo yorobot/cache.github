@@ -134,6 +134,10 @@
     "2022-07-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-07-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -158,18 +162,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
         "count": 2,
-        "uniques": 1
+        "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/cryptocopycats/cache.kitties.json",
+          "title": "cryptocopycats/cache.kitties.json: cache.kitties.json - CryptoKitties (Meta) ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/cache.kitties.json/tree/master/prestige",
+          "title": "cryptocopycats/cache.kitties.json: cache.kitties.json - CryptoKitties (Meta) ...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1108,6 +1127,22 @@
       "2022-06-29": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-11": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

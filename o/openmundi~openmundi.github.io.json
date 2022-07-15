@@ -245,6 +245,10 @@
     "2022-07-01": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2022-07-15": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -271,18 +275,38 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 3
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/openmundi/openmundi.github.io",
+          "title": "GitHub - openmundi/openmundi.github.io: Open Mundi (world.db) Web Site",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openmundi/openmundi.github.io/search",
+          "title": "Search · word.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "openmundi.github.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -564,6 +588,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-07-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-07-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

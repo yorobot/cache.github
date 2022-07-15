@@ -245,6 +245,10 @@
     "2022-07-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-07-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -271,43 +275,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 2
+        "count": 7,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openbeer/schema",
           "title": "openbeer/schema: beer.db database schema docu",
-          "count": 4,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/openbeer/schema/tree/master/_data",
-          "title": "schema/_data at master · openbeer/schema · GitHub",
-          "count": 4,
-          "uniques": 2
+          "title": "openbeer/schema: beer.db database schema docu",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/blob/master/css/style.scss",
+          "title": "schema/css at master · openbeer/schema",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/openbeer/schema/blob/master/_data/database.json",
-          "title": "schema/database.json at master · openbeer/schema · GitHub",
-          "count": 2,
-          "uniques": 2
+          "title": "schema/_data at master · openbeer/schema",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "path": "/openbeer/schema/blob/master/_data/symbols.json",
-          "title": "schema/symbols.json at master · openbeer/schema · GitHub",
-          "count": 2,
-          "uniques": 2
+          "path": "/openbeer/schema/tree/master/css",
+          "title": "openbeer/schema: beer.db database schema docu",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Bing",
-          "count": 4,
+          "referrer": "openbeer.github.io",
+          "count": 7,
           "uniques": 1
         }
       ]
@@ -800,6 +810,18 @@
       "2022-06-28": {
         "views": {
           "count": 8,
+          "uniques": 1
+        }
+      },
+      "2022-07-08": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2022-07-11": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

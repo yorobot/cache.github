@@ -215,6 +215,10 @@
     "2022-07-01": {
       "stargazers_count": 64,
       "forks_count": 2
+    },
+    "2022-07-15": {
+      "stargazers_count": 64,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -238,32 +242,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 3
+        "count": 16,
+        "uniques": 5
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/planetruby/quiz",
-          "title": "GitHub - planetruby/quiz: Ruby Quiz is a fortnightly programming challenge fo...",
+          "title": "planetruby/quiz: Ruby Quiz is a fortnightly programming challenge for Ruby pr...",
+          "count": 10,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/quiz/tree/master/001",
+          "title": "planetruby/quiz: Ruby Quiz is a fortnightly programming challenge for Ruby pr...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/quiz/edit/master/README.md",
-          "title": "Editing quiz/README.md at master · planetruby/quiz",
+          "path": "/planetruby/quiz/tree/master/014",
+          "title": "quiz/014 at master · planetruby/quiz",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/002/solution.rb",
+          "title": "quiz/solution.rb at master · planetruby/quiz · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/014",
+          "title": "quiz/014 at master · planetruby/quiz",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 11,
+          "uniques": 2
+        },
+        {
           "referrer": "github.com",
-          "count": 2,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -1522,6 +1549,48 @@
         "views": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2022-07-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-07": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-12": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2022-07-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

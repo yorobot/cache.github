@@ -245,6 +245,10 @@
     "2022-07-01": {
       "stargazers_count": 49,
       "forks_count": 17
+    },
+    "2022-07-15": {
+      "stargazers_count": 49,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -277,29 +281,88 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 4
+        "count": 40,
+        "uniques": 6
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/planetruby/books",
           "title": "planetruby/books: List of all Ruby books",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books",
+          "title": "planetruby/books: List of all Ruby books",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2021",
+          "title": "books/_books at master · planetruby/books",
           "count": 4,
           "uniques": 4
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "github.com",
+          "path": "/planetruby/books/tree/master/_books/2019",
+          "title": "books/_books/2019 at master · planetruby/books",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2021/Polished_Ruby_Programming.md",
+          "title": "books/Polished_Ruby_Programming.md at master · planetruby/books · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "Google",
+          "path": "/planetruby/books/tree/master/_books/2020",
+          "title": "books/_books at master · planetruby/books",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2001/Ruby_in_a_Nutshell.md",
+          "title": "books/_books/2001 at master · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2019/Building_Git.md",
+          "title": "books/Building_Git.md at master · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2019/Programming_Bitcoin_Script_Step-by-Step.md",
+          "title": "books/Programming_Bitcoin_Script_Step-by-Step.md at master · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2019/Programming_Crypto_Blockchain_Contracts_Step-by-Step.md",
+          "title": "books/Programming_Crypto_Blockchain_Contracts_Step-by-Step.md at master · pla...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "referrer": "florentguilleux.fr",
           "count": 1,
           "uniques": 1
         }
@@ -2273,6 +2336,42 @@
         }
       },
       "2022-06-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-02": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-07-05": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-07-06": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        }
+      },
+      "2022-07-13": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2022-07-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-08": {
         "clones": {
           "count": 1,
           "uniques": 1

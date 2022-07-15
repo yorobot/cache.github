@@ -245,6 +245,10 @@
     "2022-07-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-07-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -271,18 +275,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/openbookie/notes",
+          "title": "GitHub - openbookie/notes: Notes",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/notes/blob/master/DATA.md",
+          "title": "notes/DATA.md at master · openbookie/notes · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -445,6 +464,12 @@
       "2022-06-02": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-13": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

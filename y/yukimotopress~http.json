@@ -231,6 +231,10 @@
     "2022-07-01": {
       "stargazers_count": 16,
       "forks_count": 3
+    },
+    "2022-07-15": {
+      "stargazers_count": 16,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -256,18 +260,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 2,
-        "uniques": 2
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/yukimotopress/http",
+          "title": "GitHub - yukimotopress/http: Net::HTTP by Example / Net::HTTP Cheat Sheet (Bo...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/http/blob/master/fetcher.md",
+          "title": "http/fetcher.md at master · yukimotopress/http · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -724,6 +743,16 @@
       "2022-06-27": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }
