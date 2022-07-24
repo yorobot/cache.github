@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/quick-starter",
   "created_at": "2014-11-26T07:47:53Z",
-  "updated_at": "2022-07-13T23:45:07Z",
+  "updated_at": "2022-07-23T04:42:58Z",
   "pushed_at": "2021-05-27T12:05:03Z",
   "size": 35,
   "history": {
@@ -204,6 +204,10 @@
     "2022-07-15": {
       "stargazers_count": 70,
       "forks_count": 36
+    },
+    "2022-07-24": {
+      "stargazers_count": 69,
+      "forks_count": 36
     }
   },
   "commits": [
@@ -227,53 +231,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 65,
-        "uniques": 20
+        "count": 61,
+        "uniques": 25
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openfootball/quick-starter",
           "title": "quick-starter/cl.rb at master · openfootball/quick-starter · GitHub",
-          "count": 32,
-          "uniques": 18
+          "count": 40,
+          "uniques": 24
         },
         {
           "path": "/openfootball/quick-starter/blob/master/eng2020-21.rb",
           "title": "quick-starter/eng2020-21.rb at master · openfootball/quick-starter · GitHub",
-          "count": 6,
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/datafile",
+          "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
+          "count": 3,
           "uniques": 3
         },
         {
           "path": "/openfootball/quick-starter/blob/master/README.md",
-          "title": "quick-starter/README.md at master · openfootball/quick-starter · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/quick-starter/find/master",
-          "title": "File Finder · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/quick-starter/blob/master/euro2021.rb",
-          "title": "quick-starter/euro2021.rb at master · openfootball/quick-starter · GitHub",
-          "count": 2,
+          "title": "quick-starter/README.md at master · openfootball/quick-starter",
+          "count": 3,
           "uniques": 2
         },
         {
           "path": "/openfootball/quick-starter/blob/master/at2020-21.rb",
-          "title": "quick-starter/at2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "title": "quick-starter/at2020-21.rb at master · openfootball/quick-starter",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/openfootball/quick-starter/blob/master/at.rb",
-          "title": "quick-starter/at.rb at master · openfootball/quick-starter · GitHub",
+          "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
           "count": 1,
           "uniques": 1
         },
@@ -284,13 +282,19 @@
           "uniques": 1
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/fr2020-21.rb",
-          "title": "File Finder",
+          "path": "/openfootball/quick-starter/blob/master/fr.rb",
+          "title": "GitHub - openfootball/quick-starter: football.db quick starter datafile templ...",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/openfootball/quick-starter/blob/master/LICENSE.md",
+          "title": "GitHub - openfootball/quick-starter: football.db quick starter datafile templ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/worldcup2014.rb",
           "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
           "count": 1,
           "uniques": 1
@@ -299,7 +303,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 32,
+          "count": 23,
           "uniques": 12
         },
         {
@@ -308,23 +312,38 @@
           "uniques": 4
         },
         {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
+        },
+        {
           "referrer": "reddit.com",
           "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "datahub.io",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "colab.research.google.com",
-          "count": 2,
+          "referrer": "dhvanil.com",
+          "count": 4,
           "uniques": 1
         },
         {
           "referrer": "groups.google.com",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "datahub.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -3830,6 +3849,54 @@
         "views": {
           "count": 7,
           "uniques": 2
+        }
+      },
+      "2022-07-16": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-17": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2022-07-18": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-07-20": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2022-07-22": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2022-07-23": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2022-07-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

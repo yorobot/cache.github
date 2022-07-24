@@ -249,6 +249,10 @@
     "2022-07-15": {
       "stargazers_count": 18,
       "forks_count": 3
+    },
+    "2022-07-24": {
+      "stargazers_count": 18,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -275,18 +279,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 4,
+        "count": 8,
         "uniques": 4
       },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
       "paths": [
-
+        {
+          "path": "/openfootball/docs",
+          "title": "openfootball/docs: football.db documentation incl. notes, articles, tips, gui...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/docs/blob/master/sql-queries-intro.md",
+          "title": "GitHub - openfootball/docs: football.db documentation incl. notes, articles, ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/docs/commit/305260e08dc6e386a81bed670696fd5226534fc0",
+          "title": "up json api · openfootball/docs@305260e",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/docs/tree/master/api",
+          "title": "openfootball/docs: football.db documentation incl. notes, articles, tips, gui...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "datahub.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1548,6 +1589,24 @@
       },
       "2022-07-14": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-17": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-07-18": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-07-22": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

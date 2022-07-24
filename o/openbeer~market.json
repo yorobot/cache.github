@@ -249,6 +249,10 @@
     "2022-07-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-07-24": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -275,18 +279,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/openbeer/market",
+          "title": "openbeer/market: Free open public domain beer, brewery n brewpub data about i...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/market/blob/master/world-mark--public.txt",
+          "title": "market/world-mark--public.txt at master · openbeer/market",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -438,6 +457,12 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-07-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
         }
       }
     }

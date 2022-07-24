@@ -249,6 +249,10 @@
     "2022-07-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-07-24": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -275,18 +279,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/planetjekyll/sandbox",
+          "title": "planetjekyll/sandbox: example site for snippets, datafiles, etc.",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/sandbox/blob/master/yaml/books.html",
+          "title": "sandbox/books.html at master · planetjekyll/sandbox · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -504,6 +523,18 @@
       },
       "2022-06-04": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-22": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

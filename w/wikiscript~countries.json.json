@@ -166,6 +166,10 @@
     "2022-07-15": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2022-07-24": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -191,18 +195,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 19,
+        "uniques": 3
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/wikiscript/countries.json",
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/Caribbean_Islands",
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Caribbean_Islands/The_Bahamas.json",
+          "title": "countries.json/The_Bahamas.json at master · wikiscript/countries.json",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/Central_America",
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Caribbean_Islands/Anguilla.json",
+          "title": "countries.json/Caribbean_Islands at master · wikiscript/countries.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Central_America/Costa_Rica.json",
+          "title": "countries.json/Central_America at master · wikiscript/countries.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Europe/Transnistria.json",
+          "title": "countries.json/Transnistria.json at master · wikiscript/countries.json · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/Europe",
+          "title": "countries.json/Europe at master · wikiscript/countries.json · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/_source",
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 16,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -883,6 +949,18 @@
         },
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-20": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2022-07-23": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

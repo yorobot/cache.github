@@ -110,6 +110,10 @@
     "2022-07-15": {
       "stargazers_count": 160,
       "forks_count": 20
+    },
+    "2022-07-24": {
+      "stargazers_count": 160,
+      "forks_count": 20
     }
   },
   "commits": [
@@ -139,29 +143,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 65,
-        "uniques": 32
+        "count": 158,
+        "uniques": 50
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openfootball/worldcup.json",
           "title": "openfootball/worldcup.json: Free open public domain football data for the wor...",
-          "count": 32,
-          "uniques": 26
+          "count": 71,
+          "uniques": 39
         },
         {
           "path": "/openfootball/worldcup.json/tree/master/2018",
-          "title": "worldcup.json/2018 at master · openfootball/worldcup.json · GitHub",
-          "count": 3,
-          "uniques": 3
+          "title": "worldcup.json/worldcup.groups.json at master · openfootball/worldcup.json",
+          "count": 34,
+          "uniques": 19
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.teams.json",
+          "title": "worldcup.json/worldcup.teams.json at master · openfootball/worldcup.json · Gi...",
+          "count": 11,
+          "uniques": 7
         },
         {
           "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.json",
           "title": "worldcup.json/worldcup.json at master · openfootball/worldcup.json · GitHub",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.groups.json",
+          "title": "worldcup.json/worldcup.groups.json at master · openfootball/worldcup.json · G...",
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.groups.json",
+          "title": "worldcup.json/worldcup.groups.json at master · openfootball/worldcup.json · G...",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/worldcup.json/tree/master/2014",
+          "title": "worldcup.json/2014 at master · openfootball/worldcup.json · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.standings.json",
+          "title": "worldcup.json/worldcup.standings.json at master · openfootball/worldcup.json ...",
           "count": 2,
           "uniques": 2
         },
@@ -172,32 +206,8 @@
           "uniques": 1
         },
         {
-          "path": "/openfootball/worldcup.json/tree/master/2014",
-          "title": "worldcup.json/2014 at master · openfootball/worldcup.json",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "path": "/openfootball/worldcup.json/blob/master/2014/worldcup.json",
           "title": "worldcup.json/2014 at master · openfootball/worldcup.json",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.groups.json",
-          "title": "worldcup.json/worldcup.groups.json at master · openfootball/worldcup.json · G...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json",
-          "title": "worldcup.json/worldcup.stadiums.json at master · openfootball/worldcup.json ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/worldcup.json/blob/master/LICENSE.md",
-          "title": "worldcup.json/LICENSE.md at master · openfootball/worldcup.json · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -205,41 +215,46 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 13,
-          "uniques": 10
-        },
-        {
-          "referrer": "Google",
-          "count": 9,
-          "uniques": 7
+          "count": 26,
+          "uniques": 11
         },
         {
           "referrer": "quora.com",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 5,
-          "uniques": 1
+          "count": 21,
+          "uniques": 4
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 2,
-          "uniques": 2
+          "count": 20,
+          "uniques": 7
         },
         {
-          "referrer": "ecosia.org",
-          "count": 2,
+          "referrer": "Google",
+          "count": 18,
+          "uniques": 12
+        },
+        {
+          "referrer": "dhvanil.com",
+          "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "moodle.oth-aw.de",
+          "referrer": "DuckDuckGo",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "towardsdatascience.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "chandoo.org",
+          "referrer": "search-dra.dt.dbankcloud.com",
           "count": 1,
           "uniques": 1
         }
@@ -2532,6 +2547,68 @@
         "views": {
           "count": 20,
           "uniques": 6
+        }
+      },
+      "2022-07-16": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2022-07-17": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-18": {
+        "views": {
+          "count": 12,
+          "uniques": 7
+        }
+      },
+      "2022-07-19": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-20": {
+        "views": {
+          "count": 24,
+          "uniques": 5
+        }
+      },
+      "2022-07-21": {
+        "views": {
+          "count": 21,
+          "uniques": 6
+        }
+      },
+      "2022-07-22": {
+        "views": {
+          "count": 23,
+          "uniques": 7
+        }
+      },
+      "2022-07-23": {
+        "views": {
+          "count": 24,
+          "uniques": 6
+        }
+      },
+      "2022-07-24": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

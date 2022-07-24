@@ -235,6 +235,10 @@
     "2022-07-15": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2022-07-24": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -260,18 +264,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/octobook/book-2017-theme",
+          "title": "octobook/book-2017-theme: book git theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/preview.png",
+          "title": "book-2017-theme/preview.png at gh-pages · octobook/book-2017-theme",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "reddit.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -580,6 +599,18 @@
       "2022-07-11": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-17": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-19": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -249,6 +249,10 @@
     "2022-07-15": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2022-07-24": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -275,14 +279,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
+        "count": 10,
         "uniques": 4
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
+        {
+          "path": "/planet-templates/planet-blank",
+          "title": "planet-templates/planet-blank: blank - planet template pack",
+          "count": 5,
+          "uniques": 3
+        },
         {
           "path": "/planet-templates/planet-blank/labels",
           "title": "Labels · planet-templates/planet-blank · GitHub",
@@ -290,20 +300,26 @@
           "uniques": 1
         },
         {
-          "path": "/planet-templates/planet-blank",
-          "title": "GitHub - planet-templates/planet-blank: blank - planet template pack",
-          "count": 2,
-          "uniques": 2
+          "path": "/planet-templates/planet-blank/blob/master/blank.html.erb",
+          "title": "planet-templates/planet-blank: blank - planet template pack",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-blank/blob/master/blank.txt",
+          "title": "planet-templates/planet-blank: blank - planet template pack",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 5,
           "uniques": 1
         },
         {
-          "referrer": "feedreader.github.io",
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         }
@@ -806,7 +822,7 @@
       },
       "2022-07-15": {
         "views": {
-          "count": 4,
+          "count": 5,
           "uniques": 1
         }
       },
@@ -830,6 +846,18 @@
       },
       "2022-07-11": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-20": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

@@ -249,6 +249,10 @@
     "2022-07-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-07-24": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -275,24 +279,30 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 16,
+        "count": 20,
         "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/planet-templates/planet-feeds",
           "title": "planet-templates/planet-feeds: feeds - planet template pack - rss 2.0, atom, ...",
-          "count": 10,
+          "count": 14,
           "uniques": 2
         },
         {
           "path": "/planet-templates/planet-feeds/blob/master/atom.xml.erb",
           "title": "planet-templates/planet-feeds: feeds - planet template pack - rss 2.0, atom, ...",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/foafroll.xml.erb",
+          "title": "planet-templates/planet-feeds: feeds - planet template pack - rss 2.0, atom, ...",
+          "count": 1,
           "uniques": 1
         },
         {
@@ -316,8 +326,8 @@
         },
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 6,
+          "uniques": 2
         }
       ]
     },
@@ -683,6 +693,12 @@
       "2022-07-08": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-20": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/football.json",
   "created_at": "2015-09-17T16:40:37Z",
-  "updated_at": "2022-07-14T19:31:01Z",
+  "updated_at": "2022-07-23T09:43:52Z",
   "pushed_at": "2021-04-28T18:10:46Z",
   "size": 2268,
   "history": {
@@ -228,6 +228,10 @@
     "2022-07-15": {
       "stargazers_count": 679,
       "forks_count": 183
+    },
+    "2022-07-24": {
+      "stargazers_count": 682,
+      "forks_count": 183
     }
   },
   "commits": [
@@ -246,100 +250,110 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 684,
-        "uniques": 144
+        "count": 780,
+        "uniques": 158
       },
       "clones": {
         "count": 5,
-        "uniques": 5
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openfootball/football.json",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 273,
-          "uniques": 136
+          "count": 301,
+          "uniques": 148
         },
         {
           "path": "/openfootball/football.json/tree/master/2020-21",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 80,
-          "uniques": 33
+          "count": 103,
+          "uniques": 38
         },
         {
           "path": "/openfootball/football.json/tree/master/2020",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 38,
-          "uniques": 23
-        },
-        {
-          "path": "/openfootball/football.json/tree/master/2017-18",
-          "title": "football.json/2017-18 at master · openfootball/football.json · GitHub",
-          "count": 22,
-          "uniques": 4
+          "count": 64,
+          "uniques": 25
         },
         {
           "path": "/openfootball/football.json/tree/master/2010-11",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
+          "count": 22,
+          "uniques": 10
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/2020-21/en.1.json",
+          "title": "football.json/en.1.json at master · openfootball/football.json · GitHub",
           "count": 19,
-          "uniques": 6
+          "uniques": 11
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/2020/br.1.clubs.json",
+          "title": "football.json/br.1.clubs.json at master · openfootball/football.json · GitHub",
+          "count": 15,
+          "uniques": 15
         },
         {
           "path": "/openfootball/football.json/blob/master/2020-21/at.1.json",
           "title": "football.json/at.1.json at master · openfootball/football.json · GitHub",
-          "count": 12,
-          "uniques": 9
-        },
-        {
-          "path": "/openfootball/football.json/tree/master/2018-19",
-          "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 12,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/football.json/tree/master/2016-17",
-          "title": "football.json/2016-17 at master · openfootball/football.json · GitHub",
-          "count": 12,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/football.json/blob/master/2020/br.1.clubs.json",
-          "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 10,
+          "count": 14,
           "uniques": 10
         },
         {
-          "path": "/openfootball/football.json/tree/master/2019-20",
-          "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
+          "path": "/openfootball/football.json/blob/master/2020/br.1.json",
+          "title": "football.json/br.1.json at master · openfootball/football.json",
           "count": 10,
-          "uniques": 3
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/football.json/tree/master/2017-18",
+          "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/2020-21/en.1.clubs.json",
+          "title": "football.json/en.1.clubs.json at master · openfootball/football.json",
+          "count": 8,
+          "uniques": 8
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 288,
-          "uniques": 69
+          "count": 409,
+          "uniques": 83
         },
         {
           "referrer": "github.com",
-          "count": 121,
-          "uniques": 48
+          "count": 148,
+          "uniques": 46
+        },
+        {
+          "referrer": "you.com",
+          "count": 25,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 14,
+          "uniques": 6
         },
         {
           "referrer": "Bing",
           "count": 13,
-          "uniques": 4
-        },
-        {
-          "referrer": "pub.dev",
-          "count": 13,
-          "uniques": 2
+          "uniques": 5
         },
         {
           "referrer": "openfootball.github.io",
+          "count": 12,
+          "uniques": 3
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 11,
-          "uniques": 2
+          "uniques": 3
         },
         {
           "referrer": "fr.search.yahoo.com",
@@ -347,24 +361,14 @@
           "uniques": 1
         },
         {
+          "referrer": "pub.dev",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "referrer": "npmjs.com",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "referrer": "qna.habr.com",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 6,
-          "uniques": 3
+          "count": 2,
+          "uniques": 1
         }
       ]
     },
@@ -4593,8 +4597,8 @@
       },
       "2022-07-10": {
         "views": {
-          "count": 88,
-          "uniques": 10
+          "count": 38,
+          "uniques": 5
         }
       },
       "2022-07-11": {
@@ -4631,8 +4635,66 @@
       },
       "2022-07-15": {
         "views": {
-          "count": 34,
-          "uniques": 6
+          "count": 46,
+          "uniques": 9
+        }
+      },
+      "2022-07-16": {
+        "views": {
+          "count": 9,
+          "uniques": 7
+        }
+      },
+      "2022-07-17": {
+        "views": {
+          "count": 38,
+          "uniques": 15
+        }
+      },
+      "2022-07-18": {
+        "views": {
+          "count": 120,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-07-19": {
+        "views": {
+          "count": 22,
+          "uniques": 7
+        }
+      },
+      "2022-07-20": {
+        "views": {
+          "count": 82,
+          "uniques": 19
+        }
+      },
+      "2022-07-21": {
+        "views": {
+          "count": 87,
+          "uniques": 13
+        }
+      },
+      "2022-07-22": {
+        "views": {
+          "count": 52,
+          "uniques": 15
+        }
+      },
+      "2022-07-23": {
+        "views": {
+          "count": 45,
+          "uniques": 17
+        }
+      },
+      "2022-07-24": {
+        "views": {
+          "count": 10,
+          "uniques": 3
         }
       }
     }

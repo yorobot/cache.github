@@ -249,6 +249,10 @@
     "2022-07-15": {
       "stargazers_count": 180,
       "forks_count": 15
+    },
+    "2022-07-24": {
+      "stargazers_count": 180,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -288,19 +292,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 60,
-        "uniques": 9
+        "count": 54,
+        "uniques": 7
       },
       "clones": {
-        "count": 7,
-        "uniques": 5
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
-          "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 8,
+          "title": "feedreader/pluto: pluto gems - planet feed reader and (static) website genera...",
+          "count": 11,
           "uniques": 5
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/html-template",
+          "title": "feedreader/pluto: pluto gems - planet feed reader and (static) website genera...",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/html-template/test",
+          "title": "pluto/html-template/test at master · feedreader/pluto",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/html-template/test/templates",
+          "title": "pluto/html-template/test at master · feedreader/pluto",
+          "count": 6,
+          "uniques": 1
         },
         {
           "path": "/feedreader/pluto/pull/16",
@@ -309,8 +331,20 @@
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues/43",
-          "title": "comparison of NilClass with Time failed (only fails with other blogs) · Issue...",
+          "path": "/feedreader/pluto/blob/master/html-template/Manifest.txt",
+          "title": "pluto/html-template at master · feedreader/pluto",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/html-template/test/templates/opml.xml.erb",
+          "title": "pluto/html-template/test/templates at master · feedreader/pluto",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/test/ruby.ini",
+          "title": "pluto/html-template/test at master · feedreader/pluto",
           "count": 2,
           "uniques": 1
         },
@@ -321,60 +355,25 @@
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/blob/master/pluto-models",
-          "title": "pluto/pluto-models at master · feedreader/pluto",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/pull/16/commits",
-          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/pull/16/commits/17fc6d9f2b7b6f24aae2d93fcad4439d9d1ea014",
-          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/pulls",
-          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/pluto-models",
-          "title": "pluto/pluto-models at master · feedreader/pluto",
-          "count": 1,
+          "path": "/feedreader/pluto/tree/master/html-template/test/templates/planet",
+          "title": "pluto/html-template/test/templates at master · feedreader/pluto",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 4
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 2,
-          "uniques": 1
+          "count": 13,
+          "uniques": 5
         },
         {
           "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "us.search.yahoo.com",
           "count": 1,
           "uniques": 1
         },
@@ -3245,6 +3244,22 @@
       "2022-07-12": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-07-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
