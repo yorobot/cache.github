@@ -253,6 +253,10 @@
     "2022-07-24": {
       "stargazers_count": 130,
       "forks_count": 47
+    },
+    "2022-08-01": {
+      "stargazers_count": 131,
+      "forks_count": 47
     }
   },
   "commits": [
@@ -269,7 +273,7 @@
     }
   ],
   "size": 2929,
-  "updated_at": "2022-07-22T08:52:04Z",
+  "updated_at": "2022-07-29T07:35:12Z",
   "pushed_at": "2021-04-27T17:53:01Z",
   "description": "sportbook web app - free open source sports betting (or prediction) pool in ruby on rails (version 3.2 and up)",
   "language": "Ruby",
@@ -279,37 +283,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 139,
-        "uniques": 53
+        "count": 89,
+        "uniques": 48
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 14,
+        "uniques": 14
       },
       "paths": [
         {
           "path": "/openbookie/sportbook",
           "title": "sportbook/users.rb at master · openbookie/sportbook · GitHub",
-          "count": 80,
-          "uniques": 49
+          "count": 56,
+          "uniques": 44
         },
         {
           "path": "/openbookie/sportbook/tree/master/app/models",
           "title": "sportbook/app/models at master · openbookie/sportbook · GitHub",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/openbookie/sportbook/tree/master/admin",
-          "title": "sportbook/admin at master · openbookie/sportbook",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/openbookie/sportbook/tree/master/app",
-          "title": "sportbook/app at master · openbookie/sportbook · GitHub",
           "count": 3,
-          "uniques": 3
+          "uniques": 1
         },
         {
           "path": "/openbookie/sportbook/tree/master/db/setups",
@@ -318,20 +310,14 @@
           "uniques": 1
         },
         {
-          "path": "/openbookie/sportbook/tree/master/public",
-          "title": "sportbook/public at master · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/db",
+          "title": "sportbook/db at master · openbookie/sportbook",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openbookie/sportbook/network/members",
-          "title": "Forks · openbookie/sportbook",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openbookie/sportbook/pulse",
-          "title": "Pulse · openbookie/sportbook · GitHub",
+          "path": "/openbookie/sportbook/tree/master/admin",
+          "title": "GitHub - openbookie/sportbook: sportbook web app - free open source sports be...",
           "count": 2,
           "uniques": 1
         },
@@ -346,23 +332,41 @@
           "title": "sportbook/pools.rb at master · openbookie/sportbook · GitHub",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/admin/app/.gitkeep",
+          "title": "sportbook/admin/app at master · openbookie/sportbook · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/app/models/calc_team.rb",
+          "title": "sportbook/calc_team.rb at master · openbookie/sportbook · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbookie/sportbook/blob/master/app/models/city.rb",
+          "title": "sportbook/city.rb at master · openbookie/sportbook · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 54,
-          "uniques": 26
-        },
-        {
-          "referrer": "Google",
-          "count": 31,
-          "uniques": 16
+          "count": 29,
+          "uniques": 21
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 27,
+          "count": 23,
           "uniques": 5
+        },
+        {
+          "referrer": "Google",
+          "count": 19,
+          "uniques": 15
         },
         {
           "referrer": "search.brave.com",
@@ -4308,8 +4312,74 @@
       },
       "2022-07-24": {
         "views": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2022-07-26": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-07-27": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-07-28": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-07-29": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-07-30": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-07-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-01": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

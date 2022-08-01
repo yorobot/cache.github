@@ -253,6 +253,10 @@
     "2022-07-24": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2022-08-01": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -279,23 +283,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
-      },
-      "clones": {
         "count": 2,
         "uniques": 2
+      },
+      "clones": {
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openfootball/schema",
           "title": "GitHub - openfootball/schema: football.db database schema docu",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -783,6 +791,12 @@
           "uniques": 1
         },
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-28": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

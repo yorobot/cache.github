@@ -1,8 +1,8 @@
 {
   "full_name": "openblockchains/crypto-books",
   "created_at": "2017-12-23T10:24:19Z",
-  "updated_at": "2022-05-22T22:18:04Z",
-  "pushed_at": "2021-05-27T13:24:30Z",
+  "updated_at": "2022-07-30T12:02:05Z",
+  "pushed_at": "2022-07-29T03:29:53Z",
   "size": 180,
   "description": "Best of Crypto Books - A collection of books, white papers & more about crypto and blockchains.",
   "language": "HTML",
@@ -162,6 +162,10 @@
     "2022-07-24": {
       "stargazers_count": 40,
       "forks_count": 5
+    },
+    "2022-08-01": {
+      "stargazers_count": 43,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -205,31 +209,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 78,
-        "uniques": 10
+        "count": 100,
+        "uniques": 16
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/openblockchains/crypto-books/tree/master/_books",
-          "title": "GitHub - openblockchains/crypto-livres: le Meilleur du Crypto-Livres - Une co...",
-          "count": 18,
-          "uniques": 6
+          "path": "/openblockchains/crypto-books",
+          "title": "openblockchains/crypto-books: Best of Crypto Books - A collection of books, w...",
+          "count": 19,
+          "uniques": 14
         },
         {
-          "path": "/openblockchains/crypto-books",
-          "title": "GitHub - openblockchains/crypto-books: Best of Crypto Books - A collection of...",
-          "count": 15,
-          "uniques": 10
+          "path": "/openblockchains/crypto-books/tree/master/_books",
+          "title": "crypto-books/_books at master · openblockchains/crypto-books",
+          "count": 13,
+          "uniques": 4
         },
         {
           "path": "/openblockchains/crypto-books/tree/master/_books/2021",
           "title": "crypto-books/_books at master · openblockchains/crypto-books · GitHub",
-          "count": 12,
-          "uniques": 3
+          "count": 10,
+          "uniques": 4
+        },
+        {
+          "path": "/openblockchains/crypto-books/pull/2",
+          "title": "Create Davi3031 by Davi3031 · Pull Request #2 · openblockchains/crypto-books",
+          "count": 9,
+          "uniques": 4
         },
         {
           "path": "/openblockchains/crypto-books/tree/master/_books/2020",
@@ -238,62 +248,46 @@
           "uniques": 3
         },
         {
-          "path": "/openblockchains/crypto-books/blob/master/_books/2021/Bitcoin_is_a_Ponzi.md",
-          "title": "crypto-books/_books/2021 at master · openblockchains/crypto-books · GitHub",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/crypto-books/blob/master/_books",
-          "title": "crypto-books/_books at master · openblockchains/crypto-books · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/crypto-books/blob/master/_books/2019/Programming_Crypto_Blockchain_Contracts_Step-by-Step.md",
-          "title": "crypto-books/_books/2019 at master · openblockchains/crypto-books · GitHub",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/actions",
+          "title": "Actions · openblockchains/crypto-books",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/openblockchains/crypto-books/blob/master/_books/2020/Learn_Blockchain_by_Building_One.md",
           "title": "crypto-books/Learn_Blockchain_by_Building_One.md at master · openblockchains/...",
-          "count": 2,
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/crypto-books/blob/master/_books/2021/Bitcoin_is_a_Ponzi.md",
+          "title": "crypto-books/_books/2021 at master · openblockchains/crypto-books · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/crypto-books/blob/master/_books/2020/Mastering_Blockchain.md",
-          "title": "crypto-books/Mastering_Blockchain.md at master · openblockchains/crypto-books...",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/compare/master...Davi3031:crypto-books:patch-2",
+          "title": "Comparing openblockchains:master...Davi3031:patch-2 · openblockchains/crypto-...",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/crypto-books/blob/master/_books/2021/Awesome_Tetherino.md",
-          "title": "crypto-books/Awesome_Tetherino.md at master · openblockchains/crypto-books · ...",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/pull/2/commits/9a2a70d476a02c2fe0331cde3e1891871734ba60",
+          "title": "Create Davi3031 by Davi3031 · Pull Request #2 · openblockchains/crypto-books",
+          "count": 3,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 40,
-          "uniques": 5
+          "count": 62,
+          "uniques": 12
         },
         {
           "referrer": "Google",
           "count": 29,
           "uniques": 3
-        },
-        {
-          "referrer": "yukimotopress.github.io",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "medium.com",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -2502,6 +2496,36 @@
         "views": {
           "count": 41,
           "uniques": 4
+        }
+      },
+      "2022-07-25": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2022-07-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-07-29": {
+        "views": {
+          "count": 31,
+          "uniques": 5
+        }
+      },
+      "2022-07-30": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        }
+      },
+      "2022-07-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

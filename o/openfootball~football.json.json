@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/football.json",
   "created_at": "2015-09-17T16:40:37Z",
-  "updated_at": "2022-07-23T09:43:52Z",
+  "updated_at": "2022-07-30T09:11:17Z",
   "pushed_at": "2021-04-28T18:10:46Z",
   "size": 2268,
   "history": {
@@ -232,6 +232,10 @@
     "2022-07-24": {
       "stargazers_count": 682,
       "forks_count": 183
+    },
+    "2022-08-01": {
+      "stargazers_count": 683,
+      "forks_count": 182
     }
   },
   "commits": [
@@ -250,85 +254,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 780,
-        "uniques": 158
+        "count": 622,
+        "uniques": 170
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/openfootball/football.json",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 301,
-          "uniques": 148
+          "count": 250,
+          "uniques": 154
         },
         {
           "path": "/openfootball/football.json/tree/master/2020-21",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 103,
-          "uniques": 38
+          "count": 77,
+          "uniques": 39
         },
         {
           "path": "/openfootball/football.json/tree/master/2020",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 64,
+          "count": 51,
           "uniques": 25
         },
         {
           "path": "/openfootball/football.json/tree/master/2010-11",
           "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 22,
-          "uniques": 10
+          "count": 14,
+          "uniques": 8
         },
         {
           "path": "/openfootball/football.json/blob/master/2020-21/en.1.json",
           "title": "football.json/en.1.json at master · openfootball/football.json · GitHub",
-          "count": 19,
-          "uniques": 11
-        },
-        {
-          "path": "/openfootball/football.json/blob/master/2020/br.1.clubs.json",
-          "title": "football.json/br.1.clubs.json at master · openfootball/football.json · GitHub",
-          "count": 15,
-          "uniques": 15
+          "count": 11,
+          "uniques": 9
         },
         {
           "path": "/openfootball/football.json/blob/master/2020-21/at.1.json",
           "title": "football.json/at.1.json at master · openfootball/football.json · GitHub",
-          "count": 14,
+          "count": 10,
+          "uniques": 10
+        },
+        {
+          "path": "/openfootball/football.json/blob/master/2020/br.1.clubs.json",
+          "title": "football.json/br.1.clubs.json at master · openfootball/football.json · GitHub",
+          "count": 10,
           "uniques": 10
         },
         {
           "path": "/openfootball/football.json/blob/master/2020/br.1.json",
-          "title": "football.json/br.1.json at master · openfootball/football.json",
+          "title": "football.json/br.1.json at master · openfootball/football.json · GitHub",
           "count": 10,
-          "uniques": 7
+          "uniques": 10
         },
         {
-          "path": "/openfootball/football.json/tree/master/2017-18",
-          "title": "openfootball/football.json: Free open public domain football data in JSON inc...",
-          "count": 9,
-          "uniques": 4
+          "path": "/openfootball/football.json/blob/master/2020/cn.1.clubs.json",
+          "title": "football.json/cn.1.clubs.json at master · openfootball/football.json · GitHub",
+          "count": 7,
+          "uniques": 6
         },
         {
-          "path": "/openfootball/football.json/blob/master/2020-21/en.1.clubs.json",
-          "title": "football.json/en.1.clubs.json at master · openfootball/football.json",
-          "count": 8,
-          "uniques": 8
+          "path": "/openfootball/football.json/blob/master/2020-21/at.2.clubs.json",
+          "title": "football.json/at.2.clubs.json at master · openfootball/football.json · GitHub",
+          "count": 6,
+          "uniques": 6
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 409,
-          "uniques": 83
+          "count": 310,
+          "uniques": 97
         },
         {
           "referrer": "github.com",
-          "count": 148,
-          "uniques": 46
+          "count": 111,
+          "uniques": 37
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 38,
+          "uniques": 11
         },
         {
           "referrer": "you.com",
@@ -336,29 +345,19 @@
           "uniques": 1
         },
         {
-          "referrer": "reddit.com",
-          "count": 14,
-          "uniques": 6
+          "referrer": "blog.desdelinux.net",
+          "count": 18,
+          "uniques": 2
         },
         {
           "referrer": "Bing",
-          "count": 13,
-          "uniques": 5
-        },
-        {
-          "referrer": "openfootball.github.io",
           "count": 12,
-          "uniques": 3
+          "uniques": 4
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 11,
-          "uniques": 3
-        },
-        {
-          "referrer": "fr.search.yahoo.com",
-          "count": 10,
-          "uniques": 1
+          "referrer": "qna.habr.com",
+          "count": 3,
+          "uniques": 2
         },
         {
           "referrer": "pub.dev",
@@ -366,8 +365,13 @@
           "uniques": 1
         },
         {
-          "referrer": "npmjs.com",
+          "referrer": "DuckDuckGo",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Yahoo",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -4653,8 +4657,8 @@
       },
       "2022-07-18": {
         "views": {
-          "count": 120,
-          "uniques": 13
+          "count": 3,
+          "uniques": 1
         },
         "clones": {
           "count": 3,
@@ -4693,8 +4697,76 @@
       },
       "2022-07-24": {
         "views": {
-          "count": 10,
-          "uniques": 3
+          "count": 51,
+          "uniques": 13
+        }
+      },
+      "2022-07-25": {
+        "views": {
+          "count": 44,
+          "uniques": 16
+        }
+      },
+      "2022-07-26": {
+        "views": {
+          "count": 73,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-27": {
+        "views": {
+          "count": 34,
+          "uniques": 10
+        }
+      },
+      "2022-07-28": {
+        "views": {
+          "count": 21,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-29": {
+        "views": {
+          "count": 27,
+          "uniques": 8
+        }
+      },
+      "2022-07-30": {
+        "views": {
+          "count": 27,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-07-31": {
+        "views": {
+          "count": 31,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-01": {
+        "views": {
+          "count": 23,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

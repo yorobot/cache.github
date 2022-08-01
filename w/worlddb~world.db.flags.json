@@ -253,6 +253,10 @@
     "2022-07-24": {
       "stargazers_count": 8,
       "forks_count": 10
+    },
+    "2022-08-01": {
+      "stargazers_count": 8,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -279,41 +283,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 25,
-        "uniques": 5
+        "count": 61,
+        "uniques": 6
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/worlddb/world.db.flags",
           "title": "worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32x32, 48x4...",
-          "count": 8,
-          "uniques": 5
-        },
-        {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/24x24",
-          "title": "world.db.flags/vendor/assets/images/flags at master · worlddb/world.db.flags ...",
-          "count": 5,
-          "uniques": 1
+          "count": 7,
+          "uniques": 4
         },
         {
           "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags",
           "title": "world.db.flags/vendor/assets/images/flags at master · worlddb/world.db.flags ...",
-          "count": 3,
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/48x48/wa.png",
+          "title": "world.db.flags/wa.png at master · worlddb/world.db.flags",
+          "count": 5,
           "uniques": 2
         },
         {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/24x24/en.png",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24 at master · worlddb/world.db....",
-          "count": 3,
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/48x48",
+          "title": "world.db.flags/vendor/assets/images/flags/48x48 at master · worlddb/world.db....",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/48x48/ag.png",
+          "title": "world.db.flags/ag.png at master · worlddb/world.db.flags",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/24x24/pl.png",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24 at master · worlddb/world.db....",
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/48x48/za.png",
+          "title": "world.db.flags/za.png at master · worlddb/world.db.flags",
           "count": 2,
           "uniques": 1
         },
@@ -324,23 +334,34 @@
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/24x24/us.png",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24 at master · worlddb/world.db....",
+          "path": "/worlddb/world.db.flags/blob/master/lib/worlddb/flags/engine.rb",
+          "title": "world.db.flags/engine.rb at master · worlddb/world.db.flags",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/64x64/bs.png",
-          "title": "world.db.flags/vendor/assets/images/flags/64x64 at master · worlddb/world.db....",
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/48x48/ad.png",
+          "title": "world.db.flags/ad.png at master · worlddb/world.db.flags",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/48x48/ae.png",
+          "title": "world.db.flags/ae.png at master · worlddb/world.db.flags",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Bing",
+          "count": 10,
+          "uniques": 1
+        },
+        {
           "referrer": "Google",
-          "count": 21,
-          "uniques": 4
+          "count": 7,
+          "uniques": 1
         }
       ]
     },
@@ -1383,6 +1404,24 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-07-27": {
+        "views": {
+          "count": 38,
+          "uniques": 2
+        }
+      },
+      "2022-07-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-01": {
+        "views": {
+          "count": 12,
+          "uniques": 2
         }
       }
     }
