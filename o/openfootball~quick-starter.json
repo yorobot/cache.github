@@ -212,6 +212,10 @@
     "2022-08-01": {
       "stargazers_count": 69,
       "forks_count": 36
+    },
+    "2022-08-15": {
+      "stargazers_count": 69,
+      "forks_count": 36
     }
   },
   "commits": [
@@ -235,25 +239,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 67,
-        "uniques": 21
+        "count": 76,
+        "uniques": 25
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/openfootball/quick-starter",
           "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
-          "count": 35,
-          "uniques": 20
+          "count": 44,
+          "uniques": 24
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/README.md",
-          "title": "quick-starter/README.md at master · openfootball/quick-starter · GitHub",
-          "count": 5,
+          "path": "/openfootball/quick-starter/blob/master/eng2020-21.rb",
+          "title": "quick-starter/eng2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/worldcup.rb",
+          "title": "quick-starter/worldcup.rb at master · openfootball/quick-starter",
+          "count": 4,
           "uniques": 3
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/at2020-21.rb",
+          "title": "quick-starter/at2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/openfootball/quick-starter/blob/master/eng.rb",
@@ -262,14 +278,20 @@
           "uniques": 2
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/eng2020-21.rb",
-          "title": "quick-starter/eng2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "path": "/openfootball/quick-starter/blob/master/it.rb",
+          "title": "quick-starter/it.rb at master · openfootball/quick-starter · GitHub",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/worldcup2018.rb",
-          "title": "quick-starter/worldcup2018.rb at master · openfootball/quick-starter · GitHub",
+          "path": "/openfootball/quick-starter/blob/master/stadiums.rb",
+          "title": "quick-starter/stadiums.rb at master · openfootball/quick-starter",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/max.rb",
+          "title": "quick-starter/max.rb at master · openfootball/quick-starter · GitHub",
           "count": 2,
           "uniques": 1
         },
@@ -280,26 +302,8 @@
           "uniques": 1
         },
         {
-          "path": "/openfootball/quick-starter/issues",
-          "title": "Issues · openfootball/quick-starter · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/datafile",
-          "title": "GitHub - openfootball/quick-starter: football.db quick starter datafile templ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/quick-starter/actions",
-          "title": "Actions · openfootball/quick-starter · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/quick-starter/blob/master/at2020-21.rb",
-          "title": "quick-starter/at2020-21.rb at master · openfootball/quick-starter",
+          "path": "/openfootball/quick-starter/blob/master/at.rb",
+          "title": "quick-starter/at.rb at master · openfootball/quick-starter · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -307,36 +311,41 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 10
-        },
-        {
-          "referrer": "datahub.io",
-          "count": 18,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "referrer": "blog.desdelinux.net",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "dhvanil.com",
-          "count": 4,
-          "uniques": 1
+          "count": 24,
+          "uniques": 9
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 3,
+          "count": 21,
+          "uniques": 6
+        },
+        {
+          "referrer": "datahub.io",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "referrer": "sportdb.github.io",
+          "count": 7,
           "uniques": 1
         },
         {
           "referrer": "jokecamp.com",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "blog.desdelinux.net",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyflow.com",
           "count": 1,
           "uniques": 1
         }
@@ -3934,6 +3943,106 @@
         }
       },
       "2022-07-31": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-02": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2022-08-03": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-05": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-08-06": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2022-08-07": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-08-08": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-10": {
+        "views": {
+          "count": 31,
+          "uniques": 3
+        }
+      },
+      "2022-08-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-12": {
         "clones": {
           "count": 1,
           "uniques": 1

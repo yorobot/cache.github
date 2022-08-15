@@ -10,6 +10,10 @@
     "2022-08-01": {
       "stargazers_count": 6,
       "forks_count": 2
+    },
+    "2022-08-15": {
+      "stargazers_count": 6,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -35,53 +39,67 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 5
+        "count": 13,
+        "uniques": 3
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/rubycoco/webclient",
-          "title": "rubycoco/webclient: web command line tools, libraries & scripts",
-          "count": 6,
-          "uniques": 5
+          "path": "/rubycocos/webclient",
+          "title": "rubycocos/webclient: web command line tools, libraries & scripts",
+          "count": 4,
+          "uniques": 3
         },
         {
-          "path": "/rubycoco/webclient/blob/master/README.md",
-          "title": "webclient/README.md at master · rubycoco/webclient · GitHub",
+          "path": "/rubycocos/webclient/tree/master/webclient",
+          "title": "webclient/webclient at master · rubycocos/webclient · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/webclient/blob/master/webclient/lib/webclient.rb",
+          "title": "webclient/webclient.rb at master · rubycocos/webclient · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webclient/blob/master/fetcher/lib/fetcher/worker.rb",
+          "title": "webclient/worker.rb at master · rubycocos/webclient",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/commits",
-          "title": "Commits · rubycoco/webclient · GitHub",
+          "path": "/rubycocos/webclient/tree/master/fetcher",
+          "title": "webclient/fetcher at master · rubycocos/webclient",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycoco/webclient/tree/master/webclient",
-          "title": "webclient/webclient at master · rubycoco/webclient · GitHub",
+          "path": "/rubycocos/webclient/tree/master/fetcher/lib",
+          "title": "webclient/fetcher/lib at master · rubycocos/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webclient/tree/master/fetcher/lib/fetcher",
+          "title": "webclient/fetcher/lib/fetcher at master · rubycocos/webclient",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webclient/tree/master/webclient/lib",
+          "title": "webclient/webclient/lib at master · rubycocos/webclient · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
+          "referrer": "rubygems.org",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "yukimotopress.github.io",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -122,6 +140,34 @@
         }
       },
       "2022-08-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-08-08": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-08-11": {
         "clones": {
           "count": 1,
           "uniques": 1

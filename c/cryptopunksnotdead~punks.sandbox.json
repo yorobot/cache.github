@@ -2,8 +2,8 @@
   "full_name": "cryptopunksnotdead/punks.sandbox",
   "created_at": "2014-06-09T10:21:53Z",
   "updated_at": "2022-07-21T21:26:21Z",
-  "pushed_at": "2022-07-29T17:17:09Z",
-  "size": 15657,
+  "pushed_at": "2022-08-13T15:40:03Z",
+  "size": 15672,
   "description": "punks.sandbox - how-tos and samples scripts to generate your own (crypto) punk pixel art and more",
   "language": "Ruby",
   "history": {
@@ -38,16 +38,20 @@
     "2022-08-01": {
       "stargazers_count": 78,
       "forks_count": 33
+    },
+    "2022-08-15": {
+      "stargazers_count": 78,
+      "forks_count": 32
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-07-29T17:17:02Z",
+        "date": "2022-08-13T15:39:58Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-07-29T17:17:02Z",
+        "date": "2022-08-13T15:39:58Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -64,118 +68,128 @@
     "24px"
   ],
   "languages": {
-    "Ruby": 755167
+    "Ruby": 757546
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 1857,
-        "uniques": 40
+        "count": 443,
+        "uniques": 39
       },
       "clones": {
-        "count": 125,
-        "uniques": 16
+        "count": 21,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/punks.sandbox",
           "title": "GitHub - cryptopunksnotdead/punks.sandbox: punks.sandbox - how-tos and sample...",
-          "count": 266,
-          "uniques": 29
+          "count": 58,
+          "uniques": 33
         },
         {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/cyberpunks/attributes",
-          "title": "punks.sandbox/cyberpunks/attributes at master · cryptopunksnotdead/punks.sand...",
-          "count": 41,
-          "uniques": 6
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/marc-a16z",
-          "title": "punks.sandbox/zombie.png at master · cryptopunksnotdead/punks.sandbox",
-          "count": 39,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/flags",
-          "title": "punks.sandbox/flags at master · cryptopunksnotdead/punks.sandbox · GitHub",
-          "count": 37,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/cyberpunks/attributes/01-background",
-          "title": "punks.sandbox/cyberpunks/attributes/01-background at master · cryptopunksnotd...",
-          "count": 34,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/cyberpunks",
-          "title": "punks.sandbox/cyberpunks at master · cryptopunksnotdead/punks.sandbox · GitHub",
-          "count": 27,
-          "uniques": 6
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/cyberpunks-classic",
-          "title": "punks.sandbox/cyberpunks-classic at master · cryptopunksnotdead/punks.sandbox...",
-          "count": 25,
-          "uniques": 7
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/americans",
-          "title": "punks.sandbox/americans at master · cryptopunksnotdead/punks.sandbox · GitHub",
-          "count": 23,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/cyberpunks-classic/attributes",
-          "title": "punks.sandbox/cyberpunks-classic/attributes at master · cryptopunksnotdead/pu...",
-          "count": 22,
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/punksdata-assets",
+          "title": "punks.sandbox/punksdata-assets at master · cryptopunksnotdead/punks.sandbox",
+          "count": 10,
           "uniques": 5
         },
         {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/cyborgs/attributes",
-          "title": "punks.sandbox/cyborgs/attributes at master · cryptopunksnotdead/punks.sandbox...",
-          "count": 19,
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/punksdata",
+          "title": "punks.sandbox/punksdata at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/hotties",
+          "title": "punks.sandbox/hotties at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 8,
           "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/hotties/attributes",
+          "title": "punks.sandbox/hotties/attributes at master · cryptopunksnotdead/punks.sandbox...",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/phunks/phunks.rb",
+          "title": "punks.sandbox/phunks.rb at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/phunks",
+          "title": "punks.sandbox/phunks at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/backgrounds",
+          "title": "punks.sandbox/backgrounds at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/punksdata-assets/i",
+          "title": "punks.sandbox/punksdata-assets/i at master · cryptopunksnotdead/punks.sandbox",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/hotties/i",
+          "title": "punks.sandbox/hotties/i at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 5,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "old.reddit.com",
-          "count": 580,
-          "uniques": 4
+          "referrer": "reddit.com",
+          "count": 102,
+          "uniques": 5
         },
         {
           "referrer": "github.com",
-          "count": 251,
-          "uniques": 18
+          "count": 72,
+          "uniques": 13
         },
         {
-          "referrer": "reddit.com",
-          "count": 59,
-          "uniques": 9
+          "referrer": "old.reddit.com",
+          "count": 18,
+          "uniques": 4
         },
         {
           "referrer": "t.co",
-          "count": 3,
+          "count": 17,
           "uniques": 1
         },
         {
-          "referrer": "out.reddit.com",
+          "referrer": "link.juejin.cn",
+          "count": 9,
+          "uniques": 7
+        },
+        {
+          "referrer": "Google",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "git.news",
+          "referrer": "link.zhihu.com",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "rubydoc.info",
+          "referrer": "libhunt.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "Google",
+          "referrer": "out.reddit.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "link.csdn.net",
           "count": 1,
           "uniques": 1
         }
@@ -1048,6 +1062,122 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-08-02": {
+        "views": {
+          "count": 141,
+          "uniques": 4
+        }
+      },
+      "2022-08-03": {
+        "views": {
+          "count": 79,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-04": {
+        "views": {
+          "count": 23,
+          "uniques": 4
+        }
+      },
+      "2022-08-05": {
+        "views": {
+          "count": 31,
+          "uniques": 6
+        }
+      },
+      "2022-08-06": {
+        "views": {
+          "count": 26,
+          "uniques": 5
+        }
+      },
+      "2022-08-07": {
+        "views": {
+          "count": 21,
+          "uniques": 7
+        }
+      },
+      "2022-08-08": {
+        "views": {
+          "count": 22,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-08-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-10": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-11": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2022-08-12": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-08-13": {
+        "views": {
+          "count": 31,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-08-14": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-15": {
+        "views": {
+          "count": 39,
+          "uniques": 3
         }
       }
     }

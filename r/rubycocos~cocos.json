@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/cocos",
   "created_at": "2013-10-12T21:36:51Z",
-  "updated_at": "2022-08-01T21:50:45Z",
+  "updated_at": "2022-08-01T23:06:14Z",
   "pushed_at": "2022-08-01T18:09:24Z",
   "size": 93,
   "description": "cocos (code commons) - auto-include quick-starter prelude & prolog",
@@ -9,6 +9,10 @@
   "history": {
     "2022-08-01": {
       "stargazers_count": 53,
+      "forks_count": 2
+    },
+    "2022-08-15": {
+      "stargazers_count": 54,
       "forks_count": 2
     }
   },
@@ -39,23 +43,106 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 70,
-        "uniques": 9
+        "count": 113,
+        "uniques": 55
       },
       "clones": {
-        "count": 15,
-        "uniques": 13
+        "count": 12,
+        "uniques": 10
       },
       "paths": [
         {
-          "path": "/rubycoco/monos",
-          "title": "GitHub - rubycoco/monos: monorepo / mono source tree tools, libraries & scripts",
+          "path": "/rubycocos/cocos",
+          "title": "rubycocos/cocos: cocos (code commons) - auto-include quick-starter prelude & ...",
+          "count": 72,
+          "uniques": 50
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib",
+          "title": "cocos/lib at master · rubycocos/cocos · GitHub",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos.rb",
+          "title": "cocos/cocos.rb at master · rubycocos/cocos · GitHub",
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib/cocos",
+          "title": "cocos/lib/cocos at master · rubycocos/cocos · GitHub",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycocos/cocos/stargazers",
+          "title": "Stargazers · rubycocos/cocos · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos/version.rb",
+          "title": "cocos/version.rb at master · rubycocos/cocos · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/Rakefile",
+          "title": "cocos/Rakefile at master · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/CHANGELOG.md",
+          "title": "cocos/CHANGELOG.md at master · rubycocos/cocos · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/LICENSE.md",
+          "title": "cocos/LICENSE.md at master · rubycocos/cocos · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/Manifest.txt",
+          "title": "cocos/Manifest.txt at master · rubycocos/cocos",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubyflow.com",
+          "count": 50,
+          "uniques": 29
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 8,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubytalk.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "feedly.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "elttucs.my.zrails.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -67,8 +154,8 @@
       },
       "2022-08-01": {
         "views": {
-          "count": 69,
-          "uniques": 8
+          "count": 3,
+          "uniques": 3
         },
         "clones": {
           "count": 12,
@@ -91,6 +178,98 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-08-02": {
+        "views": {
+          "count": 36,
+          "uniques": 19
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2022-08-03": {
+        "views": {
+          "count": 28,
+          "uniques": 19
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-08-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-05": {
+        "views": {
+          "count": 21,
+          "uniques": 7
+        }
+      },
+      "2022-08-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-07": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2022-08-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-09": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-08-11": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-08-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

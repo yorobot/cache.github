@@ -230,6 +230,10 @@
     "2022-08-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-08-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -253,32 +257,48 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 2
+        "count": 8,
+        "uniques": 5
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/sportdb/docs",
-          "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
-          "count": 3,
+          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
+          "title": "docs/generating-json-datasets.md at master · sportdb/docs · GitHub",
+          "count": 2,
           "uniques": 2
         },
         {
           "path": "/sportdb/docs/blob/master/working-with-csv-files.md",
           "title": "docs/working-with-csv-files.md at master · sportdb/docs · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
+          "referrer": "openfootball.github.io",
+          "count": 5,
+          "uniques": 3
+        },
+        {
           "referrer": "sportdb.github.io",
-          "count": 4,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "out.reddit.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1143,6 +1163,42 @@
       },
       "2022-07-29": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-08-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-08-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-08-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-12": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }
