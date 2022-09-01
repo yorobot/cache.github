@@ -14,6 +14,10 @@
     "2022-08-15": {
       "stargazers_count": 176,
       "forks_count": 33
+    },
+    "2022-09-01": {
+      "stargazers_count": 176,
+      "forks_count": 33
     }
   },
   "commits": [
@@ -58,60 +62,48 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 39,
-        "uniques": 15
+        "count": 44,
+        "uniques": 29
       },
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/rubycocos/blockchain",
           "title": "rubycocos/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 10,
-          "uniques": 10
+          "count": 19,
+          "uniques": 17
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/cryptopunks",
-          "title": "blockchain/cryptopunks at master · rubycocos/blockchain · GitHub",
+          "path": "/rubycocos/blockchain/tree/master/blockchain-lite",
+          "title": "blockchain/blockchain-lite at master · rubycocos/blockchain · GitHub",
           "count": 4,
           "uniques": 4
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/centralbank",
-          "title": "blockchain/centralbank at master · rubycocos/blockchain",
+          "path": "/rubycocos/blockchain/tree/master/crypto-lite",
+          "title": "blockchain/crypto-lite at master · rubycocos/blockchain · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/cryptopunks",
+          "title": "blockchain/cryptopunks at master · rubycocos/blockchain · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/elliptic",
+          "title": "blockchain/elliptic at master · rubycocos/blockchain · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/master/p2p/lib/p2p.rb",
+          "title": "blockchain/p2p.rb at master · rubycocos/blockchain",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/attic/bitshilling-blockchain/inbox/20170919_1230.58.txt",
-          "title": "blockchain/20170919_1230.58.txt at master · rubycocos/blockchain · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/attic/bitshilling-blockchain/README.md",
-          "title": "blockchain/README.md at master · rubycocos/blockchain · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/centralbank/lib/centralbank/block.rb",
-          "title": "blockchain/block.rb at master · rubycocos/blockchain",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/centralbank/lib/centralbank/transaction.rb",
-          "title": "blockchain/transaction.rb at master · rubycocos/blockchain",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/cryptopunks/README.md",
-          "title": "blockchain/README.md at master · rubycocos/blockchain · GitHub",
-          "count": 1,
           "uniques": 1
         },
         {
@@ -121,30 +113,57 @@
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/elliptic-lite/lib/elliptic-lite/field.rb",
-          "title": "blockchain/field.rb at master · rubycocos/blockchain · GitHub",
+          "path": "/rubycocos/blockchain/issues",
+          "title": "Issues · rubycocos/blockchain · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/base58-alphabets",
+          "title": "blockchain/base58-alphabets at master · rubycocos/blockchain",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/centralbank",
+          "title": "blockchain/centralbank at master · rubycocos/blockchain · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 25,
-          "uniques": 5
-        },
-        {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 2,
-          "uniques": 2
+          "count": 13,
+          "uniques": 7
         },
         {
           "referrer": "rubygems.org",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -351,6 +370,104 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-08-19": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-20": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-21": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-22": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2022-08-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-24": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-08-25": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2022-08-26": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-27": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-08-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-29": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-08-30": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2022-09-01": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

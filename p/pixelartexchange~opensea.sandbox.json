@@ -1,7 +1,7 @@
 {
   "full_name": "pixelartexchange/opensea.sandbox",
   "created_at": "2018-08-17T08:14:35Z",
-  "updated_at": "2022-01-17T15:49:28Z",
+  "updated_at": "2022-08-19T14:37:30Z",
   "pushed_at": "2022-01-29T17:47:38Z",
   "size": 4855,
   "description": "Quick & Dirty \"One-Off\" Scripts to Download Complete Collections (from Open Sea)",
@@ -74,6 +74,10 @@
     "2022-08-15": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-09-01": {
+      "stargazers_count": 5,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -98,23 +102,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
-        "uniques": 4
+        "count": 10,
+        "uniques": 3
       },
       "clones": {
-        "count": 10,
-        "uniques": 7
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/pixelartexchange/opensea.sandbox",
           "title": "pixelartexchange/opensea.sandbox: Quick & Dirty \"One-Off\" Scripts to Download...",
-          "count": 3,
+          "count": 4,
           "uniques": 3
         },
         {
-          "path": "/pixelartexchange/opensea.sandbox/blob/master/fast-food-punks/attributes/m/bucket-m-red.png",
-          "title": "opensea.sandbox/bucket-m-red.png at master · pixelartexchange/opensea.sandbox",
+          "path": "/pixelartexchange/opensea.sandbox/blob/master/24px/attributes.rb",
+          "title": "opensea.sandbox/attributes.rb at master · pixelartexchange/opensea.sandbox · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/blob/master/24px/download_meta.rb",
+          "title": "opensea.sandbox/download_meta.rb at master · pixelartexchange/opensea.sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.sandbox/fork",
+          "title": "Fork pixelartexchange/opensea.sandbox",
           "count": 1,
           "uniques": 1
         },
@@ -125,29 +141,28 @@
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/opensea.sandbox/tree/master/fast-food-punks",
-          "title": "opensea.sandbox/fast-food-punks at master · pixelartexchange/opensea.sandbox",
+          "path": "/pixelartexchange/opensea.sandbox/tree/master/i",
+          "title": "opensea.sandbox/i at master · pixelartexchange/opensea.sandbox · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/opensea.sandbox/tree/master/fast-food-punks/attributes",
-          "title": "opensea.sandbox/fast-food-punks/attributes at master · pixelartexchange/opens...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.sandbox/tree/master/fast-food-punks/attributes/m",
-          "title": "opensea.sandbox/fast-food-punks/attributes/m at master · pixelartexchange/ope...",
+          "path": "/pixelartexchange/opensea.sandbox/tree/master/monkepunks",
+          "title": "opensea.sandbox/monkepunks at master · pixelartexchange/opensea.sandbox · Git...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         }
       ]
     },
@@ -1137,6 +1152,24 @@
       "2022-08-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-08-19": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-08-20": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-08-28": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }
