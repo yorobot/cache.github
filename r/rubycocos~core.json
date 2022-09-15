@@ -18,6 +18,10 @@
     "2022-09-01": {
       "stargazers_count": 7,
       "forks_count": 2
+    },
+    "2022-09-15": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -49,25 +53,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 11,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/rubycocos/core/tree/master/iniparser",
-          "title": "core/iniparser at master · rubycocos/core",
-          "count": 3,
+          "path": "/rubycocos/core/blob/master/bytes/lib/bytes.rb",
+          "title": "core/bytes.rb at master · rubycocos/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/blob/master/bytes/lib/bytes/version.rb",
+          "title": "core/version.rb at master · rubycocos/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/bytes/lib/bytes",
+          "title": "core/bytes/lib/bytes at master · rubycocos/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core",
+          "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/bytes",
+          "title": "core/bytes at master · rubycocos/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/bytes/lib",
+          "title": "core/bytes/lib at master · rubycocos/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/logutils",
+          "title": "core/logutils at master · rubycocos/core",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 3,
+          "referrer": "rubygems.org",
+          "count": 10,
           "uniques": 1
         }
       ]
@@ -123,6 +163,18 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-09-06": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2022-09-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

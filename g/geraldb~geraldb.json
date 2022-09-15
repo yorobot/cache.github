@@ -1,9 +1,9 @@
 {
   "full_name": "geraldb/geraldb",
   "created_at": "2014-08-28T15:55:35Z",
-  "updated_at": "2021-07-24T10:48:26Z",
-  "pushed_at": "2021-02-27T18:33:48Z",
-  "size": 24,
+  "updated_at": "2022-09-14T17:14:05Z",
+  "pushed_at": "2022-09-14T17:13:59Z",
+  "size": 27,
   "description": "Hello",
   "language": null,
   "history": {
@@ -158,16 +158,20 @@
     "2022-09-01": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2022-09-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-02-27T18:33:48Z",
+        "date": "2022-09-14T17:13:59Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-02-27T18:33:48Z",
+        "date": "2022-09-14T17:13:59Z",
         "name": "Gerald Bauer"
       },
       "message": "Update README.md"
@@ -181,29 +185,30 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
+        "count": 3,
         "uniques": 2
       },
       "clones": {
-        "count": 4,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/geraldb/geraldb",
-          "title": "geraldb/geraldb: Hello",
-          "count": 4,
-          "uniques": 2
+          "path": "/geraldb/geraldb/blob/master/README.md",
+          "title": "geraldb/README.md at master · geraldb/geraldb",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb/edit/master/README.md",
+          "title": "Editing geraldb/README.md at master · geraldb/geraldb",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubytalk.org",
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -853,6 +858,22 @@
       "2022-08-23": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-09-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-09-15": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }

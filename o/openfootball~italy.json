@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/italy",
   "created_at": "2013-09-07T17:34:06Z",
-  "updated_at": "2022-08-23T08:55:08Z",
-  "pushed_at": "2021-09-03T15:37:49Z",
-  "size": 841,
+  "updated_at": "2022-09-13T15:07:06Z",
+  "pushed_at": "2022-09-13T15:07:01Z",
+  "size": 694,
   "history": {
     "2019-12-08": {
       "stargazers_count": 22
@@ -220,19 +220,23 @@
     "2022-09-01": {
       "stargazers_count": 36,
       "forks_count": 17
+    },
+    "2022-09-15": {
+      "stargazers_count": 37,
+      "forks_count": 17
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-09-03T15:37:49Z",
+        "date": "2022-09-13T15:07:01Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-09-03T15:37:49Z",
+        "date": "2022-09-13T15:07:01Z",
         "name": "Giorgio Basilisco"
       },
-      "message": "Inserted all rounds (#13)\n\n* Insert start values for the 2021-22 season\r\n\r\n* Update 1-seriea.txt\r\n\r\nCo-authored-by: Gerald Bauer <gerald.bauer@gmail.com>"
+      "message": "Data of new season 2022-23 - Italy - Serie A (#14)\n\n* Insert start values for the 2021-22 season\r\n\r\n* Insert start values for the 2022-23 season\r\n\r\nCo-authored-by: Gerald Bauer <gerald.bauer@gmail.com>"
     }
   ],
   "description": "Free open public domain football data (football.db) for Italy / Europe - Serie A etc.",
@@ -255,118 +259,98 @@
         {
           "path": "/openfootball/italy",
           "title": "openfootball/italy: Free open public domain football data (football.db) for I...",
-          "count": 24,
-          "uniques": 20
+          "count": 65,
+          "uniques": 27
         },
         {
           "path": "/openfootball/italy/tree/master/2021-22",
           "title": "italy/2021-22 at master · openfootball/italy · GitHub",
-          "count": 9,
-          "uniques": 7
+          "count": 19,
+          "uniques": 11
         },
         {
           "path": "/openfootball/italy/blob/master/2021-22/1-seriea.txt",
           "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
-          "count": 8,
+          "count": 13,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/italy/tree/master/clubs",
+          "title": "italy/clubs at master · openfootball/italy · GitHub",
+          "count": 10,
           "uniques": 7
         },
         {
           "path": "/openfootball/italy/tree/master/2020-21",
           "title": "italy/2020-21 at master · openfootball/italy · GitHub",
-          "count": 4,
-          "uniques": 4
+          "count": 8,
+          "uniques": 5
         },
         {
-          "path": "/openfootball/italy/commit/3229ed5d1cbce65ada8362278a80976f9d1918ac",
-          "title": "Insert start values for the 2021-22 season (#12) · openfootball/italy@3229ed5...",
-          "count": 2,
-          "uniques": 1
+          "path": "/openfootball/italy/tree/master/.build",
+          "title": "italy/.build at master · openfootball/italy · GitHub",
+          "count": 7,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/italy/blob/master/2013-14/1-seriea.txt",
-          "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/italy/blob/master/clubs/clubs.props.txt",
+          "title": "italy/clubs.props.txt at master · openfootball/italy · GitHub",
+          "count": 6,
+          "uniques": 6
         },
         {
-          "path": "/openfootball/italy/blob/master/2014-15/1-seriea.txt",
-          "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/italy/pull/14",
+          "title": "Data of new season 2022-23 - Italy - Serie A by gbasilisco · Pull Request #14...",
+          "count": 5,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/italy/blob/master/2019-20/1-seriea.txt",
-          "title": "italy/1-seriea.txt at master · openfootball/italy",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/italy/tree/master/2013-14",
+          "title": "italy/2013-14 at master · openfootball/italy",
+          "count": 5,
+          "uniques": 2
         },
         {
           "path": "/openfootball/italy/blob/master/2020-21/1-seriea.txt",
           "title": "italy/1-seriea.txt at master · openfootball/italy · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/italy/blob/master/2020-21/2-serieb.txt",
-          "title": "italy/2-serieb.txt at master · openfootball/italy · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 4
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 13,
-          "uniques": 6
+          "referrer": "openfootball.github.io",
+          "count": 55,
+          "uniques": 7
         },
         {
           "referrer": "jokecamp.com",
-          "count": 7,
-          "uniques": 2
+          "count": 50,
+          "uniques": 4
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "referrer": "blog.desdelinux.net",
-          "count": 5,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 22,
+          "uniques": 9
         },
         {
           "referrer": "Google",
-          "count": 5,
-          "uniques": 2
+          "count": 6,
+          "uniques": 4
         },
         {
-          "referrer": "npmjs.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "dhvanil.com",
+          "referrer": "sportdb.github.io",
           "count": 1,
           "uniques": 1
         }
       ],
       "views": {
-        "count": 59,
-        "uniques": 22
+        "count": 195,
+        "uniques": 31
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       }
     },
     "history": {
@@ -4003,6 +3987,86 @@
         }
       },
       "2022-08-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-09-03": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2022-09-05": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2022-09-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-08": {
+        "views": {
+          "count": 24,
+          "uniques": 5
+        }
+      },
+      "2022-09-10": {
+        "views": {
+          "count": 32,
+          "uniques": 3
+        }
+      },
+      "2022-09-11": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        }
+      },
+      "2022-09-12": {
+        "views": {
+          "count": 47,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-13": {
+        "views": {
+          "count": 47,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-15": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        }
+      },
+      "2022-09-07": {
         "clones": {
           "count": 1,
           "uniques": 1

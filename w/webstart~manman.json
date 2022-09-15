@@ -265,6 +265,10 @@
     "2022-09-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-09-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -291,15 +295,26 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 6,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/webstart/manman",
+          "title": "GitHub - webstart/manman: manman gem - Manifest Manager in Ruby",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/webstart/manman/commit/b0ef83342eeee9f33674e084390023ae5161a093",
+          "title": "prep for gem release 0.2.0 · webstart/manman@b0ef833 · GitHub",
+          "count": 3,
+          "uniques": 1
+        }
       ],
       "referrers": [
 
@@ -406,6 +421,12 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-09-10": {
+        "views": {
+          "count": 6,
+          "uniques": 1
         }
       }
     }

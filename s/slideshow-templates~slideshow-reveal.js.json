@@ -265,6 +265,10 @@
     "2022-09-01": {
       "stargazers_count": 17,
       "forks_count": 6
+    },
+    "2022-09-15": {
+      "stargazers_count": 17,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -291,19 +295,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/slideshow-templates/slideshow-reveal.js",
           "title": "slideshow-templates/slideshow-reveal.js: reveal.js - Slide Show (S9) Template...",
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/slideshow-templates/slideshow-reveal.js/blob/master/preview.png",
+          "title": "slideshow-reveal.js/preview.png at master · slideshow-templates/slideshow-rev...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
@@ -313,7 +323,12 @@
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "slideshow-s9.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "news.ycombinator.com",
           "count": 1,
           "uniques": 1
         }
@@ -1374,6 +1389,24 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-09-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-09-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

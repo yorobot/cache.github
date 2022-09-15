@@ -265,6 +265,10 @@
     "2022-09-01": {
       "stargazers_count": 1111,
       "forks_count": 80
+    },
+    "2022-09-15": {
+      "stargazers_count": 1115,
+      "forks_count": 80
     }
   },
   "commits": [
@@ -281,7 +285,7 @@
     }
   ],
   "size": 183,
-  "updated_at": "2022-08-28T17:10:41Z",
+  "updated_at": "2022-09-15T11:20:08Z",
   "pushed_at": "2022-06-10T08:35:10Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
@@ -291,47 +295,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 322,
-        "uniques": 221
+        "count": 377,
+        "uniques": 245
       },
       "clones": {
-        "count": 4,
+        "count": 3,
         "uniques": 3
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 286,
-          "uniques": 203
+          "count": 307,
+          "uniques": 219
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
           "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 13,
-          "uniques": 9
+          "count": 18,
+          "uniques": 16
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
           "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/branches",
+          "title": "Branches · planetjekyll/awesome-jekyll-plugins · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
-          "title": "awesome-jekyll-plugins/NOTES.md at master · planetjekyll/awesome-jekyll-plugi...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/59bfe65d3e90f1cc7734e0c1ed1c6649ec4e546b",
+          "title": "Correct the Multiple Languages Plugin information · planetjekyll/awesome-jeky...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/find/master",
-          "title": "File Finder · GitHub",
+          "path": "/planetjekyll/awesome-jekyll-plugins/commit/f26e32acec95a6d9b3b2c6f882607ae33d845bba",
+          "title": "add jekyll-auto-authors plugin (#68) · planetjekyll/awesome-jekyll-plugins@f2...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/search",
-          "title": "Search · nextcloid · GitHub",
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...jeffreytse-patch-1",
+          "title": "Comparing master...jeffreytse-patch-1 · planetjekyll/awesome-jekyll-plugins ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/tree/59bfe65d3e90f1cc7734e0c1ed1c6649ec4e546b",
+          "title": "GitHub - planetjekyll/awesome-jekyll-plugins at 59bfe65d3e90f1cc7734e0c1ed1c6...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/tree/jeffreytse-patch-1",
+          "title": "planetjekyll/awesome-jekyll-plugins at jeffreytse-patch-1",
           "count": 1,
           "uniques": 1
         }
@@ -339,52 +361,52 @@
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 154,
-          "uniques": 104
+          "count": 160,
+          "uniques": 101
         },
         {
           "referrer": "Google",
-          "count": 94,
-          "uniques": 70
-        },
-        {
-          "referrer": "github.com",
-          "count": 11,
-          "uniques": 9
-        },
-        {
-          "referrer": "planetjekyll.github.io",
-          "count": 7,
-          "uniques": 4
+          "count": 106,
+          "uniques": 83
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 4,
+          "count": 5,
           "uniques": 4
         },
         {
-          "referrer": "snipcart.com",
-          "count": 4,
+          "referrer": "github.com",
+          "count": 5,
           "uniques": 3
         },
         {
           "referrer": "stackshare.io",
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "jekyll.com.cn",
-          "count": 2,
-          "uniques": 2
+          "referrer": "search.brave.com",
+          "count": 3,
+          "uniques": 3
         },
         {
           "referrer": "jekyllthemes.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "snipcart.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "piaflu.tistory.com",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "dons.directory",
-          "count": 1,
+          "referrer": "neeva.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -4656,6 +4678,102 @@
         "views": {
           "count": 18,
           "uniques": 16
+        }
+      },
+      "2022-09-02": {
+        "views": {
+          "count": 19,
+          "uniques": 14
+        }
+      },
+      "2022-09-03": {
+        "views": {
+          "count": 20,
+          "uniques": 17
+        }
+      },
+      "2022-09-04": {
+        "views": {
+          "count": 27,
+          "uniques": 21
+        }
+      },
+      "2022-09-05": {
+        "views": {
+          "count": 23,
+          "uniques": 18
+        }
+      },
+      "2022-09-06": {
+        "views": {
+          "count": 43,
+          "uniques": 32
+        }
+      },
+      "2022-09-07": {
+        "views": {
+          "count": 34,
+          "uniques": 25
+        }
+      },
+      "2022-09-08": {
+        "views": {
+          "count": 24,
+          "uniques": 20
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-09": {
+        "views": {
+          "count": 27,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-10": {
+        "views": {
+          "count": 24,
+          "uniques": 18
+        }
+      },
+      "2022-09-11": {
+        "views": {
+          "count": 23,
+          "uniques": 17
+        }
+      },
+      "2022-09-12": {
+        "views": {
+          "count": 33,
+          "uniques": 26
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-13": {
+        "views": {
+          "count": 21,
+          "uniques": 16
+        }
+      },
+      "2022-09-14": {
+        "views": {
+          "count": 21,
+          "uniques": 19
+        }
+      },
+      "2022-09-15": {
+        "views": {
+          "count": 38,
+          "uniques": 22
         }
       }
     }

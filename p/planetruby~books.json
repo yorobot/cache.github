@@ -265,6 +265,10 @@
     "2022-09-01": {
       "stargazers_count": 50,
       "forks_count": 18
+    },
+    "2022-09-15": {
+      "stargazers_count": 50,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -297,36 +301,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 3
+        "count": 16,
+        "uniques": 5
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/planetruby/books",
-          "title": "planetruby/books: List of all Ruby books",
-          "count": 3,
-          "uniques": 3
+          "title": "GitHub - planetruby/books: List of all Ruby books",
+          "count": 4,
+          "uniques": 4
         },
         {
           "path": "/planetruby/books/tree/master/_books",
-          "title": "books/_books at master · planetruby/books · GitHub",
+          "title": "books/_books at master · planetruby/books",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2004/Programming_Ruby_(2nd_edition)_-_The_Pragmatic_Programmers'_Guide.md",
+          "title": "books/Programming_Ruby_(2nd_edition)_-_The_Pragmatic_Programmers'_Guide.md at...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/0000",
+          "title": "books/_books/0000 at master · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2004",
+          "title": "books/_books/2004 at master · planetruby/books",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 1
+        },
+        {
           "referrer": "github.com",
-          "count": 3,
+          "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "Google",
-          "count": 2,
+          "referrer": "DuckDuckGo",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2466,6 +2493,56 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-09-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-08": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-15": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2022-09-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

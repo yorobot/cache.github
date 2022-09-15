@@ -265,6 +265,10 @@
     "2022-09-01": {
       "stargazers_count": 5,
       "forks_count": 5
+    },
+    "2022-09-15": {
+      "stargazers_count": 5,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -291,18 +295,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/beercsv/us-united-states",
+          "title": "beercsv/us-united-states: Beer, brewery n brewpub data for the United States",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/us-united-states/blob/master/2--nj-new-jersey--mid-atlantic/beers.csv",
+          "title": "us-united-states/beers.csv at master · beercsv/us-united-states",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beercsv/us-united-states/tree/master/2--nj-new-jersey--mid-atlantic",
+          "title": "us-united-states/2--nj-new-jersey--mid-atlantic at master · beercsv/us-united...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -759,6 +784,12 @@
       "2022-08-21": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-03": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }
