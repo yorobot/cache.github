@@ -1,7 +1,7 @@
 {
   "full_name": "s6ruby/programming-crypto-contracts",
   "created_at": "2019-01-25T20:47:50Z",
-  "updated_at": "2022-09-09T14:00:28Z",
+  "updated_at": "2022-09-23T16:50:57Z",
   "pushed_at": "2021-01-02T10:50:37Z",
   "size": 594,
   "description": "Programming Crypto Blockchain Contracts Step-by-Step Book / Guide. Let's Start with Ponzi & Pyramid Schemes. Run Your Own Lotteries, Gambling Casinos and more on the Blockchain World Computer...",
@@ -174,6 +174,10 @@
     "2022-09-15": {
       "stargazers_count": 57,
       "forks_count": 13
+    },
+    "2022-10-02": {
+      "stargazers_count": 58,
+      "forks_count": 13
     }
   },
   "commits": [
@@ -212,47 +216,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 88,
-        "uniques": 55
+        "count": 306,
+        "uniques": 237
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/s6ruby/programming-crypto-contracts",
           "title": "s6ruby/programming-crypto-contracts: Programming Crypto Blockchain Contracts ...",
-          "count": 59,
-          "uniques": 51
+          "count": 274,
+          "uniques": 233
         },
         {
-          "path": "/s6ruby/programming-crypto-contracts/blob/master/ponzi_gradual.rb",
-          "title": "programming-crypto-contracts/ponzi_gradual.rb at master · s6ruby/programming-...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/s6ruby/programming-crypto-contracts/tree/master/i",
-          "title": "programming-crypto-contracts/i at master · s6ruby/programming-crypto-contracts",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/proxy_u/en-ru.ru.41300dd6-631de5f5-6a4c1255-74722d776562/https/github.com/s6ruby/programming-crypto-contracts/blob/master/README.md",
-          "title": "программирование-криптоконтракты/README.md на master · s6ruby/программировани...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/programming-crypto-contracts/blob/master/ponzi_governmental.rb",
-          "title": "programming-crypto-contracts/ponzi_governmental.rb at master · s6ruby/program...",
-          "count": 1,
-          "uniques": 1
+          "path": "/s6ruby/programming-crypto-contracts/blob/master/i/dappradar-highrisk.png",
+          "title": "programming-crypto-contracts/dappradar-highrisk.png at master · s6ruby/progra...",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/s6ruby/programming-crypto-contracts/blob/master/ponzi_simple.rb",
           "title": "programming-crypto-contracts/ponzi_simple.rb at master · s6ruby/programming-c...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/tree/master/i",
+          "title": "programming-crypto-contracts/i at master · s6ruby/programming-crypto-contracts",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/blob/master/README.md",
+          "title": "programming-crypto-contracts/README.md at master · s6ruby/programming-crypto-...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/blob/master/run_ponzi_governmental.rb",
+          "title": "programming-crypto-contracts/run_ponzi_governmental.rb at master · s6ruby/pro...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/blob/master/run_ponzi_simple.rb",
+          "title": "programming-crypto-contracts/run_ponzi_simple.rb at master · s6ruby/programmi...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/blob/master/run_satoshi_dice.rb",
+          "title": "programming-crypto-contracts/run_satoshi_dice.rb at master · s6ruby/programmi...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/issues",
+          "title": "Issues · s6ruby/programming-crypto-contracts · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/programming-crypto-contracts/blob/431d756200b8d0661e7ca2ca8c0b844b91820bf5/README.md",
+          "title": "programming-crypto-contracts/README.md at 431d756200b8d0661e7ca2ca8c0b844b918...",
           "count": 1,
           "uniques": 1
         }
@@ -260,17 +288,32 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 57,
+          "count": 88,
+          "uniques": 62
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 51,
           "uniques": 46
         },
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "out.reddit.com",
+          "count": 41,
+          "uniques": 35
         },
         {
-          "referrer": "yandex.ru",
-          "count": 1,
+          "referrer": "old.reddit.com",
+          "count": 12,
+          "uniques": 12
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "m.facebook.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -3836,6 +3879,112 @@
           "uniques": 4
         },
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-19": {
+        "views": {
+          "count": 12,
+          "uniques": 7
+        }
+      },
+      "2022-09-20": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-21": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-22": {
+        "views": {
+          "count": 28,
+          "uniques": 20
+        }
+      },
+      "2022-09-23": {
+        "views": {
+          "count": 161,
+          "uniques": 137
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-09-24": {
+        "views": {
+          "count": 34,
+          "uniques": 25
+        }
+      },
+      "2022-09-25": {
+        "views": {
+          "count": 20,
+          "uniques": 10
+        }
+      },
+      "2022-09-26": {
+        "views": {
+          "count": 9,
+          "uniques": 7
+        }
+      },
+      "2022-09-27": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2022-09-28": {
+        "views": {
+          "count": 10,
+          "uniques": 8
+        }
+      },
+      "2022-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2022-10-01": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-02": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

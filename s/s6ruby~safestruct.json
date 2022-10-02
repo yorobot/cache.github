@@ -2,8 +2,8 @@
   "full_name": "s6ruby/safestruct",
   "created_at": "2015-07-01T21:49:37Z",
   "updated_at": "2022-09-03T16:02:08Z",
-  "pushed_at": "2022-09-03T16:00:46Z",
-  "size": 63,
+  "pushed_at": "2022-09-28T13:15:24Z",
+  "size": 74,
   "history": {
     "2019-04-17": {
       "stargazers_count": 15
@@ -233,16 +233,20 @@
     "2022-09-15": {
       "stargazers_count": 18,
       "forks_count": 1
+    },
+    "2022-10-02": {
+      "stargazers_count": 18,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-09-03T16:00:37Z",
+        "date": "2022-09-28T13:15:18Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-09-03T16:00:37Z",
+        "date": "2022-09-28T13:15:18Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -256,23 +260,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 2
+        "count": 12,
+        "uniques": 7
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 8,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/s6ruby/safestruct",
           "title": "s6ruby/safestruct: safe data structures, (language syntax) pragmas, & more",
-          "count": 3,
-          "uniques": 2
+          "count": 11,
+          "uniques": 7
         },
         {
-          "path": "/s6ruby/safestruct/blob/master/safemath/lib/safemath.rb",
-          "title": "safestruct/safemath.rb at master · s6ruby/safestruct",
+          "path": "/s6ruby/safestruct/tree/master/units-money",
+          "title": "safestruct/units-money at master · s6ruby/safestruct",
           "count": 1,
           "uniques": 1
         }
@@ -280,8 +284,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 6,
+          "uniques": 2
         }
       ]
     },
@@ -947,10 +951,70 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2022-09-20": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-09-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-27": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 38555
+    "Ruby": 58490
   }
 }

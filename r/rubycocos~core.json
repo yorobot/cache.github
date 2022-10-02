@@ -22,6 +22,10 @@
     "2022-09-15": {
       "stargazers_count": 7,
       "forks_count": 2
+    },
+    "2022-10-02": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -53,62 +57,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
-        "uniques": 2
+        "count": 47,
+        "uniques": 10
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/rubycocos/core/blob/master/bytes/lib/bytes.rb",
-          "title": "core/bytes.rb at master · rubycocos/core",
-          "count": 2,
-          "uniques": 1
+          "path": "/rubycocos/core/tree/master/enums",
+          "title": "core/enums at master · rubycocos/core",
+          "count": 26,
+          "uniques": 10
         },
         {
-          "path": "/rubycocos/core/blob/master/bytes/lib/bytes/version.rb",
-          "title": "core/version.rb at master · rubycocos/core",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/core/tree/master/bytes/lib/bytes",
-          "title": "core/bytes/lib/bytes at master · rubycocos/core",
-          "count": 2,
+          "path": "/rubycocos/core/tree/master/safedata",
+          "title": "core/safedata at master · rubycocos/core",
+          "count": 6,
           "uniques": 1
         },
         {
           "path": "/rubycocos/core",
           "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/core/tree/master/enums/sandbox",
+          "title": "core/enums/sandbox at master · rubycocos/core",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/blob/master/enums/README.md",
+          "title": "core/README.md at master · rubycocos/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/blob/master/enums/NOTES.md",
+          "title": "core/NOTES.md at master · rubycocos/core",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/bytes",
-          "title": "core/bytes at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/sandbox/enum.rb",
+          "title": "core/enum.rb at master · rubycocos/core",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/bytes/lib",
-          "title": "core/bytes/lib at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/sandbox/enum_sample.rb",
+          "title": "core/enum_sample.rb at master · rubycocos/core",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/logutils",
-          "title": "core/logutils at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/test/test_enum.rb",
+          "title": "core/test_enum.rb at master · rubycocos/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/enums/test",
+          "title": "core/enums/test at master · rubycocos/core",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubygems.org",
-          "count": 10,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 38,
+          "uniques": 5
         }
       ]
     },
@@ -173,6 +195,52 @@
       },
       "2022-09-15": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-28": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "views": {
+          "count": 36,
+          "uniques": 2
+        }
+      },
+      "2022-10-01": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-09-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

@@ -269,6 +269,10 @@
     "2022-09-15": {
       "stargazers_count": 15,
       "forks_count": 3
+    },
+    "2022-10-02": {
+      "stargazers_count": 15,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -295,23 +299,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/bookdesigns/book-git",
-          "title": "bookdesigns/book-git: Git Book Theme by Mathieu David",
+          "title": "GitHub - bookdesigns/book-git: Git Book Theme by Mathieu David",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/bookdesigns/book-git/blob/gh-pages/js/book.js",
+          "title": "book-git/book.js at gh-pages · bookdesigns/book-git · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/blob/gh-pages/_layouts/default.html",
+          "title": "book-git/default.html at gh-pages · bookdesigns/book-git · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/tree/gh-pages/js",
+          "title": "book-git/js at gh-pages · bookdesigns/book-git · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/tree/gh-pages/_layouts",
+          "title": "book-git/_layouts at gh-pages · bookdesigns/book-git · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1285,6 +1317,28 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-09-24": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-21": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

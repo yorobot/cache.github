@@ -1,7 +1,7 @@
 {
   "full_name": "cryptocopycats/contracts",
   "created_at": "2018-03-24T09:36:15Z",
-  "updated_at": "2022-05-27T07:45:33Z",
+  "updated_at": "2022-09-20T00:36:55Z",
   "pushed_at": "2021-05-22T15:16:41Z",
   "size": 272,
   "description": "Inside the CryptoKitties, MoonCats & Friends Blockchain Contracts / Services incl.  Wrapped CryptoKitties (WCK, WG0, WVG0), Wrapped MoonCatsRescue (WMCR)",
@@ -154,6 +154,10 @@
     "2022-09-15": {
       "stargazers_count": 19,
       "forks_count": 16
+    },
+    "2022-10-02": {
+      "stargazers_count": 20,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -188,71 +192,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
-        "uniques": 9
+        "count": 16,
+        "uniques": 6
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/cryptocopycats/contracts",
           "title": "GitHub - cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Frien...",
-          "count": 7,
-          "uniques": 7
-        },
-        {
-          "path": "/cryptocopycats/contracts/tree/master/cryptokitties",
-          "title": "contracts/cryptokitties at master · cryptocopycats/contracts · GitHub",
           "count": 5,
           "uniques": 4
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/dl/GeneScience.sol",
-          "title": "contracts/GeneScience.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 2,
-          "uniques": 1
+          "path": "/cryptocopycats/contracts/blob/master/mooncats-acclimated/MoonCatAcclimator.sol",
+          "title": "contracts/MoonCatAcclimator.sol at master · cryptocopycats/contracts · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/dl/KittyCore.sol",
-          "title": "contracts/KittyCore.sol at master · cryptocopycats/contracts · GitHub",
+          "path": "/cryptocopycats/contracts/blob/master/cryptocats/CryptoCatsMarket.sol",
+          "title": "contracts/CryptoCatsMarket.sol at master · cryptocopycats/contracts",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyMinting.sol",
-          "title": "contracts/KittyMinting.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyOwnership.sol",
-          "title": "contracts/KittyOwnership.sol at master · cryptocopycats/contracts · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/contracts/search",
-          "title": "Search · ponderware",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/contracts/tree/master/cryptokitties/dl",
-          "title": "contracts/cryptokitties/dl at master · cryptocopycats/contracts · GitHub",
+          "path": "/cryptocopycats/contracts/tree/master/cryptocats",
+          "title": "contracts/cryptocats at master · cryptocopycats/contracts",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/cryptocopycats/contracts/tree/master/cryptokitties-wrapped",
-          "title": "contracts/cryptokitties-wrapped at master · cryptocopycats/contracts",
+          "title": "contracts/cryptokitties-wrapped at master · cryptocopycats/contracts · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/cryptokitties-wrapped/dl",
+          "title": "contracts/cryptokitties-wrapped/dl at master · cryptocopycats/contracts · Git...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/cryptokitties-wrapped/lib",
+          "title": "contracts/cryptokitties-wrapped/lib at master · cryptocopycats/contracts · Gi...",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/cryptocopycats/contracts/tree/master/lasercats",
-          "title": "contracts/lasercats at master · cryptocopycats/contracts",
+          "title": "contracts/lasercats at master · cryptocopycats/contracts · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/lasercats/lib",
+          "title": "contracts/lasercats/lib at master · cryptocopycats/contracts · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/mooncats-acclimated",
+          "title": "contracts/mooncats-acclimated at master · cryptocopycats/contracts",
           "count": 1,
           "uniques": 1
         }
@@ -260,13 +264,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 13,
-          "uniques": 7
-        },
-        {
-          "referrer": "Google",
           "count": 8,
-          "uniques": 1
+          "uniques": 2
         }
       ]
     },
@@ -2962,6 +2961,64 @@
         }
       },
       "2022-09-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-20": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-09-21": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-24": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-09-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-27": {
         "clones": {
           "count": 1,
           "uniques": 1

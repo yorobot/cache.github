@@ -264,6 +264,10 @@
     "2022-09-15": {
       "stargazers_count": 72,
       "forks_count": 5
+    },
+    "2022-10-02": {
+      "stargazers_count": 72,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -296,53 +300,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
+        "count": 31,
         "uniques": 12
       },
       "clones": {
-        "count": 5,
-        "uniques": 3
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/worlddb/world.db",
           "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 13,
-          "uniques": 10
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat",
-          "title": "world.db/worlddb-compat at master · worlddb/world.db · GitHub",
-          "count": 3,
-          "uniques": 2
+          "count": 16,
+          "uniques": 12
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb",
           "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb/lib",
+          "title": "world.db/worlddb/lib at master · worlddb/world.db",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb-compat/HISTORY.md",
-          "title": "world.db/HISTORY.md at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/tree/master/worlddb/lib/worlddb",
+          "title": "world.db/worlddb/lib/worlddb at master · worlddb/world.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb/script",
+          "title": "world.db/worlddb/script at master · worlddb/world.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/search",
+          "title": "Search · .db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/city.rb",
-          "title": "world.db/city.rb at master · worlddb/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb",
-          "title": "world.db/worlddb-compat/lib/worlddb at master · worlddb/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb/compat",
-          "title": "world.db/worlddb-compat/lib/worlddb/compat at master · worlddb/world.db · Git...",
+          "path": "/worlddb/world.db/tree/master/worlddb/lib/worlddb/cli",
+          "title": "world.db/worlddb/lib/worlddb/cli at master · worlddb/world.db",
           "count": 1,
           "uniques": 1
         },
@@ -357,23 +361,27 @@
           "title": "world.db/worlddb-models/lib/worlddb at master · worlddb/world.db · GitHub",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb/script",
-          "title": "world.db/worlddb/script at master · worlddb/world.db",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 22,
-          "uniques": 9
+          "count": 18,
+          "uniques": 6
         },
         {
-          "referrer": "in.search.yahoo.com",
-          "count": 3,
+          "referrer": "yandex.ru",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "cn.bing.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -3360,6 +3368,68 @@
       "2022-09-02": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-09-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2022-09-29": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-01": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2022-09-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-23": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-10-02": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

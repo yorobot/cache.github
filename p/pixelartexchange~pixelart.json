@@ -1,9 +1,9 @@
 {
   "full_name": "pixelartexchange/pixelart",
   "created_at": "2017-05-14T17:33:27Z",
-  "updated_at": "2022-09-02T19:49:15Z",
-  "pushed_at": "2022-08-26T16:08:07Z",
-  "size": 1305,
+  "updated_at": "2022-09-25T05:31:23Z",
+  "pushed_at": "2022-09-18T14:50:54Z",
+  "size": 1382,
   "description": "pixel art (and graphics) libraries & scripts   incl. avatar / character generators for moonbirds, cyberpunks, coolcats, shiba inu doge, nouns & more",
   "language": "Ruby",
   "history": {
@@ -82,16 +82,20 @@
     "2022-09-15": {
       "stargazers_count": 59,
       "forks_count": 8
+    },
+    "2022-10-02": {
+      "stargazers_count": 61,
+      "forks_count": 9
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-08-26T16:08:01Z",
+        "date": "2022-09-18T14:50:49Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-08-26T16:08:01Z",
+        "date": "2022-09-18T14:50:49Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -116,120 +120,115 @@
     "goblins"
   ],
   "languages": {
-    "Ruby": 243542,
+    "Ruby": 246570,
     "Go": 10049,
     "Batchfile": 148
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 142,
-        "uniques": 28
+        "count": 253,
+        "uniques": 32
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 9,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/pixelartexchange/pixelart",
           "title": "pixelartexchange/pixelart: pixel art (and graphics) libraries & scripts incl....",
-          "count": 36,
+          "count": 44,
           "uniques": 22
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/moonbirds",
           "title": "pixelart/moonbirds at master · pixelartexchange/pixelart · GitHub",
-          "count": 17,
-          "uniques": 11
+          "count": 19,
+          "uniques": 12
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/pixelart-characters",
+          "title": "pixelart/pixelart-characters at master · pixelartexchange/pixelart · GitHub",
+          "count": 10,
+          "uniques": 7
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/popart",
+          "title": "pixelart/popart at master · pixelartexchange/pixelart · GitHub",
+          "count": 9,
+          "uniques": 4
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/cyberpunks",
           "title": "pixelart/cyberpunks at master · pixelartexchange/pixelart · GitHub",
-          "count": 8,
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/moonbirds/i",
+          "title": "pixelart/moonbirds/i at master · pixelartexchange/pixelart · GitHub",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/coolcats",
+          "title": "pixelart/coolcats at master · pixelartexchange/pixelart · GitHub",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/moonbirds/lib",
+          "title": "pixelart/moonbirds/lib at master · pixelartexchange/pixelart · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/pixelartexchange/pixelart/tree/master/moonbirds/sandbox",
+          "title": "pixelart/moonbirds/sandbox at master · pixelartexchange/pixelart · GitHub",
+          "count": 5,
           "uniques": 5
         },
         {
           "path": "/pixelartexchange/pixelart/tree/master/pixelart",
           "title": "pixelart/pixelart at master · pixelartexchange/pixelart · GitHub",
-          "count": 7,
-          "uniques": 6
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/coolcats",
-          "title": "pixelart/coolcats at master · pixelartexchange/pixelart · GitHub",
-          "count": 7,
+          "count": 5,
           "uniques": 4
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/belles",
-          "title": "pixelart/belles at master · pixelartexchange/pixelart · GitHub",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/pixelart/issues",
-          "title": "Issues · pixelartexchange/pixelart · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/goblins",
-          "title": "pixelart/goblins at master · pixelartexchange/pixelart · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/moonbirds/lib",
-          "title": "pixelart/moonbirds/lib at master · pixelartexchange/pixelart · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/pixelartexchange/pixelart/tree/master/moonbirds/lib/moonbirds",
-          "title": "pixelart/moonbirds/lib/moonbirds at master · pixelartexchange/pixelart · GitHub",
-          "count": 3,
-          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 38,
-          "uniques": 13
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 11,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 4,
-          "uniques": 3
+          "count": 67,
+          "uniques": 20
         },
         {
           "referrer": "out.reddit.com",
-          "count": 4,
+          "count": 5,
           "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
+          "referrer": "reddit.com",
           "count": 3,
-          "uniques": 1
+          "uniques": 3
         },
         {
-          "referrer": "old.reddit.com",
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "geraldb.github.io",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "rubydoc.info",
+          "referrer": "planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyflow.com",
           "count": 1,
           "uniques": 1
         }
@@ -2166,6 +2165,108 @@
         "views": {
           "count": 9,
           "uniques": 3
+        }
+      },
+      "2022-09-18": {
+        "views": {
+          "count": 26,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-09-19": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        }
+      },
+      "2022-09-20": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-21": {
+        "views": {
+          "count": 16,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-22": {
+        "views": {
+          "count": 39,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-23": {
+        "views": {
+          "count": 29,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-09-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "views": {
+          "count": 79,
+          "uniques": 4
+        }
+      },
+      "2022-09-27": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2022-09-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-01": {
+        "views": {
+          "count": 16,
+          "uniques": 2
         }
       }
     }

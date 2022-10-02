@@ -22,6 +22,10 @@
     "2022-09-15": {
       "stargazers_count": 16,
       "forks_count": 2
+    },
+    "2022-10-02": {
+      "stargazers_count": 16,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -60,42 +64,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 7,
         "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 7,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/rubycocos/git",
-          "title": "rubycocos/git: git (and github) & monorepo / mono source tree command line to...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/rubycocos/git/tree/master/hubba",
-          "title": "git/hubba at master · rubycocos/git",
+          "title": "git/hubba at master · rubycocos/git · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/git/blob/master/hubba/lib/hubba/config.rb",
+          "title": "git/config.rb at master · rubycocos/git · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/git/tree/master/monos",
-          "title": "git/monos at master · rubycocos/git",
+          "path": "/rubycocos/git/blob/master/hubba/lib/hubba/github.rb",
+          "title": "git/github.rb at master · rubycocos/git · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/blob/master/hubba/lib/hubba/reposet.rb",
+          "title": "git/reposet.rb at master · rubycocos/git · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/tree/master/hubba/lib",
+          "title": "git/hubba/lib at master · rubycocos/git · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/tree/master/hubba/lib/hubba",
+          "title": "git/hubba/lib/hubba at master · rubycocos/git · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "referrer": "reddit.com",
-          "count": 1,
+          "count": 6,
           "uniques": 1
         }
       ]
@@ -238,6 +255,30 @@
       "2022-09-07": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-21": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2022-09-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-30": {
+        "clones": {
+          "count": 4,
           "uniques": 1
         }
       }

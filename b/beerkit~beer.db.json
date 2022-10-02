@@ -264,6 +264,10 @@
     "2022-09-15": {
       "stargazers_count": 36,
       "forks_count": 1
+    },
+    "2022-10-02": {
+      "stargazers_count": 36,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -297,29 +301,83 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 13,
+        "uniques": 3
       },
       "clones": {
-        "count": 4,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/beerkit/beer.db",
           "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
-          "count": 2,
-          "uniques": 2
-        }
-      ],
-      "referrers": [
+          "count": 3,
+          "uniques": 3
+        },
         {
-          "referrer": "github.com",
+          "path": "/beerkit/beer.db/blob/master/beerdb/assets/webservice-beerdb-32x32.png",
+          "title": "beer.db/webservice-beerdb-32x32.png at master · beerkit/beer.db",
           "count": 1,
           "uniques": 1
         },
         {
+          "path": "/beerkit/beer.db/blob/master/beerdb-models/beerdb-models.png",
+          "title": "beer.db/beerdb-models.png at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb-models/.gitignore",
+          "title": "beer.db/.gitignore at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb-models/Manifest.txt",
+          "title": "beer.db/Manifest.txt at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb-models/Rakefile",
+          "title": "beer.db/Rakefile at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/README.md",
+          "title": "beer.db/README.md at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/assets",
+          "title": "beer.db/beerdb/assets at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-models",
+          "title": "beer.db/beerdb-models at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
           "referrer": "openbeer.github.io",
+          "count": 11,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -1513,6 +1571,24 @@
       "2022-09-02": {
         "clones": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-09-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "views": {
+          "count": 11,
           "uniques": 1
         }
       }

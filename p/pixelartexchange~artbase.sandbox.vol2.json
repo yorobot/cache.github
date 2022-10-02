@@ -2,8 +2,8 @@
   "full_name": "pixelartexchange/artbase.sandbox.vol2",
   "created_at": "2018-10-17T23:00:43Z",
   "updated_at": "2022-06-20T19:39:01Z",
-  "pushed_at": "2022-08-24T16:56:03Z",
-  "size": 24582,
+  "pushed_at": "2022-09-26T18:48:50Z",
+  "size": 24589,
   "description": "Artbase Sandbox (& Cache) Vol. 2 - Quick & Dirty \"One-Off\" Scripts To Download Complete Collections",
   "language": "Ruby",
   "history": {
@@ -38,16 +38,20 @@
     "2022-09-15": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2022-10-02": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-08-24T15:48:11Z",
+        "date": "2022-09-26T18:48:45Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-08-24T15:48:11Z",
+        "date": "2022-09-26T18:48:45Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -60,40 +64,76 @@
     "pixelart"
   ],
   "languages": {
-    "Ruby": 20339
+    "Ruby": 19994
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
+        "count": 19,
         "uniques": 3
       },
       "clones": {
-        "count": 13,
-        "uniques": 9
+        "count": 17,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.sandbox.vol2",
           "title": "pixelartexchange/artbase.sandbox.vol2: Artbase Sandbox (& Cache) Vol. 2 - Qui...",
-          "count": 4,
+          "count": 9,
           "uniques": 3
         },
         {
-          "path": "/pixelartexchange/artbase.sandbox.vol2/blob/master/apepunks/24x24/1.png",
-          "title": "artbase.sandbox.vol2/1.png at master · pixelartexchange/artbase.sandbox.vol2 ...",
+          "path": "/pixelartexchange/artbase.sandbox.vol2/blob/master/COLLECTIONS.md",
+          "title": "artbase.sandbox.vol2/COLLECTIONS.md at master · pixelartexchange/artbase.sand...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.sandbox.vol2/blob/master/apepunks/collection.yml",
+          "title": "artbase.sandbox.vol2/collection.yml at master · pixelartexchange/artbase.sand...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.sandbox.vol2/blob/master/thejews/collection.rb",
+          "title": "artbase.sandbox.vol2/collection.rb at master · pixelartexchange/artbase.sandb...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.sandbox.vol2/commit/6b06ef1375e301c5b049cfd4f2593f8046812bc6",
+          "title": "up · pixelartexchange/artbase.sandbox.vol2@6b06ef1",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.sandbox.vol2/commits/master",
+          "title": "Commits · pixelartexchange/artbase.sandbox.vol2",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.sandbox.vol2/network/members",
+          "title": "Forks · pixelartexchange/artbase.sandbox.vol2",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.sandbox.vol2/stargazers",
+          "title": "Stargazers · pixelartexchange/artbase.sandbox.vol2",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.sandbox.vol2/tree/master/apepunks",
-          "title": "artbase.sandbox.vol2/apepunks at master · pixelartexchange/artbase.sandbox.vo...",
+          "title": "artbase.sandbox.vol2/apepunks at master · pixelartexchange/artbase.sandbox.vol2",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.sandbox.vol2/tree/master/apepunks/24x24",
-          "title": "artbase.sandbox.vol2/apepunks/24x24 at master · pixelartexchange/artbase.sand...",
+          "path": "/pixelartexchange/artbase.sandbox.vol2/tree/master/thejews",
+          "title": "artbase.sandbox.vol2/thejews at master · pixelartexchange/artbase.sandbox.vol2",
           "count": 1,
           "uniques": 1
         }
@@ -101,18 +141,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 1,
-          "uniques": 1
+          "count": 7,
+          "uniques": 2
         }
       ]
     },
@@ -872,6 +902,106 @@
         }
       },
       "2022-09-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-26": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-02": {
         "clones": {
           "count": 1,
           "uniques": 1

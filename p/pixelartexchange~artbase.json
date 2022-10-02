@@ -2,8 +2,8 @@
   "full_name": "pixelartexchange/artbase",
   "created_at": "2018-10-14T15:38:37Z",
   "updated_at": "2022-06-26T18:25:54Z",
-  "pushed_at": "2022-09-13T16:22:48Z",
-  "size": 3577,
+  "pushed_at": "2022-10-01T16:14:18Z",
+  "size": 3921,
   "description": "artbase (\"right-clicker\") command line tool & scripts - download complete pixel art collections - yes, you can! - automate \"right-click 'n' save\" and much more",
   "language": "Ruby",
   "history": {
@@ -74,16 +74,20 @@
     "2022-09-15": {
       "stargazers_count": 11,
       "forks_count": 2
+    },
+    "2022-10-02": {
+      "stargazers_count": 11,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-09-13T16:22:41Z",
+        "date": "2022-10-01T16:14:13Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-09-13T16:22:41Z",
+        "date": "2022-10-01T16:14:13Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -103,76 +107,79 @@
     "artbase"
   ],
   "languages": {
-    "Ruby": 81420
+    "Ruby": 106535,
+    "JavaScript": 4023,
+    "HTML": 2484,
+    "CSS": 2457
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 66,
-        "uniques": 13
+        "count": 143,
+        "uniques": 8
       },
       "clones": {
-        "count": 17,
-        "uniques": 10
+        "count": 35,
+        "uniques": 17
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase",
           "title": "pixelartexchange/artbase: artbase (\"right-clicker\") command line tool & scrip...",
-          "count": 20,
-          "uniques": 11
+          "count": 46,
+          "uniques": 8
         },
         {
-          "path": "/pixelartexchange/artbase/tree/master/artbase",
-          "title": "artbase/artbase at master · pixelartexchange/artbase · GitHub",
-          "count": 16,
-          "uniques": 10
+          "path": "/pixelartexchange/artbase/blob/master/collections.csv",
+          "title": "artbase/collections.csv at master · pixelartexchange/artbase",
+          "count": 36,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase/tree/master/artserve",
+          "title": "artbase/artserve at master · pixelartexchange/artbase",
+          "count": 9,
+          "uniques": 2
         },
         {
           "path": "/pixelartexchange/artbase/tree/master/artbase-opensea",
           "title": "artbase/artbase-opensea at master · pixelartexchange/artbase · GitHub",
-          "count": 4,
+          "count": 8,
           "uniques": 2
         },
         {
           "path": "/pixelartexchange/artbase/commits/master",
           "title": "Commits · pixelartexchange/artbase",
-          "count": 3,
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase/tree/master/sandbox",
+          "title": "artbase/sandbox at master · pixelartexchange/artbase",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase/blob/master/README.md",
+          "title": "artbase/README.md at master · pixelartexchange/artbase",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase/commit/01ee96e07fad47bafc72c2bf15586b4950b92013",
+          "title": "up · pixelartexchange/artbase@01ee96e",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase/commit/dec2e673a32deb1a9d9bcc9bffa3ed5756635864",
+          "title": "up · pixelartexchange/artbase@dec2e67",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase/stargazers",
           "title": "Stargazers · pixelartexchange/artbase",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase/tree/master/artbase/lib",
-          "title": "artbase/artbase/lib at master · pixelartexchange/artbase",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase/tree/master/artbase/lib/artbase",
-          "title": "artbase/artbase/lib/artbase at master · pixelartexchange/artbase",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase/blob/master/artbase/lib/artbase/collection/base.rb",
-          "title": "artbase/base.rb at master · pixelartexchange/artbase",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase/blob/master/artbase/lib/artbase/collection/token.rb",
-          "title": "artbase/token.rb at master · pixelartexchange/artbase",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase/tree/master/artbase/lib/artbase/collection",
-          "title": "artbase/artbase/lib/artbase/collection at master · pixelartexchange/artbase",
           "count": 2,
           "uniques": 1
         }
@@ -180,27 +187,22 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 25,
-          "uniques": 7
-        },
-        {
-          "referrer": "openblockchains.github.io",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "referrer": "old.reddit.com",
-          "count": 6,
-          "uniques": 3
+          "count": 43,
+          "uniques": 6
         },
         {
           "referrer": "geraldb.github.io",
-          "count": 1,
+          "count": 27,
           "uniques": 1
         },
         {
-          "referrer": "reddit.com",
-          "count": 1,
+          "referrer": "rubygems.org",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -2175,6 +2177,130 @@
         }
       },
       "2022-09-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-09-20": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-09-21": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-23": {
+        "views": {
+          "count": 34,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2022-09-26": {
+        "views": {
+          "count": 49,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-09-27": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-09-29": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-30": {
+        "views": {
+          "count": 14,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-10-01": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-09-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-09-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-02": {
         "clones": {
           "count": 1,
           "uniques": 1
