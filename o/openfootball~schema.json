@@ -273,6 +273,10 @@
     "2022-10-02": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2022-10-15": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -299,30 +303,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 3,
         "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/openfootball/schema",
-          "title": "GitHub - openfootball/schema: football.db database schema docu",
-          "count": 2,
-          "uniques": 2
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "datahub.io",
+          "title": "openfootball/schema: football.db database schema docu",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "path": "/openfootball/schema/blob/master/symbols.html",
+          "title": "schema/symbols.html at master · openfootball/schema",
           "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openfootball.github.io",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -866,6 +871,18 @@
       },
       "2022-09-27": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-10-15": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

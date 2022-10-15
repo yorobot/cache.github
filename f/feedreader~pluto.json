@@ -273,6 +273,10 @@
     "2022-10-02": {
       "stargazers_count": 181,
       "forks_count": 15
+    },
+    "2022-10-15": {
+      "stargazers_count": 184,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -289,7 +293,7 @@
     }
   ],
   "size": 596,
-  "updated_at": "2022-07-28T17:25:29Z",
+  "updated_at": "2022-10-10T14:14:30Z",
   "pushed_at": "2020-10-31T16:55:53Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -312,86 +316,107 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 17,
-        "uniques": 13
+        "count": 44,
+        "uniques": 18
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
-          "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 9,
-          "uniques": 9
+          "title": "feedreader/pluto: pluto gems - planet feed reader and (static) website genera...",
+          "count": 13,
+          "uniques": 11
         },
         {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/pluto-models/lib/pluto/models/site.rb",
-          "title": "pluto/site.rb at master · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commits",
-          "title": "Commits · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commits/master/pluto-models/lib",
-          "title": "History for pluto-models/lib - feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commits/master/pluto-models/lib/pluto/models/site.rb",
-          "title": "History for pluto-models/lib/pluto/models/site.rb - feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/feedreader/pluto/tree/master/barcharts",
+          "title": "pluto/barcharts at master · feedreader/pluto · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/feedreader/pluto/issues/33",
           "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/40",
+          "title": "HTTP/HTTPS redirect too deep when server uses cookies to authenticate connect...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/barcharts/Rakefile",
+          "title": "pluto/Rakefile at master · feedreader/pluto",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tags",
-          "title": "Releases · feedreader/pluto · GitHub",
+          "path": "/feedreader/pluto/blob/master/pluto-models/lib/pluto/schema.rb",
+          "title": "pluto/schema.rb at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/39",
+          "title": "Feeds requiring cookie support · Issue #39 · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/stargazers",
+          "title": "Stargazers · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/pluto",
+          "title": "pluto/pluto at master · feedreader/pluto",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "referrer": "groups.google.com",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "cn.bing.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "referrer": "Google",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "referrer": "hackerweb.app",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
+          "referrer": "feedreader.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyweekly.com",
           "count": 1,
           "uniques": 1
         }
@@ -3607,6 +3632,74 @@
         }
       },
       "2022-09-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-07": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-10-08": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-12": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-10-13": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2022-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-15": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2022-10-03": {
         "clones": {
           "count": 1,
           "uniques": 1

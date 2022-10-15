@@ -122,6 +122,10 @@
     "2022-10-02": {
       "stargazers_count": 24,
       "forks_count": 12
+    },
+    "2022-10-15": {
+      "stargazers_count": 24,
+      "forks_count": 12
     }
   },
   "commits": [
@@ -150,37 +154,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 46,
-        "uniques": 17
+        "count": 48,
+        "uniques": 12
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/punks.contracts",
           "title": "GitHub - cryptopunksnotdead/punks.contracts: Inside the CryptoPunks Blockchai...",
-          "count": 18,
-          "uniques": 14
+          "count": 19,
+          "uniques": 9
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v1/CryptoPunks.sol",
-          "title": "punks.contracts/CryptoPunks.sol at master · cryptopunksnotdead/punks.contracts",
-          "count": 5,
-          "uniques": 3
+          "path": "/cryptopunksnotdead/punks.contracts/tree/5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1/mineable",
+          "title": "punks.contracts/mineable at 5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1 · crypto...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/blob/5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1/mineable/MineablePunks.sol",
+          "title": "punks.contracts/MineablePunks.sol at 5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1...",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt",
           "title": "punks.contracts/transactions.txt at master · cryptopunksnotdead/punks.contracts",
-          "count": 4,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punks-v1",
-          "title": "punks.contracts/punks-v1 at master · cryptopunksnotdead/punks.contracts · Git...",
+          "path": "/cryptopunksnotdead/punks.contracts/search",
+          "title": "Search · keccak256",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/tree/5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1",
+          "title": "cryptopunksnotdead/punks.contracts at 5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/cryptopunksnotdead/punks.contracts/blob/1503bba16708e06481cc13db100eb0dc52ce4c13/expansion-i/ExpansionPunks.sol",
@@ -189,32 +205,20 @@
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/51334fcfbde79a9fd2085584ffe60502f16a81bc/punks-v1-market/PunksMarket.sol",
-          "title": "punks.contracts/PunksMarket.sol at 51334fcfbde79a9fd2085584ffe60502f16a81bc ·...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/23f1670ca574d392c6ab4077ecc6c1c3924e8d39/punks-v2-wrapped/ERC721.sol",
+          "title": "punks.contracts/ERC721.sol at 23f1670ca574d392c6ab4077ecc6c1c3924e8d39 · cryp...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/ape/ApePunks.sol",
-          "title": "punks.contracts/ApePunks.sol at master · cryptopunksnotdead/punks.contracts ·...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/4ec5e06909a350566396e6ee9e5ef1a1989a5020/hdpunks/HDPunks.sol",
+          "title": "punks.contracts/HDPunks.sol at 4ec5e06909a350566396e6ee9e5ef1a1989a5020 · cry...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/bored/BoredPunkYachtClub.sol",
-          "title": "punks.contracts/BoredPunkYachtClub.sol at master · cryptopunksnotdead/punks.c...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/hdpunks/PunksContract.sol",
-          "title": "punks.contracts/PunksContract.sol at master · cryptopunksnotdead/punks.contra...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/phunks-v2-market/CryptoPhunksMarket.sol",
-          "title": "punks.contracts/CryptoPhunksMarket.sol at master · cryptopunksnotdead/punks.c...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/5c7c7510d87e39d8c71049c7e5ad825ede0ba8f1/punks/CryptoPunksMarket.sol",
+          "title": "punks.contracts/CryptoPunksMarket.sol at 5c7c7510d87e39d8c71049c7e5ad825ede0b...",
           "count": 1,
           "uniques": 1
         }
@@ -223,17 +227,27 @@
         {
           "referrer": "github.com",
           "count": 21,
-          "uniques": 7
+          "uniques": 4
         },
         {
           "referrer": "Google",
-          "count": 12,
-          "uniques": 5
+          "count": 13,
+          "uniques": 4
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "codingconnects.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "medium.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2701,6 +2715,74 @@
       "2022-10-01": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-10-04": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2022-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-07": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-08": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2022-10-09": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-10-10": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-11": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        }
+      },
+      "2022-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-13": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-03": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

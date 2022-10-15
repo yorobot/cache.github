@@ -1,9 +1,9 @@
 {
   "full_name": "s6ruby/universum",
   "created_at": "2018-04-29T09:09:11Z",
-  "updated_at": "2021-05-17T13:08:39Z",
-  "pushed_at": "2019-03-22T21:32:31Z",
-  "size": 161,
+  "updated_at": "2022-10-07T16:20:24Z",
+  "pushed_at": "2022-10-08T16:14:41Z",
+  "size": 153,
   "history": {
     "2019-04-17": {
       "stargazers_count": 17
@@ -237,19 +237,23 @@
     "2022-10-02": {
       "stargazers_count": 18,
       "forks_count": 3
+    },
+    "2022-10-15": {
+      "stargazers_count": 18,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-03-22T21:32:31Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2019-03-22T21:32:31Z",
+        "date": "2022-10-08T16:14:36Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update NOTES.md"
+      "author": {
+        "date": "2022-10-08T16:14:36Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "description": "universum library / gem (ruby edition) - next generation ethereum 2.0 world computer runtime; run contract scripts / transactions (in plain vanilla / standard ruby) on the blockchain; update the (contract-protected / isolated) world states with plain vanilla / standard SQL - work-in-progress / experimental",
@@ -268,23 +272,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 3
+        "count": 62,
+        "uniques": 6
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 15,
+        "uniques": 9
       },
       "paths": [
         {
-          "path": "/s6ruby/universum/blob/master/WHITEPAPER.md",
-          "title": "universum/WHITEPAPER.md at master · s6ruby/universum",
-          "count": 2,
-          "uniques": 2
-        },
-        {
           "path": "/s6ruby/universum",
           "title": "s6ruby/universum: universum library / gem (ruby edition) - next generation et...",
+          "count": 31,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/universum/blob/master/WHITEPAPER.md",
+          "title": "universum/WHITEPAPER.md at master · s6ruby/universum · GitHub",
+          "count": 12,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/universum/tree/master/ruby-to-solidity",
+          "title": "universum/ruby-to-solidity at master · s6ruby/universum",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/stargazers",
+          "title": "Stargazers · s6ruby/universum",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/issues",
+          "title": "Issues · s6ruby/universum",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/network/members",
+          "title": "Forks · s6ruby/universum",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/tree/master/ruby-to-michelson",
+          "title": "universum/ruby-to-michelson at master · s6ruby/universum",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/blob/master/test/contracts/greeter.rb",
+          "title": "universum/greeter.rb at master · s6ruby/universum",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/blob/master/test/contracts/mytoken.rb",
+          "title": "universum/mytoken.rb at master · s6ruby/universum",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/graphs/traffic",
+          "title": "Traffic · s6ruby/universum",
           "count": 1,
           "uniques": 1
         }
@@ -292,11 +344,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 34,
+          "uniques": 2
         },
         {
-          "referrer": "reddit.com",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -1596,10 +1648,99 @@
           "count": 2,
           "uniques": 2
         }
+      },
+      "2022-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-07": {
+        "views": {
+          "count": 27,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-10-08": {
+        "views": {
+          "count": 28,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-10-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-10-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 31442
+    "Ruby": 114775,
+    "Solidity": 25141,
+    "C++": 20395,
+    "Python": 8931
   }
 }

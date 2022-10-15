@@ -231,6 +231,10 @@
     "2022-10-02": {
       "stargazers_count": 36,
       "forks_count": 11
+    },
+    "2022-10-15": {
+      "stargazers_count": 36,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -254,41 +258,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
+        "count": 19,
         "uniques": 4
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 5,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/openfootball/leagues",
-          "title": "openfootball/leagues: Free open public domain football datasets for national ...",
+          "path": "/openfootball/leagues/blob/master/europe/leagues.txt",
+          "title": "leagues/leagues.txt at master · openfootball/leagues · GitHub",
           "count": 4,
-          "uniques": 4
+          "uniques": 2
         },
         {
-          "path": "/openfootball/leagues/tree/master/europe",
-          "title": "leagues/europe at master · openfootball/leagues · GitHub",
+          "path": "/openfootball/leagues",
+          "title": "openfootball/leagues: Free open public domain football datasets for national ...",
           "count": 3,
           "uniques": 3
         },
         {
-          "path": "/openfootball/leagues/blob/master/europe/austria/at.leagues.txt",
-          "title": "leagues/at.leagues.txt at master · openfootball/leagues · GitHub",
+          "path": "/openfootball/leagues/tree/master/europe",
+          "title": "leagues/europe at master · openfootball/leagues",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/1-wikipedia/en.wikipedia/eng.1.(1888-1992)_division1.csv",
+          "title": "leagues/eng.1.(1888-1992)_division1.csv at master · openfootball/leagues",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/leagues/tree/master/europe/austria",
-          "title": "leagues/europe/austria at master · openfootball/leagues · GitHub",
+          "path": "/openfootball/leagues/blob/master/1-wikipedia/en.wikipedia/eng.1.(1992-)_premierleague.csv",
+          "title": "leagues/eng.1.(1992-)_premierleague.csv at master · openfootball/leagues",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/leagues/tree/master/europe/england",
-          "title": "leagues/europe/england at master · openfootball/leagues · GitHub",
+          "path": "/openfootball/leagues/blob/master/1-wikipedia/en.wikipedia/eng.2.(2004-)_championship.csv",
+          "title": "leagues/eng.2.(2004-)_championship.csv at master · openfootball/leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/europe/england/eng.leagues.txt",
+          "title": "leagues/eng.leagues.txt at master · openfootball/leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/seasons.txt",
+          "title": "leagues/seasons.txt at master · openfootball/leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/tree/master/1-wikipedia",
+          "title": "leagues/1-wikipedia at master · openfootball/leagues",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/tree/master/1-wikipedia/en.wikipedia",
+          "title": "leagues/1-wikipedia/en.wikipedia at master · openfootball/leagues",
           "count": 1,
           "uniques": 1
         }
@@ -296,11 +330,21 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 3
+          "count": 16,
+          "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "referrer": "jokecamp.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "news.ycombinator.com",
           "count": 1,
           "uniques": 1
         }
@@ -2508,6 +2552,46 @@
       "2022-09-24": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-06": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        }
+      },
+      "2022-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-14": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

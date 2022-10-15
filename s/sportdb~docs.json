@@ -246,6 +246,10 @@
     "2022-10-02": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2022-10-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -270,30 +274,29 @@
     "summary": {
       "views": {
         "count": 2,
-        "uniques": 1
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/sportdb/docs",
-          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
-          "title": "docs/generating-json-datasets.md at master · sportdb/docs",
-          "count": 1,
-          "uniques": 1
+          "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "openfootball.github.io",
-          "count": 2,
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "sportdb.github.io",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1215,6 +1218,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-10-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

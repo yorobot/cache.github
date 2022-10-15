@@ -273,6 +273,10 @@
     "2022-10-02": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2022-10-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -299,18 +303,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 7,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/opensport/rugby.db",
+          "title": "opensport/rugby.db: Free open public domain rugby database 'n' schema (rugby....",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/blob/master/2015/cup.yml",
+          "title": "rugby.db/cup.yml at master · opensport/rugby.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/2015",
+          "title": "rugby.db/2015 at master · opensport/rugby.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/setups",
+          "title": "rugby.db/setups at master · opensport/rugby.db",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -887,6 +918,18 @@
       "2022-09-24": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-12": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-10-15": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

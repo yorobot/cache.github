@@ -273,6 +273,10 @@
     "2022-10-02": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -299,18 +303,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/beerlabels/beer.db.labels",
+          "title": "GitHub - beerlabels/beer.db.labels: beer labels",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerlabels/beer.db.labels/blob/master/en-england/fullers1845.jpg",
+          "title": "beer.db.labels/fullers1845.jpg at master · beerlabels/beer.db.labels · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerlabels/beer.db.labels/blob/master/en-england/fullerslondonpride.jpg",
+          "title": "beer.db.labels/fullerslondonpride.jpg at master · beerlabels/beer.db.labels ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerlabels/beer.db.labels/tree/master/en-england",
+          "title": "beer.db.labels/en-england at master · beerlabels/beer.db.labels · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -460,6 +491,12 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2022-10-10": {
+        "views": {
+          "count": 4,
+          "uniques": 1
         }
       }
     }
