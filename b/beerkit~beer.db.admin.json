@@ -277,6 +277,10 @@
     "2022-10-15": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2022-11-01": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -303,18 +307,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
-
+        {
+          "path": "/beerkit/beer.db.admin",
+          "title": "GitHub - beerkit/beer.db.admin: beer.db web app - open beer database (beer.db...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/engine",
+          "title": "beer.db.admin/engine at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/engine/app",
+          "title": "beer.db.admin/engine/app at master · beerkit/beer.db.admin · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1227,6 +1252,42 @@
       "2022-09-25": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-10-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-01": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -277,6 +277,10 @@
     "2022-10-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-11-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -303,23 +307,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/persondb/person.db.models",
           "title": "GitHub - persondb/person.db.models: persondb gem - person schema & models for...",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/blob/master/lib/persondb/models/forward.rb",
+          "title": "person.db.models/forward.rb at master · persondb/person.db.models · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb",
+          "title": "person.db.models/lib/persondb at master · persondb/person.db.models · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/persondb/person.db.models/tree/master/lib/persondb/models",
+          "title": "person.db.models/lib/persondb/models at master · persondb/person.db.models · ...",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -867,6 +893,36 @@
       },
       "2022-10-14": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-31": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-10-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-20": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-10-21": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-10-25": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

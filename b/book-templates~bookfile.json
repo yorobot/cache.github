@@ -277,6 +277,10 @@
     "2022-10-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-11-01": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -303,26 +307,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 7,
+        "uniques": 4
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/book-templates/bookfile",
-          "title": "book-templates/bookfile: quick starter bookfile templates - World Almanac, Wo...",
+          "title": "GitHub - book-templates/bookfile: quick starter bookfile templates - World Al...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/beer.rb",
+          "title": "bookfile/beer.rb at master · book-templates/bookfile · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/README.md",
+          "title": "bookfile/README.md at master · book-templates/bookfile · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "markdownguide.org",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
         }
       ]
     },
@@ -1018,6 +1039,40 @@
       "2022-10-03": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-22": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-10-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-29": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-10-20": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

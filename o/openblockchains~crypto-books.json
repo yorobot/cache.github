@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/crypto-books",
   "created_at": "2017-12-23T10:24:19Z",
-  "updated_at": "2022-10-13T11:00:44Z",
+  "updated_at": "2022-10-31T17:04:07Z",
   "pushed_at": "2022-07-29T03:29:53Z",
   "size": 180,
   "description": "Best of Crypto Books - A collection of books, white papers & more about crypto and blockchains.",
@@ -186,6 +186,10 @@
     "2022-10-15": {
       "stargazers_count": 47,
       "forks_count": 5
+    },
+    "2022-11-01": {
+      "stargazers_count": 48,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -229,41 +233,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 62,
-        "uniques": 8
+        "count": 37,
+        "uniques": 5
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
+          "path": "/openblockchains/crypto-books",
+          "title": "openblockchains/crypto-books: Best of Crypto Books - A collection of books, w...",
+          "count": 8,
+          "uniques": 5
+        },
+        {
           "path": "/openblockchains/crypto-books/tree/master/_books",
-          "title": "crypto-books/_books at master · openblockchains/crypto-books · GitHub",
-          "count": 16,
+          "title": "crypto-books/_books at master · openblockchains/crypto-books",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openblockchains/crypto-books/tree/master/_books/2021",
+          "title": "crypto-books/_books/2021 at master · openblockchains/crypto-books",
+          "count": 3,
           "uniques": 3
         },
         {
-          "path": "/openblockchains/crypto-books",
-          "title": "openblockchains/crypto-books: Best of Crypto Books - A collection of books, w...",
-          "count": 9,
-          "uniques": 6
-        },
-        {
-          "path": "/openblockchains/crypto-books/tree/master/The_Wealth_of_Nations",
-          "title": "crypto-books/The_Wealth_of_Nations at master · openblockchains/crypto-books",
+          "path": "/openblockchains/crypto-books/tree/master/_books/2020",
+          "title": "crypto-books/_books/2020 at master · openblockchains/crypto-books",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openblockchains/crypto-books/blob/master/_books/0000/Bitcoin_Energy_Consumption.md",
-          "title": "crypto-books/Bitcoin_Energy_Consumption.md at master · openblockchains/crypto...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/crypto-books/tree/master/_books/1776",
-          "title": "crypto-books/_books/1776 at master · openblockchains/crypto-books",
+          "path": "/openblockchains/crypto-books/blob/master/_books/2021/Bitcoin_is_a_Ponzi.md",
+          "title": "crypto-books/Bitcoin_is_a_Ponzi.md at master · openblockchains/crypto-books",
           "count": 2,
           "uniques": 1
         },
@@ -274,49 +278,39 @@
           "uniques": 1
         },
         {
-          "path": "/openblockchains/crypto-books/tree/master/_books/2013",
-          "title": "crypto-books/_books/2013 at master · openblockchains/crypto-books",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/blob/master/_books/0000/Learn_me_a_Bitcoin.md",
+          "title": "crypto-books/Learn_me_a_Bitcoin.md at master · openblockchains/crypto-books",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/crypto-books/tree/master/_books/2014",
-          "title": "crypto-books/_books/2014 at master · openblockchains/crypto-books",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/blob/master/_books/1776/The_Wealth_of_Nations.md",
+          "title": "crypto-books/The_Wealth_of_Nations.md at master · openblockchains/crypto-books",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/crypto-books/tree/master/_books/2017",
-          "title": "crypto-books/_books/2017 at master · openblockchains/crypto-books",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/blob/master/_books/2008/Bitcoin_White_Paper.md",
+          "title": "crypto-books/Bitcoin_White_Paper.md at master · openblockchains/crypto-books",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/crypto-books/tree/master/_books/2020",
-          "title": "crypto-books/_books/2020 at master · openblockchains/crypto-books",
-          "count": 2,
+          "path": "/openblockchains/crypto-books/blob/master/_books/2020/Austrian_White_Papers.md",
+          "title": "crypto-books/Austrian_White_Papers.md at master · openblockchains/crypto-books",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "DuckDuckGo",
-          "count": 42,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 32,
+          "uniques": 4
         },
         {
-          "referrer": "meetup.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "yukimotopress.github.io",
-          "count": 1,
+          "referrer": "Google",
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -2803,6 +2797,52 @@
         }
       },
       "2022-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-19": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2022-10-22": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-31": {
+        "views": {
+          "count": 23,
+          "uniques": 3
+        }
+      },
+      "2022-10-21": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-10-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-30": {
         "clones": {
           "count": 1,
           "uniques": 1

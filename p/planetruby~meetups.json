@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/meetups",
   "created_at": "2018-11-19T18:10:05Z",
-  "updated_at": "2022-09-07T09:12:21Z",
-  "pushed_at": "2021-04-21T07:19:41Z",
-  "size": 39,
+  "updated_at": "2022-10-21T15:20:49Z",
+  "pushed_at": "2022-10-21T15:20:42Z",
+  "size": 40,
   "history": {
     "2019-02-01": {
       "stargazers_count": 8
@@ -244,19 +244,23 @@
     "2022-10-15": {
       "stargazers_count": 13,
       "forks_count": 7
+    },
+    "2022-11-01": {
+      "stargazers_count": 13,
+      "forks_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-04-21T07:19:41Z",
+        "date": "2022-10-21T15:20:42Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2021-04-21T07:19:41Z",
-        "name": "Maciek Rząsa"
+        "date": "2022-10-21T15:20:42Z",
+        "name": "Julian Pasquale"
       },
-      "message": "Added Rzeszów Ruby User Group to Poland section (#8)"
+      "message": "Fix link (#9)"
     }
   ],
   "description": "A collection of awesome ruby meetups & orgs from around the world - Add your ruby meetup!",
@@ -267,25 +271,66 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 23,
+        "uniques": 7
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 7,
+        "uniques": 5
       },
       "paths": [
         {
+          "path": "/planetruby/meetups/pull/9",
+          "title": "Fix link to La Plata Ruby website by JulianPasquale · Pull Request #9 · plane...",
+          "count": 8,
+          "uniques": 6
+        },
+        {
           "path": "/planetruby/meetups",
           "title": "planetruby/meetups: A collection of awesome ruby meetups & orgs from around t...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/meetups/pull/9/files",
+          "title": "Fix link to La Plata Ruby website by JulianPasquale · Pull Request #9 · plane...",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/planetruby/meetups/commit/e9a8d919d56e09ddca78fc3f042f3eb0bb8ad86b",
+          "title": "Fix link (#9) · planetruby/meetups@e9a8d91",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/compare/master...JulianPasquale:meetups:fix-la-plata-link",
+          "title": "Comparing planetruby:master...JulianPasquale:fix-la-plata-link · planetruby/m...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/fork",
+          "title": "Fork planetruby/meetups",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/pulls",
+          "title": "Pull requests · planetruby/meetups",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 5
+        },
+        {
           "referrer": "planetruby.github.io",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -806,6 +851,34 @@
       "2022-10-08": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-20": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2022-10-21": {
+        "views": {
+          "count": 13,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2022-10-24": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2022-10-25": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

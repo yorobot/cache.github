@@ -277,6 +277,10 @@
     "2022-10-15": {
       "stargazers_count": 50,
       "forks_count": 18
+    },
+    "2022-11-01": {
+      "stargazers_count": 50,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -309,12 +313,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
+        "count": 21,
         "uniques": 4
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
@@ -322,16 +326,80 @@
           "title": "planetruby/books: List of all Ruby books",
           "count": 4,
           "uniques": 4
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "planetruby.github.io",
+          "path": "/planetruby/books/tree/master/_books",
+          "title": "books/_books at master · planetruby/books · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2020",
+          "title": "books/_books/2020 at master · planetruby/books · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2021",
+          "title": "books/_books/2021 at master · planetruby/books · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2019",
+          "title": "books/_books/2019 at master · planetruby/books · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2017/Object_Oriented_Programming_with_Ruby.md",
+          "title": "books/Object_Oriented_Programming_with_Ruby.md at master · planetruby/books ·...",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "ruby-lang.org",
+          "path": "/planetruby/books/blob/master/_books/2017/OOP_with_Ruby.md",
+          "title": "books/OOP_with_Ruby.md at master · planetruby/books · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2020/Agile_Web_Development_with_Rails_6.md",
+          "title": "books/Agile_Web_Development_with_Rails_6.md at master · planetruby/books · Gi...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2020/Black_Hat_Ruby.md",
+          "title": "books/Black_Hat_Ruby.md at master · planetruby/books · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2021/Beginning_Ruby_3.md",
+          "title": "books/Beginning_Ruby_3.md at master · planetruby/books · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubytalk.org",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -2601,6 +2669,46 @@
         }
       },
       "2022-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-24": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2022-10-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-31": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-10-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-10-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-25": {
         "clones": {
           "count": 1,
           "uniques": 1

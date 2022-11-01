@@ -277,24 +277,28 @@
     "2022-10-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-11-01": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-05-07T15:51:56Z",
-        "name": "Gerald Bauer"
+        "date": "2022-10-26T18:54:48Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2014-05-07T15:51:56Z",
+        "date": "2022-10-26T18:54:48Z",
         "name": "Gerald Bauer"
       },
-      "message": "use require text"
+      "message": "Update README.md"
     }
   ],
-  "size": 370,
-  "updated_at": "2014-12-13T08:53:59Z",
-  "pushed_at": "2014-05-07T15:52:09Z",
+  "size": 486,
+  "updated_at": "2022-10-25T19:06:26Z",
+  "pushed_at": "2022-10-26T18:54:48Z",
   "description": "Beer 'n' brewery widgets in JavaScript using the beer.db HTTP JSON(P) API",
   "language": "JavaScript",
   "topics": [
@@ -303,18 +307,69 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 4,
+        "count": 28,
         "uniques": 1
       },
+      "clones": {
+        "count": 16,
+        "uniques": 11
+      },
       "paths": [
-
+        {
+          "path": "/beerkit/beer.js",
+          "title": "beerkit/beer.js: Beer 'n' brewery widgets in JavaScript using the beer.db HTT...",
+          "count": 15,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/tree/master/beer.api.js",
+          "title": "beer.js/beer.api.js at master · beerkit/beer.js",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/tree/master/beer.db.mobile",
+          "title": "beer.js/beer.db.mobile at master · beerkit/beer.js",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/tree/master/beer.js",
+          "title": "beer.js/beer.js at master · beerkit/beer.js",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/blob/master/beer.db.mobile/index.html",
+          "title": "beer.js/index.html at master · beerkit/beer.js",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/blob/master/README.md",
+          "title": "beer.js/README.md at master · beerkit/beer.js",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/edit/master/README.md",
+          "title": "Editing beer.js/README.md at master · beerkit/beer.js",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.js/tree/master",
+          "title": "beerkit/beer.js at master",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 11,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1343,10 +1398,45 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2022-10-25": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2022-10-26": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2022-10-22": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-10-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "JavaScript": 1266
+    "JavaScript": 366264,
+    "CSS": 139052,
+    "HTML": 12006,
+    "Ruby": 7866
   }
 }
