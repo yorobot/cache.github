@@ -281,24 +281,28 @@
     "2022-11-01": {
       "stargazers_count": 1119,
       "forks_count": 78
+    },
+    "2022-11-15": {
+      "stargazers_count": 1128,
+      "forks_count": 79
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-06-10T08:35:10Z",
+        "date": "2022-11-06T18:11:49Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2022-06-10T08:35:10Z",
-        "name": "Gourav Khunger"
+        "date": "2022-11-06T18:11:49Z",
+        "name": "Lawrence Murray"
       },
-      "message": "add jekyll-auto-authors plugin (#68)"
+      "message": "Add jekyll-responsive-magick plugin. (#69)"
     }
   ],
   "size": 183,
-  "updated_at": "2022-11-01T10:24:22Z",
-  "pushed_at": "2022-06-10T08:35:10Z",
+  "updated_at": "2022-11-13T20:51:20Z",
+  "pushed_at": "2022-11-06T18:11:49Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
   "topics": [
@@ -307,47 +311,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 277,
-        "uniques": 193
+        "count": 304,
+        "uniques": 218
       },
       "clones": {
-        "count": 10,
-        "uniques": 7
+        "count": 15,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 234,
-          "uniques": 170
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
-          "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 14,
-          "uniques": 11
+          "count": 262,
+          "uniques": 207
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
           "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
-          "count": 7,
-          "uniques": 6
+          "count": 5,
+          "uniques": 5
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/ce99d5f5265ee1db71b0dbf4e882eb431c91b93f",
-          "title": "Adding Pug converter plugin · planetjekyll/awesome-jekyll-plugins@ce99d5f",
-          "count": 1,
-          "uniques": 1
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
+          "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
+          "count": 4,
+          "uniques": 4
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/issues",
-          "title": "Issues · planetjekyll/awesome-jekyll-plugins · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/69",
+          "title": "Add jekyll-responsive-magick plugin by lawmurray · Pull Request #69 · planetj...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/search",
-          "title": "Search · jeykill seo tag",
+          "title": "Search · donation",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
+          "title": "awesome-jekyll-plugins/NOTES.md at master · planetjekyll/awesome-jekyll-plugins",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/69/files",
+          "title": "Add jekyll-responsive-magick plugin by lawmurray · Pull Request #69 · planetj...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...lawmurray:awesome-jekyll-plugins:master",
+          "title": "Comparing planetjekyll:master...lawmurray:master · planetjekyll/awesome-jekyl...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/fork",
+          "title": "Fork planetjekyll/awesome-jekyll-plugins",
           "count": 1,
           "uniques": 1
         }
@@ -355,52 +383,52 @@
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 103,
-          "uniques": 78
+          "count": 125,
+          "uniques": 98
         },
         {
           "referrer": "Google",
-          "count": 102,
-          "uniques": 76
+          "count": 89,
+          "uniques": 81
         },
         {
-          "referrer": "youtube.com",
+          "referrer": "github.com",
+          "count": 21,
+          "uniques": 10
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "referrer": "planetjekyll.github.io",
           "count": 4,
           "uniques": 2
         },
         {
-          "referrer": "talk.jekyllrb.com",
+          "referrer": "jekyllthemes.io",
           "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "planetjekyll.github.io",
-          "count": 2,
-          "uniques": 1
+          "uniques": 3
         },
         {
           "referrer": "piaflu.tistory.com",
-          "count": 1,
+          "count": 3,
           "uniques": 1
         },
         {
-          "referrer": "presearch.com",
-          "count": 1,
+          "referrer": "youtube.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "stackshare.io",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "joonyoungjj.github.io",
-          "count": 1,
+          "referrer": "you.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -5066,6 +5094,118 @@
         "views": {
           "count": 18,
           "uniques": 17
+        }
+      },
+      "2022-11-02": {
+        "views": {
+          "count": 31,
+          "uniques": 27
+        }
+      },
+      "2022-11-03": {
+        "views": {
+          "count": 22,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-04": {
+        "views": {
+          "count": 21,
+          "uniques": 16
+        }
+      },
+      "2022-11-05": {
+        "views": {
+          "count": 12,
+          "uniques": 12
+        }
+      },
+      "2022-11-06": {
+        "views": {
+          "count": 35,
+          "uniques": 16
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-11-07": {
+        "views": {
+          "count": 19,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-08": {
+        "views": {
+          "count": 19,
+          "uniques": 18
+        }
+      },
+      "2022-11-09": {
+        "views": {
+          "count": 23,
+          "uniques": 17
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2022-11-10": {
+        "views": {
+          "count": 28,
+          "uniques": 21
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-11": {
+        "views": {
+          "count": 28,
+          "uniques": 26
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-12": {
+        "views": {
+          "count": 12,
+          "uniques": 9
+        }
+      },
+      "2022-11-13": {
+        "views": {
+          "count": 19,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-14": {
+        "views": {
+          "count": 21,
+          "uniques": 17
+        }
+      },
+      "2022-11-15": {
+        "views": {
+          "count": 14,
+          "uniques": 11
         }
       }
     }

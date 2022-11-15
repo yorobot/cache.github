@@ -281,24 +281,28 @@
     "2022-11-01": {
       "stargazers_count": 1080,
       "forks_count": 184
+    },
+    "2022-11-15": {
+      "stargazers_count": 1087,
+      "forks_count": 186
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-07-22T06:52:00Z",
+        "date": "2022-11-14T12:58:04Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2022-07-22T06:52:00Z",
-        "name": "Kevin Lee Garner"
+        "date": "2022-11-14T12:58:04Z",
+        "name": "Daniel Kantor"
       },
-      "message": "Added json2md and ts-markdown to Javascript / Node.js markdown tools. (#37)\n\n* Added json2md and ts-markdown to Javascript / Node.js markdown tools.\r\n\r\n* Undoing unexpected file changes\r\n\r\n* Added markdown converters back to readme.\r\n\r\n* Added new entries to TOC."
+      "message": "add zoetic (#38)"
     }
   ],
-  "size": 119,
-  "updated_at": "2022-11-01T15:35:40Z",
-  "pushed_at": "2022-07-22T06:52:00Z",
+  "size": 128,
+  "updated_at": "2022-11-15T03:05:36Z",
+  "pushed_at": "2022-11-14T12:58:04Z",
   "description": "A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)",
   "language": null,
   "topics": [
@@ -307,71 +311,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 654,
-        "uniques": 446
+        "count": 692,
+        "uniques": 463
       },
       "clones": {
-        "count": 12,
+        "count": 11,
         "uniques": 8
       },
       "paths": [
         {
           "path": "/mundimark/awesome-markdown",
           "title": "mundimark/awesome-markdown: A collection of awesome markdown goodies (librari...",
-          "count": 563,
-          "uniques": 410
+          "count": 573,
+          "uniques": 435
+        },
+        {
+          "path": "/mundimark/awesome-markdown/commit/f592db3cc0f9591957da136e6e14ee42c52f5373",
+          "title": "Added json2md and ts-markdown to Javascript / Node.js markdown tools.… · mund...",
+          "count": 26,
+          "uniques": 3
         },
         {
           "path": "/mundimark/awesome-markdown/blob/master/README.md",
           "title": "awesome-markdown/README.md at master · mundimark/awesome-markdown · GitHub",
-          "count": 24,
+          "count": 17,
+          "uniques": 14
+        },
+        {
+          "path": "/mundimark/awesome-markdown/blob/master/NOTES.md",
+          "title": "awesome-markdown/NOTES.md at master · mundimark/awesome-markdown · GitHub",
+          "count": 8,
           "uniques": 8
         },
         {
           "path": "/mundimark/awesome-markdown/blob/master/MORE.md",
           "title": "awesome-markdown/MORE.md at master · mundimark/awesome-markdown · GitHub",
-          "count": 7,
-          "uniques": 7
+          "count": 5,
+          "uniques": 5
         },
         {
-          "path": "/mundimark/awesome-markdown/blob/master/NOTES.md",
-          "title": "awesome-markdown/NOTES.md at master · mundimark/awesome-markdown · GitHub",
+          "path": "/mundimark/awesome-markdown/pulls",
+          "title": "Pull requests · mundimark/awesome-markdown",
           "count": 4,
-          "uniques": 4
+          "uniques": 2
         },
         {
-          "path": "/mundimark/awesome-markdown/commit/f592db3cc0f9591957da136e6e14ee42c52f5373",
-          "title": "Added json2md and ts-markdown to Javascript / Node.js markdown tools.… · mund...",
+          "path": "/mundimark/awesome-markdown/pull/38",
+          "title": "add zoetic by kantord · Pull Request #38 · mundimark/awesome-markdown",
           "count": 3,
-          "uniques": 3
+          "uniques": 2
         },
         {
-          "path": "/mundimark/awesome-markdown/find/master",
-          "title": "File Finder · GitHub",
+          "path": "/mundimark/awesome-markdown/search",
+          "title": "Search · mui",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/mundimark/awesome-markdown/pull/28",
-          "title": "Add mdformat by hukkin · Pull Request #28 · mundimark/awesome-markdown · GitHub",
+          "path": "/mundimark/awesome-markdown/blob/f592db3cc0f9591957da136e6e14ee42c52f5373/README.md",
+          "title": "awesome-markdown/README.md at f592db3cc0f9591957da136e6e14ee42c52f5373 · mund...",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/mundimark/awesome-markdown/blame/master/README.md",
-          "title": "awesome-markdown/README.md at master · mundimark/awesome-markdown",
-          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/mundimark/awesome-markdown/branches",
-          "title": "Branches · mundimark/awesome-markdown · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/mundimark/awesome-markdown/issues",
-          "title": "Issues · mundimark/awesome-markdown",
+          "path": "/mundimark/awesome-markdown/compare/master...kantord:awesome-markdown:patch-1",
+          "title": "Comparing mundimark:master...kantord:patch-1 · mundimark/awesome-markdown",
           "count": 1,
           "uniques": 1
         }
@@ -379,33 +383,33 @@
       "referrers": [
         {
           "referrer": "markdownguide.org",
-          "count": 197,
-          "uniques": 151
+          "count": 186,
+          "uniques": 139
         },
         {
           "referrer": "Google",
-          "count": 155,
-          "uniques": 120
+          "count": 167,
+          "uniques": 127
         },
         {
           "referrer": "github.com",
-          "count": 45,
-          "uniques": 20
+          "count": 35,
+          "uniques": 24
+        },
+        {
+          "referrer": "tutorialmarkdown.com",
+          "count": 10,
+          "uniques": 9
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 17,
-          "uniques": 10
-        },
-        {
-          "referrer": "search.brave.com",
-          "count": 12,
-          "uniques": 2
+          "count": 6,
+          "uniques": 6
         },
         {
           "referrer": "markdown.p2hp.com",
-          "count": 8,
-          "uniques": 7
+          "count": 5,
+          "uniques": 4
         },
         {
           "referrer": "Bing",
@@ -413,17 +417,17 @@
           "uniques": 4
         },
         {
-          "referrer": "yandex.ru",
+          "referrer": "search.brave.com",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "ciberninjas.com",
           "count": 4,
           "uniques": 3
         },
         {
-          "referrer": "markdown.xyz",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "cn.bing.com",
+          "referrer": "akawah.ru",
           "count": 3,
           "uniques": 3
         }
@@ -5184,6 +5188,106 @@
         "views": {
           "count": 42,
           "uniques": 35
+        }
+      },
+      "2022-11-02": {
+        "views": {
+          "count": 53,
+          "uniques": 39
+        }
+      },
+      "2022-11-03": {
+        "views": {
+          "count": 52,
+          "uniques": 38
+        }
+      },
+      "2022-11-04": {
+        "views": {
+          "count": 62,
+          "uniques": 43
+        }
+      },
+      "2022-11-05": {
+        "views": {
+          "count": 24,
+          "uniques": 23
+        }
+      },
+      "2022-11-06": {
+        "views": {
+          "count": 24,
+          "uniques": 22
+        }
+      },
+      "2022-11-07": {
+        "views": {
+          "count": 38,
+          "uniques": 24
+        }
+      },
+      "2022-11-08": {
+        "views": {
+          "count": 90,
+          "uniques": 48
+        }
+      },
+      "2022-11-09": {
+        "views": {
+          "count": 55,
+          "uniques": 39
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2022-11-10": {
+        "views": {
+          "count": 59,
+          "uniques": 41
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-11": {
+        "views": {
+          "count": 55,
+          "uniques": 42
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-12": {
+        "views": {
+          "count": 36,
+          "uniques": 27
+        }
+      },
+      "2022-11-13": {
+        "views": {
+          "count": 53,
+          "uniques": 37
+        }
+      },
+      "2022-11-14": {
+        "views": {
+          "count": 46,
+          "uniques": 30
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-11-15": {
+        "views": {
+          "count": 45,
+          "uniques": 27
         }
       }
     }

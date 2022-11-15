@@ -267,6 +267,10 @@
     "2022-11-01": {
       "stargazers_count": 30,
       "forks_count": 0
+    },
+    "2022-11-15": {
+      "stargazers_count": 30,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -302,23 +306,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 5
+        "count": 29,
+        "uniques": 14
       },
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/json-next/json-next",
           "title": "json-next/json-next: json-next gem - read generation y / next generation json...",
-          "count": 5,
-          "uniques": 4
+          "count": 18,
+          "uniques": 14
         },
         {
-          "path": "/json-next/json-next/blob/master/HISTORY.md",
-          "title": "json-next/HISTORY.md at master · json-next/json-next · GitHub",
+          "path": "/json-next/json-next/tree/master/lib/json",
+          "title": "json-next/lib/json at master · json-next/json-next · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/json-next/json-next/blob/master/lib/json/next.rb",
+          "title": "json-next/next.rb at master · json-next/json-next · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json/next",
+          "title": "json-next/lib/json/next at master · json-next/json-next · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/json-next/json-next/blob/master/lib/json/next/parser/hanson.rb",
+          "title": "json-next/hanson.rb at master · json-next/json-next · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/commit/7cd986a9d323ea3e661b03d64503dae10d3a87ca",
+          "title": "jsonx - allow dash (-) in ids · json-next/json-next@7cd986a · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/tree/master/lib/json/next/parser",
+          "title": "json-next/lib/json/next/parser at master · json-next/json-next · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -326,8 +360,18 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 6,
-          "uniques": 5
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2604,6 +2648,74 @@
         "clones": {
           "count": 4,
           "uniques": 3
+        }
+      },
+      "2022-11-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-11-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2022-11-09": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-11-10": {
+        "views": {
+          "count": 11,
+          "uniques": 4
+        }
+      },
+      "2022-11-12": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-11-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

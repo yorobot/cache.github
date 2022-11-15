@@ -281,6 +281,10 @@
     "2022-11-01": {
       "stargazers_count": 184,
       "forks_count": 14
+    },
+    "2022-11-15": {
+      "stargazers_count": 183,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -297,7 +301,7 @@
     }
   ],
   "size": 596,
-  "updated_at": "2022-10-10T14:14:30Z",
+  "updated_at": "2022-11-08T00:54:20Z",
   "pushed_at": "2020-10-31T16:55:53Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -320,35 +324,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 7
+        "count": 20,
+        "uniques": 10
       },
       "clones": {
-        "count": 12,
-        "uniques": 11
+        "count": 23,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 2,
+          "count": 9,
+          "uniques": 5
+        },
+        {
+          "path": "/feedreader/pluto/issues/33",
+          "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
+          "count": 3,
           "uniques": 2
-        },
-        {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
         },
         {
           "path": "/feedreader/pluto/issues/39",
           "title": "Feeds requiring cookie support · Issue #39 · feedreader/pluto · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/issues/40",
+          "title": "HTTP/HTTPS redirect too deep when server uses cookies to authenticate connect...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/pluto-models/lib/pluto/models/site.rb",
+          "title": "pluto/site.rb at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/find/master",
+          "title": "File Finder",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/42",
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
           "count": 1,
           "uniques": 1
         }
@@ -356,13 +378,23 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 3,
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "feedreader.github.io",
+          "count": 4,
           "uniques": 2
         },
         {
-          "referrer": "github.com",
-          "count": 1,
+          "referrer": "planetruby.github.io",
+          "count": 3,
           "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -3722,6 +3754,106 @@
         }
       },
       "2022-10-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2022-11-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-11-12": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-11-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-13": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2022-11-15": {
         "clones": {
           "count": 1,
           "uniques": 1

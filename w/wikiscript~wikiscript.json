@@ -281,6 +281,10 @@
     "2022-11-01": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2022-11-15": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -313,35 +317,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 2
+        "count": 16,
+        "uniques": 3
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/wikiscript/wikiscript/tree/master/wikiscript",
-          "title": "wikiscript/wikiscript at master · wikiscript/wikiscript",
-          "count": 2,
-          "uniques": 1
+          "path": "/wikiscript/wikiscript",
+          "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser",
-          "title": "wikiscript/wikiscript-parser at master · wikiscript/wikiscript",
+          "title": "wikiscript/wikiscript-parser at master · wikiscript/wikiscript · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/wikiscript-parser/lib/wikiscript-parser.rb",
+          "title": "wikiscript/wikiscript-parser.rb at master · wikiscript/wikiscript · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/wikiscript",
-          "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser/lib",
+          "title": "wikiscript/wikiscript-parser/lib at master · wikiscript/wikiscript · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/wikiscript-parser/NOTES.md",
+          "title": "wikiscript/NOTES.md at master · wikiscript/wikiscript · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/wikiscript/tree/master/wikitree",
-          "title": "wikiscript/wikitree at master · wikiscript/wikiscript",
+          "path": "/wikiscript/wikiscript/issues",
+          "title": "Issues · wikiscript/wikiscript",
           "count": 1,
           "uniques": 1
         }
@@ -349,11 +365,16 @@
       "referrers": [
         {
           "referrer": "ruby-toolbox.com",
-          "count": 5,
+          "count": 11,
           "uniques": 1
         },
         {
-          "referrer": "rubydoc.info",
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -1160,6 +1181,36 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2022-11-05": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2022-11-10": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2022-11-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-13": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

@@ -281,6 +281,10 @@
     "2022-11-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2022-11-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -307,18 +311,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 8,
+        "uniques": 1
       },
       "clones": {
-        "count": 2,
+        "count": 3,
         "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/planet-templates/planet-feeds",
+          "title": "planet-templates/planet-feeds: feeds - planet template pack - rss 2.0, atom, ...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/foafroll.xml.erb",
+          "title": "planet-feeds/foafroll.xml.erb at master · planet-templates/planet-feeds",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/rss20.xml.erb",
+          "title": "planet-feeds/rss20.xml.erb at master · planet-templates/planet-feeds",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planet-templates/planet-feeds/blob/master/atom.xml.erb",
+          "title": "planet-feeds/atom.xml.erb at master · planet-templates/planet-feeds",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "feedreader.github.io",
+          "count": 8,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -753,6 +784,22 @@
         }
       },
       "2022-10-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-12": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-13": {
         "clones": {
           "count": 1,
           "uniques": 1

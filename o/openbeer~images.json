@@ -281,6 +281,10 @@
     "2022-11-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2022-11-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -307,18 +311,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openbeer/images",
+          "title": "openbeer/images: images",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/images/blob/master/maps/at.png",
+          "title": "images/at.png at master · openbeer/images",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/images/tree/master/maps",
+          "title": "images/maps at master · openbeer/images",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "ja.alcohol.asklobster.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -499,6 +524,12 @@
       "2022-10-21": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-08": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

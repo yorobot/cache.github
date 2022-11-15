@@ -2,8 +2,8 @@
   "full_name": "pixelartexchange/opensea.cache",
   "created_at": "2018-01-05T08:40:13Z",
   "updated_at": "2022-10-31T16:32:23Z",
-  "pushed_at": "2022-11-01T16:46:38Z",
-  "size": 886,
+  "pushed_at": "2022-11-05T15:41:36Z",
+  "size": 970,
   "description": "Opensea (Pixel) Art Collection / Token Meta Data (Download) Cache",
   "language": "Ruby",
   "history": {
@@ -18,16 +18,20 @@
     "2022-11-01": {
       "stargazers_count": 28,
       "forks_count": 1
+    },
+    "2022-11-15": {
+      "stargazers_count": 28,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-11-01T16:46:32Z",
+        "date": "2022-11-05T15:41:30Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-11-01T16:46:32Z",
+        "date": "2022-11-05T15:41:30Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -39,70 +43,34 @@
     "opensea"
   ],
   "languages": {
-    "Ruby": 3672
+    "Ruby": 3741
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 107,
-        "uniques": 7
+        "count": 29,
+        "uniques": 2
       },
       "clones": {
-        "count": 25,
-        "uniques": 13
+        "count": 16,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/pixelartexchange/opensea.cache",
           "title": "pixelartexchange/opensea.cache: Opensea (Pixel) Art Collection / Token Meta D...",
-          "count": 26,
-          "uniques": 6
+          "count": 11,
+          "uniques": 2
         },
         {
           "path": "/pixelartexchange/opensea.cache/tree/master/ethereum",
           "title": "opensea.cache/ethereum at master · pixelartexchange/opensea.cache",
-          "count": 14,
+          "count": 10,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/opensea.cache/tree/master/openstore",
-          "title": "opensea.cache/openstore at master · pixelartexchange/opensea.cache",
-          "count": 13,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/blob/master/ethereum/collections.csv",
-          "title": "opensea.cache/collections.csv at master · pixelartexchange/opensea.cache",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/blob/master/sandbox/download.rb",
-          "title": "opensea.cache/download.rb at master · pixelartexchange/opensea.cache · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/tree/master/sandbox",
-          "title": "opensea.cache/sandbox at master · pixelartexchange/opensea.cache · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/blob/master/ethereum/nonvisiblepunks/collection.json",
-          "title": "opensea.cache/collection.json at master · pixelartexchange/opensea.cache",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/blob/master/ethereum/README.md",
-          "title": "opensea.cache/README.md at master · pixelartexchange/opensea.cache",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/commits/master",
-          "title": "Commits · pixelartexchange/opensea.cache",
+          "path": "/pixelartexchange/opensea.cache/blob/master/ethereum/TRENDING.md",
+          "title": "opensea.cache/TRENDING.md at master · pixelartexchange/opensea.cache",
           "count": 2,
           "uniques": 1
         },
@@ -111,23 +79,37 @@
           "title": "Stargazers · pixelartexchange/opensea.cache",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.cache/commit/34ece55391eaa0e8ccb1cceadac2112efb54ddff",
+          "title": "up · pixelartexchange/opensea.cache@34ece55",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.cache/commits/master",
+          "title": "Commits · pixelartexchange/opensea.cache",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.cache/network/members",
+          "title": "Forks · pixelartexchange/opensea.cache",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/opensea.cache/tree/master/openstore",
+          "title": "opensea.cache/openstore at master · pixelartexchange/opensea.cache",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 4
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -347,6 +329,84 @@
         }
       },
       "2022-10-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-02": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2022-11-05": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2022-11-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2022-11-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-11-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2022-11-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2022-11-14": {
         "clones": {
           "count": 1,
           "uniques": 1
