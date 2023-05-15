@@ -38,6 +38,10 @@
     "2022-11-15": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2023-05-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -65,18 +69,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
-
+        {
+          "path": "/rubycocos/text",
+          "title": "rubycocos/text: text tools, libraries & scripts incl. text filters, helpers, ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/text/commits",
+          "title": "Commits · rubycocos/text",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -155,6 +174,42 @@
       "2022-11-02": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-05-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-14": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-05-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

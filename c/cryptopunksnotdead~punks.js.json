@@ -1,9 +1,9 @@
 {
   "full_name": "cryptopunksnotdead/punks.js",
   "created_at": "2015-06-26T14:26:27Z",
-  "updated_at": "2022-11-04T15:45:49Z",
-  "pushed_at": "2022-10-25T15:49:50Z",
-  "size": 1026,
+  "updated_at": "2023-04-26T09:03:46Z",
+  "pushed_at": "2023-02-20T16:35:52Z",
+  "size": 1024,
   "description": "punks.js - draw punk (pixel) art images using any design (in ascii text) in any colors; incl. 2x/4x/8x zoom for bigger sizes and more",
   "language": "HTML",
   "history": {
@@ -14,16 +14,20 @@
     "2022-11-15": {
       "stargazers_count": 128,
       "forks_count": 10
+    },
+    "2023-05-15": {
+      "stargazers_count": 132,
+      "forks_count": 14
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-10-25T15:49:47Z",
+        "date": "2023-02-20T16:35:47Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-10-25T15:49:47Z",
+        "date": "2023-02-20T16:35:47Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -40,60 +44,96 @@
     "24px"
   ],
   "languages": {
-    "HTML": 87345,
+    "HTML": 119903,
     "JavaScript": 29638
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 9
+        "count": 74,
+        "uniques": 15
       },
       "clones": {
-        "count": 10,
-        "uniques": 5
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/punks.js",
           "title": "GitHub - cryptopunksnotdead/punks.js: punks.js - draw punk (pixel) art images...",
-          "count": 8,
-          "uniques": 7
+          "count": 18,
+          "uniques": 11
         },
         {
-          "path": "/cryptopunksnotdead/punks.js/blob/master/yeoldepunks/yeoldepunks-24x24.png",
-          "title": "punks.js/yeoldepunks-24x24.png at master · cryptopunksnotdead/punks.js · GitHub",
+          "path": "/cryptopunksnotdead/punks.js/tree/master/editor",
+          "title": "punks.js/editor at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.js/tree/master/editor/lib",
+          "title": "punks.js/editor/lib at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.js/blob/master/editor/designs.js",
+          "title": "punks.js/designs.js at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.js/tree/master/ordinalpunks",
+          "title": "punks.js/ordinalpunks at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.js/blob/master/editor/lib/pixelart.js",
+          "title": "punks.js/pixelart.js at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.js/blob/master/editor/lib/colors.js",
+          "title": "punks.js/colors.js at master · cryptopunksnotdead/punks.js · GitHub",
           "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptopunksnotdead/punks.js/tree/master/yeoldepunks",
-          "title": "punks.js/yeoldepunks at master · cryptopunksnotdead/punks.js",
+          "path": "/cryptopunksnotdead/punks.js/tree/master/pixelart",
+          "title": "punks.js/pixelart at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.js/blob/master/editor/index.html",
+          "title": "punks.js/index.html at master · cryptopunksnotdead/punks.js · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.js/tree/master/pixelart/draw",
-          "title": "punks.js/pixelart/draw at master · cryptopunksnotdead/punks.js · GitHub",
-          "count": 1,
+          "path": "/cryptopunksnotdead/punks.js/blob/master/editor/lib/setup.js",
+          "title": "punks.js/setup.js at master · cryptopunksnotdead/punks.js · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 4
+          "count": 15,
+          "uniques": 7
         },
         {
           "referrer": "cryptopunksnotdead.github.io",
-          "count": 4,
-          "uniques": 1
+          "count": 10,
+          "uniques": 3
         },
         {
-          "referrer": "reddit.com",
+          "referrer": "search.brave.com",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         }
       ]
     },
@@ -276,6 +316,86 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2023-05-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-03": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-05-08": {
+        "views": {
+          "count": 43,
+          "uniques": 3
+        }
+      },
+      "2023-05-10": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2023-05-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-05-12": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-05-14": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2023-05-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

@@ -1,9 +1,9 @@
 {
   "full_name": "learnpixelart/pixelart",
   "created_at": "2017-05-14T17:33:27Z",
-  "updated_at": "2022-10-27T16:28:05Z",
-  "pushed_at": "2022-10-27T15:02:32Z",
-  "size": 1391,
+  "updated_at": "2023-04-18T06:14:39Z",
+  "pushed_at": "2023-05-07T15:16:17Z",
+  "size": 1406,
   "description": "pixel art (and graphics) libraries & scripts   ",
   "language": "Ruby",
   "history": {
@@ -14,19 +14,23 @@
     "2022-11-15": {
       "stargazers_count": 61,
       "forks_count": 8
+    },
+    "2023-05-15": {
+      "stargazers_count": 66,
+      "forks_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-10-27T15:02:27Z",
+        "date": "2023-05-07T15:16:09Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-10-27T15:02:27Z",
+        "date": "2023-05-07T15:16:09Z",
         "name": "Gerald Bauer"
       },
-      "message": "mv go code to pixelart.go"
+      "message": "up"
     }
   ],
   "topics": [
@@ -37,76 +41,76 @@
     "avatars"
   ],
   "languages": {
-    "Ruby": 167663
+    "Ruby": 153051
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 51,
-        "uniques": 11
+        "count": 32,
+        "uniques": 4
       },
       "clones": {
-        "count": 24,
-        "uniques": 14
+        "count": 708,
+        "uniques": 188
       },
       "paths": [
         {
-          "path": "/learnpixelart/pixelart/tree/master/artfactory",
-          "title": "pixelart/artfactory at master · learnpixelart/pixelart · GitHub",
-          "count": 17,
+          "path": "/learnpixelart/pixelart/blob/master/pixelart/sandbox/test_image.rb",
+          "title": "pixelart/test_image.rb at master · learnpixelart/pixelart · GitHub",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/tree/master/pixelart",
+          "title": "pixelart/pixelart at master · learnpixelart/pixelart · GitHub",
+          "count": 5,
           "uniques": 3
         },
         {
           "path": "/learnpixelart/pixelart",
           "title": "learnpixelart/pixelart: pixel art (and graphics) libraries & scripts",
-          "count": 10,
-          "uniques": 4
-        },
-        {
-          "path": "/learnpixelart/pixelart/tree/master/pixelart",
-          "title": "pixelart/pixelart at master · learnpixelart/pixelart · GitHub",
           "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/learnpixelart/pixelart/tree/master/pixelart-characters",
-          "title": "pixelart/pixelart-characters at master · learnpixelart/pixelart · GitHub",
-          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/learnpixelart/pixelart/blob/master/artfactory/README.md",
-          "title": "pixelart/README.md at master · learnpixelart/pixelart",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/learnpixelart/pixelart/blob/master/artfactory/sandbox/config/spritesheet.png",
-          "title": "pixelart/spritesheet.png at master · learnpixelart/pixelart · GitHub",
-          "count": 2,
+          "path": "/learnpixelart/pixelart/blob/master/pixelart/lib/pixelart/transparent.rb",
+          "title": "pixelart/transparent.rb at master · learnpixelart/pixelart · GitHub",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/learnpixelart/pixelart/tree/master/pixelart/lib",
-          "title": "pixelart/pixelart/lib at master · learnpixelart/pixelart",
+          "title": "pixelart/pixelart/lib at master · learnpixelart/pixelart · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
           "path": "/learnpixelart/pixelart/tree/master/pixelart/lib/pixelart",
-          "title": "pixelart/pixelart/lib/pixelart at master · learnpixelart/pixelart",
+          "title": "pixelart/pixelart/lib/pixelart at master · learnpixelart/pixelart · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart/tree/master/spritesheet",
-          "title": "pixelart/spritesheet at master · learnpixelart/pixelart",
-          "count": 2,
+          "path": "/learnpixelart/pixelart/blob/master/pixelart/sandbox/test_8bit.rb",
+          "title": "pixelart/test_8bit.rb at master · learnpixelart/pixelart · GitHub",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart/blob/master/artfactory/sandbox/test_generate.rb",
-          "title": "pixelart/test_generate.rb at master · learnpixelart/pixelart",
+          "path": "/learnpixelart/pixelart/commit/7b09b958b5fb5f1ceee2108b917231861be3632d",
+          "title": "up · learnpixelart/pixelart@7b09b95",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/commits/master",
+          "title": "Commits · learnpixelart/pixelart",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/stargazers",
+          "title": "Stargazers · learnpixelart/pixelart",
           "count": 1,
           "uniques": 1
         }
@@ -114,28 +118,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 25,
-          "uniques": 4
+          "count": 16,
+          "uniques": 2
         },
         {
-          "referrer": "old.reddit.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "planetruby.github.io",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 1,
-          "uniques": 1
+          "referrer": "ruby-toolbox.com",
+          "count": 13,
+          "uniques": 2
         }
       ]
     },
@@ -319,6 +308,122 @@
       "2022-11-14": {
         "clones": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 59,
+          "uniques": 37
+        }
+      },
+      "2023-05-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 58,
+          "uniques": 30
+        }
+      },
+      "2023-05-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 68,
+          "uniques": 29
+        }
+      },
+      "2023-05-07": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 64,
+          "uniques": 26
+        }
+      },
+      "2023-05-08": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 61,
+          "uniques": 36
+        }
+      },
+      "2023-05-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 61,
+          "uniques": 27
+        }
+      },
+      "2023-05-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 61,
+          "uniques": 38
+        }
+      },
+      "2023-05-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 60,
+          "uniques": 41
+        }
+      },
+      "2023-05-01": {
+        "clones": {
+          "count": 20,
+          "uniques": 19
+        }
+      },
+      "2023-05-02": {
+        "clones": {
+          "count": 59,
+          "uniques": 34
+        }
+      },
+      "2023-05-03": {
+        "clones": {
+          "count": 59,
+          "uniques": 38
+        }
+      },
+      "2023-05-10": {
+        "clones": {
+          "count": 60,
+          "uniques": 46
+        }
+      },
+      "2023-05-13": {
+        "clones": {
+          "count": 17,
+          "uniques": 14
+        }
+      },
+      "2023-05-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

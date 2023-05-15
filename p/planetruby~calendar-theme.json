@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/calendar-theme",
   "created_at": "2018-02-25T18:42:23Z",
-  "updated_at": "2020-12-29T21:22:44Z",
-  "pushed_at": "2020-12-29T21:22:41Z",
-  "size": 13,
+  "updated_at": "2023-02-04T14:12:40Z",
+  "pushed_at": "2023-02-04T14:15:38Z",
+  "size": 16,
   "history": {
     "2018-02-27": {
       "stargazers_count": 1
@@ -267,19 +267,23 @@
     "2022-11-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2023-05-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-12-29T21:22:40Z",
+        "date": "2023-02-04T14:15:38Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-12-29T21:22:40Z",
+        "date": "2023-02-04T14:15:38Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update github.html"
+      "message": "Update conf_feed_item.html"
     }
   ],
   "description": "Calendar Theme",
@@ -290,44 +294,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 4
-      },
-      "clones": {
         "count": 0,
         "uniques": 0
       },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
       "paths": [
-        {
-          "path": "/planetruby/calendar-theme",
-          "title": "planetruby/calendar-theme: Calendar Theme",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/planetruby/calendar-theme/blob/master/_layouts/feed.json.html",
-          "title": "calendar-theme/feed.json.html at master · planetruby/calendar-theme",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/calendar-theme/tree/master/_layouts",
-          "title": "calendar-theme/_layouts at master · planetruby/calendar-theme",
-          "count": 1,
-          "uniques": 1
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "Google",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "referrer": "in.search.yahoo.com",
-          "count": 1,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -568,11 +546,17 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2023-05-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "HTML": 6527,
+    "HTML": 7084,
     "SCSS": 5155
   }
 }

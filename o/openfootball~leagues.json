@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/leagues",
   "created_at": "2014-06-29T20:38:44Z",
-  "updated_at": "2022-01-23T18:27:50Z",
+  "updated_at": "2023-04-19T10:25:58Z",
   "pushed_at": "2020-11-09T09:50:17Z",
   "size": 782,
   "history": {
@@ -243,6 +243,10 @@
     "2022-11-15": {
       "stargazers_count": 36,
       "forks_count": 11
+    },
+    "2023-05-15": {
+      "stargazers_count": 36,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -266,59 +270,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 4
+        "count": 16,
+        "uniques": 5
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openfootball/leagues",
           "title": "openfootball/leagues: Free open public domain football datasets for national ...",
-          "count": 7,
-          "uniques": 4
+          "count": 5,
+          "uniques": 5
         },
         {
-          "path": "/openfootball/leagues/blob/master/africa/leagues.txt",
+          "path": "/openfootball/leagues/tree/master/europe",
+          "title": "leagues/europe at master · openfootball/leagues · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/leagues/tree/master/south-america",
+          "title": "leagues/south-america at master · openfootball/leagues · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/europe/england/eng.leagues.txt",
+          "title": "leagues/eng.leagues.txt at master · openfootball/leagues · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/europe/england/eng.seasons.txt",
+          "title": "leagues/eng.seasons.txt at master · openfootball/leagues · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/leagues.txt",
           "title": "leagues/leagues.txt at master · openfootball/leagues · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/leagues/blob/master/europe/leagues.txt",
-          "title": "leagues/leagues.txt at master · openfootball/leagues",
+          "path": "/openfootball/leagues/blob/master/south-america/argentina/ar.leagues.txt",
+          "title": "leagues/ar.leagues.txt at master · openfootball/leagues · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/leagues/blob/master/south-america/argentina/ar.seasons.txt",
-          "title": "leagues/ar.seasons.txt at master · openfootball/leagues",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/leagues/tree/master/africa",
-          "title": "leagues/africa at master · openfootball/leagues · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/leagues/tree/master/europe",
-          "title": "leagues/europe at master · openfootball/leagues",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/leagues/tree/master/south-america",
-          "title": "leagues/south-america at master · openfootball/leagues",
+          "path": "/openfootball/leagues/tree/master/europe/england",
+          "title": "leagues/europe/england at master · openfootball/leagues · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/openfootball/leagues/tree/master/south-america/argentina",
-          "title": "leagues/south-america/argentina at master · openfootball/leagues",
+          "title": "leagues/south-america/argentina at master · openfootball/leagues · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/leagues/tree/master/south-america/brazil",
+          "title": "leagues/south-america/brazil at master · openfootball/leagues",
           "count": 1,
           "uniques": 1
         }
@@ -326,12 +342,22 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 13,
-          "uniques": 3
+          "count": 5,
+          "uniques": 2
         },
         {
-          "referrer": "rubydoc.info",
-          "count": 1,
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "groups.google.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "edgeservices.bing.com",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -2666,6 +2692,42 @@
         }
       },
       "2022-11-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-05-05": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-05-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-05-07": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-05-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
         "clones": {
           "count": 1,
           "uniques": 1

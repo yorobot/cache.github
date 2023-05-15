@@ -285,6 +285,10 @@
     "2022-11-15": {
       "stargazers_count": 17,
       "forks_count": 3
+    },
+    "2023-05-15": {
+      "stargazers_count": 17,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -311,18 +315,50 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 16,
+        "uniques": 3
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 8,
-        "uniques": 8
-      },
       "paths": [
-
+        {
+          "path": "/sportkit/sport.db.starter.node.js",
+          "title": "sportkit/sport.db.starter.node.js: sportdb web service starter sample - build...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sportkit/sport.db.starter.node.js/blob/master/sportdb.js",
+          "title": "sport.db.starter.node.js/sportdb.js at master · sportkit/sport.db.starter.nod...",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/sport.db.starter.node.js/blob/master/app.js",
+          "title": "sport.db.starter.node.js/app.js at master · sportkit/sport.db.starter.node.js",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportkit/sport.db.starter.node.js/blob/master/server.js",
+          "title": "sport.db.starter.node.js/server.js at master · sportkit/sport.db.starter.node...",
+          "count": 3,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 13,
+          "uniques": 3
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1053,6 +1089,18 @@
       "2022-11-15": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-05-08": {
+        "views": {
+          "count": 14,
           "uniques": 1
         }
       }

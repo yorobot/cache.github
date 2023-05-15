@@ -1,9 +1,9 @@
 {
   "full_name": "cryptopunksnotdead/punks.market",
   "created_at": "2017-05-13T15:54:56Z",
-  "updated_at": "2022-10-01T15:45:48Z",
-  "pushed_at": "2022-10-29T16:54:19Z",
-  "size": 1556,
+  "updated_at": "2023-01-14T00:37:41Z",
+  "pushed_at": "2022-12-15T18:06:28Z",
+  "size": 1646,
   "description": "Punks Market Data incl. Prices, and More",
   "language": "Ruby",
   "history": {
@@ -134,16 +134,20 @@
     "2022-11-15": {
       "stargazers_count": 1,
       "forks_count": 3
+    },
+    "2023-05-15": {
+      "stargazers_count": 2,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-10-29T16:54:14Z",
+        "date": "2022-12-15T18:06:25Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-10-29T16:54:14Z",
+        "date": "2022-12-15T18:06:25Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -154,31 +158,43 @@
     "punks"
   ],
   "languages": {
-    "Ruby": 1485
+    "Ruby": 6641
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 3
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
-        "count": 5,
+        "count": 3,
         "uniques": 3
       },
       "paths": [
         {
+          "path": "/cryptopunksnotdead/punks.market/tree/master/apes",
+          "title": "punks.market/apes at master · cryptopunksnotdead/punks.market · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/cryptopunksnotdead/punks.market",
-          "title": "GitHub - cryptopunksnotdead/punks.market: Punks Market Data incl. Prices, and...",
-          "count": 3,
-          "uniques": 3
+          "title": "cryptopunksnotdead/punks.market: Punks Market Data incl. Prices, and More",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.market/tree/master",
+          "title": "cryptopunksnotdead/punks.market: Punks Market Data incl. Prices, and More",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 1
         }
       ]
     },
@@ -1280,6 +1296,30 @@
       "2022-11-11": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-05-09": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-05-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-12": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

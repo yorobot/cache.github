@@ -1,9 +1,9 @@
 {
   "full_name": "rubycocos/feedparser",
   "created_at": "2013-09-19T20:33:21Z",
-  "updated_at": "2022-10-08T19:04:14Z",
-  "pushed_at": "2022-05-01T16:27:38Z",
-  "size": 1176,
+  "updated_at": "2023-01-24T04:19:18Z",
+  "pushed_at": "2023-04-04T10:07:46Z",
+  "size": 1190,
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
   "language": "Ruby",
   "history": {
@@ -38,16 +38,20 @@
     "2022-11-15": {
       "stargazers_count": 160,
       "forks_count": 7
+    },
+    "2023-05-15": {
+      "stargazers_count": 162,
+      "forks_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-05-01T16:27:29Z",
+        "date": "2023-04-04T10:07:41Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-05-01T16:27:29Z",
+        "date": "2023-04-04T10:07:41Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -71,47 +75,35 @@
     "webfeed"
   ],
   "languages": {
-    "Ruby": 79869,
-    "HTML": 33902
+    "Ruby": 100621,
+    "HTML": 34675
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 24,
-        "uniques": 9
+        "count": 12,
+        "uniques": 8
       },
       "clones": {
-        "count": 33,
-        "uniques": 14
+        "count": 20,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/rubycocos/feedparser",
           "title": "rubycocos/feedparser: feedparser gem - (universal) web feed parser and normal...",
-          "count": 10,
-          "uniques": 9
+          "count": 9,
+          "uniques": 8
         },
         {
           "path": "/rubycocos/feedparser/tree/master/feedparser",
           "title": "feedparser/feedparser at master · rubycocos/feedparser · GitHub",
-          "count": 10,
-          "uniques": 6
-        },
-        {
-          "path": "/rubycocos/feedparser/tree/master/feeds",
-          "title": "feedparser/feeds at master · rubycocos/feedparser · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
           "path": "/rubycocos/feedparser/tree/master/awesome-feeds",
-          "title": "feedparser/awesome-feeds at master · rubycocos/feedparser",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/feedparser/tree/master/feedfilter",
-          "title": "feedparser/feedfilter at master · rubycocos/feedparser",
+          "title": "feedparser/awesome-feeds at master · rubycocos/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -119,8 +111,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 14,
-          "uniques": 5
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
         }
       ]
     },
@@ -998,6 +995,120 @@
         }
       },
       "2022-11-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-03": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-05-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-05-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-12": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-05-15": {
         "clones": {
           "count": 1,
           "uniques": 1

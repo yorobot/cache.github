@@ -285,24 +285,28 @@
     "2022-11-15": {
       "stargazers_count": 197,
       "forks_count": 27
+    },
+    "2023-05-15": {
+      "stargazers_count": 225,
+      "forks_count": 29
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-09-11T13:47:23Z",
+        "date": "2023-05-06T11:40:10Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2022-09-11T13:47:23Z",
-        "name": "Helge Heß"
+        "date": "2023-05-06T11:40:10Z",
+        "name": "Louis Brauer"
       },
-      "message": "Update README.md (#10)"
+      "message": "Add pg2sqlite (#13)"
     }
   ],
-  "size": 47,
-  "updated_at": "2022-11-12T09:44:23Z",
-  "pushed_at": "2022-09-11T13:47:23Z",
+  "size": 65,
+  "updated_at": "2023-05-10T15:01:06Z",
+  "pushed_at": "2023-05-06T11:40:10Z",
   "description": "A collection of awesome sqlite tools, scripts, books, etc",
   "language": null,
   "topics": [
@@ -313,29 +317,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 112,
-        "uniques": 77
+        "count": 126,
+        "uniques": 84
       },
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/planetopendata/awesome-sqlite",
           "title": "planetopendata/awesome-sqlite: A collection of awesome sqlite tools, scripts,...",
-          "count": 93,
-          "uniques": 73
+          "count": 101,
+          "uniques": 79
         },
         {
-          "path": "/planetopendata/awesome-sqlite/commits",
-          "title": "Commits · planetopendata/awesome-sqlite",
-          "count": 3,
+          "path": "/planetopendata/awesome-sqlite/edit/master/README.md",
+          "title": "Editing awesome-sqlite/README.md at master · planetopendata/awesome-sqlite · ...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/13",
+          "title": "Add pg2sqlite by louis77 · Pull Request #13 · planetopendata/awesome-sqlite",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/13/files",
+          "title": "Add pg2sqlite by louis77 · Pull Request #13 · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/blob/master/LICENSE.md",
+          "title": "awesome-sqlite/LICENSE.md at master · planetopendata/awesome-sqlite · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/planetopendata/awesome-sqlite/blob/master/README.md",
-          "title": "awesome-sqlite/README.md at master · planetopendata/awesome-sqlite",
+          "title": "awesome-sqlite/README.md at master · planetopendata/awesome-sqlite · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pulls",
+          "title": "Pull requests · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/compare/master...louis77:awesome-sqlite:patch-1",
+          "title": "Comparing planetopendata:master...louis77:patch-1 · planetopendata/awesome-sq...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/compare/master...louis77:patch-1",
+          "title": "Comparing planetopendata:master...louis77:patch-1 · planetopendata/awesome-sq...",
           "count": 1,
           "uniques": 1
         }
@@ -343,51 +383,51 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 45,
-          "uniques": 32
+          "count": 55,
+          "uniques": 40
         },
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 8
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "referrer": "awesome-python.com",
-          "count": 4,
-          "uniques": 4
+          "count": 18,
+          "uniques": 14
         },
         {
           "referrer": "search.brave.com",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "profs.info.uaic.ro",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "referrer": "cn.bing.com",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "awesome-python.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "Bing",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "ecosia.org",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "yandex.ru",
-          "count": 1,
+          "referrer": "DuckDuckGo",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "ecosia.org",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "lite.duckduckgo.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "t.co",
+          "referrer": "martinheinz.dev",
           "count": 1,
           "uniques": 1
         }
@@ -4994,6 +5034,112 @@
         "views": {
           "count": 15,
           "uniques": 5
+        }
+      },
+      "2023-05-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-02": {
+        "views": {
+          "count": 8,
+          "uniques": 8
+        }
+      },
+      "2023-05-03": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2023-05-04": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2023-05-05": {
+        "views": {
+          "count": 19,
+          "uniques": 6
+        }
+      },
+      "2023-05-06": {
+        "views": {
+          "count": 15,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-05-07": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-08": {
+        "views": {
+          "count": 9,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-09": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2023-05-10": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2023-05-11": {
+        "views": {
+          "count": 12,
+          "uniques": 10
+        }
+      },
+      "2023-05-12": {
+        "views": {
+          "count": 19,
+          "uniques": 12
+        }
+      },
+      "2023-05-13": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2023-05-14": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-05-15": {
+        "views": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

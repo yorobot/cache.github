@@ -1,9 +1,9 @@
 {
   "full_name": "pixelartexchange/opensea.cache",
   "created_at": "2018-01-05T08:40:13Z",
-  "updated_at": "2022-10-31T16:32:23Z",
-  "pushed_at": "2022-11-05T15:41:36Z",
-  "size": 970,
+  "updated_at": "2023-03-25T11:24:08Z",
+  "pushed_at": "2022-12-03T19:43:57Z",
+  "size": 1109,
   "description": "Opensea (Pixel) Art Collection / Token Meta Data (Download) Cache",
   "language": "Ruby",
   "history": {
@@ -22,16 +22,20 @@
     "2022-11-15": {
       "stargazers_count": 28,
       "forks_count": 1
+    },
+    "2023-05-15": {
+      "stargazers_count": 27,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2022-11-05T15:41:30Z",
+        "date": "2022-12-03T19:43:51Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2022-11-05T15:41:30Z",
+        "date": "2022-12-03T19:43:51Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -43,64 +47,28 @@
     "opensea"
   ],
   "languages": {
-    "Ruby": 3741
+    "Ruby": 3725
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 29,
-        "uniques": 2
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
-        "count": 16,
-        "uniques": 7
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/pixelartexchange/opensea.cache",
-          "title": "pixelartexchange/opensea.cache: Opensea (Pixel) Art Collection / Token Meta D...",
-          "count": 11,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/tree/master/ethereum",
-          "title": "opensea.cache/ethereum at master · pixelartexchange/opensea.cache",
-          "count": 10,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/blob/master/ethereum/TRENDING.md",
-          "title": "opensea.cache/TRENDING.md at master · pixelartexchange/opensea.cache",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/stargazers",
-          "title": "Stargazers · pixelartexchange/opensea.cache",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/commit/34ece55391eaa0e8ccb1cceadac2112efb54ddff",
-          "title": "up · pixelartexchange/opensea.cache@34ece55",
+          "path": "/pixelartexchange/opensea.cache/blob/763c243595ed4f40d93a823805c7151109453ec5/ethereum/crypto-marcs/contracts.json",
+          "title": "opensea.cache/contracts.json at 763c243595ed4f40d93a823805c7151109453ec5 · pi...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/opensea.cache/commits/master",
-          "title": "Commits · pixelartexchange/opensea.cache",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/network/members",
-          "title": "Forks · pixelartexchange/opensea.cache",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/opensea.cache/tree/master/openstore",
-          "title": "opensea.cache/openstore at master · pixelartexchange/opensea.cache",
+          "path": "/pixelartexchange/opensea.cache/commits/763c243595ed4f40d93a823805c7151109453ec5/ethereum/crypto-marcs/contracts.json",
+          "title": "History for ethereum/crypto-marcs/contracts.json - pixelartexchange/opensea.c...",
           "count": 1,
           "uniques": 1
         }
@@ -109,7 +77,7 @@
         {
           "referrer": "github.com",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         }
       ]
     },
@@ -409,6 +377,12 @@
       "2022-11-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

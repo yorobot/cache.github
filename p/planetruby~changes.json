@@ -194,6 +194,10 @@
     "2022-11-15": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2023-05-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -223,18 +227,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 10,
+        "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/planetruby/changes/blob/master/_data/ruby27.yml",
+          "title": "changes/ruby27.yml at master · planetruby/changes · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/changes/tree/master/_data",
+          "title": "changes/_data at master · planetruby/changes · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/changes/blob/master/_data/ruby3x3.yml",
+          "title": "changes/ruby3x3.yml at master · planetruby/changes · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "planetruby.github.io",
+          "count": 10,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -669,6 +694,18 @@
         }
       },
       "2022-11-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-08": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2023-05-04": {
         "clones": {
           "count": 1,
           "uniques": 1
