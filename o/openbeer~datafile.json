@@ -315,12 +315,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
-        "uniques": 4
+        "count": 6,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
@@ -2041,6 +2041,12 @@
       "2023-05-11": {
         "views": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-05-15": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
