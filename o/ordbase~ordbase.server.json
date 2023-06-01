@@ -10,6 +10,10 @@
     "2023-05-15": {
       "stargazers_count": 8,
       "forks_count": 5
+    },
+    "2023-06-01": {
+      "stargazers_count": 8,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -40,85 +44,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 153,
-        "uniques": 21
+        "count": 77,
+        "uniques": 28
       },
       "clones": {
-        "count": 13,
+        "count": 11,
         "uniques": 8
       },
       "paths": [
         {
           "path": "/ordbase/ordbase.server",
-          "title": "ordbase/ordbase.server: ordbase - ordinal base (zero-config) server",
-          "count": 50,
-          "uniques": 19
-        },
-        {
-          "path": "/ordbase/ordbase.server/blob/master/i/ordinalpunks-000000.svg",
-          "title": "ordbase.server/ordinalpunks-000000.svg at master · ordbase/ordbase.server · G...",
-          "count": 18,
-          "uniques": 4
-        },
-        {
-          "path": "/ordbase/ordbase.server/blob/master/collections.csv",
-          "title": "ordbase.server/collections.csv at master · ordbase/ordbase.server · GitHub",
-          "count": 14,
-          "uniques": 2
+          "title": "ordbase/ordbase.server：ordbased -（零配置）用于顺序铭文的艺术基础服务器",
+          "count": 28,
+          "uniques": 24
         },
         {
           "path": "/ordbase/ordbase.server/blob/master/ordbased.go",
           "title": "ordbase.server/ordbased.go at master · ordbase/ordbase.server · GitHub",
-          "count": 10,
-          "uniques": 5
-        },
-        {
-          "path": "/ordbase/ordbase.server/tree/master/i",
-          "title": "ordbase.server/i at master · ordbase/ordbase.server · GitHub",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "path": "/ordbase/ordbase.server/blob/master/README.md",
-          "title": "ordbase.server/README.md at master · ordbase/ordbase.server · GitHub",
-          "count": 8,
+          "count": 14,
           "uniques": 2
         },
         {
           "path": "/ordbase/ordbase.server/tree/master/attic",
           "title": "ordbase.server/attic at master · ordbase/ordbase.server · GitHub",
-          "count": 7,
-          "uniques": 2
+          "count": 8,
+          "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase.server/blob/master/go.sum",
-          "title": "ordbase.server/go.sum at master · ordbase/ordbase.server · GitHub",
-          "count": 5,
-          "uniques": 2
+          "path": "/ordbase/ordbase.server/tree/master/i",
+          "title": "ordbase.server/i at master · ordbase/ordbase.server · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/ordbase/ordbase.server/blob/master/collections.csv",
+          "title": "ordbase.server/collections.csv at master · ordbase/ordbase.server · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase.server/tree/master",
+          "title": "ordbase.server/ at master · ordbase/ordbase.server · GitHub",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/ordbase/ordbase.server/blob/master/attic/collections.go.bak",
           "title": "ordbase.server/collections.go.bak at master · ordbase/ordbase.server · GitHub",
-          "count": 4,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase.server/blob/master/go.mod",
+          "title": "ordbase.server/go.mod at master · ordbase/ordbase.server · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase.server/blob/master/go.sum",
+          "title": "ordbase.server/go.sum at master · ordbase/ordbase.server · GitHub",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/ordbase/ordbase.server/blob/master/i/ordinalpunks-000000.png",
           "title": "ordbase.server/ordinalpunks-000000.png at master · ordbase/ordbase.server · G...",
-          "count": 4,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 89,
-          "uniques": 15
+          "count": 46,
+          "uniques": 19
         },
         {
           "referrer": "Google",
           "count": 14,
-          "uniques": 4
+          "uniques": 3
+        },
+        {
+          "referrer": "t.co",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -225,6 +234,84 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2023-05-19": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-05-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-05-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-05-24": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2023-05-25": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-05-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-05-29": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-30": {
+        "views": {
+          "count": 30,
+          "uniques": 6
+        }
+      },
+      "2023-05-31": {
+        "views": {
+          "count": 18,
+          "uniques": 8
+        }
+      },
+      "2023-06-01": {
+        "views": {
+          "count": 6,
+          "uniques": 5
         }
       }
     }

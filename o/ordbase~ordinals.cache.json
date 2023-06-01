@@ -10,6 +10,10 @@
     "2023-05-15": {
       "stargazers_count": 18,
       "forks_count": 1
+    },
+    "2023-06-01": {
+      "stargazers_count": 18,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -36,59 +40,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 35,
-        "uniques": 13
+        "count": 52,
+        "uniques": 18
       },
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/ordbase/ordinals.cache",
           "title": "ordbase/ordinals.cache: Ordinals (Inscription Metadata) Cache",
-          "count": 13,
-          "uniques": 12
+          "count": 21,
+          "uniques": 13
         },
         {
           "path": "/ordbase/ordinals.cache/tree/master/btc",
           "title": "ordinals.cache/btc at master · ordbase/ordinals.cache · GitHub",
-          "count": 10,
-          "uniques": 4
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/doge/02ba15a9b270a2025e892be03a19ddb278bc0955ac8210564585854f622b66c0i0.json",
+          "title": "ordinals.cache/02ba15a9b270a2025e892be03a19ddb278bc0955ac8210564585854f622b66...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/btc/04998cba28ee93407fe40f8541de9dccf1ffa0a3dc26831109a19210a6dfa1bdi0.json",
+          "title": "ordinals.cache/04998cba28ee93407fe40f8541de9dccf1ffa0a3dc26831109a19210a6dfa1...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/btc/444eeff9a7f124f28242b60d13e4801e35764f809afd9e979b479db66d9cd2a1i0.json",
+          "title": "ordinals.cache/444eeff9a7f124f28242b60d13e4801e35764f809afd9e979b479db66d9cd2...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/btc/44b6daca34a20df6d059e55c7622e307070494f10dc63165f1ad6bcbc2114b9ci0.json",
+          "title": "ordinals.cache/44b6daca34a20df6d059e55c7622e307070494f10dc63165f1ad6bcbc2114b...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/btc/44c100a996fc9b6738865e40c25f63197d0489320a97eefb93888f496a55b8e8i0.json",
+          "title": "ordinals.cache/44c100a996fc9b6738865e40c25f63197d0489320a97eefb93888f496a55b8...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/doge",
+          "title": "ordinals.cache/doge at master · ordbase/ordinals.cache · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/ltc",
+          "title": "ordinals.cache/ltc at master · ordbase/ordinals.cache",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/ordbase/ordinals.cache/blob/master/btc/003cf10e315b700f3f245496275b145a288c00783562056fc362a738f871a540i0.json",
           "title": "ordinals.cache/003cf10e315b700f3f245496275b145a288c00783562056fc362a738f871a5...",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/0f98a256cc2cc746ce645bf1e177074c99573a12b089726dacc4462ea10d0277i0.json",
-          "title": "ordinals.cache/0f98a256cc2cc746ce645bf1e177074c99573a12b089726dacc4462ea10d02...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/16f3c32468e3e52ac20dc8fc633c686f0e31c5f34407413d12ad764ba5ad5f3bi0.json",
-          "title": "ordinals.cache/16f3c32468e3e52ac20dc8fc633c686f0e31c5f34407413d12ad764ba5ad5f...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/03add0871402437f80a570088672f4dbd63fcc6d8d34060adfe49f3866cfdf07i0.json",
-          "title": "ordinals.cache/03add0871402437f80a570088672f4dbd63fcc6d8d34060adfe49f3866cfdf...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/commit/9cdd21045ae16bd2797e6b0ce5b36317451e4466",
-          "title": "Update README.md · ordbase/ordinals.cache@9cdd210 · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/tree/master",
-          "title": "ordbase/ordinals.cache: Ordinals (Inscription Metadata) Cache",
           "count": 1,
           "uniques": 1
         }
@@ -96,8 +112,18 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 27,
-          "uniques": 11
+          "count": 11,
+          "uniques": 6
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "t.co",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -182,6 +208,72 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-05-19": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-05-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-05-23": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-05-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-05-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-29": {
+        "views": {
+          "count": 21,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-05-30": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2023-05-31": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2023-06-01": {
+        "views": {
+          "count": 6,
+          "uniques": 5
         }
       }
     }
