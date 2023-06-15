@@ -293,6 +293,10 @@
     "2023-06-01": {
       "stargazers_count": 573,
       "forks_count": 54
+    },
+    "2023-06-15": {
+      "stargazers_count": 573,
+      "forks_count": 54
     }
   },
   "commits": [
@@ -319,98 +323,103 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
-        "uniques": 10
+        "count": 68,
+        "uniques": 28
       },
       "clones": {
-        "count": 16,
-        "uniques": 12
+        "count": 9,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 10,
-          "uniques": 7
+          "count": 21,
+          "uniques": 15
+        },
+        {
+          "path": "/openmundi/world.db/commit/fe69447849b6bf92771fcbf7b75a32ae7cc2cbbd",
+          "title": "add languages n usage · openmundi/world.db@fe69447 · GitHub",
+          "count": 11,
+          "uniques": 11
         },
         {
           "path": "/openmundi/world.db/tree/master/africa",
           "title": "world.db/africa at master · openmundi/world.db · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/south-america/pe-peru/cities.txt",
-          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/africa/1-codes",
-          "title": "world.db/africa/1-codes at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/europe/wal-wales/cities.txt",
-          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/south-america/co-colombia/cities.txt",
-          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/1-codes",
-          "title": "world.db/1-codes at master · openmundi/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/openmundi/world.db/tree/master/europe",
           "title": "world.db/europe at master · openmundi/world.db · GitHub",
-          "count": 1,
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/africa/ao-angola/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/africa/ao-angola",
+          "title": "world.db/africa/ao-angola at master · openmundi/world.db · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/europe/eng-england/cities.txt",
+          "title": "world.db/cities.txt at master · openmundi/world.db · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/tree/master/europe/wal-wales",
-          "title": "world.db/europe/wal-wales at master · openmundi/world.db · GitHub",
-          "count": 1,
+          "path": "/openmundi/world.db/blob/master/europe/eng-england/regions.txt",
+          "title": "world.db/regions.txt at master · openmundi/world.db · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/tree/master/south-america",
-          "title": "world.db/south-america at master · openmundi/world.db · GitHub",
-          "count": 1,
+          "path": "/openmundi/world.db/commit/a995db53dacb03b688143815c54adcd97eb48630",
+          "title": "add antartica · openmundi/world.db@a995db5 · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/europe/eng-england",
+          "title": "world.db/europe/eng-england at master · openmundi/world.db · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "kabytes.com",
-          "count": 7,
+          "referrer": "Bing",
+          "count": 13,
           "uniques": 2
         },
         {
-          "referrer": "Bing",
-          "count": 7,
-          "uniques": 1
-        },
-        {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 1
+          "count": 10,
+          "uniques": 5
         },
         {
-          "referrer": "rubyflow.com",
-          "count": 1,
-          "uniques": 1
+          "referrer": "kabytes.com",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "referrer": "groups.google.com",
+          "count": 8,
+          "uniques": 2
         },
         {
           "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         }
@@ -4355,6 +4364,104 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-06-02": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-04": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2023-06-05": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-06-06": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-06-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-06-08": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        }
+      },
+      "2023-06-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-06-10": {
+        "views": {
+          "count": 14,
+          "uniques": 3
+        }
+      },
+      "2023-06-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-12": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-13": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2023-06-14": {
+        "views": {
+          "count": 5,
+          "uniques": 2
         }
       }
     }

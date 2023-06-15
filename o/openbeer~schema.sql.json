@@ -293,6 +293,10 @@
     "2023-06-01": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2023-06-15": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -319,18 +323,44 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 6,
+        "count": 12,
         "uniques": 5
       },
+      "clones": {
+        "count": 2,
+        "uniques": 2
+      },
       "paths": [
-
+        {
+          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/openbeer/schema.sql",
+          "title": "openbeer/schema.sql: beer.db database schema (tables, views, etc.) scripts (i...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/schema.sql/blob/6f27d9042c6a2442f2c42c17ab9df9f3cfda4149/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at 6f27d9042c6a2442f2c42c17ab9df9f3cfda4149 · openbeer...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1709,6 +1739,42 @@
         }
       },
       "2023-06-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-06-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-06-12": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2023-06-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-06-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-10": {
         "clones": {
           "count": 1,
           "uniques": 1

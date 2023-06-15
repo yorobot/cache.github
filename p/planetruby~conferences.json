@@ -1,7 +1,7 @@
 {
   "full_name": "planetruby/conferences",
   "created_at": "2015-04-21T13:42:15Z",
-  "updated_at": "2023-03-23T02:18:31Z",
+  "updated_at": "2023-06-04T02:08:03Z",
   "pushed_at": "2023-02-22T20:29:16Z",
   "size": 1083,
   "description": "What's Upcoming in 2023? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!",
@@ -202,6 +202,10 @@
     "2023-06-01": {
       "stargazers_count": 257,
       "forks_count": 72
+    },
+    "2023-06-15": {
+      "stargazers_count": 258,
+      "forks_count": 72
     }
   },
   "commits": [
@@ -232,23 +236,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 9,
+        "uniques": 5
       },
       "clones": {
-        "count": 16,
-        "uniques": 10
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/planetruby/conferences",
-          "title": "GitHub - planetruby/conferences: What's Upcoming in 2023? - A collection of a...",
-          "count": 2,
-          "uniques": 2
+          "title": "planetruby/conferences: What's Upcoming in 2023? - A collection of awesome ru...",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/planetruby/conferences/blob/master/2023.md",
+          "title": "conferences/2023.md at master · planetruby/conferences · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/blob/master/_data/conferences2023.yml",
+          "title": "conferences/_data/conferences2023.yml at master · planetruby/conferences · Gi...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/blob/master/index.md",
+          "title": "conferences/index.md at master · planetruby/conferences · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/blob/master/README.md",
+          "title": "conferences/README.md at master · planetruby/conferences · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "referrer": "forum.humancoders.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2548,6 +2590,62 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2023-06-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-06-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-06-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-05": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-06-10": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-06-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

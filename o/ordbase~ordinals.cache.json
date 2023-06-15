@@ -2,8 +2,8 @@
   "full_name": "ordbase/ordinals.cache",
   "created_at": "2015-07-01T21:49:37Z",
   "updated_at": "2023-04-16T12:53:55Z",
-  "pushed_at": "2023-05-06T15:56:51Z",
-  "size": 701,
+  "pushed_at": "2023-06-15T17:14:44Z",
+  "size": 8535,
   "description": "Ordinals (Inscription Metadata) Cache",
   "language": null,
   "history": {
@@ -14,16 +14,20 @@
     "2023-06-01": {
       "stargazers_count": 18,
       "forks_count": 1
+    },
+    "2023-06-15": {
+      "stargazers_count": 18,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-05-06T15:56:45Z",
+        "date": "2023-06-15T17:14:33Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-05-06T15:56:45Z",
+        "date": "2023-06-15T17:14:33Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -40,71 +44,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 52,
-        "uniques": 18
+        "count": 65,
+        "uniques": 20
       },
       "clones": {
-        "count": 6,
-        "uniques": 4
+        "count": 31,
+        "uniques": 23
       },
       "paths": [
         {
           "path": "/ordbase/ordinals.cache",
           "title": "ordbase/ordinals.cache: Ordinals (Inscription Metadata) Cache",
-          "count": 21,
-          "uniques": 13
+          "count": 39,
+          "uniques": 18
         },
         {
           "path": "/ordbase/ordinals.cache/tree/master/btc",
           "title": "ordinals.cache/btc at master · ordbase/ordinals.cache · GitHub",
-          "count": 7,
-          "uniques": 3
+          "count": 9,
+          "uniques": 4
         },
         {
-          "path": "/ordbase/ordinals.cache/blob/master/doge/02ba15a9b270a2025e892be03a19ddb278bc0955ac8210564585854f622b66c0i0.json",
-          "title": "ordinals.cache/02ba15a9b270a2025e892be03a19ddb278bc0955ac8210564585854f622b66...",
+          "path": "/ordbase/ordinals.cache/blob/master/btc/00287955c8f023a3d30e68e094170dee180f9fc16da157651e282c849586e3cai0.json",
+          "title": "ordinals.cache/00287955c8f023a3d30e68e094170dee180f9fc16da157651e282c849586e3...",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/04998cba28ee93407fe40f8541de9dccf1ffa0a3dc26831109a19210a6dfa1bdi0.json",
-          "title": "ordinals.cache/04998cba28ee93407fe40f8541de9dccf1ffa0a3dc26831109a19210a6dfa1...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/444eeff9a7f124f28242b60d13e4801e35764f809afd9e979b479db66d9cd2a1i0.json",
-          "title": "ordinals.cache/444eeff9a7f124f28242b60d13e4801e35764f809afd9e979b479db66d9cd2...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/44b6daca34a20df6d059e55c7622e307070494f10dc63165f1ad6bcbc2114b9ci0.json",
-          "title": "ordinals.cache/44b6daca34a20df6d059e55c7622e307070494f10dc63165f1ad6bcbc2114b...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/blob/master/btc/44c100a996fc9b6738865e40c25f63197d0489320a97eefb93888f496a55b8e8i0.json",
-          "title": "ordinals.cache/44c100a996fc9b6738865e40c25f63197d0489320a97eefb93888f496a55b8...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/tree/master/doge",
-          "title": "ordinals.cache/doge at master · ordbase/ordinals.cache · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/tree/master/ltc",
-          "title": "ordinals.cache/ltc at master · ordbase/ordinals.cache",
-          "count": 2,
+          "path": "/ordbase/ordinals.cache/commits/master",
+          "title": "Commits · ordbase/ordinals.cache",
+          "count": 3,
           "uniques": 1
         },
         {
           "path": "/ordbase/ordinals.cache/blob/master/btc/003cf10e315b700f3f245496275b145a288c00783562056fc362a738f871a540i0.json",
           "title": "ordinals.cache/003cf10e315b700f3f245496275b145a288c00783562056fc362a738f871a5...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/btc/05ae9eb8046d2c4ece2453accd8be81be5acc4a5f2dba16ff30509d09ce8978ci0.json",
+          "title": "ordinals.cache/05ae9eb8046d2c4ece2453accd8be81be5acc4a5f2dba16ff30509d09ce897...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/pulse",
+          "title": "Pulse · ordbase/ordinals.cache",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/graphs/traffic",
+          "title": "Traffic · ordbase/ordinals.cache",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/security",
+          "title": "Security Overview · ordbase/ordinals.cache",
           "count": 1,
           "uniques": 1
         }
@@ -112,16 +110,11 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 6
+          "count": 30,
+          "uniques": 12
         },
         {
-          "referrer": "rubygems.org",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "t.co",
+          "referrer": "ordinals.com",
           "count": 1,
           "uniques": 1
         }
@@ -274,6 +267,90 @@
         "views": {
           "count": 6,
           "uniques": 5
+        }
+      },
+      "2023-06-02": {
+        "views": {
+          "count": 14,
+          "uniques": 7
+        }
+      },
+      "2023-06-05": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2023-06-06": {
+        "views": {
+          "count": 23,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2023-06-07": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-08": {
+        "views": {
+          "count": 8,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2023-06-09": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-06-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-06-14": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-06-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-06-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

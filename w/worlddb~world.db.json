@@ -1,7 +1,7 @@
 {
   "full_name": "worlddb/world.db",
   "created_at": "2012-12-02T13:33:51Z",
-  "size": 385,
+  "size": 469,
   "history": {
     "2017-06-18": {
       "stargazers_count": 59
@@ -288,23 +288,27 @@
     "2023-06-01": {
       "stargazers_count": 72,
       "forks_count": 5
+    },
+    "2023-06-15": {
+      "stargazers_count": 72,
+      "forks_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-05-19T09:16:52Z",
+        "date": "2023-06-07T07:06:10Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-05-19T09:16:52Z",
+        "date": "2023-06-07T07:06:10Z",
         "name": "Gerald Bauer"
       },
-      "message": "up country keys and codes"
+      "message": "up"
     }
   ],
-  "updated_at": "2022-07-10T23:31:03Z",
-  "pushed_at": "2020-05-19T09:17:00Z",
+  "updated_at": "2023-06-07T07:07:35Z",
+  "pushed_at": "2023-06-07T07:06:18Z",
   "description": "world.db - open world database (world.db) command line tool and libraries",
   "language": "Ruby",
   "topics": [
@@ -320,80 +324,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 43,
-        "uniques": 8
+        "count": 130,
+        "uniques": 28
       },
       "clones": {
-        "count": 12,
-        "uniques": 9
+        "count": 11,
+        "uniques": 10
       },
       "paths": [
         {
+          "path": "/worlddb/world.db",
+          "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
+          "count": 37,
+          "uniques": 28
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worldlite",
+          "title": "world.db/worldlite at master · worlddb/world.db · GitHub",
+          "count": 8,
+          "uniques": 3
+        },
+        {
           "path": "/worlddb/world.db/tree/master/worlddb",
           "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
-          "count": 16,
+          "count": 7,
           "uniques": 5
         },
         {
-          "path": "/worlddb/world.db",
-          "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 11,
-          "uniques": 8
-        },
-        {
-          "path": "/worlddb/world.db/tree/master",
-          "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 4,
+          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb",
+          "title": "world.db/worlddb-compat/lib/worlddb at master · worlddb/world.db · GitHub",
+          "count": 6,
           "uniques": 2
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb/bin/worlddb",
-          "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
-          "count": 2,
+          "path": "/worlddb/world.db/tree/master/worlddb-compat",
+          "title": "world.db/worlddb-compat at master · worlddb/world.db · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/city.rb",
+          "title": "world.db/city.rb at master · worlddb/world.db · GitHub",
+          "count": 4,
           "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat.rb",
+          "title": "world.db/compat.rb at master · worlddb/world.db · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb-compat/lib/worlddb/compat",
+          "title": "world.db/worlddb-compat/lib/worlddb/compat at master · worlddb/world.db · Git...",
+          "count": 3,
+          "uniques": 2
         },
         {
           "path": "/worlddb/world.db/find/master",
           "title": "File Finder · GitHub",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/assets",
-          "title": "world.db/worlddb/assets at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/blob/master/README.md",
+          "title": "world.db/README.md at master · worlddb/world.db · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb/attic",
-          "title": "world.db/worlddb/attic at master · worlddb/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb/bin",
-          "title": "world.db/worlddb/bin at master · worlddb/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/blob/master/worlddb-compat/.gitignore",
-          "title": "world.db/.gitignore at master · worlddb/world.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/commit/f239d71157bcccc2c4a03034d67979f51c634775",
-          "title": "add compat · worlddb/world.db@f239d71",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 74,
+          "uniques": 4
+        },
+        {
           "referrer": "Google",
-          "count": 27,
-          "uniques": 7
+          "count": 39,
+          "uniques": 19
+        },
+        {
+          "referrer": "Bing",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -3847,11 +3866,111 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2023-06-02": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-04": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2023-06-05": {
+        "views": {
+          "count": 71,
+          "uniques": 3
+        }
+      },
+      "2023-06-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-06-07": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-06-08": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-06-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-06-11": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-06-12": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-13": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-06-14": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-06-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 190604,
-    "HTML": 4152
+    "Ruby": 322128,
+    "HTML": 7294
   }
 }

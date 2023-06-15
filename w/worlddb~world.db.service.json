@@ -293,6 +293,10 @@
     "2023-06-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2023-06-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -319,18 +323,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.service",
+          "title": "worlddb/world.db.service: world.db HTTP JSON API (web service) scripts",
+          "count": 3,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -569,6 +582,16 @@
         }
       },
       "2023-05-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
         "clones": {
           "count": 1,
           "uniques": 1

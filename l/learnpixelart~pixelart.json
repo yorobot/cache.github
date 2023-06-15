@@ -2,8 +2,8 @@
   "full_name": "learnpixelart/pixelart",
   "created_at": "2017-05-14T17:33:27Z",
   "updated_at": "2023-04-18T06:14:39Z",
-  "pushed_at": "2023-05-23T18:36:13Z",
-  "size": 1407,
+  "pushed_at": "2023-06-13T12:29:41Z",
+  "size": 1412,
   "description": "pixel art (and graphics) libraries & scripts   ",
   "language": "Ruby",
   "history": {
@@ -22,19 +22,23 @@
     "2023-06-01": {
       "stargazers_count": 66,
       "forks_count": 8
+    },
+    "2023-06-15": {
+      "stargazers_count": 66,
+      "forks_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-05-23T18:36:08Z",
+        "date": "2023-06-13T12:29:34Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-05-23T18:36:08Z",
+        "date": "2023-06-13T12:29:34Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "mv to ordgen"
     }
   ],
   "topics": [
@@ -45,89 +49,94 @@
     "avatars"
   ],
   "languages": {
-    "Ruby": 154954
+    "Ruby": 154956
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 103,
-        "uniques": 6
+        "count": 52,
+        "uniques": 3
       },
       "clones": {
-        "count": 204,
-        "uniques": 101
+        "count": 170,
+        "uniques": 86
       },
       "paths": [
         {
-          "path": "/learnpixelart/pixelart/tree/master/pixelart",
-          "title": "pixelart/pixelart at master · learnpixelart/pixelart · GitHub",
-          "count": 14,
-          "uniques": 3
-        },
-        {
-          "path": "/learnpixelart/pixelart",
-          "title": "learnpixelart/pixelart: pixel art (and graphics) libraries & scripts",
-          "count": 12,
-          "uniques": 6
-        },
-        {
-          "path": "/learnpixelart/pixelart/tree/master/pixelart/lib",
-          "title": "pixelart/pixelart/lib at master · learnpixelart/pixelart · GitHub",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "path": "/learnpixelart/pixelart/tree/master/pixelart/lib/pixelart",
-          "title": "pixelart/pixelart/lib/pixelart at master · learnpixelart/pixelart · GitHub",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "path": "/learnpixelart/pixelart/blob/master/pixelart/lib/pixelart/image.rb",
-          "title": "pixelart/image.rb at master · learnpixelart/pixelart · GitHub",
+          "path": "/learnpixelart/pixelart/tree/master/pixelart-characters/i",
+          "title": "pixelart/pixelart-characters/i at master · learnpixelart/pixelart · GitHub",
           "count": 8,
           "uniques": 1
         },
         {
           "path": "/learnpixelart/pixelart/tree/master/pixelart-characters",
           "title": "pixelart/pixelart-characters at master · learnpixelart/pixelart · GitHub",
-          "count": 7,
-          "uniques": 3
+          "count": 5,
+          "uniques": 2
         },
         {
-          "path": "/learnpixelart/pixelart/tree/master/popart",
-          "title": "pixelart/popart at master · learnpixelart/pixelart · GitHub",
-          "count": 6,
-          "uniques": 3
+          "path": "/learnpixelart/pixelart/tree/master/pixelart",
+          "title": "pixelart/pixelart at master · learnpixelart/pixelart · GitHub",
+          "count": 5,
+          "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart/blob/master/popart/i/frida-twohundred.png",
-          "title": "pixelart/frida-twohundred.png at master · learnpixelart/pixelart · GitHub",
+          "path": "/learnpixelart/pixelart",
+          "title": "learnpixelart/pixelart: pixel art (and graphics) libraries & scripts",
           "count": 4,
           "uniques": 2
         },
         {
-          "path": "/learnpixelart/pixelart/blob/master/pixelart/lib/pixelart/invert.rb",
-          "title": "pixelart/invert.rb at master · learnpixelart/pixelart · GitHub",
+          "path": "/learnpixelart/pixelart/blob/master/pixelart-characters/i/8bit-male-random1x4.png",
+          "title": "pixelart/8bit-male-random1x4.png at master · learnpixelart/pixelart · GitHub",
           "count": 4,
           "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart/blob/master/pixelart/lib/pixelart/stripes.rb",
-          "title": "pixelart/stripes.rb at master · learnpixelart/pixelart · GitHub",
+          "path": "/learnpixelart/pixelart/tree/master/pixelart/i",
+          "title": "pixelart/pixelart/i at master · learnpixelart/pixelart · GitHub",
           "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/pixelart-characters/i/8bit-female4.png",
+          "title": "pixelart/8bit-female4.png at master · learnpixelart/pixelart · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/pixelart-characters/i/8bit-female-random1.png",
+          "title": "pixelart/8bit-female-random1.png at master · learnpixelart/pixelart · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/pixelart-characters/i/8bit-male3x4.png",
+          "title": "pixelart/8bit-male3x4.png at master · learnpixelart/pixelart · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/pixelart-characters/i/polka-random2x3.png",
+          "title": "pixelart/polka-random2x3.png at master · learnpixelart/pixelart · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 77,
-          "uniques": 5
+          "count": 45,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "rubygems.org",
-          "count": 9,
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -543,8 +552,86 @@
       },
       "2023-06-01": {
         "clones": {
-          "count": 24,
-          "uniques": 20
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-06-02": {
+        "views": {
+          "count": 39,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 59,
+          "uniques": 40
+        }
+      },
+      "2023-06-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-06-08": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 5
+        }
+      },
+      "2023-06-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-06-03": {
+        "clones": {
+          "count": 60,
+          "uniques": 43
+        }
+      },
+      "2023-06-04": {
+        "clones": {
+          "count": 19,
+          "uniques": 12
+        }
+      },
+      "2023-06-05": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-06-12": {
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-06-13": {
+        "clones": {
+          "count": 7,
+          "uniques": 4
+        }
+      },
+      "2023-06-14": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-06-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

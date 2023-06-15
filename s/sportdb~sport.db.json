@@ -288,6 +288,10 @@
     "2023-06-01": {
       "stargazers_count": 213,
       "forks_count": 27
+    },
+    "2023-06-15": {
+      "stargazers_count": 213,
+      "forks_count": 27
     }
   },
   "commits": [
@@ -317,35 +321,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 56,
-        "uniques": 28
+        "count": 99,
+        "uniques": 31
       },
       "clones": {
-        "count": 23,
-        "uniques": 14
+        "count": 10,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 31,
-          "uniques": 23
+          "count": 36,
+          "uniques": 29
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 4,
-          "uniques": 3
+          "count": 18,
+          "uniques": 6
         },
         {
           "path": "/sportdb/sport.db/tree/master/football",
           "title": "sport.db/football at master · sportdb/sport.db · GitHub",
-          "count": 3,
-          "uniques": 3
+          "count": 7,
+          "uniques": 6
         },
         {
-          "path": "/sportdb/sport.db/tree/master/football.db.models",
-          "title": "sport.db/football.db.models at master · sportdb/sport.db · GitHub",
+          "path": "/sportdb/sport.db/issues",
+          "title": "Issues · sportdb/sport.db · GitHub",
           "count": 3,
           "uniques": 2
         },
@@ -356,32 +360,32 @@
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/blob/master/football/lib/football.rb",
-          "title": "sport.db/football.rb at master · sportdb/sport.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/sportdb/sport.db/tree/master/sport",
           "title": "sport.db/sport at master · sportdb/sport.db · GitHub",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/football.db.models",
+          "title": "sport.db/football.db.models at master · sportdb/sport.db · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-readers",
-          "title": "sport.db/sportdb-readers at master · sportdb/sport.db · GitHub",
-          "count": 1,
+          "path": "/sportdb/sport.db/tree/master/sportdb-importers",
+          "title": "sport.db/sportdb-importers at master · sportdb/sport.db · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb-update",
           "title": "sport.db/sportdb-update at master · sportdb/sport.db · GitHub",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-update/lib/sportdb",
-          "title": "sport.db/sportdb-update/lib/sportdb at master · sportdb/sport.db · GitHub",
+          "path": "/sportdb/sport.db/blob/master/sportdb/bin/sportdb",
+          "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -389,32 +393,22 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 17,
-          "uniques": 10
-        },
-        {
-          "referrer": "github.com",
-          "count": 15,
-          "uniques": 4
+          "count": 31,
+          "uniques": 13
         },
         {
           "referrer": "openfootball.github.io",
+          "count": 22,
+          "uniques": 5
+        },
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "referrer": "search.brave.com",
           "count": 4,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "ruby-toolbox.com",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -5208,6 +5202,104 @@
         "clones": {
           "count": 6,
           "uniques": 3
+        }
+      },
+      "2023-06-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-06-03": {
+        "views": {
+          "count": 16,
+          "uniques": 5
+        }
+      },
+      "2023-06-04": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2023-06-05": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-06-06": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2023-06-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-08": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-09": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2023-06-10": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-06-12": {
+        "views": {
+          "count": 18,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-14": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2023-06-15": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
