@@ -297,6 +297,10 @@
     "2023-06-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2023-07-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -323,18 +327,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 10,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/worlddb/world.db.cities/tree/master/public",
+          "title": "world.db.cities/public at master · worlddb/world.db.cities · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.cities/tree/master/views",
+          "title": "world.db.cities/views at master · worlddb/world.db.cities · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.cities",
+          "title": "worlddb/world.db.cities: world.db web app sample listing the world's greatest...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.cities/tree/master/views/shared",
+          "title": "world.db.cities/views/shared at master · worlddb/world.db.cities · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 10,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -609,6 +640,12 @@
       "2023-06-04": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-25": {
+        "views": {
+          "count": 10,
           "uniques": 1
         }
       }

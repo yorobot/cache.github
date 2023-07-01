@@ -98,6 +98,10 @@
     "2023-06-15": {
       "stargazers_count": 76,
       "forks_count": 5
+    },
+    "2023-07-01": {
+      "stargazers_count": 76,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -128,59 +132,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 29,
-        "uniques": 7
+        "count": 16,
+        "uniques": 8
       },
       "clones": {
-        "count": 313,
-        "uniques": 149
+        "count": 21,
+        "uniques": 15
       },
       "paths": [
         {
-          "path": "/pixelartexchange/artbase.server/tree/master/artbase",
-          "title": "artbase.server/artbase at master · pixelartexchange/artbase.server · GitHub",
-          "count": 9,
-          "uniques": 2
-        },
-        {
           "path": "/pixelartexchange/artbase.server",
           "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 7,
-          "uniques": 6
+          "count": 10,
+          "uniques": 8
         },
         {
-          "path": "/pixelartexchange/artbase.server/tree/master/serve",
-          "title": "artbase.server/serve at master · pixelartexchange/artbase.server · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/blob/master/serve/image_png.go",
-          "title": "artbase.server/image_png.go at master · pixelartexchange/artbase.server · Git...",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/master/goreleaser",
-          "title": "artbase.server/goreleaser at master · pixelartexchange/artbase.server · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/blob/master/artbase/image.go",
-          "title": "artbase.server/image.go at master · pixelartexchange/artbase.server · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/blob/master/collections.csv",
-          "title": "artbase.server/collections.csv at master · pixelartexchange/artbase.server · ...",
+          "path": "/pixelartexchange/artbase.server/blob/master/artbase/artbase.go",
+          "title": "artbase.server/artbase/artbase.go at master · pixelartexchange/artbase.server...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/tree/master",
-          "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
+          "path": "/pixelartexchange/artbase.server/blob/master/serve/image_png.go",
+          "title": "artbase.server/serve/image_png.go at master · pixelartexchange/artbase.server...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/fork",
+          "title": "Fork pixelartexchange/artbase.server",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/tree/master/artbase",
+          "title": "artbase.server/artbase at master · pixelartexchange/artbase.server · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/tree/master/.github/workflows",
+          "title": "artbase.server/.github/workflows at master · pixelartexchange/artbase.server ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/tree/master/serve",
+          "title": "artbase.server/serve at master · pixelartexchange/artbase.server · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -188,8 +186,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 5
+          "count": 11,
+          "uniques": 4
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2232,6 +2235,90 @@
         "clones": {
           "count": 18,
           "uniques": 18
+        }
+      },
+      "2023-06-18": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-06-20": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-27": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-28": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-21": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-06-22": {
+        "clones": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2023-06-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-30": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

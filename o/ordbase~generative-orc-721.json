@@ -1,10 +1,10 @@
 {
   "full_name": "ordbase/generative-orc-721",
   "created_at": "2014-05-06T14:35:06Z",
-  "updated_at": "2023-06-15T14:27:49Z",
-  "pushed_at": "2023-06-15T20:01:21Z",
-  "size": 1701,
-  "description": "Documentation for the proposed Generative ORC-721 Protocol / Standard for Bitcoin & Co.",
+  "updated_at": "2023-06-16T18:23:40Z",
+  "pushed_at": "2023-07-01T19:52:45Z",
+  "size": 2601,
+  "description": "Documentation for the proposed Generative ORC-721 Protocol / Standard for Bitcoin & Co. (Also Known As OG, Ordgen, Ordinal Generative)",
   "language": "Ruby",
   "history": {
     "2023-06-01": {
@@ -14,16 +14,20 @@
     "2023-06-15": {
       "stargazers_count": 34,
       "forks_count": 12
+    },
+    "2023-07-01": {
+      "stargazers_count": 34,
+      "forks_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-06-15T20:01:16Z",
+        "date": "2023-07-01T19:52:40Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-06-15T20:01:16Z",
+        "date": "2023-07-01T19:52:40Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -41,132 +45,128 @@
     "orc-721",
     "diycoolcats",
     "diybirdies",
-    "ordgen"
+    "ordgen",
+    "og"
   ],
   "languages": {
-    "Ruby": 66389
+    "Ruby": 140419
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 11972,
-        "uniques": 1206
+        "count": 2897,
+        "uniques": 198
       },
       "clones": {
-        "count": 426,
-        "uniques": 24
+        "count": 514,
+        "uniques": 39
       },
       "paths": [
         {
           "path": "/ordbase/generative-orc-721",
           "title": "ordbase/generative-orc-721: Documentation for the proposed Generative ORC-721...",
-          "count": 1794,
-          "uniques": 581
+          "count": 390,
+          "uniques": 86
         },
         {
-          "path": "/ordbase/generative-orc-721/blob/master/diyordibots/mint.csv",
-          "title": "generative-orc-721/mint.csv at master · ordbase/generative-orc-721 · GitHub",
-          "count": 624,
-          "uniques": 281
+          "path": "/ordbase/generative-orc-721/tree/master/diymartians",
+          "title": "generative-orc-721/diymartians at master · ordbase/generative-orc-721 · GitHub",
+          "count": 328,
+          "uniques": 57
+        },
+        {
+          "path": "/ordbase/generative-orc-721/tree/master/diyphunks",
+          "title": "generative-orc-721/diyphunks at master · ordbase/generative-orc-721 · GitHub",
+          "count": 143,
+          "uniques": 19
+        },
+        {
+          "path": "/ordbase/generative-orc-721/tree/master/genesis",
+          "title": "generative-orc-721/genesis at master · ordbase/generative-orc-721 · GitHub",
+          "count": 130,
+          "uniques": 4
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/diymartians/mint.csv",
+          "title": "generative-orc-721/diymartians/mint.csv at master · ordbase/generative-orc-72...",
+          "count": 114,
+          "uniques": 25
+        },
+        {
+          "path": "/ordbase/generative-orc-721/tree/master/orangepixels",
+          "title": "generative-orc-721/orangepixels at master · ordbase/generative-orc-721 · GitHub",
+          "count": 103,
+          "uniques": 12
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/FAQ.md",
+          "title": "generative-orc-721/FAQ.md at master · ordbase/generative-orc-721 · GitHub",
+          "count": 82,
+          "uniques": 3
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/diymartians/meta.csv",
+          "title": "generative-orc-721/diymartians/meta.csv at master · ordbase/generative-orc-72...",
+          "count": 74,
+          "uniques": 23
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/orangepixels/mint.csv",
+          "title": "generative-orc-721/orangepixels/mint.csv at master · ordbase/generative-orc-7...",
+          "count": 71,
+          "uniques": 12
         },
         {
           "path": "/ordbase/generative-orc-721/tree/master/diybirdies",
           "title": "generative-orc-721/diybirdies at master · ordbase/generative-orc-721 · GitHub",
-          "count": 455,
-          "uniques": 114
-        },
-        {
-          "path": "/ordbase/generative-orc-721/tree/master/diyaliens",
-          "title": "generative-orc-721/diyaliens at master · ordbase/generative-orc-721 · GitHub",
-          "count": 403,
-          "uniques": 132
-        },
-        {
-          "path": "/ordbase/generative-orc-721/blob/master/diypunks/mint.csv",
-          "title": "generative-orc-721/mint.csv at master · ordbase/generative-orc-721 · GitHub",
-          "count": 302,
-          "uniques": 98
-        },
-        {
-          "path": "/ordbase/generative-orc-721/tree/master/diyapes",
-          "title": "generative-orc-721/diyapes at master · ordbase/generative-orc-721 · GitHub",
-          "count": 290,
-          "uniques": 81
-        },
-        {
-          "path": "/ordbase/generative-orc-721/tree/master/diypunks",
-          "title": "generative-orc-721/diypunks at master · ordbase/generative-orc-721 · GitHub",
-          "count": 283,
-          "uniques": 82
-        },
-        {
-          "path": "/ordbase/generative-orc-721/blob/master/diyapes/mint.csv",
-          "title": "generative-orc-721/diyapes/mint.csv at master · ordbase/generative-orc-721 · ...",
-          "count": 223,
-          "uniques": 58
-        },
-        {
-          "path": "/ordbase/generative-orc-721/blob/master/diybirdies/meta.csv",
-          "title": "generative-orc-721/meta.csv at master · ordbase/generative-orc-721 · GitHub",
-          "count": 220,
-          "uniques": 62
-        },
-        {
-          "path": "/ordbase/generative-orc-721/blob/master/diybirdies/mint.csv",
-          "title": "generative-orc-721/mint.csv at master · ordbase/generative-orc-721 · GitHub",
-          "count": 213,
-          "uniques": 61
+          "count": 66,
+          "uniques": 18
         }
       ],
       "referrers": [
         {
           "referrer": "t.co",
-          "count": 1849,
-          "uniques": 530
+          "count": 217,
+          "uniques": 25
         },
         {
           "referrer": "github.com",
-          "count": 473,
-          "uniques": 49
+          "count": 175,
+          "uniques": 22
         },
         {
           "referrer": "ordbase.github.io",
-          "count": 438,
-          "uniques": 127
+          "count": 125,
+          "uniques": 14
         },
         {
           "referrer": "Google",
-          "count": 102,
-          "uniques": 35
-        },
-        {
-          "referrer": "dune.com",
-          "count": 18,
+          "count": 29,
           "uniques": 8
         },
         {
-          "referrer": "patches-1.gitbook.io",
-          "count": 8,
-          "uniques": 2
-        },
-        {
           "referrer": "web.telegram.org",
-          "count": 7,
+          "count": 25,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
-          "count": 3,
+          "referrer": "Baidu",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "referrer": "meetup.com",
+          "count": 5,
           "uniques": 2
         },
         {
-          "referrer": "rubydoc.info",
-          "count": 3,
+          "referrer": "patches-1.gitbook.io",
+          "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
-          "count": 2,
+          "referrer": "dune.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -372,6 +372,152 @@
         "clones": {
           "count": 34,
           "uniques": 4
+        }
+      },
+      "2023-06-17": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-06-18": {
+        "views": {
+          "count": 274,
+          "uniques": 29
+        },
+        "clones": {
+          "count": 33,
+          "uniques": 7
+        }
+      },
+      "2023-06-19": {
+        "views": {
+          "count": 691,
+          "uniques": 73
+        },
+        "clones": {
+          "count": 76,
+          "uniques": 11
+        }
+      },
+      "2023-06-20": {
+        "views": {
+          "count": 230,
+          "uniques": 42
+        },
+        "clones": {
+          "count": 22,
+          "uniques": 5
+        }
+      },
+      "2023-06-21": {
+        "views": {
+          "count": 115,
+          "uniques": 16
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2023-06-22": {
+        "views": {
+          "count": 210,
+          "uniques": 19
+        },
+        "clones": {
+          "count": 78,
+          "uniques": 11
+        }
+      },
+      "2023-06-23": {
+        "views": {
+          "count": 253,
+          "uniques": 21
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2023-06-24": {
+        "views": {
+          "count": 158,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 70,
+          "uniques": 11
+        }
+      },
+      "2023-06-25": {
+        "views": {
+          "count": 165,
+          "uniques": 16
+        },
+        "clones": {
+          "count": 67,
+          "uniques": 7
+        }
+      },
+      "2023-06-26": {
+        "views": {
+          "count": 143,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 30,
+          "uniques": 12
+        }
+      },
+      "2023-06-27": {
+        "views": {
+          "count": 81,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 25,
+          "uniques": 7
+        }
+      },
+      "2023-06-28": {
+        "views": {
+          "count": 127,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 19,
+          "uniques": 7
+        }
+      },
+      "2023-06-29": {
+        "views": {
+          "count": 211,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 45,
+          "uniques": 6
+        }
+      },
+      "2023-06-30": {
+        "views": {
+          "count": 127,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 18,
+          "uniques": 8
+        }
+      },
+      "2023-07-01": {
+        "views": {
+          "count": 109,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 6
         }
       }
     }

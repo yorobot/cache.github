@@ -1,11 +1,11 @@
 {
   "full_name": "geraldb/reddit",
   "created_at": "2013-10-30T06:52:16Z",
-  "updated_at": "2023-04-07T17:55:54Z",
-  "pushed_at": "2023-04-07T17:53:17Z",
-  "size": 28,
+  "updated_at": "2023-06-30T14:49:48Z",
+  "pushed_at": "2023-06-30T14:49:43Z",
+  "size": 538,
   "description": "Reddit Archive (& Cache)",
-  "language": null,
+  "language": "Ruby",
   "history": {
     "2023-05-15": {
       "stargazers_count": 1,
@@ -18,40 +18,63 @@
     "2023-06-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2023-07-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-04-07T17:53:12Z",
+        "date": "2023-06-30T14:49:26Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-04-07T17:53:12Z",
+        "date": "2023-06-30T14:49:26Z",
         "name": "Gerald Bauer"
       },
-      "message": "recycle"
+      "message": "up"
     }
   ],
   "topics": [
 
   ],
   "languages": {
+    "Ruby": 10246
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 11,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 9,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/geraldb/reddit",
           "title": "geraldb/reddit: Reddit Archive (& Cache)",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/geraldb/reddit/blob/master/script/download.rb",
+          "title": "reddit/script/download.rb at master · geraldb/reddit · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/reddit/tree/master/script",
+          "title": "reddit/script at master · geraldb/reddit · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/reddit/branches",
+          "title": "Branches · geraldb/reddit",
           "count": 1,
           "uniques": 1
         }
@@ -59,8 +82,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 11,
+          "uniques": 2
         }
       ]
     },
@@ -119,6 +142,40 @@
       },
       "2023-06-13": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-06-30": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2023-06-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-06-22": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-07-01": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }
