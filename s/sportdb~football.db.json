@@ -253,6 +253,10 @@
     "2023-07-01": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2023-07-15": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -285,73 +289,89 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 15,
-        "uniques": 2
+        "count": 53,
+        "uniques": 4
       },
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/sportdb/football.db",
-          "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
-          "count": 5,
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
+          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
+          "count": 8,
           "uniques": 2
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-leagues",
           "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
-          "count": 3,
-          "uniques": 1
+          "count": 7,
+          "uniques": 2
         },
         {
           "path": "/sportdb/football.db/tree/master/fifa",
           "title": "football.db/fifa at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 6,
+          "uniques": 2
         },
         {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/config",
-          "title": "football.db/footballdb-leagues/config at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb",
-          "title": "football.db/footballdb-leagues/lib/footballdb at master · sportdb/football.db...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb/leagues",
-          "title": "football.db/footballdb-leagues/lib/footballdb/leagues at master · sportdb/foo...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/script",
-          "title": "football.db/footballdb-leagues/script at master · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/sportdb/football.db",
+          "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
-          "count": 1,
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb",
+          "title": "football.db/footballdb-leagues/lib/footballdb at master · sportdb/football.db...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master",
+          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/fifa/script/codes.csv",
+          "title": "football.db/fifa/script/codes.csv at master · sportdb/football.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/footballdb-clubs/lib/footballdb/clubs/auto.rb",
+          "title": "football.db/footballdb-clubs/lib/footballdb/clubs/auto.rb at master · sportdb...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/fifa/script",
+          "title": "football.db/fifa/script at master · sportdb/football.db · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 14,
+          "referrer": "openfootball.github.io",
+          "count": 32,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 20,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2823,6 +2843,42 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2023-07-03": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-07-09": {
+        "views": {
+          "count": 21,
+          "uniques": 1
+        }
+      },
+      "2023-07-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-13": {
+        "views": {
+          "count": 28,
+          "uniques": 1
+        }
+      },
+      "2023-07-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

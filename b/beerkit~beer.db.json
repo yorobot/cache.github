@@ -296,6 +296,10 @@
     "2023-07-01": {
       "stargazers_count": 37,
       "forks_count": 1
+    },
+    "2023-07-15": {
+      "stargazers_count": 37,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -329,39 +333,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 6
+        "count": 22,
+        "uniques": 3
       },
       "clones": {
-        "count": 12,
-        "uniques": 10
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
+          "count": 5,
+          "uniques": 1
+        },
+        {
           "path": "/beerkit/beer.db",
           "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
-          "count": 6,
-          "uniques": 6
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "github.com",
           "count": 3,
           "uniques": 3
         },
         {
+          "path": "/beerkit/beer.db/tree/master/beerdb/lib",
+          "title": "beer.db/beerdb/lib at master · beerkit/beer.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/lib/beerdb",
+          "title": "beer.db/beerdb/lib/beerdb at master · beerkit/beer.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb/lib/beerdb/cli/main.rb",
+          "title": "beer.db/beerdb/lib/beerdb/cli/main.rb at master · beerkit/beer.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb/lib/beerdb/console.rb",
+          "title": "beer.db/beerdb/lib/beerdb/console.rb at master · beerkit/beer.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb/lib/beerdb.rb",
+          "title": "beer.db/beerdb/lib/beerdb.rb at master · beerkit/beer.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/lib/beerdb/cli",
+          "title": "beer.db/beerdb/lib/beerdb/cli at master · beerkit/beer.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 21,
+          "uniques": 2
         },
         {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "m.search.naver.com",
+          "referrer": "openbeer.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -1969,6 +2005,38 @@
         }
       },
       "2023-07-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-05": {
+        "views": {
+          "count": 20,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-06": {
         "clones": {
           "count": 1,
           "uniques": 1

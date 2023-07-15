@@ -265,6 +265,10 @@
     "2023-07-01": {
       "stargazers_count": 18,
       "forks_count": 3
+    },
+    "2023-07-15": {
+      "stargazers_count": 18,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -296,23 +300,49 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 10,
+        "uniques": 4
+      },
+      "clones": {
         "count": 1,
         "uniques": 1
       },
-      "clones": {
-        "count": 15,
-        "uniques": 9
-      },
       "paths": [
         {
+          "path": "/s6ruby/universum/blob/master/WHITEPAPER.md",
+          "title": "universum/WHITEPAPER.md at master · s6ruby/universum · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/universum/tree/master/ruby-to-solidity",
+          "title": "universum/ruby-to-solidity at master · s6ruby/universum · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "path": "/s6ruby/universum",
-          "title": "GitHub - s6ruby/universum: universum library / gem (ruby edition) - next gene...",
+          "title": "s6ruby/universum: universum library / gem (ruby edition) - next generation et...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Baidu",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1916,6 +1946,28 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-07-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-09": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-07-13": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

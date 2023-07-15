@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/punkbase",
   "created_at": "2018-01-17T15:42:49Z",
-  "updated_at": "2022-08-30T18:25:57Z",
+  "updated_at": "2023-07-05T07:22:19Z",
   "pushed_at": "2022-11-27T17:15:07Z",
   "size": 1882,
   "description": "punkbase  - query punk metadata & images via sql & more  - all-in-one single-file sqlite database, that is, punkbase.db (~5MB)",
@@ -46,6 +46,10 @@
     "2023-07-01": {
       "stargazers_count": 20,
       "forks_count": 0
+    },
+    "2023-07-15": {
+      "stargazers_count": 21,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -75,46 +79,76 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 37,
-        "uniques": 13
+        "count": 60,
+        "uniques": 8
       },
       "clones": {
-        "count": 26,
-        "uniques": 15
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/cryptopunksnotdead/punkbase",
-          "title": "GitHub - cryptopunksnotdead/punkbase: punkbase - query punk metadata & images...",
-          "count": 29,
-          "uniques": 13
-        },
-        {
           "path": "/cryptopunksnotdead/punkbase/tree/master/insidepunkbase",
           "title": "punkbase/insidepunkbase at master · cryptopunksnotdead/punkbase · GitHub",
-          "count": 8,
-          "uniques": 4
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 14,
+          "count": 26,
           "uniques": 6
         },
         {
-          "referrer": "Google",
-          "count": 7,
-          "uniques": 4
+          "path": "/cryptopunksnotdead/punkbase",
+          "title": "GitHub - cryptopunksnotdead/punkbase: punkbase - query punk metadata & images...",
+          "count": 13,
+          "uniques": 6
         },
         {
-          "referrer": "cryptopunksnotdead.github.io",
+          "path": "/cryptopunksnotdead/punkbase/blob/master/index.html",
+          "title": "punkbase/index.html at master · cryptopunksnotdead/punkbase · GitHub",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punkbase/blob/master/punkbase.db",
+          "title": "punkbase/punkbase.db at master · cryptopunksnotdead/punkbase · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptopunksnotdead/punkbase/blob/master/test.html",
+          "title": "punkbase/test.html at master · cryptopunksnotdead/punkbase · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punkbase/tree/master",
+          "title": "GitHub - cryptopunksnotdead/punkbase: punkbase - query punk metadata & images...",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "path": "/cryptopunksnotdead/punkbase/issues",
+          "title": "Issues · cryptopunksnotdead/punkbase · GitHub",
           "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "cryptopunksnotdead.github.io",
+          "count": 22,
+          "uniques": 3
+        },
+        {
+          "referrer": "github.com",
+          "count": 18,
+          "uniques": 5
+        },
+        {
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -710,6 +744,60 @@
         "clones": {
           "count": 9,
           "uniques": 2
+        }
+      },
+      "2023-07-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-07-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-07-08": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-07-09": {
+        "views": {
+          "count": 25,
+          "uniques": 2
+        }
+      },
+      "2023-07-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-11": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-07-13": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2023-07-03": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-06": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

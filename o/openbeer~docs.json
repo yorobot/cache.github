@@ -290,6 +290,10 @@
     "2023-07-01": {
       "stargazers_count": 10,
       "forks_count": 1
+    },
+    "2023-07-15": {
+      "stargazers_count": 10,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -315,38 +319,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 17,
-        "uniques": 4
+        "count": 27,
+        "uniques": 5
       },
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openbeer/docs/blob/master/BEERS.md",
           "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
-          "count": 9,
+          "count": 16,
           "uniques": 4
         },
         {
           "path": "/openbeer/docs",
           "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
           "count": 6,
-          "uniques": 4
+          "uniques": 5
         },
         {
-          "path": "/openbeer/docs/blame/master/BEERS.md",
-          "title": "Blaming docs/BEERS.md at master · openbeer/docs · GitHub",
+          "path": "/openbeer/docs/blob/master/BREWERIES.md",
+          "title": "docs/BREWERIES.md at master · openbeer/docs · GitHub",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/docs/blob/master/README.md",
+          "title": "docs/README.md at master · openbeer/docs · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/docs/tree/master",
+          "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 1
+        },
+        {
           "referrer": "openbeer.github.io",
-          "count": 9,
-          "uniques": 3
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -2326,6 +2347,44 @@
       "2023-07-01": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-02": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-07-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-09": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-07-11": {
+        "views": {
+          "count": 7,
           "uniques": 1
         }
       }

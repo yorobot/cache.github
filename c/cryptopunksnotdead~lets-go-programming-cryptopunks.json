@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/lets-go-programming-cryptopunks",
   "created_at": "2017-06-02T13:24:55Z",
-  "updated_at": "2023-04-27T20:11:15Z",
+  "updated_at": "2023-07-05T09:17:00Z",
   "pushed_at": "2022-10-27T15:47:36Z",
   "size": 1375,
   "description": "Let's Go! Programming (Crypto) Pixel Punk Profile Pictures & (Generative) Art with Go - Step-by-Step Book / Guide Inside Unique 24×24 Pixel Art on the Blockchain...",
@@ -94,6 +94,10 @@
     "2023-07-01": {
       "stargazers_count": 29,
       "forks_count": 4
+    },
+    "2023-07-15": {
+      "stargazers_count": 31,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -122,54 +126,84 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 6
+        "count": 27,
+        "uniques": 2
       },
       "clones": {
-        "count": 404,
-        "uniques": 160
+        "count": 453,
+        "uniques": 163
       },
       "paths": [
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks",
-          "title": "GitHub - cryptopunksnotdead/lets-go-programming-cryptopunks: 让我们走吧！ 使用 Go 编程（...",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/02_generate/main.go",
+          "title": "lets-go-programming-cryptopunks/02_generate/main.go at master · cryptopunksno...",
           "count": 8,
-          "uniques": 6
+          "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/01_tile",
-          "title": "lets-go-programming-cryptopunks/01_tile at master · cryptopunksnotdead/lets-g...",
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/3e4a8ddd4e13fae87a796f3baab63c384625dbdf/01_tile/main.go",
+          "title": "lets-go-programming-cryptopunks/01_tile/main.go at 3e4a8ddd4e13fae87a796f3baa...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks",
+          "title": "GitHub - cryptopunksnotdead/lets-go-programming-cryptopunks: Let's Go! Progra...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blame/3e4a8ddd4e13fae87a796f3baab63c384625dbdf/01_tile/main.go",
+          "title": "Blaming lets-go-programming-cryptopunks/01_tile/main.go at 3e4a8ddd4e13fae87a...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/i/punks-preview.png",
-          "title": "lets-go-programming-cryptopunks/i/punks-preview.png at master · cryptopunksno...",
-          "count": 1,
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blame/b3cd0f7c5e83494b82b629421d54363ffb53ecfa/01_tile/main.go",
+          "title": "Blaming lets-go-programming-cryptopunks/01_tile/main.go at b3cd0f7c5e83494b82...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/01_tile_(gophers)",
-          "title": "lets-go-programming-cryptopunks/01_tile_(gophers) at master · cryptopunksnotd...",
-          "count": 1,
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blame/v0.1.0/01_tile/main.go",
+          "title": "Blaming lets-go-programming-cryptopunks/01_tile/main.go at v0.1.0 · cryptopun...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/basic",
-          "title": "lets-go-programming-cryptopunks/basic at master · cryptopunksnotdead/lets-go-...",
-          "count": 1,
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/master/basic/f/wildwhitehair.png",
+          "title": "lets-go-programming-cryptopunks/basic/f/wildwhitehair.png at master · cryptop...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/blob/v0.1.0/01_tile/main.go",
+          "title": "lets-go-programming-cryptopunks/01_tile/main.go at v0.1.0 · cryptopunksnotdea...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/master/punkverse",
+          "title": "lets-go-programming-cryptopunks/punkverse at master · cryptopunksnotdead/lets...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/lets-go-programming-cryptopunks/tree/v0.1.0/01_tile",
+          "title": "lets-go-programming-cryptopunks/01_tile at v0.1.0 · cryptopunksnotdead/lets-g...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 8,
-          "uniques": 4
+          "referrer": "pkg.go.dev",
+          "count": 22,
+          "uniques": 1
         },
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "github.com",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -1845,8 +1879,68 @@
       },
       "2023-07-01": {
         "clones": {
-          "count": 77,
-          "uniques": 54
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 64,
+          "uniques": 44
+        }
+      },
+      "2023-07-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 150,
+          "uniques": 86
+        }
+      },
+      "2023-07-09": {
+        "views": {
+          "count": 24,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 18,
+          "uniques": 15
+        }
+      },
+      "2023-07-02": {
+        "clones": {
+          "count": 17,
+          "uniques": 15
+        }
+      },
+      "2023-07-06": {
+        "clones": {
+          "count": 83,
+          "uniques": 60
+        }
+      },
+      "2023-07-07": {
+        "clones": {
+          "count": 59,
+          "uniques": 37
+        }
+      },
+      "2023-07-08": {
+        "clones": {
+          "count": 59,
+          "uniques": 41
+        }
+      },
+      "2023-07-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

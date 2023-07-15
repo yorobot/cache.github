@@ -102,6 +102,10 @@
     "2023-07-01": {
       "stargazers_count": 76,
       "forks_count": 6
+    },
+    "2023-07-15": {
+      "stargazers_count": 76,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -132,66 +136,89 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 16,
-        "uniques": 8
+        "count": 30,
+        "uniques": 6
       },
       "clones": {
-        "count": 21,
-        "uniques": 15
+        "count": 636,
+        "uniques": 194
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.server",
           "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 10,
-          "uniques": 8
+          "count": 6,
+          "uniques": 5
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/artbase/artbase.go",
-          "title": "artbase.server/artbase/artbase.go at master · pixelartexchange/artbase.server...",
-          "count": 1,
+          "path": "/pixelartexchange/artbase.server/blob/master/collections.csv",
+          "title": "artbase.server/collections.csv at master · pixelartexchange/artbase.server · ...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blame/2c0ac91ba6a6b03fc7e7c7341f9c922d831bed9d/pixelart/imageTileToSVG.go",
+          "title": "Blaming artbase.server/pixelart/imageTileToSVG.go at 2c0ac91ba6a6b03fc7e7c734...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/serve/image_png.go",
-          "title": "artbase.server/serve/image_png.go at master · pixelartexchange/artbase.server...",
-          "count": 1,
+          "path": "/pixelartexchange/artbase.server/blame/ca26cd2f9f04512afac7d3d7055e0c31521d63ee/pixelart/imageToSVG.go",
+          "title": "Blaming artbase.server/pixelart/imageToSVG.go at ca26cd2f9f04512afac7d3d7055e...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/fork",
-          "title": "Fork pixelartexchange/artbase.server",
-          "count": 1,
+          "path": "/pixelartexchange/artbase.server/blame/v1.0.0/pixelart/imageTileToSVG.go",
+          "title": "Blaming artbase.server/pixelart/imageTileToSVG.go at v1.0.0 · pixelartexchang...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/v1.0.0/pixelart/imageTileToSVG.go",
+          "title": "artbase.server/pixelart/imageTileToSVG.go at v1.0.0 · pixelartexchange/artbas...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/commits",
+          "title": "Commits · pixelartexchange/artbase.server · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.server/tree/master/artbase",
           "title": "artbase.server/artbase at master · pixelartexchange/artbase.server · GitHub",
-          "count": 1,
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/tree/master/attic",
+          "title": "artbase.server/attic at master · pixelartexchange/artbase.server · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.server/tree/master/.github/workflows",
           "title": "artbase.server/.github/workflows at master · pixelartexchange/artbase.server ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/master/serve",
-          "title": "artbase.server/serve at master · pixelartexchange/artbase.server · GitHub",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
+          "count": 17,
           "uniques": 4
         },
         {
-          "referrer": "reddit.com",
-          "count": 1,
+          "referrer": "pkg.go.dev",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "referrer": "old.reddit.com",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -2319,6 +2346,86 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-07-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 143,
+          "uniques": 84
+        }
+      },
+      "2023-07-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 59,
+          "uniques": 38
+        }
+      },
+      "2023-07-09": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 59,
+          "uniques": 43
+        }
+      },
+      "2023-07-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-12": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-03": {
+        "clones": {
+          "count": 40,
+          "uniques": 29
+        }
+      },
+      "2023-07-04": {
+        "clones": {
+          "count": 91,
+          "uniques": 60
+        }
+      },
+      "2023-07-06": {
+        "clones": {
+          "count": 139,
+          "uniques": 79
+        }
+      },
+      "2023-07-07": {
+        "clones": {
+          "count": 84,
+          "uniques": 58
+        }
+      },
+      "2023-07-10": {
+        "clones": {
+          "count": 19,
+          "uniques": 17
         }
       }
     }
