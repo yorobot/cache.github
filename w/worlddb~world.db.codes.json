@@ -305,6 +305,10 @@
     "2023-07-15": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2023-08-01": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -331,23 +335,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 2
+        "count": 12,
+        "uniques": 1
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/worlddb/world.db.codes/blob/master/README.md",
-          "title": "world.db.codes/README.md at master · worlddb/world.db.codes · GitHub",
+          "path": "/worlddb/world.db.codes/tree/master/views",
+          "title": "world.db.codes/views at master · worlddb/world.db.codes",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.codes/blob/master/views/code.erb",
+          "title": "world.db.codes/views/code.erb at master · worlddb/world.db.codes",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.codes/tree/master/public",
+          "title": "world.db.codes/public at master · worlddb/world.db.codes",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db.codes",
+          "title": "worlddb/world.db.codes: world.db web app for country codes (alpha 2, alpha 3,...",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 12,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -792,6 +818,12 @@
       "2023-07-11": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-20": {
+        "views": {
+          "count": 12,
           "uniques": 1
         }
       }

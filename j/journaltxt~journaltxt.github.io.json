@@ -297,6 +297,10 @@
     "2023-07-15": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2023-08-01": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -322,18 +326,50 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 15,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt",
+          "title": "journaltxt.github.io/samples/Vienna.txt at master · journaltxt/journaltxt.git...",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/journaltxt/journaltxt.github.io/blame/master/samples/Vienna.txt",
+          "title": "Blaming journaltxt.github.io/samples/Vienna.txt at master · journaltxt/journa...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/journaltxt/journaltxt.github.io/tree/master/samples",
+          "title": "journaltxt.github.io/samples at master · journaltxt/journaltxt.github.io · Gi...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/journaltxt/journaltxt.github.io",
+          "title": "GitHub - journaltxt/journaltxt.github.io: Journal.TXT Website and Spec(ificat...",
+          "count": 2,
+          "uniques": 2
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 12,
+          "uniques": 1
+        },
+        {
+          "referrer": "journaltxt.github.io",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1242,6 +1278,24 @@
       "2023-07-01": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-07-30": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2023-07-28": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

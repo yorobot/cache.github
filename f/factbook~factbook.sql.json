@@ -305,6 +305,10 @@
     "2023-07-15": {
       "stargazers_count": 42,
       "forks_count": 18
+    },
+    "2023-08-01": {
+      "stargazers_count": 42,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -332,83 +336,74 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 56,
-        "uniques": 30
+        "count": 52,
+        "uniques": 22
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/factbook/factbook.sql/blob/master/LICENSE.md",
-          "title": "factbook.sql/LICENSE.md at master · factbook/factbook.sql · GitHub",
-          "count": 7,
-          "uniques": 4
-        },
-        {
-          "path": "/factbook/factbook.sql/blob/master/README.md",
-          "title": "factbook.sql/README.md at master · factbook/factbook.sql · GitHub",
-          "count": 7,
-          "uniques": 4
+          "path": "/factbook/factbook.sql/blob/master/factbook.sql",
+          "title": "factbook.sql/factbook.sql at master · factbook/factbook.sql · GitHub",
+          "count": 19,
+          "uniques": 5
         },
         {
           "path": "/factbook/factbook.sql",
           "title": "GitHub - factbook/factbook.sql: World Factbook Country Profiles in SQL (Incl....",
-          "count": 6,
-          "uniques": 6
-        },
-        {
-          "path": "/factbook/factbook.sql/blob/master/factbook.sql",
-          "title": "factbook.sql/factbook.sql at master · factbook/factbook.sql · GitHub",
-          "count": 5,
-          "uniques": 3
-        },
-        {
-          "path": "/factbook/factbook.sql/commit/f7c35d7272edd8f38b6d98264c7b48b5472db6b5",
-          "title": "up · factbook/factbook.sql@f7c35d7 · GitHub",
-          "count": 4,
-          "uniques": 4
-        },
-        {
-          "path": "/factbook/factbook.sql/find/master",
-          "title": "File Finder · GitHub",
-          "count": 3,
-          "uniques": 3
+          "count": 17,
+          "uniques": 12
         },
         {
           "path": "/factbook/factbook.sql/releases",
           "title": "Releases · factbook/factbook.sql",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/factbook/factbook.sql/releases/tag/v0.1",
+          "title": "Release factbook.db · factbook/factbook.sql · GitHub",
           "count": 3,
           "uniques": 3
         },
         {
-          "path": "/factbook/factbook.sql/stargazers",
-          "title": "Stargazers · factbook/factbook.sql · GitHub",
-          "count": 3,
-          "uniques": 3
+          "path": "/factbook/factbook.sql/commit/0735e5b69b34c12e43ab0c0b864064e9ebe49001",
+          "title": "Update README.md · factbook/factbook.sql@0735e5b · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "path": "/factbook/factbook.sql/watchers",
-          "title": "Watchers · factbook/factbook.sql · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/factbook/factbook.sql/actions",
-          "title": "Actions · factbook/factbook.sql · GitHub",
-          "count": 2,
-          "uniques": 2
+          "path": "/factbook/factbook.sql/pulls",
+          "title": "Pull requests · factbook/factbook.sql · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 12,
+          "uniques": 3
+        },
+        {
+          "referrer": "Bing",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 7,
+          "uniques": 1
+        },
+        {
           "referrer": "Google",
-          "count": 13,
+          "count": 6,
           "uniques": 4
         },
         {
-          "referrer": "notebooks.githubusercontent.com",
+          "referrer": "Yahoo",
           "count": 2,
           "uniques": 1
         }
@@ -3635,6 +3630,80 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-07-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-20": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        }
+      },
+      "2023-07-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-07-24": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2023-07-26": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2023-07-27": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-07-29": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2023-07-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-01": {
+        "views": {
+          "count": 5,
+          "uniques": 5
         }
       }
     }

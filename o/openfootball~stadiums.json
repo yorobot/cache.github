@@ -305,6 +305,10 @@
     "2023-07-15": {
       "stargazers_count": 27,
       "forks_count": 15
+    },
+    "2023-08-01": {
+      "stargazers_count": 27,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -331,98 +335,113 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 117,
-        "uniques": 19
+        "count": 118,
+        "uniques": 31
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 10,
+        "uniques": 5
       },
       "paths": [
         {
+          "path": "/openfootball/stadiums",
+          "title": "openfootball/stadiums: Free open public domain football stadium data",
+          "count": 32,
+          "uniques": 27
+        },
+        {
           "path": "/openfootball/stadiums/tree/master/europe",
           "title": "stadiums/europe at master · openfootball/stadiums · GitHub",
-          "count": 19,
+          "count": 24,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/stadiums/blob/master/europe/eng-england--stadiums.txt",
+          "title": "stadiums/europe/eng-england--stadiums.txt at master · openfootball/stadiums ·...",
+          "count": 13,
           "uniques": 5
         },
         {
-          "path": "/openfootball/stadiums",
-          "title": "openfootball/stadiums: Free open public domain football stadium data",
-          "count": 17,
-          "uniques": 15
-        },
-        {
-          "path": "/openfootball/stadiums/blob/master/europe/de-deutschland--stadiums.txt",
-          "title": "stadiums/europe/de-deutschland--stadiums.txt at master · openfootball/stadium...",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/stadiums/blob/master/europe/at-austria--stadiums.txt",
-          "title": "stadiums/europe/at-austria--stadiums.txt at master · openfootball/stadiums · ...",
-          "count": 6,
+          "path": "/openfootball/stadiums/tree/master/north-america",
+          "title": "stadiums/north-america at master · openfootball/stadiums · GitHub",
+          "count": 7,
           "uniques": 3
         },
         {
-          "path": "/openfootball/stadiums/blob/master/europe/fr-france--stadiums.txt",
-          "title": "stadiums/europe/fr-france--stadiums.txt at master · openfootball/stadiums · G...",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/stadiums/tree/master",
-          "title": "openfootball/stadiums: Free open public domain football stadium data",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/stadiums/blame/master/europe/de-deutschland--stadiums.txt",
-          "title": "Blaming stadiums/europe/de-deutschland--stadiums.txt at master · openfootball...",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/stadiums/blob/master/south-america/br-brazil--stadiums.txt",
-          "title": "stadiums/south-america/br-brazil--stadiums.txt at master · openfootball/stadi...",
+          "path": "/openfootball/stadiums/tree/master/africa",
+          "title": "stadiums/africa at master · openfootball/stadiums",
           "count": 5,
-          "uniques": 3
+          "uniques": 2
         },
         {
           "path": "/openfootball/stadiums/tree/master/south-america",
           "title": "stadiums/south-america at master · openfootball/stadiums · GitHub",
           "count": 5,
-          "uniques": 3
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/stadiums/blob/master/africa/ma-morocco--stadiums.txt",
+          "title": "stadiums/africa/ma-morocco--stadiums.txt at master · openfootball/stadiums",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/stadiums/blob/master/south-america/ar-argentina--stadiums.txt",
+          "title": "stadiums/south-america/ar-argentina--stadiums.txt at master · openfootball/st...",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/openfootball/stadiums/tree/master/asia",
           "title": "stadiums/asia at master · openfootball/stadiums · GitHub",
-          "count": 5,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/stadiums/blob/master/europe/de-deutschland--stadiums.txt",
+          "title": "stadiums/europe/de-deutschland--stadiums.txt at master · openfootball/stadiums",
+          "count": 3,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "datahub.io",
-          "count": 55,
-          "uniques": 9
-        },
-        {
-          "referrer": "openfootball.github.io",
-          "count": 13,
-          "uniques": 2
-        },
-        {
-          "referrer": "jokecamp.com",
-          "count": 3,
-          "uniques": 1
+          "count": 41,
+          "uniques": 12
         },
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 27,
+          "uniques": 6
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 15,
+          "uniques": 3
+        },
+        {
+          "referrer": "api.datahub.io",
+          "count": 9,
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "referrer": "blog.desdelinux.net",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "dhvanil.com",
           "count": 1,
           "uniques": 1
         }
@@ -5261,6 +5280,106 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-07-19": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2023-07-20": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        }
+      },
+      "2023-07-21": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-22": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        }
+      },
+      "2023-07-23": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-07-24": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-07-25": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2023-07-26": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2023-07-27": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2023-07-28": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-07-29": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2023-07-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

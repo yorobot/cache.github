@@ -305,6 +305,10 @@
     "2023-07-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2023-08-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -331,25 +335,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 3,
         "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
+          "path": "/sportdb/sport.db.service/blob/master/service.rb",
+          "title": "sport.db.service/service.rb at master · sportdb/sport.db.service",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/sportdb/sport.db.service",
-          "title": "GitHub - sportdb/sport.db.service: sport.db HTTP JSON API (web service) scripts",
+          "title": "sportdb/sport.db.service: sport.db HTTP JSON API (web service) scripts",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 1,
+          "referrer": "openfootball.github.io",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -1372,6 +1382,18 @@
       "2023-07-14": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-20": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-07-28": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

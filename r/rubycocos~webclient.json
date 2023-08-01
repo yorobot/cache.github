@@ -58,6 +58,10 @@
     "2023-07-15": {
       "stargazers_count": 6,
       "forks_count": 2
+    },
+    "2023-08-01": {
+      "stargazers_count": 6,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -83,29 +87,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 2
+        "count": 16,
+        "uniques": 3
       },
       "clones": {
-        "count": 6,
+        "count": 9,
         "uniques": 6
       },
       "paths": [
         {
+          "path": "/rubycocos/webclient/tree/master/webclient",
+          "title": "webclient/webclient at master · rubycocos/webclient",
+          "count": 6,
+          "uniques": 1
+        },
+        {
           "path": "/rubycocos/webclient",
           "title": "rubycocos/webclient: web command line tools, libraries & scripts",
-          "count": 3,
+          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/rubycocos/webclient/tree/master/fetcher",
-          "title": "webclient/fetcher at master · rubycocos/webclient · GitHub",
+          "path": "/rubycocos/webclient/blob/master/webclient/sandbox/test_get.rb",
+          "title": "webclient/webclient/sandbox/test_get.rb at master · rubycocos/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webclient/tree/master/webclient/lib",
+          "title": "webclient/webclient/lib at master · rubycocos/webclient",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webclient/tree/master/webclient/sandbox",
+          "title": "webclient/webclient/sandbox at master · rubycocos/webclient",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 10,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -463,6 +489,40 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-07-24": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2023-07-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-01": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-20": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-28": {
+        "clones": {
+          "count": 6,
+          "uniques": 3
         }
       }
     }

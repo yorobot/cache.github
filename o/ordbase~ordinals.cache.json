@@ -1,10 +1,10 @@
 {
   "full_name": "ordbase/ordinals.cache",
   "created_at": "2015-07-01T21:49:37Z",
-  "updated_at": "2023-07-15T00:08:17Z",
-  "pushed_at": "2023-07-12T15:25:24Z",
-  "size": 19732,
-  "description": "Ordinals (Inscription Metadata) Cache",
+  "updated_at": "2023-07-18T15:16:04Z",
+  "pushed_at": "2023-07-18T17:44:41Z",
+  "size": 8781,
+  "description": "Ordinals (Inscription Content & Metadata) Cache - Vol. 1 - Bitcoin (BTC)",
   "language": null,
   "history": {
     "2023-05-15": {
@@ -26,16 +26,20 @@
     "2023-07-15": {
       "stargazers_count": 19,
       "forks_count": 1
+    },
+    "2023-08-01": {
+      "stargazers_count": 19,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-07-12T15:25:18Z",
+        "date": "2023-07-18T17:43:28Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-07-12T15:25:18Z",
+        "date": "2023-07-18T17:43:28Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -45,36 +49,81 @@
     "artbase",
     "inscriptions",
     "ordinals",
-    "ordbase"
+    "ordbase",
+    "bitcoin",
+    "btc",
+    "ordlite"
   ],
   "languages": {
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 26,
-        "uniques": 12
+        "count": 43,
+        "uniques": 8
       },
       "clones": {
-        "count": 20,
+        "count": 22,
         "uniques": 15
       },
       "paths": [
         {
           "path": "/ordbase/ordinals.cache",
-          "title": "ordbase/ordinals.cache: Ordinals (Inscription Metadata) Cache",
-          "count": 22,
-          "uniques": 11
+          "title": "ordbase/ordinals.cache: Ordinals (Inscription Content & Metadata) Cache - Vol...",
+          "count": 10,
+          "uniques": 6
         },
         {
-          "path": "/ordbase/ordinals.cache/tree/master/btc",
-          "title": "ordinals.cache/btc at master · ordbase/ordinals.cache",
+          "path": "/ordbase/ordinals.cache/tree/master/inscription",
+          "title": "ordinals.cache/inscription at master · ordbase/ordinals.cache",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/inscription/00",
+          "title": "ordinals.cache/inscription/00 at master · ordbase/ordinals.cache",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/inscription/00/0160ebbddd50176b608531135db9800891a80dc59bc72c0bc8100cba5a5a71i0.meta.txt",
+          "title": "ordinals.cache/inscription/00/0160ebbddd50176b608531135db9800891a80dc59bc72c0...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/NOTES.md",
+          "title": "ordinals.cache/NOTES.md at master · ordbase/ordinals.cache · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/inscription/f7/25348960fe2d9ef78a31eee019c62128f2000009bea0be02d8db7172dfade0i0.txt",
+          "title": "ordinals.cache/inscription/f7/25348960fe2d9ef78a31eee019c62128f2000009bea0be0...",
           "count": 2,
           "uniques": 1
         },
         {
           "path": "/ordbase/ordinals.cache/blob/master/README.md",
           "title": "ordinals.cache/README.md at master · ordbase/ordinals.cache · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/stargazers",
+          "title": "Stargazers · ordbase/ordinals.cache",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/inscription/f7",
+          "title": "ordinals.cache/inscription/f7 at master · ordbase/ordinals.cache",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/graphs/traffic",
+          "title": "Traffic · ordbase/ordinals.cache",
           "count": 1,
           "uniques": 1
         }
@@ -82,12 +131,17 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
+          "count": 22,
           "uniques": 7
         },
         {
-          "referrer": "Google",
+          "referrer": "rubydoc.info",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -501,6 +555,88 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2023-07-19": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-07-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-07-24": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-07-25": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2023-07-26": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-07-28": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 12,
+          "uniques": 7
+        }
+      },
+      "2023-08-01": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-07-29": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-07-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
