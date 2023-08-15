@@ -30,6 +30,10 @@
     "2023-08-01": {
       "stargazers_count": 8,
       "forks_count": 6
+    },
+    "2023-08-15": {
+      "stargazers_count": 8,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -60,19 +64,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
+        "count": 11,
         "uniques": 6
       },
       "clones": {
-        "count": 12,
-        "uniques": 8
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/ordbase/ordbase.server",
-          "title": "ordbase/ordbase.server：ordbased - 用于序数铭文的（零配置）艺术基础服务器",
-          "count": 7,
+          "title": "ordbase/ordbase.server: ordbased - (zero-config) art base server for ordinal ...",
+          "count": 6,
           "uniques": 6
+        },
+        {
+          "path": "/ordbase/ordbase.server/blob/master/collections.csv",
+          "title": "ordbase.server/collections.csv at master · ordbase/ordbase.server",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/ordbase/ordbase.server/blob/master/ordbased.go",
@@ -81,39 +91,27 @@
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase.server/graphs/traffic",
-          "title": "Traffic · ordbase/ordbase.server",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase.server/pulse",
-          "title": "Pulse · ordbase/ordbase.server",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase.server/tree/master",
-          "title": "GitHub - ordbase/ordbase.server: ordbased - (zero-config) art base server for...",
+          "path": "/ordbase/ordbase.server/releases",
+          "title": "Releases · ordbase/ordbase.server",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 2
-        },
-        {
           "referrer": "Google",
-          "count": 5,
+          "count": 3,
           "uniques": 3
         },
         {
           "referrer": "rubyflow.com",
-          "count": 1,
+          "count": 3,
           "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -566,6 +564,48 @@
         "clones": {
           "count": 6,
           "uniques": 3
+        }
+      },
+      "2023-08-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-08-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-07": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-08-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

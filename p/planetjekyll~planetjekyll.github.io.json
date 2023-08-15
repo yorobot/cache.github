@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 10,
       "forks_count": 2
+    },
+    "2023-08-15": {
+      "stargazers_count": 10,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -335,18 +339,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 10,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
-
+        {
+          "path": "/planetjekyll/planetjekyll.github.io",
+          "title": "GitHub - planetjekyll/planetjekyll.github.io: planet jekyll site",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/planetjekyll.github.io/tree/master/news",
+          "title": "planetjekyll.github.io/news at master · planetjekyll/planetjekyll.github.io ·...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/planetjekyll.github.io/blob/master/feed.json",
+          "title": "planetjekyll.github.io/feed.json at master · planetjekyll/planetjekyll.github...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/planetjekyll.github.io/blob/master/news/index.html",
+          "title": "planetjekyll.github.io/news/index.html at master · planetjekyll/planetjekyll....",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 10,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -918,6 +949,22 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2023-08-06": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-08": {
+        "clones": {
+          "count": 5,
+          "uniques": 3
         }
       }
     }

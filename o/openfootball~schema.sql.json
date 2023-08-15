@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 46,
       "forks_count": 15
+    },
+    "2023-08-15": {
+      "stargazers_count": 45,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -325,7 +329,7 @@
     }
   ],
   "size": 12,
-  "updated_at": "2023-06-02T01:27:49Z",
+  "updated_at": "2023-08-15T16:39:20Z",
   "pushed_at": "2020-09-26T17:30:00Z",
   "description": "football.db database schema (tables, views, etc.) scripts (in SQL) and documentation",
   "language": null,
@@ -335,108 +339,97 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 116,
-        "uniques": 16
+        "count": 107,
+        "uniques": 18
       },
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/openfootball/schema.sql/blob/master/football.sql",
           "title": "schema.sql/football.sql at master · openfootball/schema.sql · GitHub",
-          "count": 25,
-          "uniques": 7
+          "count": 37,
+          "uniques": 9
         },
         {
           "path": "/openfootball/schema.sql",
           "title": "openfootball/schema.sql: football.db database schema (tables, views, etc.) sc...",
-          "count": 18,
-          "uniques": 14
-        },
-        {
-          "path": "/openfootball/schema.sql/blob/master/football.events.views.sql",
-          "title": "schema.sql/football.events.views.sql at master · openfootball/schema.sql · Gi...",
-          "count": 12,
-          "uniques": 3
+          "count": 20,
+          "uniques": 12
         },
         {
           "path": "/openfootball/schema.sql/blob/master/football.views.sql",
           "title": "schema.sql/football.views.sql at master · openfootball/schema.sql · GitHub",
-          "count": 10,
-          "uniques": 3
+          "count": 8,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/support.sql",
-          "title": "schema.sql/support.sql at master · openfootball/schema.sql · GitHub",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/schema.sql/blob/master/README.md",
-          "title": "schema.sql/README.md at master · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/blob/master/football.events.views.sql",
+          "title": "schema.sql/football.events.views.sql at master · openfootball/schema.sql · Gi...",
           "count": 7,
           "uniques": 2
         },
         {
           "path": "/openfootball/schema.sql/blob/master/world.sql",
-          "title": "schema.sql/world.sql at master · openfootball/schema.sql",
+          "title": "schema.sql/world.sql at master · openfootball/schema.sql · GitHub",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/schema.sql/blob/master/support.sql",
+          "title": "schema.sql/support.sql at master · openfootball/schema.sql · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/schema.sql/tree/master",
+          "title": "schema.sql/football.views.sql at master · openfootball/schema.sql · GitHub",
           "count": 5,
           "uniques": 2
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/LICENSE.md",
-          "title": "schema.sql/LICENSE.md at master · openfootball/schema.sql · GitHub",
+          "path": "/openfootball/schema.sql/blob/master/README.md",
+          "title": "schema.sql/README.md at master · openfootball/schema.sql · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/schema.sql/blob/master/NOTES.md",
+          "title": "schema.sql/NOTES.md at master · openfootball/schema.sql · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/schema.sql/branches",
-          "title": "Branches · openfootball/schema.sql · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/schema.sql/tree/master",
-          "title": "GitHub - openfootball/schema.sql: football.db database schema (tables, views,...",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 40,
-          "uniques": 6
-        },
-        {
           "referrer": "github.com",
-          "count": 37,
-          "uniques": 6
-        },
-        {
-          "referrer": "search.brave.com",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "referrer": "openfootball.github.io",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 2,
-          "uniques": 1
+          "count": 39,
+          "uniques": 3
         },
         {
           "referrer": "Bing",
-          "count": 1,
+          "count": 25,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 20,
+          "uniques": 7
+        },
+        {
+          "referrer": "search.brave.com",
+          "count": 3,
           "uniques": 1
         },
         {
-          "referrer": "edgeservices.bing.com",
+          "referrer": "stackoverflow.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "uk.search.yahoo.com",
           "count": 1,
           "uniques": 1
         }
@@ -4895,6 +4888,84 @@
         "views": {
           "count": 25,
           "uniques": 2
+        }
+      },
+      "2023-08-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-04": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-08-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-08-07": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2023-08-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-09": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-08-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-11": {
+        "views": {
+          "count": 22,
+          "uniques": 3
+        }
+      },
+      "2023-08-12": {
+        "views": {
+          "count": 34,
+          "uniques": 4
+        }
+      },
+      "2023-08-13": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-08-14": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-08-15": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2023-08-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

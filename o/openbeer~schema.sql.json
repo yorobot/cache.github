@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2023-08-15": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -336,37 +340,36 @@
     "summary": {
       "views": {
         "count": 10,
-        "uniques": 1
+        "uniques": 4
       },
       "clones": {
         "count": 2,
-        "uniques": 1
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/openbeer/schema.sql/blob/master/README.md",
-          "title": "schema.sql/README.md at master · openbeer/schema.sql",
+          "path": "/openbeer/schema.sql",
+          "title": "openbeer/schema.sql: beer.db database schema (tables, views, etc.) scripts (i...",
           "count": 5,
-          "uniques": 1
+          "uniques": 3
         },
         {
           "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
           "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql",
           "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/openbeer/schema.sql",
-          "title": "openbeer/schema.sql: beer.db database schema (tables, views, etc.) scripts (i...",
-          "count": 1,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 2
+        },
+        {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -1838,6 +1841,42 @@
       "2023-07-28": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-02": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-08-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-08-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-08": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

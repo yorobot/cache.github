@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2023-08-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -335,18 +339,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       },
+      "clones": {
+        "count": 6,
+        "uniques": 4
+      },
       "paths": [
-
+        {
+          "path": "/planet-templates/planet-hacker",
+          "title": "planet-templates/planet-hacker: hacker - planet template pack",
+          "count": 2,
+          "uniques": 2
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "feedreader.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -787,6 +805,30 @@
       "2023-07-28": {
         "clones": {
           "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-08-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-08": {
+        "clones": {
+          "count": 4,
           "uniques": 2
         }
       }

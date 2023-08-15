@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2023-08-15": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -335,26 +339,62 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 16,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/beerkit/beer.db.admin",
           "title": "GitHub - beerkit/beer.db.admin: beer.db web app - open beer database (beer.db...",
-          "count": 1,
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/beerkit/beer.db.admin/blob/master/config/database.yml",
+          "title": "beer.db.admin/config/database.yml at master · beerkit/beer.db.admin · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/blob/master/db/migrate/001_create_db.rb",
+          "title": "beer.db.admin/db/migrate/001_create_db.rb at master · beerkit/beer.db.admin ·...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/blob/master/db/schema.rb",
+          "title": "beer.db.admin/db/schema.rb at master · beerkit/beer.db.admin · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/blob/master/db/seeds.rb",
+          "title": "beer.db.admin/db/seeds.rb at master · beerkit/beer.db.admin · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/db",
+          "title": "beer.db.admin/db at master · beerkit/beer.db.admin · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db.admin/tree/master/db/migrate",
+          "title": "beer.db.admin/db/migrate at master · beerkit/beer.db.admin · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "openbeer.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 16,
+          "uniques": 4
         }
       ]
     },
@@ -1458,6 +1498,42 @@
         }
       },
       "2023-08-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-03": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2023-08-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-12": {
         "clones": {
           "count": 1,
           "uniques": 1

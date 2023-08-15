@@ -2,8 +2,8 @@
   "full_name": "ordbase/ordbase",
   "created_at": "2014-02-07T15:55:57Z",
   "updated_at": "2023-07-31T22:30:22Z",
-  "pushed_at": "2023-07-31T14:29:52Z",
-  "size": 1706,
+  "pushed_at": "2023-08-14T19:02:55Z",
+  "size": 9277,
   "description": "Ordinal inscription command line tools, machinery & helpers for Bitcoin, Litcoin, Dogecoin & Co.",
   "language": "Ruby",
   "history": {
@@ -30,16 +30,20 @@
     "2023-08-01": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2023-08-15": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-07-31T14:29:47Z",
+        "date": "2023-08-14T19:02:49Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-07-31T14:29:47Z",
+        "date": "2023-08-14T19:02:49Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -55,114 +59,120 @@
     "ordlite"
   ],
   "languages": {
-    "Ruby": 128853
+    "Ruby": 154951,
+    "HTML": 1343
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 1623,
-        "uniques": 98
+        "count": 951,
+        "uniques": 92
       },
       "clones": {
-        "count": 190,
-        "uniques": 65
+        "count": 105,
+        "uniques": 50
       },
       "paths": [
         {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md",
-          "title": "ordbase/programming-ordinals/sub1k.md at master · ordbase/ordbase · GitHub",
-          "count": 278,
-          "uniques": 34
-        },
-        {
           "path": "/ordbase/ordbase/tree/master/ordinals",
           "title": "ordbase/ordinals at master · ordbase/ordbase · GitHub",
-          "count": 186,
-          "uniques": 38
+          "count": 158,
+          "uniques": 24
         },
         {
-          "path": "/ordbase/ordbase/tree/master/programming-ordinals",
-          "title": "ordbase/programming-ordinals at master · ordbase/ordbase · GitHub",
-          "count": 136,
-          "uniques": 10
-        },
-        {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/collections.md",
-          "title": "ordbase/programming-ordinals/collections.md at master · ordbase/ordbase",
+          "path": "/ordbase/ordbase/tree/master/bixel",
+          "title": "ordbase/bixel at master · ordbase/ordbase · GitHub",
           "count": 122,
-          "uniques": 31
+          "uniques": 30
         },
         {
-          "path": "/ordbase/ordbase/tree/master/bitgen",
-          "title": "ordbase/bitgen at master · ordbase/ordbase · GitHub",
-          "count": 109,
-          "uniques": 7
+          "path": "/ordbase/ordbase/blob/master/programming-ordinals/ltc_sub1k.md",
+          "title": "ordbase/programming-ordinals/ltc_sub1k.md at master · ordbase/ordbase · GitHub",
+          "count": 101,
+          "uniques": 17
+        },
+        {
+          "path": "/ordbase/ordbase/tree/master/ordserve",
+          "title": "ordbase/ordserve at master · ordbase/ordbase · GitHub",
+          "count": 85,
+          "uniques": 18
         },
         {
           "path": "/ordbase/ordbase",
           "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 76,
-          "uniques": 15
+          "count": 58,
+          "uniques": 11
         },
         {
-          "path": "/ordbase/ordbase/tree/master/ordlite",
-          "title": "ordbase/ordlite at master · ordbase/ordbase",
-          "count": 56,
-          "uniques": 3
+          "path": "/ordbase/ordbase/tree/master/programming-ordinals",
+          "title": "ordbase/programming-ordinals at master · ordbase/ordbase · GitHub",
+          "count": 52,
+          "uniques": 5
         },
         {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k.txt",
-          "title": "ordbase/programming-ordinals/sub1k.txt at master · ordbase/ordbase",
-          "count": 42,
-          "uniques": 2
+          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md",
+          "title": "ordbase/programming-ordinals/sub1k.md at master · ordbase/ordbase · GitHub",
+          "count": 41,
+          "uniques": 7
         },
         {
-          "path": "/ordbase/ordbase/tree/master",
-          "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 33,
+          "path": "/ordbase/ordbase/tree/master/unisat",
+          "title": "ordbase/unisat at master · ordbase/ordbase",
+          "count": 35,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/tree/master/bitgen",
+          "title": "ordbase/bitgen at master · ordbase/ordbase · GitHub",
+          "count": 32,
           "uniques": 9
         },
         {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k_build.rb",
-          "title": "ordbase/programming-ordinals/sub1k_build.rb at master · ordbase/ordbase",
-          "count": 31,
-          "uniques": 4
+          "path": "/ordbase/ordbase/tree/master/ordlite",
+          "title": "ordbase/ordlite at master · ordbase/ordbase · GitHub",
+          "count": 30,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "rubyflow.com",
-          "count": 294,
-          "uniques": 56
+          "count": 286,
+          "uniques": 51
         },
         {
           "referrer": "github.com",
-          "count": 244,
-          "uniques": 9
+          "count": 36,
+          "uniques": 5
         },
         {
-          "referrer": "Google",
+          "referrer": "rubygems.org",
+          "count": 20,
+          "uniques": 1
+        },
+        {
+          "referrer": "orc721.github.io",
+          "count": 14,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubydoc.info",
           "count": 12,
           "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "referrer": "feedly.com",
-          "count": 4,
+          "referrer": "elttucs.my.zrails.com",
+          "count": 8,
           "uniques": 2
         },
         {
-          "referrer": "elttucs.my.zrails.com",
-          "count": 4,
-          "uniques": 1
+          "referrer": "feedly.com",
+          "count": 6,
+          "uniques": 2
         },
         {
-          "referrer": "theoldreader.com",
-          "count": 2,
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -756,6 +766,134 @@
         "views": {
           "count": 34,
           "uniques": 6
+        }
+      },
+      "2023-08-02": {
+        "views": {
+          "count": 142,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 11
+        }
+      },
+      "2023-08-03": {
+        "views": {
+          "count": 32,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-04": {
+        "views": {
+          "count": 134,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 23,
+          "uniques": 11
+        }
+      },
+      "2023-08-05": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-06": {
+        "views": {
+          "count": 83,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-08-07": {
+        "views": {
+          "count": 160,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 29,
+          "uniques": 16
+        }
+      },
+      "2023-08-08": {
+        "views": {
+          "count": 62,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-10": {
+        "views": {
+          "count": 21,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2023-08-11": {
+        "views": {
+          "count": 73,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 5
+        }
+      },
+      "2023-08-12": {
+        "views": {
+          "count": 48,
+          "uniques": 16
+        }
+      },
+      "2023-08-13": {
+        "views": {
+          "count": 40,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-14": {
+        "views": {
+          "count": 85,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 11
+        }
+      },
+      "2023-08-15": {
+        "views": {
+          "count": 65,
+          "uniques": 10
         }
       }
     }

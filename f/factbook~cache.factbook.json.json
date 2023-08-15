@@ -2,8 +2,8 @@
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
   "updated_at": "2022-11-03T22:26:40Z",
-  "pushed_at": "2023-07-27T22:16:32Z",
-  "size": 105493,
+  "pushed_at": "2023-08-11T07:59:45Z",
+  "size": 105659,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -202,19 +202,23 @@
     "2023-08-01": {
       "stargazers_count": 6,
       "forks_count": 3
+    },
+    "2023-08-15": {
+      "stargazers_count": 6,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-07-27T22:16:29Z",
+        "date": "2023-08-11T07:59:43Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2023-07-27T22:16:29Z",
+        "date": "2023-08-11T07:59:43Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 30"
+      "message": "auto-update week 32"
     }
   ],
   "topics": [
@@ -225,19 +229,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 35,
-        "uniques": 6
+        "count": 23,
+        "uniques": 3
       },
       "clones": {
-        "count": 21,
+        "count": 22,
         "uniques": 16
       },
       "paths": [
         {
+          "path": "/factbook/cache.factbook.json/tree/master/africa",
+          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master",
+          "title": "cache.factbook.json/ at master · factbook/cache.factbook.json · GitHub",
+          "count": 5,
+          "uniques": 1
+        },
+        {
           "path": "/factbook/cache.factbook.json",
           "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 10,
-          "uniques": 5
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/world",
+          "title": "cache.factbook.json/world at master · factbook/cache.factbook.json · GitHub",
+          "count": 4,
+          "uniques": 1
         },
         {
           "path": "/factbook/cache.factbook.json/tree/master/europe",
@@ -246,27 +268,21 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/cache.factbook.json/blob/master/europe/au.json",
-          "title": "cache.factbook.json/europe/au.json at master · factbook/cache.factbook.json ·...",
+          "path": "/factbook/cache.factbook.json/blob/master/europe/it.json",
+          "title": "cache.factbook.json/europe/it.json at master · factbook/cache.factbook.json ·...",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/commit/62f1186a91e290655fd8f018fac3e900c60ac6e0",
-          "title": "auto-update week 29 · factbook/cache.factbook.json@62f1186 · GitHub",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 3
+          "count": 18,
+          "uniques": 2
         },
         {
           "referrer": "Google",
-          "count": 2,
+          "count": 5,
           "uniques": 1
         }
       ]
@@ -3610,6 +3626,70 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2023-08-02": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2023-08-03": {
+        "views": {
+          "count": 17,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-08-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-07": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-08-08": {
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-08-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-08-14": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-08-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

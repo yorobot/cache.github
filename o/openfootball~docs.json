@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 19,
       "forks_count": 2
+    },
+    "2023-08-15": {
+      "stargazers_count": 19,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -335,31 +339,42 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 8,
+        "uniques": 2
       },
       "clones": {
-        "count": 4,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
+          "path": "/openfootball/docs",
+          "title": "openfootball/docs: football.db documentation incl. notes, articles, tips, gui...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
           "path": "/openfootball/docs/tree/master/api",
-          "title": "docs/api at master · openfootball/docs · GitHub",
-          "count": 2,
+          "title": "docs/api at master · openfootball/docs",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openfootball/docs",
-          "title": "GitHub - openfootball/docs: football.db documentation incl. notes, articles, ...",
-          "count": 1,
+          "path": "/openfootball/docs/blob/master/api/teams.md",
+          "title": "docs/api/teams.md at master · openfootball/docs",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        },
+        {
           "referrer": "openfootball.github.io",
-          "count": 3,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2005,6 +2020,18 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2023-08-07": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-08-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

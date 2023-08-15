@@ -309,6 +309,10 @@
     "2023-08-01": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2023-08-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -335,18 +339,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 1
+        "count": 12,
+        "uniques": 4
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/opensport/rugby.db",
+          "title": "opensport/rugby.db: Free open public domain rugby database 'n' schema (rugby....",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master/2015",
+          "title": "rugby.db/2015 at master · opensport/rugby.db",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/blob/master/teams.txt",
+          "title": "rugby.db/teams.txt at master · opensport/rugby.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/rugby.db/tree/master",
+          "title": "opensport/rugby.db: Free open public domain rugby database 'n' schema (rugby....",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "referrer": "opendata.stackexchange.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1076,6 +1117,30 @@
       },
       "2023-07-31": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-10": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2023-08-12": {
+        "views": {
           "count": 1,
           "uniques": 1
         }
