@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/quick-starter",
   "created_at": "2014-11-26T07:47:53Z",
-  "updated_at": "2023-08-15T07:50:00Z",
+  "updated_at": "2023-08-17T12:06:51Z",
   "pushed_at": "2022-11-20T15:49:50Z",
   "size": 36,
   "history": {
@@ -268,6 +268,10 @@
     "2023-08-15": {
       "stargazers_count": 71,
       "forks_count": 36
+    },
+    "2023-08-20": {
+      "stargazers_count": 72,
+      "forks_count": 36
     }
   },
   "commits": [
@@ -291,59 +295,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 57,
-        "uniques": 18
+        "count": 61,
+        "uniques": 22
       },
       "clones": {
-        "count": 18,
-        "uniques": 18
+        "count": 17,
+        "uniques": 17
       },
       "paths": [
         {
           "path": "/openfootball/quick-starter",
           "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
-          "count": 19,
-          "uniques": 15
+          "count": 27,
+          "uniques": 21
         },
         {
           "path": "/openfootball/quick-starter/blob/master/max.rb",
           "title": "quick-starter/max.rb at master · openfootball/quick-starter",
-          "count": 19,
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/README.md",
-          "title": "quick-starter/README.md at master · openfootball/quick-starter",
-          "count": 6,
+          "path": "/openfootball/quick-starter/blob/master/worldcup2014.rb",
+          "title": "quick-starter/worldcup2014.rb at master · openfootball/quick-starter · GitHub",
+          "count": 5,
           "uniques": 1
         },
         {
           "path": "/openfootball/quick-starter/tree/master",
           "title": "openfootball/quick-starter: football.db quick starter datafile templates for ...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/at2020-21.rb",
+          "title": "quick-starter/at2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/eng2020-21.rb",
+          "title": "quick-starter/eng2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/cl.rb",
+          "title": "quick-starter/cl.rb at master · openfootball/quick-starter · GitHub",
           "count": 3,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/at.rb",
-          "title": "quick-starter/at.rb at master · openfootball/quick-starter",
+          "path": "/openfootball/quick-starter/blob/master/it2020-21.rb",
+          "title": "quick-starter/it2020-21.rb at master · openfootball/quick-starter · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/quick-starter/blob/master/cl2020-21.rb",
+          "title": "quick-starter/cl2020-21.rb at master · openfootball/quick-starter · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/quick-starter/blob/master/LICENSE.md",
-          "title": "quick-starter/LICENSE.md at master · openfootball/quick-starter",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/quick-starter/blob/master/top.rb",
-          "title": "quick-starter/top.rb at master · openfootball/quick-starter",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/quick-starter/blob/master/worldcup2022.rb",
-          "title": "quick-starter/worldcup2022.rb at master · openfootball/quick-starter · GitHub",
+          "path": "/openfootball/quick-starter/blob/master/worldcup2018.rb",
+          "title": "quick-starter/worldcup2018.rb at master · openfootball/quick-starter",
           "count": 2,
           "uniques": 1
         }
@@ -351,18 +367,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 39,
-          "uniques": 3
-        },
-        {
-          "referrer": "openfootball.github.io",
-          "count": 4,
+          "count": 12,
           "uniques": 4
         },
         {
-          "referrer": "jokecamp.com",
-          "count": 3,
-          "uniques": 3
+          "referrer": "openfootball.github.io",
+          "count": 9,
+          "uniques": 6
         },
         {
           "referrer": "poe.com",
@@ -376,6 +387,11 @@
         },
         {
           "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "blog.desdelinux.net",
           "count": 1,
           "uniques": 1
         }
@@ -5150,8 +5166,8 @@
           "uniques": 1
         },
         "clones": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       },
       "2023-08-07": {
@@ -5218,6 +5234,34 @@
         "clones": {
           "count": 5,
           "uniques": 5
+        }
+      },
+      "2023-08-16": {
+        "views": {
+          "count": 15,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-17": {
+        "views": {
+          "count": 17,
+          "uniques": 5
+        }
+      },
+      "2023-08-18": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2023-08-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

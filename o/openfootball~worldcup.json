@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/worldcup",
   "created_at": "2013-05-22T06:57:03Z",
-  "updated_at": "2023-07-28T18:33:41Z",
+  "updated_at": "2023-08-16T23:50:58Z",
   "pushed_at": "2023-01-02T17:51:14Z",
   "size": 692,
   "description": "Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)",
@@ -174,6 +174,10 @@
     "2023-08-15": {
       "stargazers_count": 538,
       "forks_count": 186
+    },
+    "2023-08-20": {
+      "stargazers_count": 537,
+      "forks_count": 187
     }
   },
   "commits": [
@@ -204,12 +208,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 844,
-        "uniques": 187
+        "count": 835,
+        "uniques": 192
       },
       "clones": {
         "count": 24,
-        "uniques": 12
+        "uniques": 11
       },
       "paths": [
         {
@@ -221,25 +225,31 @@
         {
           "path": "/openfootball/worldcup",
           "title": "openfootball/worldcup: Free open public domain football data for the World Cu...",
-          "count": 106,
-          "uniques": 81
+          "count": 109,
+          "uniques": 86
         },
         {
           "path": "/openfootball/worldcup/tree/master/2022--qatar",
           "title": "worldcup/2022--qatar at master · openfootball/worldcup · GitHub",
-          "count": 89,
-          "uniques": 24
+          "count": 104,
+          "uniques": 29
         },
         {
           "path": "/openfootball/worldcup/blob/master/2022--qatar/cup.txt",
           "title": "worldcup/2022--qatar/cup.txt at master · openfootball/worldcup · GitHub",
-          "count": 39,
+          "count": 38,
           "uniques": 18
         },
         {
           "path": "/openfootball/worldcup/blob/master/2022--qatar/cup_finals.txt",
           "title": "worldcup/2022--qatar/cup_finals.txt at master · openfootball/worldcup · GitHub",
           "count": 26,
+          "uniques": 13
+        },
+        {
+          "path": "/openfootball/worldcup/tree/master",
+          "title": "worldcup/ at master · openfootball/worldcup · GitHub",
+          "count": 25,
           "uniques": 11
         },
         {
@@ -249,78 +259,72 @@
           "uniques": 6
         },
         {
-          "path": "/openfootball/worldcup/tree/master/2014--brazil",
-          "title": "worldcup/2014--brazil at master · openfootball/worldcup · GitHub",
-          "count": 22,
-          "uniques": 6
+          "path": "/openfootball/worldcup/blob/master/2014--brazil/cup.txt",
+          "title": "worldcup/2014--brazil/cup.txt at master · openfootball/worldcup · GitHub",
+          "count": 19,
+          "uniques": 7
         },
         {
           "path": "/openfootball/worldcup/tree/master/2018--russia",
           "title": "worldcup/2018--russia at master · openfootball/worldcup · GitHub",
-          "count": 16,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/worldcup/tree/master/1930--uruguay/squads",
-          "title": "worldcup/1930--uruguay/squads at master · openfootball/worldcup · GitHub",
-          "count": 15,
-          "uniques": 4
+          "count": 18,
+          "uniques": 5
         },
         {
           "path": "/openfootball/worldcup/tree/master/1930--uruguay",
           "title": "worldcup/1930--uruguay at master · openfootball/worldcup · GitHub",
-          "count": 14,
-          "uniques": 5
+          "count": 18,
+          "uniques": 4
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 162,
-          "uniques": 84
+          "referrer": "openfootball.github.io",
+          "count": 190,
+          "uniques": 14
         },
         {
-          "referrer": "github.com",
-          "count": 123,
-          "uniques": 20
+          "referrer": "Google",
+          "count": 175,
+          "uniques": 85
         },
         {
           "referrer": "datahub.io",
-          "count": 116,
-          "uniques": 25
+          "count": 140,
+          "uniques": 31
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 109,
-          "uniques": 11
-        },
-        {
-          "referrer": "jokecamp.com",
-          "count": 60,
-          "uniques": 3
+          "referrer": "github.com",
+          "count": 66,
+          "uniques": 15
         },
         {
           "referrer": "trackmyhashtag.com",
-          "count": 12,
-          "uniques": 2
-        },
-        {
-          "referrer": "Bing",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "blog-desdelinux-net.cdn.ampproject.org",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "blog.desdelinux.net",
-          "count": 1,
-          "uniques": 1
+          "count": 20,
+          "uniques": 4
         },
         {
           "referrer": "DuckDuckGo",
+          "count": 11,
+          "uniques": 2
+        },
+        {
+          "referrer": "blog.desdelinux.net",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "poe.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "dhvanil.com",
           "count": 1,
           "uniques": 1
         }
@@ -4767,8 +4771,8 @@
           "uniques": 7
         },
         "clones": {
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       },
       "2023-08-07": {
@@ -4837,12 +4841,50 @@
       },
       "2023-08-15": {
         "views": {
-          "count": 39,
-          "uniques": 8
+          "count": 46,
+          "uniques": 9
         },
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-08-16": {
+        "views": {
+          "count": 72,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-17": {
+        "views": {
+          "count": 79,
+          "uniques": 10
+        }
+      },
+      "2023-08-18": {
+        "views": {
+          "count": 28,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-19": {
+        "views": {
+          "count": 84,
+          "uniques": 11
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 8,
+          "uniques": 4
         }
       }
     }

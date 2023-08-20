@@ -198,6 +198,10 @@
     "2023-08-15": {
       "stargazers_count": 21,
       "forks_count": 18
+    },
+    "2023-08-20": {
+      "stargazers_count": 21,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -232,41 +236,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 5
-      },
-      "clones": {
-        "count": 12,
+        "count": 22,
         "uniques": 7
       },
+      "clones": {
+        "count": 13,
+        "uniques": 8
+      },
       "paths": [
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ClockAuction.sol",
+          "title": "contracts/cryptokitties/ClockAuction.sol at master · cryptocopycats/contracts...",
+          "count": 6,
+          "uniques": 2
+        },
         {
           "path": "/cryptocopycats/contracts/tree/master/cryptokitties",
           "title": "contracts/cryptokitties at master · cryptocopycats/contracts",
           "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptocopycats/contracts",
-          "title": "cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Friends Blockc...",
-          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptocopycats/contracts/tree/master/wrapped",
-          "title": "File not found",
+          "path": "/cryptocopycats/contracts",
+          "title": "GitHub - cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Frien...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ClockAuctionBase.sol",
+          "title": "contracts/cryptokitties/ClockAuctionBase.sol at master · cryptocopycats/contr...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyAuction.sol",
+          "title": "contracts/cryptokitties/KittyAuction.sol at master · cryptocopycats/contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/mooncats-acclimated/MoonCatAcclimator.sol",
+          "title": "contracts/mooncats-acclimated/MoonCatAcclimator.sol at master · cryptocopycat...",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Bing",
-          "count": 2,
+          "referrer": "github.com",
+          "count": 9,
           "uniques": 1
         },
         {
-          "referrer": "reddit.com",
+          "referrer": "Google",
           "count": 2,
           "uniques": 1
         }
@@ -3546,6 +3568,34 @@
       "2023-08-09": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-16": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2023-08-17": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-18": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

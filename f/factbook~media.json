@@ -206,6 +206,10 @@
     "2023-08-15": {
       "stargazers_count": 11,
       "forks_count": 2
+    },
+    "2023-08-20": {
+      "stargazers_count": 11,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -229,7 +233,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 39,
+        "count": 30,
         "uniques": 2
       },
       "clones": {
@@ -237,12 +241,6 @@
         "uniques": 1
       },
       "paths": [
-        {
-          "path": "/factbook/media/tree/master/flags",
-          "title": "media/flags at master · factbook/media · GitHub",
-          "count": 8,
-          "uniques": 2
-        },
         {
           "path": "/factbook/media/tree/master/locators",
           "title": "media/locators at master · factbook/media · GitHub",
@@ -254,18 +252,6 @@
           "title": "media/maps at master · factbook/media · GitHub",
           "count": 5,
           "uniques": 1
-        },
-        {
-          "path": "/factbook/media/tree/master",
-          "title": "media/ at master · factbook/media · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/media",
-          "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
-          "count": 3,
-          "uniques": 2
         },
         {
           "path": "/factbook/media/blob/master/maps/ae.png",
@@ -280,14 +266,20 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/flags/aa.png",
-          "title": "media/flags/aa.png at master · factbook/media · GitHub",
+          "path": "/factbook/media/tree/master/flags",
+          "title": "media/flags at master · factbook/media · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media",
+          "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/flags/al.png",
-          "title": "media/flags/al.png at master · factbook/media · GitHub",
+          "path": "/factbook/media/blob/master/flags/aa.png",
+          "title": "media/flags/aa.png at master · factbook/media · GitHub",
           "count": 2,
           "uniques": 1
         },
@@ -296,17 +288,24 @@
           "title": "media/locators/ae.png at master · factbook/media · GitHub",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/factbook/media/blob/master/locators/an.png",
+          "title": "media/locators/an.png at master · factbook/media · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/tree/master",
+          "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
           "count": 28,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 11,
           "uniques": 1
         }
       ]
@@ -1383,6 +1382,12 @@
       "2023-08-11": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

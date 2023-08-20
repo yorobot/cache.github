@@ -313,6 +313,10 @@
     "2023-08-15": {
       "stargazers_count": 19,
       "forks_count": 2
+    },
+    "2023-08-20": {
+      "stargazers_count": 19,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -339,8 +343,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 2
+        "count": 18,
+        "uniques": 3
       },
       "clones": {
         "count": 0,
@@ -348,14 +352,20 @@
       },
       "paths": [
         {
-          "path": "/openfootball/docs",
-          "title": "openfootball/docs: football.db documentation incl. notes, articles, tips, gui...",
-          "count": 3,
+          "path": "/openfootball/docs/tree/master/api",
+          "title": "docs/api at master · openfootball/docs",
+          "count": 7,
           "uniques": 2
         },
         {
-          "path": "/openfootball/docs/tree/master/api",
-          "title": "docs/api at master · openfootball/docs",
+          "path": "/openfootball/docs",
+          "title": "openfootball/docs: football.db documentation incl. notes, articles, tips, gui...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/docs/blob/master/api/index.md",
+          "title": "docs/api/index.md at master · openfootball/docs",
           "count": 3,
           "uniques": 1
         },
@@ -364,17 +374,23 @@
           "title": "docs/api/teams.md at master · openfootball/docs",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/openfootball/docs/issues",
+          "title": "Issues · openfootball/docs",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 1
+          "referrer": "openfootball.github.io",
+          "count": 12,
+          "uniques": 2
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 2,
+          "referrer": "github.com",
+          "count": 6,
           "uniques": 1
         }
       ]
@@ -2031,6 +2047,12 @@
       "2023-08-14": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-15": {
+        "views": {
+          "count": 10,
           "uniques": 1
         }
       }

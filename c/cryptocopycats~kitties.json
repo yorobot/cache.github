@@ -292,6 +292,10 @@
     "2023-08-15": {
       "stargazers_count": 12,
       "forks_count": 3
+    },
+    "2023-08-20": {
+      "stargazers_count": 12,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -325,14 +329,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
-        "uniques": 4
+        "count": 17,
+        "uniques": 5
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
+        {
+          "path": "/cryptocopycats/kitties/blob/master/1-99_999/043.csv",
+          "title": "kitties/1-99_999/043.csv at master · cryptocopycats/kitties · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
         {
           "path": "/cryptocopycats/kitties/blob/master/200_000_299_999/285.csv",
           "title": "kitties/200_000_299_999/285.csv at master · cryptocopycats/kitties · GitHub",
@@ -358,12 +368,6 @@
           "uniques": 1
         },
         {
-          "path": "/cryptocopycats/kitties",
-          "title": "cryptocopycats/kitties: (crypto) kitties on the blockchain - incl. id, gen(er...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "path": "/cryptocopycats/kitties/pulls",
           "title": "Pull requests · cryptocopycats/kitties · GitHub",
           "count": 1,
@@ -373,13 +377,8 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
+          "count": 11,
+          "uniques": 4
         }
       ]
     },
@@ -4207,6 +4206,22 @@
       "2023-08-10": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-18": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

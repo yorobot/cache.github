@@ -308,6 +308,10 @@
     "2023-08-15": {
       "stargazers_count": 213,
       "forks_count": 27
+    },
+    "2023-08-20": {
+      "stargazers_count": 213,
+      "forks_count": 27
     }
   },
   "commits": [
@@ -337,25 +341,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 95,
-        "uniques": 19
+        "count": 185,
+        "uniques": 22
       },
       "clones": {
-        "count": 25,
-        "uniques": 19
+        "count": 21,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 21,
-          "uniques": 17
+          "count": 24,
+          "uniques": 19
         },
         {
           "path": "/sportdb/sport.db/tree/master/sportdb",
           "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 9,
-          "uniques": 4
+          "count": 16,
+          "uniques": 6
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb-models",
+          "title": "sport.db/sportdb-models at master · sportdb/sport.db",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/blob/master/sportdb-models/lib/sportdb/models/models/event.rb",
+          "title": "sport.db/sportdb-models/lib/sportdb/models/models/event.rb at master · sportd...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/football.db.models/lib/footballdb",
+          "title": "sport.db/football.db.models/lib/footballdb at master · sportdb/sport.db",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sports/samples",
+          "title": "sport.db/sports/samples at master · sportdb/sport.db · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/blob/master/football.db.models/lib/footballdb/schema.rb",
+          "title": "sport.db/football.db.models/lib/footballdb/schema.rb at master · sportdb/spor...",
+          "count": 5,
+          "uniques": 1
         },
         {
           "path": "/sportdb/sport.db/blob/master/test/dl/Bundesliga_1963_2014.csv",
@@ -364,49 +398,24 @@
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-models",
-          "title": "sport.db/sportdb-models at master · sportdb/sport.db · GitHub",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/LICENSE.md",
-          "title": "sport.db/LICENSE.md at master · sportdb/sport.db · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/sportdb-models/lib/sportdb/models/models/person.rb",
-          "title": "sport.db/sportdb-models/lib/sportdb/models/models/person.rb at master · sport...",
-          "count": 4,
-          "uniques": 1
-        },
-        {
           "path": "/sportdb/sport.db/tree/master/sportdb-models/lib/sportdb/models/models",
           "title": "sport.db/sportdb-models/lib/sportdb/models/models at master · sportdb/sport.db",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/football.db.models",
+          "title": "sport.db/football.db.models at master · sportdb/sport.db · GitHub",
           "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/sports",
-          "title": "sport.db/sports at master · sportdb/sport.db · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/test/packages",
-          "title": "sport.db/test/packages at master · sportdb/sport.db · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/test/world",
-          "title": "sport.db/test/world at master · sportdb/sport.db · GitHub",
-          "count": 3,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
+        {
+          "referrer": "opensport.github.io",
+          "count": 44,
+          "uniques": 1
+        },
         {
           "referrer": "grep.app",
           "count": 42,
@@ -414,18 +423,23 @@
         },
         {
           "referrer": "github.com",
-          "count": 25,
-          "uniques": 4
+          "count": 9,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 7,
-          "uniques": 4
+          "count": 8,
+          "uniques": 5
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 6,
-          "uniques": 3
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -5690,6 +5704,48 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-08-16": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-17": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-19": {
+        "views": {
+          "count": 101,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 6,
+          "uniques": 3
         }
       }
     }

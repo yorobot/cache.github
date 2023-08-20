@@ -54,6 +54,10 @@
     "2023-08-15": {
       "stargazers_count": 6,
       "forks_count": 1
+    },
+    "2023-08-20": {
+      "stargazers_count": 6,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -83,37 +87,42 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 4
+        "count": 17,
+        "uniques": 5
       },
       "clones": {
-        "count": 12,
-        "uniques": 9
+        "count": 7,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.js",
           "title": "pixelartexchange/artbase.js: artbase.js - query collection metadata & images ...",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/pixelartexchange/artbase.js/tree/master/goblinbase",
+          "title": "artbase.js/goblinbase at master · pixelartexchange/artbase.js",
           "count": 6,
-          "uniques": 2
+          "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.js/tree/master/8bitbase",
           "title": "artbase.js/8bitbase at master · pixelartexchange/artbase.js",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.js/issues",
-          "title": "Issues · pixelartexchange/artbase.js · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 3,
+          "referrer": "rubygems.org",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "referrer": "pixelartexchange.github.io",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -122,17 +131,7 @@
           "uniques": 1
         },
         {
-          "referrer": "rubydoc.info",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -599,6 +598,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-08-17": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2023-08-18": {
+        "views": {
+          "count": 8,
+          "uniques": 2
         }
       }
     }

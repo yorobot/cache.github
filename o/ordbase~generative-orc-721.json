@@ -2,8 +2,8 @@
   "full_name": "ordbase/generative-orc-721",
   "created_at": "2014-05-06T14:35:06Z",
   "updated_at": "2023-08-06T03:37:19Z",
-  "pushed_at": "2023-08-12T20:08:30Z",
-  "size": 4487,
+  "pushed_at": "2023-08-19T15:39:21Z",
+  "size": 4501,
   "description": "Documentation for the proposed Generative ORC-721 Protocol / Standard for Bitcoin & Co. (Also Known As OG, Ordgen, Ordinal Generative)",
   "language": "Ruby",
   "history": {
@@ -30,16 +30,20 @@
     "2023-08-15": {
       "stargazers_count": 36,
       "forks_count": 13
+    },
+    "2023-08-20": {
+      "stargazers_count": 36,
+      "forks_count": 13
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-08-12T20:08:26Z",
+        "date": "2023-08-19T15:39:17Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-08-12T20:08:26Z",
+        "date": "2023-08-19T15:39:17Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -62,24 +66,36 @@
     "ordlite"
   ],
   "languages": {
-    "Ruby": 163961
+    "Ruby": 169001
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 290,
-        "uniques": 23
+        "count": 437,
+        "uniques": 33
       },
       "clones": {
-        "count": 35,
-        "uniques": 22
+        "count": 40,
+        "uniques": 21
       },
       "paths": [
         {
+          "path": "/ordbase/generative-orc-721/blob/master/programming-ordgen/indexer.md",
+          "title": "generative-orc-721/programming-ordgen/indexer.md at master · ordbase/generati...",
+          "count": 89,
+          "uniques": 8
+        },
+        {
           "path": "/ordbase/generative-orc-721",
           "title": "ordbase/generative-orc-721: Documentation for the proposed Generative ORC-721...",
-          "count": 55,
-          "uniques": 21
+          "count": 52,
+          "uniques": 22
+        },
+        {
+          "path": "/ordbase/generative-orc-721/tree/master/programming-ordgen",
+          "title": "generative-orc-721/programming-ordgen at master · ordbase/generative-orc-721",
+          "count": 39,
+          "uniques": 2
         },
         {
           "path": "/ordbase/generative-orc-721/blob/master/generate_v2/diypunks.rb",
@@ -113,49 +129,37 @@
         },
         {
           "path": "/ordbase/generative-orc-721/tree/master/genesis",
-          "title": "generative-orc-721/genesis at master · ordbase/generative-orc-721 · GitHub",
-          "count": 11,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/generative-orc-721/tree/master/diyapes",
-          "title": "generative-orc-721/diyapes at master · ordbase/generative-orc-721",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/generative-orc-721/graphs/traffic",
-          "title": "Traffic · ordbase/generative-orc-721",
-          "count": 7,
+          "title": "generative-orc-721/genesis at master · ordbase/generative-orc-721",
+          "count": 14,
           "uniques": 1
         },
         {
           "path": "/ordbase/generative-orc-721/pulse",
           "title": "Pulse · ordbase/generative-orc-721",
-          "count": 7,
+          "count": 12,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "rubyflow.com",
+          "count": 51,
+          "uniques": 6
+        },
+        {
           "referrer": "github.com",
-          "count": 17,
-          "uniques": 4
+          "count": 21,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 17,
-          "uniques": 3
+          "count": 15,
+          "uniques": 2
         },
         {
           "referrer": "orc721.github.io",
-          "count": 9,
+          "count": 10,
           "uniques": 3
-        },
-        {
-          "referrer": "ordbase.github.io",
-          "count": 9,
-          "uniques": 1
         },
         {
           "referrer": "t.co",
@@ -165,6 +169,11 @@
         {
           "referrer": "rubygems.org",
           "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "inoreader.com",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -828,8 +837,8 @@
       },
       "2023-08-06": {
         "views": {
-          "count": 20,
-          "uniques": 5
+          "count": 6,
+          "uniques": 2
         },
         "clones": {
           "count": 5,
@@ -914,8 +923,50 @@
           "uniques": 1
         },
         "clones": {
-          "count": 7,
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2023-08-16": {
+        "views": {
+          "count": 9,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-17": {
+        "views": {
+          "count": 9,
           "uniques": 2
+        }
+      },
+      "2023-08-18": {
+        "views": {
+          "count": 134,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-08-19": {
+        "views": {
+          "count": 61,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 19,
+          "uniques": 3
         }
       }
     }
