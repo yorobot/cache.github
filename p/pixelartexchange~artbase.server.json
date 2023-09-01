@@ -118,6 +118,10 @@
     "2023-08-20": {
       "stargazers_count": 77,
       "forks_count": 6
+    },
+    "2023-09-01": {
+      "stargazers_count": 77,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -148,22 +152,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 4,
         "uniques": 3
       },
       "clones": {
-        "count": 14,
-        "uniques": 9
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.server",
           "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/9346a76b6f6b69ef08dc72bfd3c38b5daa1de8fe/attic/artbase/collections_standard.go.bak",
+          "title": "artbase.server/attic/artbase/collections_standard.go.bak at 9346a76b6f6b69ef0...",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        },
         {
           "referrer": "reddit.com",
           "count": 1,
@@ -2490,6 +2505,40 @@
       },
       "2023-08-18": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-24": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-30": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

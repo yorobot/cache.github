@@ -303,6 +303,10 @@
     "2023-08-20": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2023-09-01": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -328,18 +332,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 2,
+        "count": 9,
         "uniques": 1
       },
+      "clones": {
+        "count": 3,
+        "uniques": 2
+      },
       "paths": [
-
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/_data/book.yml",
+          "title": "book-2017-theme/_data/book.yml at gh-pages · octobook/book-2017-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/index.html",
+          "title": "book-2017-theme/index.html at gh-pages · octobook/book-2017-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/blob/gh-pages/js/book.js",
+          "title": "book-2017-theme/js/book.js at gh-pages · octobook/book-2017-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme/tree/gh-pages/js",
+          "title": "book-2017-theme/js at gh-pages · octobook/book-2017-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/octobook/book-2017-theme",
+          "title": "octobook/book-2017-theme: book git theme",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 9,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -788,6 +825,22 @@
         }
       },
       "2023-08-16": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-30": {
         "clones": {
           "count": 2,
           "uniques": 1

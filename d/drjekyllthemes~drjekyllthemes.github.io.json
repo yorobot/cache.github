@@ -317,24 +317,28 @@
     "2023-08-20": {
       "stargazers_count": 16,
       "forks_count": 5
+    },
+    "2023-09-01": {
+      "stargazers_count": 16,
+      "forks_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2018-11-12T15:01:17Z",
-        "name": "GitHub"
+        "date": "2023-08-27T19:03:50Z",
+        "name": "midzer"
       },
       "author": {
-        "date": "2018-11-12T15:01:17Z",
-        "name": "Gerald Bauer"
+        "date": "2023-08-27T19:03:50Z",
+        "name": "midzer"
       },
-      "message": "Update announce.html"
+      "message": "Merge branch 'master' of github.com:drjekyllthemes/drjekyllthemes.github.io"
     }
   ],
-  "size": 3932,
-  "updated_at": "2020-07-23T16:39:37Z",
-  "pushed_at": "2018-11-12T15:01:17Z",
+  "size": 3972,
+  "updated_at": "2023-08-27T18:10:15Z",
+  "pushed_at": "2023-08-27T19:04:26Z",
   "description": "Dr. Jekyll's Themes - Static Website Theme Directory",
   "language": "HTML",
   "topics": [
@@ -343,25 +347,84 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 68,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 21,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/drjekyllthemes/drjekyllthemes.github.io",
-          "title": "GitHub - drjekyllthemes/drjekyllthemes.github.io: Dr. Jekyll's Themes - Stati...",
+          "title": "drjekyllthemes/drjekyllthemes.github.io: Dr. Jekyll's Themes - Static Website...",
+          "count": 18,
+          "uniques": 3
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/pull/9",
+          "title": "add submodule by midzer · Pull Request #9 · drjekyllthemes/drjekyllthemes.git...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/website.old",
+          "title": "drjekyllthemes/website.old: Dr. Jekyll's Themes - Static Website Theme Direct...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/pulls",
+          "title": "Pull requests · drjekyllthemes/drjekyllthemes.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/stargazers",
+          "title": "Stargazers · drjekyllthemes/drjekyllthemes.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/website.old/pulls",
+          "title": "Pull requests · drjekyllthemes/website.old",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/blob/master/_authors/broccolini.md",
+          "title": "drjekyllthemes.github.io/_authors/broccolini.md at master · drjekyllthemes/dr...",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/blob/master/authors.html",
+          "title": "drjekyllthemes.github.io/authors.html at master · drjekyllthemes/drjekyllthem...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/blob/master/new.html",
+          "title": "drjekyllthemes.github.io/new.html at master · drjekyllthemes/drjekyllthemes.g...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/drjekyllthemes/drjekyllthemes.github.io/commits/master",
+          "title": "Commits · drjekyllthemes/drjekyllthemes.github.io",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 55,
+          "uniques": 3
+        },
+        {
+          "referrer": "drjekyllthemes.github.io",
+          "count": 10,
           "uniques": 1
         }
       ]
@@ -1184,11 +1247,44 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2023-08-27": {
+        "views": {
+          "count": 63,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 12,
+          "uniques": 9
+        }
+      },
+      "2023-08-28": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2023-08-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
     "HTML": 21268,
-    "CSS": 3619
+    "SCSS": 3619,
+    "Ruby": 91
   }
 }

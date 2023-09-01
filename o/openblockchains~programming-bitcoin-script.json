@@ -281,6 +281,10 @@
     "2023-08-20": {
       "stargazers_count": 52,
       "forks_count": 16
+    },
+    "2023-09-01": {
+      "stargazers_count": 52,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -308,42 +312,54 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 72,
-        "uniques": 33
+        "count": 116,
+        "uniques": 51
       },
       "clones": {
-        "count": 11,
-        "uniques": 8
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/openblockchains/programming-bitcoin-script",
-          "title": "openblockchains/programming-bitcoin-script: Programming Bitcoin Script Transa...",
-          "count": 34,
-          "uniques": 27
+          "title": "programming-bitcoin-script/ at master · openblockchains/programming-bitcoin-s...",
+          "count": 66,
+          "uniques": 43
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script",
           "title": "programming-bitcoin-script/bitcoin-script at master · openblockchains/program...",
-          "count": 12,
-          "uniques": 3
+          "count": 10,
+          "uniques": 4
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master",
-          "title": "GitHub - openblockchains/programming-bitcoin-script: Programming Bitcoin Scri...",
-          "count": 6,
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/pay-to-pubkey.rb",
+          "title": "programming-bitcoin-script/pay-to-pubkey.rb at master · openblockchains/progr...",
+          "count": 8,
           "uniques": 2
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_puzzle.rb",
-          "title": "programming-bitcoin-script/stackmachine_puzzle.rb at master · openblockchains...",
-          "count": 4,
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_anyone.rb",
+          "title": "programming-bitcoin-script/stackmachine_anyone.rb at master · openblockchains...",
+          "count": 6,
           "uniques": 1
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
-          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
-          "count": 3,
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/README.md",
+          "title": "programming-bitcoin-script/README.md at master · openblockchains/programming-...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/test/helper.rb",
+          "title": "programming-bitcoin-script/bitcoin-script/test/helper.rb at master · openbloc...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/test/test_ops.rb",
+          "title": "programming-bitcoin-script/bitcoin-script/test/test_ops.rb at master · openbl...",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -353,50 +369,53 @@
           "uniques": 1
         },
         {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/pubkey.rb",
+          "title": "programming-bitcoin-script/pubkey.rb at master · openblockchains/programming-...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_add.rb",
           "title": "programming-bitcoin-script/stackmachine_add.rb at master · openblockchains/pr...",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib/bitcoin-script",
-          "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script at master · open...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/test",
-          "title": "programming-bitcoin-script/bitcoin-script/test at master · openblockchains/pr...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/commit/08c7d6d2520e2fd3820fd1c8412b536d2da4b354",
-          "title": "add beware bitcoin public service announcement · openblockchains/programming-...",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 37,
-          "uniques": 15
-        },
-        {
           "referrer": "Google",
-          "count": 21,
-          "uniques": 11
+          "count": 60,
+          "uniques": 27
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 3,
-          "uniques": 1
+          "referrer": "in.search.yahoo.com",
+          "count": 15,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 6
         },
         {
           "referrer": "Bing",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "useblackbox.io",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -5352,6 +5371,106 @@
       "2023-08-20": {
         "views": {
           "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-21": {
+        "views": {
+          "count": 12,
+          "uniques": 6
+        }
+      },
+      "2023-08-22": {
+        "views": {
+          "count": 20,
+          "uniques": 6
+        }
+      },
+      "2023-08-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-24": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-25": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-26": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2023-08-27": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-08-28": {
+        "views": {
+          "count": 13,
+          "uniques": 6
+        }
+      },
+      "2023-08-29": {
+        "views": {
+          "count": 17,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-30": {
+        "views": {
+          "count": 15,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-08-31": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-01": {
+        "views": {
+          "count": 5,
           "uniques": 3
         }
       }

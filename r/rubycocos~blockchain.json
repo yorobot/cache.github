@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2023-08-18T13:56:38Z",
+  "updated_at": "2023-08-26T15:58:16Z",
   "pushed_at": "2023-02-09T16:54:11Z",
   "size": 4191,
   "description": "blockchain (crypto) tools, libraries & scripts in ruby",
@@ -70,6 +70,10 @@
     "2023-08-20": {
       "stargazers_count": 207,
       "forks_count": 37
+    },
+    "2023-09-01": {
+      "stargazers_count": 207,
+      "forks_count": 38
     }
   },
   "commits": [
@@ -116,109 +120,99 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 422,
-        "uniques": 27
+        "count": 203,
+        "uniques": 26
       },
       "clones": {
-        "count": 188,
-        "uniques": 15
+        "count": 204,
+        "uniques": 5
       },
       "paths": [
         {
-          "path": "/rubycocos/blockchain/tree/master/abicoder",
-          "title": "blockchain/abicoder at master · rubycocos/blockchain",
-          "count": 42,
-          "uniques": 1
-        },
-        {
           "path": "/rubycocos/blockchain",
           "title": "rubycocos/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 27,
-          "uniques": 20
+          "count": 26,
+          "uniques": 17
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/base32-alphabets/lib/base32-alphabets",
-          "title": "blockchain/base32-alphabets/lib/base32-alphabets at master · rubycocos/blockc...",
-          "count": 17,
+          "path": "/rubycocos/blockchain/tree/master/abicoder",
+          "title": "blockchain/abicoder at master · rubycocos/blockchain",
+          "count": 26,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/base32-alphabets/lib",
-          "title": "blockchain/base32-alphabets/lib at master · rubycocos/blockchain",
-          "count": 16,
+          "path": "/rubycocos/blockchain/tree/master/elliptic",
+          "title": "blockchain/elliptic at master · rubycocos/blockchain · GitHub",
+          "count": 23,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/master/ethname/lib/ethname.rb",
+          "title": "blockchain/ethname/lib/ethname.rb at master · rubycocos/blockchain",
+          "count": 10,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/ledger-lite",
-          "title": "blockchain/ledger-lite at master · rubycocos/blockchain · GitHub",
-          "count": 16,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/ledger-lite/lib/ledger-lite/base.rb",
-          "title": "blockchain/ledger-lite/lib/ledger-lite/base.rb at master · rubycocos/blockcha...",
-          "count": 13,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/tree/master/blockchain-lite",
-          "title": "blockchain/blockchain-lite at master · rubycocos/blockchain · GitHub",
-          "count": 11,
+          "path": "/rubycocos/blockchain/tree/master/elliptic-lite",
+          "title": "blockchain/elliptic-lite at master · rubycocos/blockchain",
+          "count": 8,
           "uniques": 2
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/base32-alphabets/lib/base32-alphabets/base.rb",
-          "title": "blockchain/base32-alphabets/lib/base32-alphabets/base.rb at master · rubycoco...",
-          "count": 10,
+          "path": "/rubycocos/blockchain/tree/master/ethname",
+          "title": "blockchain/ethname at master · rubycocos/blockchain",
+          "count": 8,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/ledger-lite/lib/ledger-lite.rb",
-          "title": "blockchain/ledger-lite/lib/ledger-lite.rb at master · rubycocos/blockchain · ...",
-          "count": 10,
+          "path": "/rubycocos/blockchain/tree/master/ethname/lib/ethname",
+          "title": "blockchain/ethname/lib/ethname at master · rubycocos/blockchain",
+          "count": 8,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/base32-alphabets",
-          "title": "blockchain/base32-alphabets at master · rubycocos/blockchain",
-          "count": 10,
+          "path": "/rubycocos/blockchain/blob/master/ethname/lib/ethname/directory.rb",
+          "title": "blockchain/ethname/lib/ethname/directory.rb at master · rubycocos/blockchain",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/ccef43a600e0832fb5e662bb0840656c974c0dc5/abidoc/README.md",
+          "title": "blockchain/abidoc/README.md at ccef43a600e0832fb5e662bb0840656c974c0dc5 · rub...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/ccef43a600e0832fb5e662bb0840656c974c0dc5/elliptic/lib/elliptic/public_key.rb",
+          "title": "blockchain/elliptic/lib/elliptic/public_key.rb at ccef43a600e0832fb5e662bb084...",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "rubygems.org",
-          "count": 131,
-          "uniques": 3
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 25,
-          "uniques": 2
-        },
-        {
-          "referrer": "Google",
           "count": 21,
-          "uniques": 8
-        },
-        {
-          "referrer": "search.brave.com",
-          "count": 7,
-          "uniques": 1
+          "uniques": 4
         },
         {
           "referrer": "github.com",
-          "count": 6,
-          "uniques": 5
+          "count": 20,
+          "uniques": 7
         },
         {
-          "referrer": "reddit.com",
-          "count": 2,
+          "referrer": "Google",
+          "count": 18,
+          "uniques": 10
+        },
+        {
+          "referrer": "rubytalk.org",
+          "count": 10,
           "uniques": 1
         },
         {
-          "referrer": "yukimotopress.github.io",
-          "count": 1,
+          "referrer": "rubyflow.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -1864,8 +1858,128 @@
           "uniques": 1
         },
         "clones": {
-          "count": 10,
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2023-08-21": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 14,
           "uniques": 1
+        }
+      },
+      "2023-08-22": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2023-08-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2023-08-24": {
+        "views": {
+          "count": 23,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-08-25": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2023-08-26": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2023-08-27": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-08-28": {
+        "views": {
+          "count": 29,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2023-08-29": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 16,
+          "uniques": 3
+        }
+      },
+      "2023-08-30": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2023-08-31": {
+        "views": {
+          "count": 13,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-09-01": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 2
         }
       }
     }

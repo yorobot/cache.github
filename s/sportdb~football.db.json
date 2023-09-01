@@ -269,6 +269,10 @@
     "2023-08-20": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2023-09-01": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -301,79 +305,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 42,
-        "uniques": 3
+        "count": 18,
+        "uniques": 6
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues",
-          "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
-          "count": 10,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/LICENSE.md",
-          "title": "football.db/LICENSE.md at master · sportdb/football.db · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/README.md",
-          "title": "football.db/README.md at master · sportdb/football.db · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
           "path": "/sportdb/football.db",
-          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
-          "count": 2,
+          "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite",
+          "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
+          "count": 5,
           "uniques": 2
         },
         {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/CHANGELOG.md",
-          "title": "football.db/footballdb-leagues/CHANGELOG.md at master · sportdb/football.db ·...",
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
+          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/0aa1f239e80b88b6337aee943cfc96435428297d/footballdb-clubs/config/clubs.wiki.txt",
+          "title": "football.db/footballdb-clubs/config/clubs.wiki.txt at 0aa1f239e80b88b6337aee9...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/config/leagues.txt",
-          "title": "football.db/footballdb-leagues/config/leagues.txt at master · sportdb/footbal...",
+          "path": "/sportdb/football.db/tree/master/footballdb-leagues",
+          "title": "football.db/footballdb-leagues at master · sportdb/football.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/.gitignore",
-          "title": "football.db/footballdb-leagues/.gitignore at master · sportdb/football.db · G...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/lib/footballdb/leagues.rb",
-          "title": "football.db/footballdb-leagues/lib/footballdb/leagues.rb at master · sportdb/...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/Manifest.txt",
-          "title": "football.db/footballdb-leagues/Manifest.txt at master · sportdb/football.db ·...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/README.md",
-          "title": "football.db/footballdb-leagues/README.md at master · sportdb/football.db · Gi...",
-          "count": 2,
+          "path": "/sportdb/football.db/pulse",
+          "title": "Pulse · sportdb/football.db · GitHub",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "openfootball.github.io",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "youtube.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
           "referrer": "sportdb.github.io",
-          "count": 27,
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -2979,12 +2969,60 @@
         "views": {
           "count": 5,
           "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "2023-08-17": {
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-08-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-08-27": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-28": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-08-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-08-31": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }
