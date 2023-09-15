@@ -2,8 +2,8 @@
   "full_name": "factbook/country-profiles",
   "created_at": "2013-09-02T17:18:10Z",
   "updated_at": "2023-02-16T12:22:02Z",
-  "pushed_at": "2023-08-31T22:16:18Z",
-  "size": 18453,
+  "pushed_at": "2023-09-14T22:16:13Z",
+  "size": 22337,
   "description": "World Factbook Country Profiles",
   "language": null,
   "history": {
@@ -170,19 +170,23 @@
     "2023-09-01": {
       "stargazers_count": 7,
       "forks_count": 1
+    },
+    "2023-09-15": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-08-31T22:16:16Z",
+        "date": "2023-09-14T22:16:12Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2023-08-31T22:16:16Z",
+        "date": "2023-09-14T22:16:12Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 35"
+      "message": "auto-update week 37"
     }
   ],
   "topics": [
@@ -197,89 +201,89 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 36,
-        "uniques": 10
+        "count": 73,
+        "uniques": 6
       },
       "clones": {
-        "count": 24,
-        "uniques": 16
+        "count": 71,
+        "uniques": 20
       },
       "paths": [
         {
           "path": "/factbook/country-profiles",
           "title": "GitHub - factbook/country-profiles: World Factbook Country Profiles",
-          "count": 7,
-          "uniques": 7
+          "count": 11,
+          "uniques": 6
         },
         {
-          "path": "/factbook/country-profiles/tree/master/north-america",
-          "title": "country-profiles/north-america at master · factbook/country-profiles · GitHub",
-          "count": 6,
-          "uniques": 2
+          "path": "/factbook/country-profiles/tree/master/europe",
+          "title": "country-profiles/europe at master · factbook/country-profiles · GitHub",
+          "count": 11,
+          "uniques": 3
         },
         {
           "path": "/factbook/country-profiles/tree/master/africa",
-          "title": "country-profiles/africa at master · factbook/country-profiles",
+          "title": "country-profiles/africa at master · factbook/country-profiles · GitHub",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/europe/austria.md",
+          "title": "country-profiles/europe/austria.md at master · factbook/country-profiles · Gi...",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/README.md",
+          "title": "country-profiles/README.md at master · factbook/country-profiles · GitHub",
           "count": 5,
           "uniques": 2
         },
         {
-          "path": "/factbook/country-profiles/tree/master/middle-east",
-          "title": "country-profiles/middle-east at master · factbook/country-profiles · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
           "path": "/factbook/country-profiles/blob/master/africa/algeria.md",
-          "title": "country-profiles/africa/algeria.md at master · factbook/country-profiles",
-          "count": 2,
+          "title": "country-profiles/africa/algeria.md at master · factbook/country-profiles · Gi...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/LICENSE.md",
+          "title": "country-profiles/LICENSE.md at master · factbook/country-profiles · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/africa/benin.md",
-          "title": "country-profiles/africa/benin.md at master · factbook/country-profiles",
-          "count": 2,
+          "path": "/factbook/country-profiles/tree/master",
+          "title": "country-profiles/ at master · factbook/country-profiles · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/europe/united-kingdom.md",
-          "title": "country-profiles/europe/united-kingdom.md at master · factbook/country-profiles",
-          "count": 2,
+          "path": "/factbook/country-profiles/tree/master/south-asia",
+          "title": "country-profiles/south-asia at master · factbook/country-profiles · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/middle-east/west-bank.md",
-          "title": "country-profiles/middle-east/west-bank.md at master · factbook/country-profil...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/north-america/canada.md",
-          "title": "country-profiles/north-america/canada.md at master · factbook/country-profile...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/north-america/united-states.md",
-          "title": "country-profiles/north-america/united-states.md at master · factbook/country-...",
-          "count": 2,
+          "path": "/factbook/country-profiles/tree/master/world",
+          "title": "country-profiles/world at master · factbook/country-profiles",
+          "count": 3,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 12,
+          "referrer": "github.com",
+          "count": 34,
           "uniques": 2
         },
         {
-          "referrer": "quora.com",
-          "count": 6,
-          "uniques": 1
+          "referrer": "Google",
+          "count": 21,
+          "uniques": 3
         },
         {
-          "referrer": "github.com",
-          "count": 5,
+          "referrer": "factbook.github.io",
+          "count": 6,
           "uniques": 1
         }
       ]
@@ -3460,6 +3464,100 @@
         }
       },
       "2023-09-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-05": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-06": {
+        "views": {
+          "count": 42,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-08": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-11": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-12": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-09-02": {
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2023-09-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-07": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-09-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-10": {
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-09-13": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-14": {
+        "clones": {
+          "count": 43,
+          "uniques": 4
+        }
+      },
+      "2023-09-15": {
         "clones": {
           "count": 1,
           "uniques": 1

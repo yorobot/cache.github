@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/espana",
   "created_at": "2013-05-22T07:12:04Z",
-  "updated_at": "2023-08-24T09:14:47Z",
+  "updated_at": "2023-09-10T19:25:42Z",
   "pushed_at": "2020-12-01T05:01:16Z",
   "size": 897,
   "history": {
@@ -276,6 +276,10 @@
     "2023-09-01": {
       "stargazers_count": 64,
       "forks_count": 24
+    },
+    "2023-09-15": {
+      "stargazers_count": 65,
+      "forks_count": 24
     }
   },
   "commits": [
@@ -308,37 +312,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 113,
-        "uniques": 23
+        "count": 116,
+        "uniques": 24
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 11,
+        "uniques": 8
       },
       "paths": [
         {
-          "path": "/openfootball/espana",
-          "title": "openfootball/espana: Free open public domain football data (football.db) for ...",
-          "count": 23,
-          "uniques": 19
-        },
-        {
           "path": "/openfootball/espana/tree/master/2020-21",
           "title": "espana/2020-21 at master · openfootball/espana · GitHub",
-          "count": 21,
-          "uniques": 8
+          "count": 28,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/espana",
+          "title": "openfootball/espana: Free open public domain football data (football.db) for ...",
+          "count": 24,
+          "uniques": 21
         },
         {
           "path": "/openfootball/espana/blob/master/2020-21/1-liga.txt",
           "title": "espana/2020-21/1-liga.txt at master · openfootball/espana · GitHub",
-          "count": 10,
-          "uniques": 5
-        },
-        {
-          "path": "/openfootball/espana/blob/master/2012-13/1-liga.txt",
-          "title": "espana/2012-13/1-liga.txt at master · openfootball/espana · GitHub",
-          "count": 8,
-          "uniques": 2
+          "count": 14,
+          "uniques": 6
         },
         {
           "path": "/openfootball/espana/tree/master/2012-13",
@@ -347,69 +345,70 @@
           "uniques": 3
         },
         {
-          "path": "/openfootball/espana/blob/master/2012-13/README.md",
-          "title": "espana/2012-13/README.md at master · openfootball/espana · GitHub",
+          "path": "/openfootball/espana/blob/master/2020-21/2-liga2.txt",
+          "title": "espana/2020-21/2-liga2.txt at master · openfootball/espana · GitHub",
           "count": 7,
           "uniques": 2
         },
         {
-          "path": "/openfootball/espana/blob/master/2012-13/2-liga2.txt",
-          "title": "espana/2012-13/2-liga2.txt at master · openfootball/espana · GitHub",
-          "count": 4,
+          "path": "/openfootball/espana/tree/master",
+          "title": "espana/ at master · openfootball/espana · GitHub",
+          "count": 6,
           "uniques": 2
         },
         {
-          "path": "/openfootball/espana/blob/master/2012-13/NOTES.md",
-          "title": "espana/2012-13/NOTES.md at master · openfootball/espana · GitHub",
-          "count": 4,
-          "uniques": 2
+          "path": "/openfootball/espana/tree/master/clubs/1-names",
+          "title": "espana/clubs/1-names at master · openfootball/espana · GitHub",
+          "count": 6,
+          "uniques": 1
         },
         {
-          "path": "/openfootball/espana/blob/master/2020-21/2-liga2.txt",
-          "title": "espana/2020-21/2-liga2.txt at master · openfootball/espana · GitHub",
-          "count": 4,
-          "uniques": 2
+          "path": "/openfootball/espana/tree/master/clubs",
+          "title": "espana/clubs at master · openfootball/espana · GitHub",
+          "count": 5,
+          "uniques": 1
         },
         {
-          "path": "/openfootball/espana/tree/master/2013-14",
-          "title": "espana/2013-14 at master · openfootball/espana · GitHub",
-          "count": 4,
-          "uniques": 2
+          "path": "/openfootball/espana/blame/master/2020-21/2-liga2.txt",
+          "title": "Blaming espana/2020-21/2-liga2.txt at master · openfootball/espana · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/espana/tree/master/2014-15",
+          "title": "espana/2014-15 at master · openfootball/espana · GitHub",
+          "count": 3,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 40,
-          "uniques": 8
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 35,
-          "uniques": 2
-        },
-        {
-          "referrer": "Google",
-          "count": 11,
-          "uniques": 7
+          "count": 43,
+          "uniques": 10
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 2
+          "count": 31,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
+          "count": 24,
+          "uniques": 6
         },
         {
           "referrer": "Bing",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "referrer": "edgeservices.bing.com",
-          "count": 6,
-          "uniques": 1
+          "count": 13,
+          "uniques": 2
         },
         {
           "referrer": "footballcsv.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "blog.desdelinux.net",
           "count": 1,
           "uniques": 1
         }
@@ -5695,6 +5694,114 @@
         },
         "clones": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-09-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 26,
+          "uniques": 2
+        }
+      },
+      "2023-09-05": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-06": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-08": {
+        "views": {
+          "count": 25,
+          "uniques": 3
+        }
+      },
+      "2023-09-09": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-13": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2023-09-14": {
+        "views": {
+          "count": 28,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-02": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

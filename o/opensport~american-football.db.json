@@ -321,6 +321,10 @@
     "2023-09-01": {
       "stargazers_count": 16,
       "forks_count": 4
+    },
+    "2023-09-15": {
+      "stargazers_count": 17,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -337,7 +341,7 @@
     }
   ],
   "size": 160,
-  "updated_at": "2023-04-19T10:32:25Z",
+  "updated_at": "2023-09-06T15:35:50Z",
   "pushed_at": "2014-01-22T21:05:32Z",
   "description": "Free open public domain National Football League (NFL) database 'n' schema for use in any (programming) language e.g. uses plain text datasets",
   "language": null,
@@ -347,14 +351,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 3
+        "count": 12,
+        "uniques": 4
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
+        {
+          "path": "/opensport/american-football.db/tree/master/2013",
+          "title": "american-football.db/2013 at master · opensport/american-football.db · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
         {
           "path": "/opensport/american-football.db",
           "title": "opensport/american-football.db: Free open public domain National Football Lea...",
@@ -362,21 +372,9 @@
           "uniques": 3
         },
         {
-          "path": "/opensport/american-football.db/tree/master/2012",
-          "title": "american-football.db/2012 at master · opensport/american-football.db · GitHub",
+          "path": "/opensport/american-football.db/blob/master/es/teams.txt",
+          "title": "File not found · GitHub",
           "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/opensport/american-football.db/blob/master/2012/nfl.txt",
-          "title": "american-football.db/2012/nfl.txt at master · opensport/american-football.db ...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/opensport/american-football.db/blob/master/2013/nfl_playoffs.txt",
-          "title": "american-football.db/2013/nfl_playoffs.txt at master · opensport/american-foo...",
-          "count": 2,
           "uniques": 1
         },
         {
@@ -384,27 +382,26 @@
           "title": "american-football.db/2013/nfl.txt at master · opensport/american-football.db",
           "count": 2,
           "uniques": 1
-        },
-        {
-          "path": "/opensport/american-football.db/tree/master/2013",
-          "title": "american-football.db/2013 at master · opensport/american-football.db",
-          "count": 2,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "referrer": "Bing",
-          "count": 6,
+          "referrer": "opensport.github.io",
+          "count": 5,
           "uniques": 1
         },
         {
           "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "search.brave.com",
           "count": 1,
           "uniques": 1
         }
@@ -2041,6 +2038,40 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-09-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-09-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-12": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-09-09": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

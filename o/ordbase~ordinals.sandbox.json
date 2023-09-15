@@ -1,9 +1,9 @@
 {
   "full_name": "ordbase/ordinals.sandbox",
   "created_at": "2016-02-18T01:39:19Z",
-  "updated_at": "2023-06-13T22:00:03Z",
-  "pushed_at": "2023-05-20T18:29:57Z",
-  "size": 6136,
+  "updated_at": "2023-09-07T20:59:36Z",
+  "pushed_at": "2023-09-05T17:20:20Z",
+  "size": 6140,
   "description": "ordinals (pixel art) sandbox incl. punks & more",
   "language": "Ruby",
   "history": {
@@ -42,16 +42,20 @@
     "2023-09-01": {
       "stargazers_count": 14,
       "forks_count": 4
+    },
+    "2023-09-15": {
+      "stargazers_count": 13,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-05-20T18:29:52Z",
+        "date": "2023-09-05T17:20:16Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-05-20T18:29:52Z",
+        "date": "2023-09-05T17:20:16Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -72,35 +76,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
-        "uniques": 5
+        "count": 57,
+        "uniques": 3
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 9,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/ordbase/ordinals.sandbox/tree/master/insideordinals",
-          "title": "ordinals.sandbox/insideordinals at master · ordbase/ordinals.sandbox · GitHub",
-          "count": 11,
-          "uniques": 3
+          "title": "ordinals.sandbox/insideordinals at master · ordbase/ordinals.sandbox",
+          "count": 28,
+          "uniques": 2
         },
         {
           "path": "/ordbase/ordinals.sandbox",
           "title": "ordbase/ordinals.sandbox: ordinals (pixel art) sandbox incl. punks & more",
-          "count": 4,
-          "uniques": 3
+          "count": 8,
+          "uniques": 2
         },
         {
-          "path": "/ordbase/ordinals.sandbox/tree/master/ordinals",
-          "title": "ordinals.sandbox/ordinals at master · ordbase/ordinals.sandbox · GitHub",
-          "count": 4,
+          "path": "/ordbase/ordinals.sandbox/tree/master/insideordinals/i",
+          "title": "ordinals.sandbox/insideordinals/i at master · ordbase/ordinals.sandbox",
+          "count": 7,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordinals.sandbox/tree/master/monkeykingdom",
-          "title": "ordinals.sandbox/monkeykingdom at master · ordbase/ordinals.sandbox · GitHub",
+          "path": "/ordbase/ordinals.sandbox/blob/master/i/ordinalphunks.png",
+          "title": "ordinals.sandbox/i/ordinalphunks.png at master · ordbase/ordinals.sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.sandbox/blob/master/i/ordinalpunks.png",
+          "title": "ordinals.sandbox/i/ordinalpunks.png at master · ordbase/ordinals.sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.sandbox/blob/master/i/ordoggies.png",
+          "title": "ordinals.sandbox/i/ordoggies.png at master · ordbase/ordinals.sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.sandbox/blob/master/ordinalpunks/collection.yml",
+          "title": "ordinals.sandbox/ordinalpunks/collection.yml at master · ordbase/ordinals.san...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.sandbox/blob/master/ordinalpunks/ordinals.csv",
+          "title": "ordinals.sandbox/ordinalpunks/ordinals.csv at master · ordbase/ordinals.sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.sandbox/tree/master",
+          "title": "ordbase/ordinals.sandbox: ordinals (pixel art) sandbox incl. punks & more",
           "count": 2,
           "uniques": 1
         },
@@ -109,24 +143,13 @@
           "title": "Traffic · ordbase/ordinals.sandbox",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.sandbox/pulse",
-          "title": "Pulse · ordbase/ordinals.sandbox",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 4
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 4,
-          "uniques": 1
+          "count": 41,
+          "uniques": 3
         }
       ]
     },
@@ -816,6 +839,68 @@
         }
       },
       "2023-08-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        }
+      },
+      "2023-09-05": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-06": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-09-07": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-09-08": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-02": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-09-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-14": {
         "clones": {
           "count": 1,
           "uniques": 1

@@ -294,6 +294,10 @@
     "2023-09-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2023-09-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -317,23 +321,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 2
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/sportdb/docs",
           "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
+          "title": "docs/generating-json-datasets.md at master · sportdb/docs · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/README.md",
+          "title": "docs/README.md at master · sportdb/docs · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "sportdb.github.io",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1414,6 +1434,22 @@
       "2023-08-31": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-09-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

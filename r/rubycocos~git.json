@@ -74,6 +74,10 @@
     "2023-09-01": {
       "stargazers_count": 18,
       "forks_count": 2
+    },
+    "2023-09-15": {
+      "stargazers_count": 18,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -113,80 +117,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 49,
-        "uniques": 2
+        "count": 48,
+        "uniques": 4
       },
       "clones": {
-        "count": 13,
+        "count": 10,
         "uniques": 9
       },
       "paths": [
         {
-          "path": "/rubycocos/git",
-          "title": "rubycocos/git: git (and github) & monorepo / mono source tree command line to...",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycocos/git/tree/master/hubba-reports",
-          "title": "git/hubba-reports at master · rubycocos/git",
-          "count": 9,
+          "path": "/rubycocos/git/tree/master/gemverse",
+          "title": "git/gemverse at master · rubycocos/git",
+          "count": 12,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/git/tree/master/hubba",
-          "title": "git/hubba at master · rubycocos/git",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/git/tree/master/hubba/lib/hubba",
-          "title": "git/hubba/lib/hubba at master · rubycocos/git",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/git/blob/master/hubba/lib/hubba/stats.rb",
-          "title": "git/hubba/lib/hubba/stats.rb at master · rubycocos/git",
+          "path": "/rubycocos/git/blob/master/docs/backup-your-github-repos.md",
+          "title": "git/docs/backup-your-github-repos.md at master · rubycocos/git",
           "count": 4,
           "uniques": 1
         },
         {
           "path": "/rubycocos/git/blob/master/hubba/lib/hubba/config.rb",
           "title": "git/hubba/lib/hubba/config.rb at master · rubycocos/git",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/blob/master/hubba/lib/hubba/update_traffic.rb",
+          "title": "git/hubba/lib/hubba/update_traffic.rb at master · rubycocos/git",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/tree/master/gemverse/sandbox",
+          "title": "git/gemverse/sandbox at master · rubycocos/git",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/tree/master/flow-lite",
+          "title": "git/flow-lite at master · rubycocos/git",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/tree/master",
+          "title": "rubycocos/git: git (and github) & monorepo / mono source tree command line to...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/git/blob/master/gemverse/sandbox/generate_yo.rb",
+          "title": "git/gemverse/sandbox/generate_yo.rb at master · rubycocos/git",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git/blob/master/hubba/lib/hubba/github.rb",
+          "title": "git/hubba/lib/hubba/github.rb at master · rubycocos/git",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/rubycocos/git/blob/master/hubba/lib/hubba.rb",
           "title": "git/hubba/lib/hubba.rb at master · rubycocos/git",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/git/blob/master/docs/backup-your-github-repos.md",
-          "title": "git/docs/backup-your-github-repos.md at master · rubycocos/git",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/git/commits/master",
-          "title": "Commits · rubycocos/git",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/git/tree/master/hubba/lib",
-          "title": "git/hubba/lib at master · rubycocos/git",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 12,
+          "referrer": "reddit.com",
+          "count": 22,
           "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "referrer": "geraldb.github.io",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -780,6 +799,64 @@
         }
       },
       "2023-09-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-05": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        }
+      },
+      "2023-09-11": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-12": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-02": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-14": {
         "clones": {
           "count": 1,
           "uniques": 1

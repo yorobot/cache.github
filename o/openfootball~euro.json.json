@@ -182,6 +182,10 @@
     "2023-09-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2023-09-15": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -209,30 +213,48 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 12,
+        "uniques": 3
       },
       "clones": {
-        "count": 15,
-        "uniques": 9
+        "count": 6,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/openfootball/euro.json",
-          "title": "openfootball/euro.json: Free open public domain football data for the Europea...",
+          "title": "GitHub - openfootball/euro.json: Free open public domain football data for th...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/euro.json/tree/master/2020",
+          "title": "euro.json/2020 at master · openfootball/euro.json",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro.json/blob/master/2020/euro.groups.json",
+          "title": "euro.json/2020/euro.groups.json at master · openfootball/euro.json",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro.json/blob/master/2020/euro.json",
+          "title": "euro.json/2020/euro.json at master · openfootball/euro.json",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 2
         },
         {
-          "referrer": "github.com",
-          "count": 1,
+          "referrer": "DuckDuckGo",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2610,6 +2632,34 @@
         "clones": {
           "count": 6,
           "uniques": 3
+        }
+      },
+      "2023-09-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-10": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-13": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-09-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

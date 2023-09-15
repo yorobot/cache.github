@@ -279,6 +279,10 @@
     "2023-09-01": {
       "stargazers_count": 4,
       "forks_count": 6
+    },
+    "2023-09-15": {
+      "stargazers_count": 4,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -303,28 +307,56 @@
     "summary": {
       "paths": [
         {
-          "path": "/openfootball/world/tree/master/asia",
-          "title": "world/asia at master · openfootball/world · GitHub",
+          "path": "/openfootball/world/tree/master/europe/belgium",
+          "title": "File not found · GitHub",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/blob/master/pacific/australia/2018-19/1-aleague.txt",
+          "title": "world/pacific/australia/2018-19/1-aleague.txt at master · openfootball/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/north-america",
+          "title": "world/north-america at master · openfootball/world · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/north-america/major-league-soccer",
+          "title": "world/north-america/major-league-soccer at master · openfootball/world · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/pacific/australia/2018-19",
+          "title": "world/pacific/australia/2018-19 at master · openfootball/world",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/openfootball/world",
           "title": "openfootball/world: Free open public domain football data incl. major leagues...",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 14,
+          "uniques": 3
+        }
       ],
       "views": {
-        "count": 5,
-        "uniques": 2
+        "count": 14,
+        "uniques": 3
       },
       "clones": {
-        "count": 7,
-        "uniques": 5
+        "count": 3,
+        "uniques": 2
       }
     },
     "history": {
@@ -2590,6 +2622,30 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-09-06": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-09-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-14": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

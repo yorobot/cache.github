@@ -273,6 +273,10 @@
     "2023-09-01": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2023-09-15": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -305,65 +309,66 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 18,
-        "uniques": 6
+        "count": 27,
+        "uniques": 5
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite",
+          "title": "football.db/football-to-sqlite at master · sportdb/football.db",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
+          "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db",
+          "count": 6,
+          "uniques": 1
+        },
         {
           "path": "/sportdb/football.db",
           "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
           "count": 5,
-          "uniques": 5
+          "uniques": 4
         },
         {
-          "path": "/sportdb/football.db/tree/master/football-to-sqlite",
-          "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/lib/football-to-sqlite.rb",
+          "title": "football.db/football-to-sqlite/lib/football-to-sqlite.rb at master · sportdb/...",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/blob/0aa1f239e80b88b6337aee943cfc96435428297d/footballdb-clubs/config/clubs.wiki.txt",
-          "title": "football.db/footballdb-clubs/config/clubs.wiki.txt at 0aa1f239e80b88b6337aee9...",
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib/football-to-sqlite",
+          "title": "football.db/football-to-sqlite/lib/football-to-sqlite at master · sportdb/foo...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/lib/football-to-sqlite/version.rb",
+          "title": "football.db/football-to-sqlite/lib/football-to-sqlite/version.rb at master · ...",
           "count": 2,
           "uniques": 1
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-leagues",
-          "title": "football.db/footballdb-leagues at master · sportdb/football.db",
+          "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/pulse",
-          "title": "Pulse · sportdb/football.db · GitHub",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
+          "referrer": "github.com",
           "count": 6,
-          "uniques": 2
+          "uniques": 3
         },
         {
-          "referrer": "youtube.com",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "sportdb.github.io",
-          "count": 4,
+          "referrer": "openfootball.github.io",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -3023,6 +3028,38 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2023-09-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-09-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-14": {
+        "views": {
+          "count": 20,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
