@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2023-09-10T14:00:19Z",
+  "updated_at": "2023-10-07T13:24:49Z",
   "pushed_at": "2023-02-09T16:54:11Z",
   "size": 4191,
   "description": "blockchain (crypto) tools, libraries & scripts in ruby",
@@ -78,6 +78,10 @@
     "2023-09-15": {
       "stargazers_count": 208,
       "forks_count": 38
+    },
+    "2023-10-08": {
+      "stargazers_count": 207,
+      "forks_count": 37
     }
   },
   "commits": [
@@ -124,104 +128,114 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 221,
-        "uniques": 24
+        "count": 282,
+        "uniques": 33
       },
       "clones": {
-        "count": 208,
-        "uniques": 11
+        "count": 212,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/rubycocos/blockchain/tree/master/abicoder",
           "title": "blockchain/abicoder at master · rubycocos/blockchain",
           "count": 68,
-          "uniques": 3
+          "uniques": 2
         },
         {
           "path": "/rubycocos/blockchain",
           "title": "rubycocos/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 46,
-          "uniques": 18
+          "count": 43,
+          "uniques": 26
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/elliptic-lite",
-          "title": "blockchain/elliptic-lite at master · rubycocos/blockchain · GitHub",
+          "path": "/rubycocos/blockchain/blob/master/abiparser/sandbox/calc_interfaces.rb",
+          "title": "blockchain/abiparser/sandbox/calc_interfaces.rb at master · rubycocos/blockch...",
+          "count": 19,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/elliptic/lib/elliptic",
+          "title": "blockchain/elliptic/lib/elliptic at master · rubycocos/blockchain · GitHub",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/abiparser",
+          "title": "blockchain/abiparser at master · rubycocos/blockchain",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/abi2sol",
+          "title": "blockchain/abi2sol at master · rubycocos/blockchain",
           "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/tree/master/elliptic",
+          "title": "blockchain/elliptic at master · rubycocos/blockchain · GitHub",
+          "count": 7,
           "uniques": 3
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/abicoder/lib/abicoder",
-          "title": "blockchain/abicoder/lib/abicoder at master · rubycocos/blockchain",
-          "count": 8,
-          "uniques": 1
+          "path": "/rubycocos/blockchain/tree/master/ethlite",
+          "title": "blockchain/ethlite at master · rubycocos/blockchain",
+          "count": 7,
+          "uniques": 2
         },
         {
           "path": "/rubycocos/blockchain/tree/master/ethers",
-          "title": "blockchain/ethers at master · rubycocos/blockchain · GitHub",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/tree/master/abigen",
-          "title": "blockchain/abigen at master · rubycocos/blockchain · GitHub",
+          "title": "blockchain/ethers at master · rubycocos/blockchain",
           "count": 6,
           "uniques": 2
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/abicoder/lib",
-          "title": "blockchain/abicoder/lib at master · rubycocos/blockchain",
+          "path": "/rubycocos/blockchain/blob/master/elliptic/lib/elliptic/private_key.rb",
+          "title": "blockchain/elliptic/lib/elliptic/private_key.rb at master · rubycocos/blockch...",
           "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/tree/master/blockchain-lite",
-          "title": "blockchain/blockchain-lite at master · rubycocos/blockchain · GitHub",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/rubycocos/blockchain/graphs/traffic",
-          "title": "Traffic · rubycocos/blockchain",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/pulse",
-          "title": "Pulse · rubycocos/blockchain",
-          "count": 5,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 57,
+          "count": 45,
           "uniques": 7
         },
         {
           "referrer": "github.com",
-          "count": 40,
-          "uniques": 6
+          "count": 29,
+          "uniques": 9
         },
         {
-          "referrer": "ruby-toolbox.com",
-          "count": 3,
+          "referrer": "rubygems.org",
+          "count": 13,
+          "uniques": 5
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "referrer": "investopedia.com",
+          "count": 5,
           "uniques": 1
         },
         {
           "referrer": "rubyflow.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubydoc.info",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
-          "count": 2,
+          "referrer": "feedly.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2129,6 +2143,152 @@
         "clones": {
           "count": 14,
           "uniques": 2
+        }
+      },
+      "2023-09-25": {
+        "views": {
+          "count": 81,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-09-26": {
+        "views": {
+          "count": 19,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 2
+        }
+      },
+      "2023-09-27": {
+        "views": {
+          "count": 18,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2023-09-28": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 2
+        }
+      },
+      "2023-10-01": {
+        "views": {
+          "count": 42,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-10-02": {
+        "views": {
+          "count": 52,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-10-03": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2023-10-04": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2023-10-05": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 18,
+          "uniques": 3
+        }
+      },
+      "2023-10-06": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2023-10-07": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-10-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2023-09-24": {
+        "clones": {
+          "count": 5,
+          "uniques": 1
         }
       }
     }

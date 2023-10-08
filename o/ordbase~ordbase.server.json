@@ -1,7 +1,7 @@
 {
   "full_name": "ordbase/ordbase.server",
   "created_at": "2014-08-05T07:21:21Z",
-  "updated_at": "2023-05-07T15:43:13Z",
+  "updated_at": "2023-09-19T05:35:12Z",
   "pushed_at": "2023-09-06T13:09:25Z",
   "size": 270,
   "description": "ordbased - (zero-config) art base server for ordinal inscriptions",
@@ -46,6 +46,10 @@
     "2023-09-15": {
       "stargazers_count": 8,
       "forks_count": 6
+    },
+    "2023-10-08": {
+      "stargazers_count": 9,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -76,41 +80,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 34,
-        "uniques": 3
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 11,
-        "uniques": 8
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/ordbase/ordbase.server",
           "title": "ordbase/ordbase.server: ordbased - (zero-config) art base server for ordinal ...",
-          "count": 12,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/ordbase/ordbase.server/blob/master/collections.csv",
-          "title": "ordbase.server/collections.csv at master · ordbase/ordbase.server",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase.server/releases",
-          "title": "Releases · ordbase/ordbase.server",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase.server/tree/master/i",
-          "title": "ordbase.server/i at master · ordbase/ordbase.server",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase.server/edit/master/collections.csv",
-          "title": "Editing ordbase.server/collections.csv at master · ordbase/ordbase.server",
+          "path": "/ordbase/ordbase.server/blob/master/ordbased.go",
+          "title": "ordbase.server/ordbased.go at master · ordbase/ordbase.server",
           "count": 2,
           "uniques": 1
         }
@@ -118,13 +104,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 3
+          "count": 3,
+          "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 4,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -708,6 +694,28 @@
       "2023-09-15": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-10-05": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

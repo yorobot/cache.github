@@ -325,6 +325,10 @@
     "2023-09-15": {
       "stargazers_count": 54,
       "forks_count": 69
+    },
+    "2023-10-08": {
+      "stargazers_count": 55,
+      "forks_count": 69
     }
   },
   "commits": [
@@ -341,7 +345,7 @@
     }
   ],
   "size": 196,
-  "updated_at": "2023-03-20T12:12:20Z",
+  "updated_at": "2023-10-05T15:31:24Z",
   "pushed_at": "2020-10-15T08:04:59Z",
   "description": "jekyll starter theme w/ bootstrap (sass version)",
   "language": "HTML",
@@ -351,29 +355,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 17,
-        "uniques": 9
+        "count": 40,
+        "uniques": 19
       },
       "clones": {
-        "count": 12,
+        "count": 13,
         "uniques": 7
       },
       "paths": [
         {
           "path": "/henrythemes/jekyll-bootstrap-theme",
           "title": "henrythemes/jekyll-bootstrap-theme: jekyll starter theme w/ bootstrap (sass v...",
-          "count": 11,
-          "uniques": 9
+          "count": 24,
+          "uniques": 18
         },
         {
-          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/_config.yml",
-          "title": "jekyll-bootstrap-theme/_config.yml at master · henrythemes/jekyll-bootstrap-t...",
+          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/css",
+          "title": "jekyll-bootstrap-theme/css at master · henrythemes/jekyll-bootstrap-theme",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/tree/master/_layouts",
+          "title": "jekyll-bootstrap-theme/_layouts at master · henrythemes/jekyll-bootstrap-theme",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/css/_bootstrap.scss",
+          "title": "jekyll-bootstrap-theme/css/_bootstrap.scss at master · henrythemes/jekyll-boo...",
           "count": 2,
           "uniques": 1
         },
         {
           "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/css/style.scss",
           "title": "jekyll-bootstrap-theme/css/style.scss at master · henrythemes/jekyll-bootstra...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/henrythemes/jekyll-bootstrap-theme/blob/master/_layouts/default.html",
+          "title": "jekyll-bootstrap-theme/_layouts/default.html at master · henrythemes/jekyll-b...",
           "count": 2,
           "uniques": 1
         },
@@ -386,22 +408,37 @@
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 6
+          "referrer": "henrythemes.github.io",
+          "count": 5,
+          "uniques": 5
         },
         {
-          "referrer": "henrythemes.github.io",
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "jamstackthemes.dev",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "chirpy.cotes.page",
+          "referrer": "jekyllrb.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "reddit.com",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "referrer": "jekyllthemes.org",
           "count": 1,
           "uniques": 1
         }
@@ -5063,6 +5100,106 @@
         }
       },
       "2023-09-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-25": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-09-26": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-28": {
+        "views": {
+          "count": 18,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-04": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2023-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-08": {
         "clones": {
           "count": 1,
           "uniques": 1

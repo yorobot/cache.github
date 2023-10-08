@@ -1,28 +1,32 @@
 {
   "full_name": "s6ruby/rubidity",
   "created_at": "2015-06-27T17:28:04Z",
-  "updated_at": "2023-09-14T13:54:10Z",
-  "pushed_at": "2023-09-15T17:44:52Z",
-  "size": 159,
+  "updated_at": "2023-10-07T14:02:56Z",
+  "pushed_at": "2023-10-08T14:55:53Z",
+  "size": 545,
   "description": "Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with \"Off-Chain\" Indexer",
   "language": "Ruby",
   "history": {
     "2023-09-15": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2023-10-08": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-09-15T17:44:27Z",
-        "name": "Gerald Bauer"
+        "date": "2023-10-08T14:55:53Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2023-09-15T17:44:27Z",
+        "date": "2023-10-08T14:55:53Z",
         "name": "Gerald Bauer"
       },
-      "message": "p"
+      "message": "Update NOTES.md"
     }
   ],
   "topics": [
@@ -36,116 +40,116 @@
     "uint256"
   ],
   "languages": {
-    "Ruby": 172243,
-    "Solidity": 1571
+    "Ruby": 516866,
+    "Solidity": 17613
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 602,
-        "uniques": 46
+        "count": 2109,
+        "uniques": 77
       },
       "clones": {
-        "count": 164,
-        "uniques": 31
+        "count": 239,
+        "uniques": 32
       },
       "paths": [
         {
+          "path": "/s6ruby/rubidity/tree/master/rubidity-by-example",
+          "title": "rubidity/rubidity-by-example at master · s6ruby/rubidity · GitHub",
+          "count": 201,
+          "uniques": 23
+        },
+        {
           "path": "/s6ruby/rubidity",
-          "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts with \"Off-Chain\" ...",
-          "count": 155,
-          "uniques": 28
+          "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with ...",
+          "count": 173,
+          "uniques": 17
         },
         {
           "path": "/s6ruby/rubidity/tree/master/rubidity-typed",
           "title": "rubidity/rubidity-typed at master · s6ruby/rubidity · GitHub",
-          "count": 122,
-          "uniques": 12
+          "count": 124,
+          "uniques": 26
+        },
+        {
+          "path": "/s6ruby/rubidity/tree/master/rubidity-simulacrum",
+          "title": "rubidity/rubidity-simulacrum at master · s6ruby/rubidity · GitHub",
+          "count": 99,
+          "uniques": 6
+        },
+        {
+          "path": "/s6ruby/rubidity/blob/master/contracts/satoshidice.rb",
+          "title": "rubidity/contracts/satoshidice.rb at master · s6ruby/rubidity · GitHub",
+          "count": 59,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/rubidity/tree/master/rubidity-by-example/hello-world",
+          "title": "rubidity/rubidity-by-example/hello-world at master · s6ruby/rubidity · GitHub",
+          "count": 54,
+          "uniques": 10
         },
         {
           "path": "/s6ruby/rubidity/tree/master/rubidity",
           "title": "rubidity/rubidity at master · s6ruby/rubidity",
-          "count": 85,
-          "uniques": 11
+          "count": 52,
+          "uniques": 4
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/rubiditiy-typed",
-          "title": "rubidity/rubiditiy-typed at master · s6ruby/rubidity",
-          "count": 31,
-          "uniques": 1
+          "path": "/s6ruby/rubidity/tree/master/rubidity-contracts/abi2sol",
+          "title": "rubidity/rubidity-contracts/abi2sol at master · s6ruby/rubidity · GitHub",
+          "count": 47,
+          "uniques": 6
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-contracts",
-          "title": "rubidity/rubidity-contracts at master · s6ruby/rubidity",
-          "count": 25,
-          "uniques": 1
+          "path": "/s6ruby/rubidity/tree/master/redpaper",
+          "title": "rubidity/redpaper at master · s6ruby/rubidity · GitHub",
+          "count": 47,
+          "uniques": 4
         },
         {
-          "path": "/s6ruby/rubidity/commits/master",
-          "title": "Commits · s6ruby/rubidity",
-          "count": 23,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/rubidity/pulse",
-          "title": "Pulse · s6ruby/rubidity",
-          "count": 16,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/rubidity/tree/master",
-          "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts with \"Off-Chain\" ...",
-          "count": 15,
-          "uniques": 3
-        },
-        {
-          "path": "/s6ruby/rubidity/graphs/traffic",
-          "title": "Traffic · s6ruby/rubidity",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-contracts/lib/rubidity/contracts",
-          "title": "rubidity/rubidity-contracts/lib/rubidity/contracts at master · s6ruby/rubidity",
-          "count": 8,
-          "uniques": 1
+          "path": "/s6ruby/rubidity/blob/master/rubidity/sandbox/testtoken.rb",
+          "title": "rubidity/rubidity/sandbox/testtoken.rb at master · s6ruby/rubidity",
+          "count": 45,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 121,
-          "uniques": 3
+          "count": 322,
+          "uniques": 6
         },
         {
           "referrer": "rubyflow.com",
-          "count": 119,
-          "uniques": 23
+          "count": 233,
+          "uniques": 33
         },
         {
           "referrer": "Google",
-          "count": 26,
-          "uniques": 5
+          "count": 45,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 28,
+          "uniques": 1
         },
         {
           "referrer": "rubygems.org",
           "count": 22,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "elttucs.my.zrails.com",
-          "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
           "referrer": "feedly.com",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "t.co",
+          "count": 3,
+          "uniques": 2
         }
       ]
     },
@@ -246,6 +250,156 @@
         "clones": {
           "count": 13,
           "uniques": 5
+        }
+      },
+      "2023-09-24": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 6
+        }
+      },
+      "2023-09-25": {
+        "views": {
+          "count": 72,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 7
+        }
+      },
+      "2023-09-26": {
+        "views": {
+          "count": 126,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2023-09-27": {
+        "views": {
+          "count": 72,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 12,
+          "uniques": 8
+        }
+      },
+      "2023-09-28": {
+        "views": {
+          "count": 103,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 60,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2023-09-30": {
+        "views": {
+          "count": 112,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 30,
+          "uniques": 4
+        }
+      },
+      "2023-10-01": {
+        "views": {
+          "count": 108,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 7
+        }
+      },
+      "2023-10-02": {
+        "views": {
+          "count": 246,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 30,
+          "uniques": 12
+        }
+      },
+      "2023-10-03": {
+        "views": {
+          "count": 432,
+          "uniques": 21
+        },
+        "clones": {
+          "count": 40,
+          "uniques": 9
+        }
+      },
+      "2023-10-04": {
+        "views": {
+          "count": 238,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2023-10-05": {
+        "views": {
+          "count": 115,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 6
+        }
+      },
+      "2023-10-06": {
+        "views": {
+          "count": 183,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2023-10-07": {
+        "views": {
+          "count": 116,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 32,
+          "uniques": 10
+        }
+      },
+      "2023-10-08": {
+        "views": {
+          "count": 111,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 3
         }
       }
     }

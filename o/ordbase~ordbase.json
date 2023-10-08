@@ -1,7 +1,7 @@
 {
   "full_name": "ordbase/ordbase",
   "created_at": "2014-02-07T15:55:57Z",
-  "updated_at": "2023-09-08T17:03:17Z",
+  "updated_at": "2023-09-18T14:45:04Z",
   "pushed_at": "2023-08-20T15:09:51Z",
   "size": 9407,
   "description": "Ordinal inscription command line tools, machinery & helpers for Bitcoin, Litcoin, Dogecoin & Co.",
@@ -46,6 +46,10 @@
     "2023-09-15": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2023-10-08": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -77,90 +81,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 129,
-        "uniques": 7
+        "count": 42,
+        "uniques": 4
       },
       "clones": {
-        "count": 12,
-        "uniques": 6
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md",
-          "title": "ordbase/programming-ordinals/sub1k.md at master · ordbase/ordbase",
-          "count": 23,
+          "path": "/ordbase/ordbase/tree/master/ordinals",
+          "title": "ordbase/ordinals at master · ordbase/ordbase",
+          "count": 10,
           "uniques": 3
         },
         {
-          "path": "/ordbase/ordbase/tree/master/ordinals",
-          "title": "ordbase/ordinals at master · ordbase/ordbase · GitHub",
-          "count": 16,
-          "uniques": 5
-        },
-        {
-          "path": "/ordbase/ordbase",
-          "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 11,
-          "uniques": 5
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/programming-ordinals",
-          "title": "ordbase/programming-ordinals at master · ordbase/ordbase · GitHub",
-          "count": 8,
-          "uniques": 4
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordlite",
-          "title": "ordbase/ordlite at master · ordbase/ordbase",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordbase",
-          "title": "ordbase/ordbase at master · ordbase/ordbase",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/satsnames",
-          "title": "ordbase/satsnames at master · ordbase/ordbase",
-          "count": 5,
+          "path": "/ordbase/ordbase/tree/master/ordinals/lib",
+          "title": "ordbase/ordinals/lib at master · ordbase/ordbase",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/ordbase/ordbase/tree/master/ordinals/lib/ordinals",
           "title": "ordbase/ordinals/lib/ordinals at master · ordbase/ordbase",
           "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/ltc_sub1k.md",
-          "title": "ordbase/programming-ordinals/ltc_sub1k.md at master · ordbase/ordbase",
-          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase/tree/master/programming-ordinals/meta",
-          "title": "ordbase/programming-ordinals/meta at master · ordbase/ordbase",
-          "count": 4,
+          "path": "/ordbase/ordbase/tree/master/ordbase",
+          "title": "ordbase/ordbase at master · ordbase/ordbase",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/tree/master/programming-ordinals",
+          "title": "ordbase/programming-ordinals at master · ordbase/ordbase",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/tree/master/unisat",
+          "title": "ordbase/unisat at master · ordbase/ordbase",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase",
+          "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/ordinals/lib/ordinals/api.rb",
+          "title": "ordbase/ordinals/lib/ordinals/api.rb at master · ordbase/ordbase",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/ordinals/lib/ordinals.rb",
+          "title": "ordbase/ordinals/lib/ordinals.rb at master · ordbase/ordbase",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/README.md",
+          "title": "ordbase/README.md at master · ordbase/ordbase",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 30,
-          "uniques": 4
-        },
-        {
-          "referrer": "Google",
-          "count": 7,
+          "count": 37,
           "uniques": 2
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 2,
-          "uniques": 1
         }
       ]
     },
@@ -1082,6 +1076,44 @@
       "2023-09-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-26": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-10-01": {
+        "views": {
+          "count": 33,
+          "uniques": 1
+        }
+      },
+      "2023-10-04": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-27": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

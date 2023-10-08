@@ -1,9 +1,9 @@
 {
   "full_name": "s6ruby/redpaper",
   "created_at": "2019-02-08T19:06:20Z",
-  "updated_at": "2022-04-08T14:41:28Z",
-  "pushed_at": "2019-04-11T15:49:20Z",
-  "size": 84,
+  "updated_at": "2023-10-02T18:56:28Z",
+  "pushed_at": "2023-10-02T18:52:48Z",
+  "size": 44,
   "history": {
     "2019-04-17": {
       "stargazers_count": 11
@@ -289,19 +289,23 @@
     "2023-09-15": {
       "stargazers_count": 20,
       "forks_count": 0
+    },
+    "2023-10-08": {
+      "stargazers_count": 21,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2019-04-11T15:49:19Z",
+        "date": "2023-10-02T18:52:48Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2019-04-11T15:49:19Z",
+        "date": "2023-10-02T18:52:48Z",
         "name": "Gerald Bauer"
       },
-      "message": "up maps and arrays"
+      "message": "Update README.md"
     }
   ],
   "description": "Red Paper ++ sruby - Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby - The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain World Computer - Yes, It's Just Ruby",
@@ -314,36 +318,90 @@
     "solidity",
     "universum",
     "yul",
-    "vyper"
+    "vyper",
+    "rubidity"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 7
+        "count": 101,
+        "uniques": 9
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 46,
+        "uniques": 23
       },
       "paths": [
         {
           "path": "/s6ruby/redpaper",
           "title": "s6ruby/redpaper: Red Paper ++ sruby - Small, Smart, Secure, Safe, Solid & Sou...",
-          "count": 13,
-          "uniques": 7
+          "count": 50,
+          "uniques": 8
+        },
+        {
+          "path": "/s6ruby/redpaper/blob/master/README.md",
+          "title": "redpaper/README.md at master · s6ruby/redpaper",
+          "count": 15,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/edit/master/README.md",
+          "title": "Editing redpaper/README.md at master · s6ruby/redpaper",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/tree/master",
+          "title": "s6ruby/redpaper: Red Paper ++ sruby - Small, Smart, Secure, Safe, Solid & Sou...",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/blob/master/README.V0.md",
+          "title": "redpaper/README.V0.md at master · s6ruby/redpaper",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/graphs/traffic",
+          "title": "Traffic · s6ruby/redpaper",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/pulse",
+          "title": "Pulse · s6ruby/redpaper",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/stargazers",
+          "title": "Stargazers · s6ruby/redpaper",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/redpaper/blob/master/LICENSE.md",
+          "title": "redpaper/LICENSE.md at master · s6ruby/redpaper",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubyflow.com",
-          "count": 5,
-          "uniques": 3
+          "referrer": "github.com",
+          "count": 58,
+          "uniques": 2
         },
         {
-          "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "referrer": "rubyflow.com",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
         }
       ]
     },
@@ -1528,6 +1586,86 @@
       },
       "2023-09-13": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-28": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 10
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-30": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-10-01": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-02": {
+        "views": {
+          "count": 49,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 27,
+          "uniques": 11
+        }
+      },
+      "2023-10-03": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-10-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-08": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

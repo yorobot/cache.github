@@ -289,6 +289,10 @@
     "2023-09-15": {
       "stargazers_count": 18,
       "forks_count": 2
+    },
+    "2023-10-08": {
+      "stargazers_count": 18,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -320,71 +324,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 58,
-        "uniques": 7
+        "count": 127,
+        "uniques": 2
       },
       "clones": {
-        "count": 4,
-        "uniques": 2
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
-          "path": "/s6ruby/universum",
-          "title": "s6ruby/universum: universum library / gem (ruby edition) - next generation et...",
-          "count": 9,
-          "uniques": 6
-        },
-        {
           "path": "/s6ruby/universum/blob/master/WHITEPAPER.md",
           "title": "universum/WHITEPAPER.md at master · s6ruby/universum · GitHub",
-          "count": 9,
-          "uniques": 4
-        },
-        {
-          "path": "/s6ruby/universum/tree/master/ruby-to-michelson",
-          "title": "universum/ruby-to-michelson at master · s6ruby/universum",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/s6ruby/universum/tree/master/ruby-to-solidity",
-          "title": "universum/ruby-to-solidity at master · s6ruby/universum",
-          "count": 6,
+          "count": 32,
           "uniques": 2
         },
         {
-          "path": "/s6ruby/universum/tree/master/pragmas/lib",
-          "title": "universum/pragmas/lib at master · s6ruby/universum",
-          "count": 3,
+          "path": "/s6ruby/universum/tree/master/safestruct",
+          "title": "universum/safestruct at master · s6ruby/universum",
+          "count": 18,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/universum/tree/master/pragmas/lib/pragmas",
-          "title": "universum/pragmas/lib/pragmas at master · s6ruby/universum",
-          "count": 3,
+          "path": "/s6ruby/universum",
+          "title": "s6ruby/universum: universum library / gem (ruby edition) - next generation et...",
+          "count": 16,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/universum/tree/master/universum",
+          "title": "universum/universum at master · s6ruby/universum",
+          "count": 11,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/universum/blob/master/pragmas/lib/pragmas.rb",
-          "title": "universum/pragmas/lib/pragmas.rb at master · s6ruby/universum",
-          "count": 2,
+          "path": "/s6ruby/universum/tree/master/universum-contracts",
+          "title": "universum/universum-contracts at master · s6ruby/universum",
+          "count": 11,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/universum/blob/master/pragmas/lib/pragmas/version.rb",
-          "title": "universum/pragmas/lib/pragmas/version.rb at master · s6ruby/universum",
-          "count": 2,
+          "path": "/s6ruby/universum/tree/master/universum-contracts/ballot",
+          "title": "universum/universum-contracts/ballot at master · s6ruby/universum",
+          "count": 6,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/universum/blob/master/units-money/lib/units-money.rb",
-          "title": "universum/units-money/lib/units-money.rb at master · s6ruby/universum",
-          "count": 2,
+          "path": "/s6ruby/universum/blob/master/universum-contracts/ballot/ballot.rb",
+          "title": "universum/universum-contracts/ballot/ballot.rb at master · s6ruby/universum",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/universum/blob/master/units-time/lib/units-time.rb",
-          "title": "universum/units-time/lib/units-time.rb at master · s6ruby/universum",
+          "path": "/s6ruby/universum/blob/master/universum-contracts/piggybank/piggybank.rb",
+          "title": "universum/universum-contracts/piggybank/piggybank.rb at master · s6ruby/unive...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/tree/master/pragmas",
+          "title": "universum/pragmas at master · s6ruby/universum",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/universum/blob/master/safestruct/lib/safestruct.rb",
+          "title": "universum/safestruct/lib/safestruct.rb at master · s6ruby/universum",
           "count": 2,
           "uniques": 1
         }
@@ -392,8 +396,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 18,
-          "uniques": 4
+          "count": 53,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 10,
+          "uniques": 2
         }
       ]
     },
@@ -2198,6 +2207,74 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2023-09-25": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2023-09-26": {
+        "views": {
+          "count": 61,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-27": {
+        "views": {
+          "count": 43,
+          "uniques": 1
+        }
+      },
+      "2023-09-28": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-09-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-10-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-10-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

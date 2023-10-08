@@ -325,6 +325,10 @@
     "2023-09-15": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2023-10-08": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -351,18 +355,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 8,
+        "uniques": 2
       },
       "clones": {
         "count": 2,
-        "uniques": 1
+        "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/openfootball/schema",
+          "title": "GitHub - openfootball/schema: football.db database schema docu",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/schema/blob/master/_config.yml",
+          "title": "schema/_config.yml at master · openfootball/schema · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/schema/blob/master/index.html",
+          "title": "schema/index.html at master · openfootball/schema · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/schema/blob/master/symbols.html",
+          "title": "schema/symbols.html at master · openfootball/schema · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1113,6 +1144,28 @@
       "2023-09-08": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-28": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-02": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

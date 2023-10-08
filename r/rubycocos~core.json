@@ -78,6 +78,10 @@
     "2023-09-15": {
       "stargazers_count": 8,
       "forks_count": 2
+    },
+    "2023-10-08": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -109,83 +113,79 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
-        "uniques": 3
+        "count": 58,
+        "uniques": 2
       },
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 10,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/rubycocos/core/tree/master/iniparser",
-          "title": "core/iniparser at master · rubycocos/core",
-          "count": 5,
+          "path": "/rubycocos/core/tree/master/enums",
+          "title": "core/enums at master · rubycocos/core",
+          "count": 13,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/safebool",
+          "title": "core/safebool at master · rubycocos/core",
+          "count": 12,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/blob/master/safebool/lib/safebool.rb",
+          "title": "core/safebool/lib/safebool.rb at master · rubycocos/core",
+          "count": 6,
           "uniques": 1
         },
         {
           "path": "/rubycocos/core",
           "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
-          "count": 4,
-          "uniques": 3
+          "count": 5,
+          "uniques": 2
         },
         {
-          "path": "/rubycocos/core/tree/master/typesig",
-          "title": "core/typesig at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/lib/enums/enum.rb",
+          "title": "core/enums/lib/enums/enum.rb at master · rubycocos/core",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/blob/master/typesig/lib/typesig.rb",
-          "title": "core/typesig/lib/typesig.rb at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/lib/enums/enum_builder.rb",
+          "title": "core/enums/lib/enums/enum_builder.rb at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/hexutils",
-          "title": "core/hexutils at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/lib/enums.rb",
+          "title": "core/enums/lib/enums.rb at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/props",
-          "title": "core/props at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/enums/NOTES.md",
+          "title": "core/enums/NOTES.md at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/typesig/lib",
-          "title": "core/typesig/lib at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/safebool/lib/safebool/version.rb",
+          "title": "core/safebool/lib/safebool/version.rb at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/typesigs",
-          "title": "core/typesigs at master · rubycocos/core",
+          "path": "/rubycocos/core/tree/master/enums/lib",
+          "title": "core/enums/lib at master · rubycocos/core",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/core/tree/master",
-          "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 15,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "geraldb.github.io",
-          "count": 2,
+          "count": 19,
           "uniques": 1
         }
       ]
@@ -762,6 +762,68 @@
         }
       },
       "2023-09-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-29": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-01": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-05": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        }
+      },
+      "2023-10-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-26": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-09-27": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-02": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-07": {
         "clones": {
           "count": 1,
           "uniques": 1

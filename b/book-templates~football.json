@@ -325,6 +325,10 @@
     "2023-09-15": {
       "stargazers_count": 1,
       "forks_count": 2
+    },
+    "2023-10-08": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -351,18 +355,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/book-templates/football/tree/gh-pages/_templates",
+          "title": "football/_templates at gh-pages · book-templates/football",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/football/blob/gh-pages/_templates/about.md",
+          "title": "football/_templates/about.md at gh-pages · book-templates/football",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/football",
+          "title": "book-templates/football: Football Almanac Book Template",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 7,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -907,6 +932,18 @@
       "2023-09-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-09-26": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-10-07": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }
