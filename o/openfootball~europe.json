@@ -275,6 +275,10 @@
     "2023-10-08": {
       "stargazers_count": 15,
       "forks_count": 11
+    },
+    "2023-10-15": {
+      "stargazers_count": 15,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -298,19 +302,55 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 3
+        "count": 34,
+        "uniques": 8
       },
       "clones": {
-        "count": 11,
-        "uniques": 6
+        "count": 16,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/openfootball/europe",
           "title": "openfootball/europe: Free open public domain football data for Europe (incl. ...",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/europe/blob/master/france/2020-21/1-ligue1.txt",
+          "title": "europe/france/2020-21/1-ligue1.txt at master · openfootball/europe · GitHub",
           "count": 4,
-          "uniques": 3
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/europe/tree/master/france/2020-21",
+          "title": "europe/france/2020-21 at master · openfootball/europe · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/europe/tree/master/belgium",
+          "title": "europe/belgium at master · openfootball/europe · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/europe/tree/master/france",
+          "title": "europe/france at master · openfootball/europe",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/europe/tree/master/belgium/2020-21",
+          "title": "europe/belgium/2020-21 at master · openfootball/europe · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/europe/tree/master/greece",
+          "title": "europe/greece at master · openfootball/europe",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/openfootball/europe/commits/master",
@@ -321,9 +361,19 @@
       ],
       "referrers": [
         {
+          "referrer": "openfootball.github.io",
+          "count": 13,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "referrer": "jokecamp.com",
-          "count": 4,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         },
         {
           "referrer": "github.com",
@@ -4639,6 +4689,50 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-10-10": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-10-11": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-10-15": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

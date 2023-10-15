@@ -281,6 +281,10 @@
     "2023-10-08": {
       "stargazers_count": 8,
       "forks_count": 1
+    },
+    "2023-10-15": {
+      "stargazers_count": 8,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -313,88 +317,54 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 22,
+        "count": 15,
         "uniques": 3
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 11,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/sportdb/football.db",
-          "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
-          "count": 4,
+          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
+          "count": 3,
           "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-clubs/config/clubs.txt",
-          "title": "football.db/footballdb-clubs/config/clubs.txt at master · sportdb/football.db",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-clubs/config/clubs.wiki.txt",
-          "title": "football.db/footballdb-clubs/config/clubs.wiki.txt at master · sportdb/footba...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/config/leagues.txt",
-          "title": "football.db/footballdb-leagues/config/leagues.txt at master · sportdb/footbal...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/football-to-psql/CHANGELOG.md",
-          "title": "football.db/football-to-psql/CHANGELOG.md at master · sportdb/football.db · G...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/fifa",
-          "title": "football.db/fifa at master · sportdb/football.db · GitHub",
-          "count": 2,
-          "uniques": 1
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-leagues",
           "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb",
+          "title": "football.db/footballdb-leagues/lib/footballdb at master · sportdb/football.db...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb/leagues",
+          "title": "football.db/footballdb-leagues/lib/footballdb/leagues at master · sportdb/foo...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/tree/master/football-to-psql",
-          "title": "football.db/football-to-psql at master · sportdb/football.db · GitHub",
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite",
+          "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "planetruby.github.io",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -3120,6 +3090,48 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2023-10-10": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-12": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

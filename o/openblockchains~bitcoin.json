@@ -226,6 +226,10 @@
     "2023-10-08": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2023-10-15": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -258,14 +262,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 8,
+        "uniques": 3
       },
       "clones": {
-        "count": 6,
-        "uniques": 4
+        "count": 11,
+        "uniques": 7
       },
       "paths": [
+        {
+          "path": "/openblockchains/bitcoin/tree/master/v0.1.0",
+          "title": "bitcoin/v0.1.0 at master · openblockchains/bitcoin · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/bitcoin",
+          "title": "openblockchains/bitcoin: Bitcoin! Bitcoin! Bitcoin! Q: Dear sir, how do I get...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/bitcoin/tree/master/v0.1.0/src",
+          "title": "bitcoin/v0.1.0/src at master · openblockchains/bitcoin · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
         {
           "path": "/openblockchains/bitcoin/pulls",
           "title": "Pull requests · openblockchains/bitcoin · GitHub",
@@ -274,7 +296,11 @@
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1624,6 +1650,36 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-10-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-12": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-10-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-13": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

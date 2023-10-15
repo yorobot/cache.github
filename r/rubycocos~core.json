@@ -82,6 +82,10 @@
     "2023-10-08": {
       "stargazers_count": 8,
       "forks_count": 2
+    },
+    "2023-10-15": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -113,20 +117,14 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 58,
+        "count": 48,
         "uniques": 2
       },
       "clones": {
-        "count": 10,
-        "uniques": 7
+        "count": 12,
+        "uniques": 8
       },
       "paths": [
-        {
-          "path": "/rubycocos/core/tree/master/enums",
-          "title": "core/enums at master · rubycocos/core",
-          "count": 13,
-          "uniques": 1
-        },
         {
           "path": "/rubycocos/core/tree/master/safebool",
           "title": "core/safebool at master · rubycocos/core",
@@ -142,32 +140,8 @@
         {
           "path": "/rubycocos/core",
           "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
-          "count": 5,
+          "count": 2,
           "uniques": 2
-        },
-        {
-          "path": "/rubycocos/core/blob/master/enums/lib/enums/enum.rb",
-          "title": "core/enums/lib/enums/enum.rb at master · rubycocos/core",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/core/blob/master/enums/lib/enums/enum_builder.rb",
-          "title": "core/enums/lib/enums/enum_builder.rb at master · rubycocos/core",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/core/blob/master/enums/lib/enums.rb",
-          "title": "core/enums/lib/enums.rb at master · rubycocos/core",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/core/blob/master/enums/NOTES.md",
-          "title": "core/enums/NOTES.md at master · rubycocos/core",
-          "count": 2,
-          "uniques": 1
         },
         {
           "path": "/rubycocos/core/blob/master/safebool/lib/safebool/version.rb",
@@ -176,18 +150,20 @@
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/enums/lib",
-          "title": "core/enums/lib at master · rubycocos/core",
+          "path": "/rubycocos/core/tree/master/safebool/lib",
+          "title": "core/safebool/lib at master · rubycocos/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/safebool/lib/safebool",
+          "title": "core/safebool/lib/safebool at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 19,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -824,6 +800,36 @@
         }
       },
       "2023-10-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-15": {
+        "views": {
+          "count": 22,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-10-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-14": {
         "clones": {
           "count": 1,
           "uniques": 1

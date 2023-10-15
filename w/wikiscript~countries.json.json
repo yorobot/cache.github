@@ -246,6 +246,10 @@
     "2023-10-08": {
       "stargazers_count": 12,
       "forks_count": 0
+    },
+    "2023-10-15": {
+      "stargazers_count": 12,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -271,26 +275,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 10,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/wikiscript/countries.json",
           "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
-          "count": 1,
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/_source",
+          "title": "countries.json/_source at master · wikiscript/countries.json",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 5,
+          "uniques": 3
         }
       ]
     },
@@ -1546,6 +1556,42 @@
       "2023-10-06": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-10-10": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-10-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-15": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -246,6 +246,10 @@
     "2023-10-08": {
       "stargazers_count": 61,
       "forks_count": 25
+    },
+    "2023-10-15": {
+      "stargazers_count": 61,
+      "forks_count": 25
     }
   },
   "commits": [
@@ -278,12 +282,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
+        "count": 9,
         "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 10,
+        "uniques": 7
       },
       "paths": [
         {
@@ -291,12 +295,29 @@
           "title": "openblockchains/awesome-diem: A collection about all things Diem (formerly Li...",
           "count": 5,
           "uniques": 3
+        },
+        {
+          "path": "/openblockchains/awesome-diem/tree/master/contracts",
+          "title": "awesome-diem/contracts at master · openblockchains/awesome-diem",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openblockchains/awesome-diem/tree/master/contracts/snippets",
+          "title": "awesome-diem/contracts/snippets at master · openblockchains/awesome-diem",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
           "uniques": 2
         }
       ]
@@ -3786,6 +3807,30 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-10-11": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-10": {
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-10-12": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

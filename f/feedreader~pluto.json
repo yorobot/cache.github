@@ -329,6 +329,10 @@
     "2023-10-08": {
       "stargazers_count": 187,
       "forks_count": 16
+    },
+    "2023-10-15": {
+      "stargazers_count": 187,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -368,31 +372,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 30,
-        "uniques": 17
+        "count": 14,
+        "uniques": 11
       },
       "clones": {
-        "count": 14,
+        "count": 16,
         "uniques": 6
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 13,
-          "uniques": 10
+          "count": 7,
+          "uniques": 6
         },
         {
           "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/feedreader/pluto/issues/39",
-          "title": "Feeds requiring cookie support · Issue #39 · feedreader/pluto · GitHub",
-          "count": 2,
-          "uniques": 2
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
+          "count": 4,
+          "uniques": 4
         },
         {
           "path": "/feedreader/pluto/tree/master/opmlparser",
@@ -401,38 +399,8 @@
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/pluto-models",
-          "title": "pluto/pluto-models at master · feedreader/pluto",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commit/5105cef814c52ac9da9d2323da4e3e88fac3223c",
-          "title": "up date-formatter · feedreader/pluto@5105cef",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/graphs/contributors",
-          "title": "Contributors to feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues/31",
-          "title": "error: SSL_connect · Issue #31 · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/network",
-          "title": "Network Graph · feedreader/pluto · GitHub",
+          "path": "/feedreader/pluto/issues/33",
+          "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
           "count": 1,
           "uniques": 1
         }
@@ -440,17 +408,17 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 10,
+          "count": 5,
           "uniques": 5
-        },
-        {
-          "referrer": "github.com",
-          "count": 8,
-          "uniques": 7
         },
         {
           "referrer": "rubygems.org",
           "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
           "uniques": 2
         },
         {
@@ -4713,6 +4681,48 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-10": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

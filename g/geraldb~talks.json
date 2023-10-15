@@ -329,6 +329,10 @@
     "2023-10-08": {
       "stargazers_count": 214,
       "forks_count": 17
+    },
+    "2023-10-15": {
+      "stargazers_count": 214,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -355,14 +359,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 49,
-        "uniques": 15
+        "count": 75,
+        "uniques": 21
       },
       "clones": {
-        "count": 9,
-        "uniques": 5
+        "count": 8,
+        "uniques": 4
       },
       "paths": [
+        {
+          "path": "/geraldb/talks/blob/master/factbook.md",
+          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
+          "count": 13,
+          "uniques": 5
+        },
         {
           "path": "/geraldb/talks/blob/master/bool.md",
           "title": "talks/bool.md at master · geraldb/talks",
@@ -370,22 +380,28 @@
           "uniques": 1
         },
         {
-          "path": "/geraldb/talks/blob/master/factbook.md",
-          "title": "talks/factbook.md at master · geraldb/talks",
-          "count": 10,
+          "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
+          "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks · GitHub",
+          "count": 9,
           "uniques": 3
         },
         {
           "path": "/geraldb/talks/blob/master/football_db_intro.md",
           "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
-          "count": 7,
+          "count": 8,
           "uniques": 2
+        },
+        {
+          "path": "/geraldb/talks/blob/master/insidepunks.md",
+          "title": "talks/insidepunks.md at master · geraldb/talks",
+          "count": 6,
+          "uniques": 1
         },
         {
           "path": "/geraldb/talks",
           "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
-          "count": 3,
-          "uniques": 3
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/geraldb/talks/blame/master/football_db_intro.md",
@@ -394,8 +410,14 @@
           "uniques": 1
         },
         {
-          "path": "/geraldb/talks/blob/master/blockchain.md",
-          "title": "talks/blockchain.md at master · geraldb/talks",
+          "path": "/geraldb/talks/blob/d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2/hyperledger.md",
+          "title": "talks/hyperledger.md at d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2 · geraldb/ta...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/talks/blob/d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2/staticgen.md",
+          "title": "talks/staticgen.md at d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2 · geraldb/talks",
           "count": 2,
           "uniques": 1
         },
@@ -404,41 +426,23 @@
           "title": "talks/fabcar.md at master · geraldb/talks · GitHub",
           "count": 2,
           "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/groovy.md",
-          "title": "talks/groovy.md at master · geraldb/talks",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/insideordinals.md",
-          "title": "talks/insideordinals.md at master · geraldb/talks",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/jekyll_vs_middleman.md",
-          "title": "talks/jekyll_vs_middleman.md at master · geraldb/talks · GitHub",
-          "count": 2,
-          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 24,
+          "uniques": 10
+        },
+        {
           "referrer": "openfootball.github.io",
-          "count": 11,
-          "uniques": 3
+          "count": 19,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 10,
-          "uniques": 4
-        },
-        {
-          "referrer": "github.com",
-          "count": 9,
-          "uniques": 5
+          "count": 6,
+          "uniques": 3
         },
         {
           "referrer": "forum.middlemanapp.com",
@@ -5229,6 +5233,50 @@
       "2023-10-06": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-09": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-10": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-11": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2023-10-13": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2023-10-14": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2023-10-15": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }
