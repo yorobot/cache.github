@@ -319,6 +319,10 @@
     "2023-10-15": {
       "stargazers_count": 17,
       "forks_count": 3
+    },
+    "2023-11-01": {
+      "stargazers_count": 17,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -344,18 +348,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
-      },
-      "clones": {
-        "count": 2,
+        "count": 5,
         "uniques": 1
       },
+      "clones": {
+        "count": 3,
+        "uniques": 3
+      },
       "paths": [
-
+        {
+          "path": "/yukimotopress/http/blob/master/fetcher.md",
+          "title": "http/fetcher.md at master · yukimotopress/http",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/http/blob/master/index.md",
+          "title": "http/index.md at master · yukimotopress/http",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/http",
+          "title": "yukimotopress/http: Net::HTTP by Example / Net::HTTP Cheat Sheet (Book Editio...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "yukimotopress.github.io",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1078,6 +1103,36 @@
       "2023-10-09": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-10-29": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-01": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

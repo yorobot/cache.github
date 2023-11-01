@@ -333,6 +333,10 @@
     "2023-10-15": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2023-11-01": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -359,25 +363,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 8,
         "uniques": 1
       },
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       },
       "paths": [
         {
-          "path": "/sportlogos/football.db.logos",
-          "title": "GitHub - sportlogos/football.db.logos: football league club logos",
-          "count": 1,
+          "path": "/sportlogos/football.db.logos/tree/master/europe",
+          "title": "football.db.logos/europe at master · sportlogos/football.db.logos",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/football.db.logos/tree/master/europe/tr-turkey",
+          "title": "football.db.logos/europe/tr-turkey at master · sportlogos/football.db.logos",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/football.db.logos/blob/master/europe/tr-turkey/galatasaray.png",
+          "title": "football.db.logos/europe/tr-turkey/galatasaray.png at master · sportlogos/foo...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "github.com",
+          "count": 8,
           "uniques": 1
         }
       ]
@@ -1628,6 +1644,24 @@
         },
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-28": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2023-10-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-31": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -86,6 +86,10 @@
     "2023-10-15": {
       "stargazers_count": 18,
       "forks_count": 2
+    },
+    "2023-11-01": {
+      "stargazers_count": 18,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -125,34 +129,50 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
+        "count": 6,
         "uniques": 4
       },
       "clones": {
-        "count": 17,
-        "uniques": 10
+        "count": 9,
+        "uniques": 8
       },
       "paths": [
         {
-          "path": "/rubycocos/git",
-          "title": "rubycocos/git: git (and github) & monorepo / mono source tree command line to...",
+          "path": "/rubycocos/git/blob/master/docs/backup-your-github-repos.md",
+          "title": "git/docs/backup-your-github-repos.md at master · rubycocos/git · GitHub",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/rubycocos/git/issues",
-          "title": "Issues · rubycocos/git · GitHub",
+          "path": "/rubycocos/git/tree/master/gemverse",
+          "title": "git/gemverse at master · rubycocos/git",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/git",
+          "title": "rubycocos/git: git (and github) & monorepo / mono source tree command line to...",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/rubycocos/git/pulls",
-          "title": "Pull requests · rubycocos/git · GitHub",
+          "title": "Pull requests · rubycocos/git",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "rubygems.org",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
         {
           "referrer": "github.com",
           "count": 1,
@@ -877,6 +897,52 @@
         "clones": {
           "count": 4,
           "uniques": 3
+        }
+      },
+      "2023-10-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-26": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-10-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-20": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-10-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-25": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-11-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

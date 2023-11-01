@@ -333,6 +333,10 @@
     "2023-10-15": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2023-11-01": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -359,18 +363,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 1
       },
       "clones": {
-        "count": 7,
-        "uniques": 5
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema.sql",
+          "title": "openbeer/schema.sql: beer.db database schema (tables, views, etc.) scripts (i...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1954,6 +1973,18 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2023-10-19": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-10-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

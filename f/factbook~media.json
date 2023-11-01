@@ -226,6 +226,10 @@
     "2023-10-15": {
       "stargazers_count": 11,
       "forks_count": 2
+    },
+    "2023-11-01": {
+      "stargazers_count": 11,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -249,14 +253,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 17,
-        "uniques": 3
+        "count": 22,
+        "uniques": 4
       },
       "clones": {
-        "count": 11,
-        "uniques": 8
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
+        {
+          "path": "/factbook/media",
+          "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
+          "count": 4,
+          "uniques": 3
+        },
         {
           "path": "/factbook/media/tree/master/maps",
           "title": "media/maps at master · factbook/media · GitHub",
@@ -264,20 +274,20 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/maps/nl.png",
-          "title": "media/maps/nl.png at master · factbook/media · GitHub",
+          "path": "/factbook/media/tree/master/locators",
+          "title": "media/locators at master · factbook/media · GitHub",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/factbook/media",
-          "title": "GitHub - factbook/media: World Factbook Media - Flags, Maps, Locators",
+          "path": "/factbook/media/blob/master/locators/aa.png",
+          "title": "media/locators/aa.png at master · factbook/media · GitHub",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/maps/nn.png",
-          "title": "media/maps/nn.png at master · factbook/media · GitHub",
+          "path": "/factbook/media/blob/master/maps/aa.png",
+          "title": "media/maps/aa.png at master · factbook/media · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -285,11 +295,16 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 10,
+          "count": 7,
           "uniques": 1
         },
         {
           "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "quora.com",
           "count": 1,
           "uniques": 1
         }
@@ -1514,6 +1529,34 @@
         "clones": {
           "count": 5,
           "uniques": 3
+        }
+      },
+      "2023-10-19": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-30": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-11-01": {
+        "views": {
+          "count": 7,
+          "uniques": 1
         }
       }
     }

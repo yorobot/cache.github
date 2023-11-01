@@ -1,7 +1,7 @@
 {
   "full_name": "beerkit/beer.db",
   "created_at": "2013-03-28T22:26:19Z",
-  "size": 260,
+  "size": 254,
   "history": {
     "2017-06-18": {
       "stargazers_count": 19
@@ -328,23 +328,27 @@
     "2023-10-15": {
       "stargazers_count": 37,
       "forks_count": 1
+    },
+    "2023-11-01": {
+      "stargazers_count": 37,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-08-31T16:14:11Z",
+        "date": "2023-10-28T07:18:49Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2017-08-31T16:14:11Z",
+        "date": "2023-10-28T07:18:49Z",
         "name": "Gerald Bauer"
       },
-      "message": "add favicon"
+      "message": "up"
     }
   ],
-  "updated_at": "2023-06-27T16:38:12Z",
-  "pushed_at": "2017-08-31T16:14:21Z",
+  "updated_at": "2023-10-28T07:18:58Z",
+  "pushed_at": "2023-10-28T07:18:54Z",
   "description": "beerdb gems - open beer database (beer.db) command line tool and libraries ",
   "language": "Ruby",
   "topics": [
@@ -361,49 +365,79 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
-        "uniques": 8
+        "count": 32,
+        "uniques": 2
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 16,
+        "uniques": 14
       },
       "paths": [
         {
-          "path": "/beerkit/beer.db",
-          "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
-          "count": 5,
-          "uniques": 5
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
+          "count": 9,
+          "uniques": 2
         },
         {
-          "path": "/beerkit/beer.db/blob/master/TODO.md",
-          "title": "beer.db/TODO.md at master · beerkit/beer.db · GitHub",
+          "path": "/beerkit/beer.db/tree/master/beerdb-service",
+          "title": "beer.db/beerdb-service at master · beerkit/beer.db",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db",
+          "title": "beerkit/beer.db: beerdb gems - open beer database (beer.db) command line tool...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb-service/service.rb",
+          "title": "beer.db/beerdb-service/service.rb at master · beerkit/beer.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db/commit/2e815dfa25b5012ceb58c97d15159302ec6cb70d",
-          "title": "add favicon · beerkit/beer.db@2e815df · GitHub",
-          "count": 1,
+          "path": "/beerkit/beer.db/blob/master/beerdb-service/starter.rb",
+          "title": "beer.db/beerdb-service/starter.rb at master · beerkit/beer.db",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db/commit/813ffc74297dcb3a7449aafeaaae293405cfef0e",
-          "title": "up as_json · beerkit/beer.db@813ffc7 · GitHub",
-          "count": 1,
+          "path": "/beerkit/beer.db/blob/master/beerdb-service/test.rb",
+          "title": "beer.db/beerdb-service/test.rb at master · beerkit/beer.db",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db/watchers",
-          "title": "Watchers · beerkit/beer.db · GitHub",
-          "count": 1,
+          "path": "/beerkit/beer.db/blob/master/TODO.md",
+          "title": "beer.db/TODO.md at master · beerkit/beer.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/assets",
+          "title": "beer.db/beerdb/assets at master · beerkit/beer.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb/attic",
+          "title": "beer.db/beerdb/attic at master · beerkit/beer.db",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-service/attic",
+          "title": "beer.db/beerdb-service/attic at master · beerkit/beer.db",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 3,
+          "referrer": "github.com",
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -2298,11 +2332,45 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2023-10-28": {
+        "views": {
+          "count": 32,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2023-10-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-29": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-10-30": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 106945,
+    "Ruby": 116311,
     "HTML": 3976
   }
 }

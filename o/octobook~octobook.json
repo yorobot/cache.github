@@ -333,6 +333,10 @@
     "2023-10-15": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2023-11-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -359,18 +363,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/octobook/octobook",
+          "title": "octobook/octobook: octobook gem - book publishing tool for jekyll",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "news.ycombinator.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1031,6 +1049,18 @@
       "2023-10-09": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-30": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-26": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

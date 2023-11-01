@@ -333,6 +333,10 @@
     "2023-10-15": {
       "stargazers_count": 15,
       "forks_count": 1
+    },
+    "2023-11-01": {
+      "stargazers_count": 15,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -363,27 +367,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 7,
         "uniques": 1
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/sportdb/footty/blob/master/README.md",
-          "title": "footty/README.md at master · sportdb/footty · GitHub",
+          "path": "/sportdb/footty/blob/master/lib/footty/client.rb",
+          "title": "footty/lib/footty/client.rb at master · sportdb/footty",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/lib/footty.rb",
+          "title": "footty/lib/footty.rb at master · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/lib",
+          "title": "footty/lib at master · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty",
+          "title": "sportdb/footty: footty gem - football.db command line client for european (\"e...",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-        {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -1834,6 +1852,28 @@
       "2023-10-15": {
         "clones": {
           "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-10-24": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-26": {
+        "clones": {
+          "count": 2,
           "uniques": 2
         }
       }

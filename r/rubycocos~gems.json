@@ -54,6 +54,10 @@
     "2023-10-15": {
       "stargazers_count": 5,
       "forks_count": 1
+    },
+    "2023-11-01": {
+      "stargazers_count": 5,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -78,18 +82,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
-        "count": 15,
-        "uniques": 9
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/rubycocos/gems",
+          "title": "rubycocos/gems: gems cache (& timelines)",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -403,6 +416,18 @@
         "clones": {
           "count": 6,
           "uniques": 3
+        }
+      },
+      "2023-10-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

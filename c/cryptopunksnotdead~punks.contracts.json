@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/punks.contracts",
   "created_at": "2015-03-31T15:16:05Z",
-  "updated_at": "2023-08-15T20:52:04Z",
+  "updated_at": "2023-10-19T00:15:28Z",
   "pushed_at": "2022-02-11T13:31:02Z",
   "size": 877,
   "description": "Inside the CryptoPunks Blockchain Contracts / Services incl.  the Historic V1 and  Wrapped CryptoPunks V1 (WPUNKS1) and Wrapped CryptoPunks V2 (WPUNKS), V3, V4, and Many More",
@@ -182,6 +182,10 @@
     "2023-10-15": {
       "stargazers_count": 25,
       "forks_count": 15
+    },
+    "2023-11-01": {
+      "stargazers_count": 26,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -210,85 +214,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 25,
-        "uniques": 4
+        "count": 37,
+        "uniques": 7
       },
       "clones": {
-        "count": 14,
-        "uniques": 10
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt",
-          "title": "punks.contracts/punksdata/transactions.txt at master · cryptopunksnotdead/pun...",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/zunks/CryptoZunks.sol",
-          "title": "punks.contracts/zunks/CryptoZunks.sol at master · cryptopunksnotdead/punks.co...",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/zunks",
-          "title": "punks.contracts/zunks at master · cryptopunksnotdead/punks.contracts · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
           "path": "/cryptopunksnotdead/punks.contracts",
           "title": "GitHub - cryptopunksnotdead/punks.contracts: Inside the CryptoPunks Blockchai...",
-          "count": 2,
-          "uniques": 2
+          "count": 9,
+          "uniques": 7
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/other/ERC721.sol",
-          "title": "punks.contracts/other/ERC721.sol at master · cryptopunksnotdead/punks.contrac...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/ape/ApePunks.sol",
+          "title": "punks.contracts/ape/ApePunks.sol at master · cryptopunksnotdead/punks.contrac...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/README.md",
+          "title": "punks.contracts/README.md at master · cryptopunksnotdead/punks.contracts · Gi...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/ape/CollectionPartnerInterface.sol",
+          "title": "punks.contracts/ape/CollectionPartnerInterface.sol at master · cryptopunksnot...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/CryptoPunksData.sol",
-          "title": "punks.contracts/punksdata/CryptoPunksData.sol at master · cryptopunksnotdead/...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/ape/Context.sol",
+          "title": "punks.contracts/ape/Context.sol at master · cryptopunksnotdead/punks.contract...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/zunks/ERC721.sol",
-          "title": "punks.contracts/zunks/ERC721.sol at master · cryptopunksnotdead/punks.contrac...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/ape/IERC721Metadata.sol",
+          "title": "punks.contracts/ape/IERC721Metadata.sol at master · cryptopunksnotdead/punks....",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/bored",
-          "title": "punks.contracts/bored at master · cryptopunksnotdead/punks.contracts",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/ape/Ownable.sol",
+          "title": "punks.contracts/ape/Ownable.sol at master · cryptopunksnotdead/punks.contract...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/other",
-          "title": "punks.contracts/other at master · cryptopunksnotdead/punks.contracts · GitHub",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/bored/BoredPunkYachtClub.sol",
+          "title": "punks.contracts/bored/BoredPunkYachtClub.sol at master · cryptopunksnotdead/p...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punksdata",
-          "title": "punks.contracts/punksdata at master · cryptopunksnotdead/punks.contracts",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/bored/dl/BoredPunkYachtClub.sol",
+          "title": "punks.contracts/bored/dl/BoredPunkYachtClub.sol at master · cryptopunksnotdea...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v1/CryptoPunks.sol",
+          "title": "punks.contracts/punks-v1/CryptoPunks.sol at master · cryptopunksnotdead/punks...",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Bing",
-          "count": 13,
-          "uniques": 1
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 3
         },
         {
           "referrer": "github.com",
-          "count": 2,
-          "uniques": 1
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "Bing",
+          "count": 5,
+          "uniques": 2
         }
       ]
     },
@@ -3549,6 +3558,46 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2023-10-19": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-10-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-21": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2023-10-22": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-10-28": {
+        "views": {
+          "count": 21,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-10-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

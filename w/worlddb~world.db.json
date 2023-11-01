@@ -328,6 +328,10 @@
     "2023-10-15": {
       "stargazers_count": 73,
       "forks_count": 5
+    },
+    "2023-11-01": {
+      "stargazers_count": 73,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -360,35 +364,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 73,
+        "count": 60,
         "uniques": 13
       },
       "clones": {
-        "count": 14,
-        "uniques": 11
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
-          "path": "/worlddb/world.db",
-          "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 16,
-          "uniques": 10
-        },
-        {
           "path": "/worlddb/world.db/tree/master/worlddb",
           "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
-          "count": 10,
+          "count": 25,
           "uniques": 4
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/lib",
-          "title": "world.db/worlddb/lib at master · worlddb/world.db · GitHub",
-          "count": 5,
-          "uniques": 2
+          "path": "/worlddb/world.db",
+          "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
+          "count": 13,
+          "uniques": 10
         },
         {
-          "path": "/worlddb/world.db/blob/master/worlddb/lib/worlddb.rb",
-          "title": "world.db/worlddb/lib/worlddb.rb at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/tree/master/worlddb-models",
+          "title": "world.db/worlddb-models at master · worlddb/world.db",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb/README.md",
+          "title": "world.db/worlddb/README.md at master · worlddb/world.db · GitHub",
           "count": 2,
           "uniques": 1
         },
@@ -399,32 +403,26 @@
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/attic",
-          "title": "world.db/worlddb/attic at master · worlddb/world.db",
+          "path": "/worlddb/world.db/tree/master/worlddb-models/lib/worlddb",
+          "title": "world.db/worlddb-models/lib/worlddb at master · worlddb/world.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/bin",
-          "title": "world.db/worlddb/bin at master · worlddb/world.db",
+          "path": "/worlddb/world.db/tree/master/worlddb-models/lib/worlddb/models",
+          "title": "world.db/worlddb-models/lib/worlddb/models at master · worlddb/world.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/lib/worlddb",
-          "title": "world.db/worlddb/lib/worlddb at master · worlddb/world.db",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master/worlddb/lib/worlddb/cli",
-          "title": "world.db/worlddb/lib/worlddb/cli at master · worlddb/world.db",
+          "path": "/worlddb/world.db/tree/master/worlddb-models/lib/worlddb/models/tagdb",
+          "title": "world.db/worlddb-models/lib/worlddb/models/tagdb at master · worlddb/world.db",
           "count": 2,
           "uniques": 1
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb/script",
-          "title": "world.db/worlddb/script at master · worlddb/world.db",
+          "title": "world.db/worlddb/script at master · worlddb/world.db · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -432,13 +430,18 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 23,
-          "uniques": 7
+          "count": 53,
+          "uniques": 8
         },
         {
           "referrer": "github.com",
-          "count": 22,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -4581,6 +4584,88 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2023-10-21": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-10-22": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2023-10-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-24": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-25": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-01": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-10-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

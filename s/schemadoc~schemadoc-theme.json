@@ -333,6 +333,10 @@
     "2023-10-15": {
       "stargazers_count": 7,
       "forks_count": 2
+    },
+    "2023-11-01": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -359,18 +363,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 10,
-        "uniques": 6
-      },
       "paths": [
-
+        {
+          "path": "/schemadoc/schemadoc-theme",
+          "title": "GitHub - schemadoc/schemadoc-theme: Schema Theme - Database Docu for Tables, ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/schemadoc/schemadoc-theme/blob/master/index.html",
+          "title": "schemadoc-theme/index.html at master · schemadoc/schemadoc-theme · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1160,6 +1179,18 @@
       },
       "2023-10-15": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-21": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2023-10-29": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

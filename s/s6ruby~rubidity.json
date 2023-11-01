@@ -1,9 +1,9 @@
 {
   "full_name": "s6ruby/rubidity",
   "created_at": "2015-06-27T17:28:04Z",
-  "updated_at": "2023-10-13T12:35:03Z",
-  "pushed_at": "2023-10-15T13:04:00Z",
-  "size": 485,
+  "updated_at": "2023-10-30T21:45:56Z",
+  "pushed_at": "2023-11-01T14:32:10Z",
+  "size": 581,
   "description": "Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with \"Off-Chain\" Indexer",
   "language": "Ruby",
   "history": {
@@ -18,16 +18,20 @@
     "2023-10-15": {
       "stargazers_count": 9,
       "forks_count": 2
+    },
+    "2023-11-01": {
+      "stargazers_count": 11,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-10-15T13:03:55Z",
+        "date": "2023-11-01T14:32:03Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-10-15T13:03:55Z",
+        "date": "2023-11-01T14:32:03Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -44,114 +48,109 @@
     "uint256"
   ],
   "languages": {
-    "Ruby": 511143,
+    "Ruby": 587830,
     "Solidity": 24409
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 2001,
-        "uniques": 72
+        "count": 659,
+        "uniques": 23
       },
       "clones": {
-        "count": 184,
-        "uniques": 31
+        "count": 43,
+        "uniques": 19
       },
       "paths": [
         {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-by-example",
-          "title": "rubidity/rubidity-by-example at master · s6ruby/rubidity · GitHub",
-          "count": 238,
-          "uniques": 32
+          "path": "/s6ruby/rubidity/tree/master/rubidity-classic",
+          "title": "rubidity/rubidity-classic at master · s6ruby/rubidity",
+          "count": 157,
+          "uniques": 10
         },
         {
           "path": "/s6ruby/rubidity",
           "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with ...",
-          "count": 171,
-          "uniques": 15
+          "count": 62,
+          "uniques": 8
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-typed",
-          "title": "rubidity/rubidity-typed at master · s6ruby/rubidity · GitHub",
-          "count": 120,
-          "uniques": 15
+          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/test_erc20.rb",
+          "title": "rubidity/rubidity-classic/test_erc20.rb at master · s6ruby/rubidity",
+          "count": 30,
+          "uniques": 2
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/solidity-typed",
-          "title": "rubidity/solidity-typed at master · s6ruby/rubidity",
-          "count": 91,
-          "uniques": 7
-        },
-        {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-by-example/hello-world",
-          "title": "rubidity/rubidity-by-example/hello-world at master · s6ruby/rubidity · GitHub",
-          "count": 67,
-          "uniques": 14
-        },
-        {
-          "path": "/s6ruby/rubidity/tree/master/redpaper",
-          "title": "rubidity/redpaper at master · s6ruby/rubidity · GitHub",
-          "count": 49,
+          "path": "/s6ruby/rubidity/tree/master/rubidity-classic/contracts",
+          "title": "rubidity/rubidity-classic/contracts at master · s6ruby/rubidity · GitHub",
+          "count": 22,
           "uniques": 4
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/rubidity",
-          "title": "rubidity/rubidity at master · s6ruby/rubidity · GitHub",
-          "count": 46,
-          "uniques": 5
+          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/builder.rb",
+          "title": "rubidity/rubidity-classic/builder.rb at master · s6ruby/rubidity",
+          "count": 18,
+          "uniques": 2
         },
         {
-          "path": "/s6ruby/rubidity/blob/master/contracts/supplychain.rb",
-          "title": "rubidity/contracts/supplychain.rb at master · s6ruby/rubidity",
-          "count": 45,
-          "uniques": 6
-        },
-        {
-          "path": "/s6ruby/rubidity/tree/master/learninminutes",
-          "title": "rubidity/learninminutes at master · s6ruby/rubidity",
-          "count": 44,
-          "uniques": 3
+          "path": "/s6ruby/rubidity/commits/master",
+          "title": "Commits · s6ruby/rubidity",
+          "count": 17,
+          "uniques": 1
         },
         {
           "path": "/s6ruby/rubidity/tree/master",
           "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with ...",
-          "count": 43,
-          "uniques": 10
+          "count": 15,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/contracts/HelloWorld.rb",
+          "title": "rubidity/rubidity-classic/contracts/HelloWorld.rb at master · s6ruby/rubidity...",
+          "count": 14,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/rubidity/tree/master/solidity-typed/lib/solidity/typed",
+          "title": "rubidity/solidity-typed/lib/solidity/typed at master · s6ruby/rubidity",
+          "count": 14,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/contracts/ERC20.rb",
+          "title": "rubidity/rubidity-classic/contracts/ERC20.rb at master · s6ruby/rubidity",
+          "count": 13,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 344,
+          "referrer": "rubyflow.com",
+          "count": 63,
           "uniques": 6
         },
         {
-          "referrer": "rubyflow.com",
-          "count": 205,
-          "uniques": 31
-        },
-        {
-          "referrer": "rubygems.org",
-          "count": 32,
+          "referrer": "github.com",
+          "count": 62,
           "uniques": 3
         },
         {
           "referrer": "Google",
-          "count": 29,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubydoc.info",
           "count": 24,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 12,
           "uniques": 1
         },
         {
-          "referrer": "t.co",
+          "referrer": "bestgems.org",
           "count": 3,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "referrer": "cn.bing.com",
           "count": 1,
           "uniques": 1
         }
@@ -466,6 +465,118 @@
         "views": {
           "count": 3,
           "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2023-10-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-22": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2023-10-23": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-24": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-10-25": {
+        "views": {
+          "count": 77,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-10-26": {
+        "views": {
+          "count": 73,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2023-10-27": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-10-28": {
+        "views": {
+          "count": 29,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2023-10-29": {
+        "views": {
+          "count": 85,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2023-10-30": {
+        "views": {
+          "count": 127,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 6
+        }
+      },
+      "2023-10-31": {
+        "views": {
+          "count": 173,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-11-01": {
+        "views": {
+          "count": 76,
+          "uniques": 6
         },
         "clones": {
           "count": 5,
