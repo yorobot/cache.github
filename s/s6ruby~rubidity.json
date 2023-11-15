@@ -1,10 +1,10 @@
 {
   "full_name": "s6ruby/rubidity",
   "created_at": "2015-06-27T17:28:04Z",
-  "updated_at": "2023-10-30T21:45:56Z",
-  "pushed_at": "2023-11-01T14:32:10Z",
-  "size": 581,
-  "description": "Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with \"Off-Chain\" Indexer",
+  "updated_at": "2023-11-15T16:18:38Z",
+  "pushed_at": "2023-11-15T16:16:37Z",
+  "size": 1104,
+  "description": "Rubidity & Rubysol - Rubies for Layer 1 (L1) Contracts / Protocols with \"Off-Chain\" Indexer",
   "language": "Ruby",
   "history": {
     "2023-09-15": {
@@ -22,16 +22,20 @@
     "2023-11-01": {
       "stargazers_count": 11,
       "forks_count": 2
+    },
+    "2023-11-15": {
+      "stargazers_count": 12,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-11-01T14:32:03Z",
+        "date": "2023-11-15T16:16:09Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-11-01T14:32:03Z",
+        "date": "2023-11-15T16:16:09Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -45,113 +49,117 @@
     "rubidity",
     "crypto",
     "typed",
-    "uint256"
+    "uint256",
+    "rubysol"
   ],
   "languages": {
-    "Ruby": 587830,
-    "Solidity": 24409
+    "Ruby": 938811,
+    "Solidity": 134695,
+    "JavaScript": 61869,
+    "TypeScript": 25328,
+    "Shell": 2146
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 659,
-        "uniques": 23
+        "count": 1627,
+        "uniques": 62
       },
       "clones": {
-        "count": 43,
-        "uniques": 19
+        "count": 110,
+        "uniques": 29
       },
       "paths": [
         {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-classic",
-          "title": "rubidity/rubidity-classic at master · s6ruby/rubidity",
-          "count": 157,
-          "uniques": 10
+          "path": "/s6ruby/rubidity/tree/master/programming-uniswap",
+          "title": "rubidity/programming-uniswap at master · s6ruby/rubidity",
+          "count": 155,
+          "uniques": 8
+        },
+        {
+          "path": "/s6ruby/rubidity/tree/master/uniswap",
+          "title": "rubidity/uniswap at master · s6ruby/rubidity",
+          "count": 114,
+          "uniques": 15
         },
         {
           "path": "/s6ruby/rubidity",
           "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with ...",
-          "count": 62,
-          "uniques": 8
+          "count": 98,
+          "uniques": 20
         },
         {
-          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/test_erc20.rb",
-          "title": "rubidity/rubidity-classic/test_erc20.rb at master · s6ruby/rubidity",
-          "count": 30,
+          "path": "/s6ruby/rubidity/tree/master/programming-uniswap/part1",
+          "title": "rubidity/programming-uniswap/part1 at master · s6ruby/rubidity",
+          "count": 91,
           "uniques": 2
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/rubidity-classic/contracts",
-          "title": "rubidity/rubidity-classic/contracts at master · s6ruby/rubidity · GitHub",
-          "count": 22,
-          "uniques": 4
+          "path": "/s6ruby/rubidity/blob/master/programming-uniswap/part1/test/test_UniswapV2Pair.rb",
+          "title": "rubidity/programming-uniswap/part1/test/test_UniswapV2Pair.rb at master · s6r...",
+          "count": 61,
+          "uniques": 5
         },
         {
-          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/builder.rb",
-          "title": "rubidity/rubidity-classic/builder.rb at master · s6ruby/rubidity",
-          "count": 18,
-          "uniques": 2
-        },
-        {
-          "path": "/s6ruby/rubidity/commits/master",
-          "title": "Commits · s6ruby/rubidity",
-          "count": 17,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/rubidity/tree/master",
-          "title": "s6ruby/rubidity: Rubidity - Ruby for Layer 1 (L1) Contracts / Protocols with ...",
-          "count": 15,
+          "path": "/s6ruby/rubidity/tree/master/programming-uniswap/part2",
+          "title": "rubidity/programming-uniswap/part2 at master · s6ruby/rubidity",
+          "count": 57,
           "uniques": 3
         },
         {
-          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/contracts/HelloWorld.rb",
-          "title": "rubidity/rubidity-classic/contracts/HelloWorld.rb at master · s6ruby/rubidity...",
-          "count": 14,
+          "path": "/s6ruby/rubidity/blob/master/programming-uniswap/part1/UniswapV2Pair.rb",
+          "title": "rubidity/programming-uniswap/part1/UniswapV2Pair.rb at master · s6ruby/rubidity",
+          "count": 51,
+          "uniques": 4
+        },
+        {
+          "path": "/s6ruby/rubidity/blob/master/FACETCARDS.md",
+          "title": "rubidity/FACETCARDS.md at master · s6ruby/rubidity · GitHub",
+          "count": 50,
+          "uniques": 8
+        },
+        {
+          "path": "/s6ruby/rubidity/blob/master/rarible-exchange-v2/ExchangeV2Core.rb",
+          "title": "rubidity/rarible-exchange-v2/ExchangeV2Core.rb at master · s6ruby/rubidity",
+          "count": 38,
           "uniques": 2
         },
         {
-          "path": "/s6ruby/rubidity/tree/master/solidity-typed/lib/solidity/typed",
-          "title": "rubidity/solidity-typed/lib/solidity/typed at master · s6ruby/rubidity",
-          "count": 14,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/rubidity/blob/master/rubidity-classic/contracts/ERC20.rb",
-          "title": "rubidity/rubidity-classic/contracts/ERC20.rb at master · s6ruby/rubidity",
-          "count": 13,
-          "uniques": 2
+          "path": "/s6ruby/rubidity/blob/master/uniswap/lib/uniswap/UniswapV2Pair.rb",
+          "title": "rubidity/uniswap/lib/uniswap/UniswapV2Pair.rb at master · s6ruby/rubidity",
+          "count": 36,
+          "uniques": 4
         }
       ],
       "referrers": [
         {
-          "referrer": "rubyflow.com",
-          "count": 63,
-          "uniques": 6
+          "referrer": "github.com",
+          "count": 238,
+          "uniques": 8
         },
         {
-          "referrer": "github.com",
-          "count": 62,
-          "uniques": 3
+          "referrer": "rubyflow.com",
+          "count": 191,
+          "uniques": 16
+        },
+        {
+          "referrer": "feedly.com",
+          "count": 20,
+          "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 24,
-          "uniques": 3
+          "count": 17,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 7,
+          "uniques": 2
         },
         {
           "referrer": "rubygems.org",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "referrer": "bestgems.org",
           "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "cn.bing.com",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -581,6 +589,146 @@
         "clones": {
           "count": 5,
           "uniques": 4
+        }
+      },
+      "2023-11-02": {
+        "views": {
+          "count": 69,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 3
+        }
+      },
+      "2023-11-03": {
+        "views": {
+          "count": 83,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2023-11-04": {
+        "views": {
+          "count": 103,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-11-05": {
+        "views": {
+          "count": 126,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2023-11-06": {
+        "views": {
+          "count": 215,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2023-11-07": {
+        "views": {
+          "count": 117,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-11-08": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-09": {
+        "views": {
+          "count": 114,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2023-11-10": {
+        "views": {
+          "count": 26,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-11-11": {
+        "views": {
+          "count": 196,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 8
+        }
+      },
+      "2023-11-12": {
+        "views": {
+          "count": 135,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2023-11-13": {
+        "views": {
+          "count": 116,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2023-11-14": {
+        "views": {
+          "count": 166,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 20,
+          "uniques": 12
+        }
+      },
+      "2023-11-15": {
+        "views": {
+          "count": 153,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 9
         }
       }
     }
