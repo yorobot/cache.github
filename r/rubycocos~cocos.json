@@ -94,6 +94,10 @@
     "2023-11-15": {
       "stargazers_count": 53,
       "forks_count": 2
+    },
+    "2023-12-01": {
+      "stargazers_count": 53,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -123,24 +127,52 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
+        "count": 11,
         "uniques": 3
       },
       "clones": {
-        "count": 3,
+        "count": 5,
         "uniques": 3
       },
       "paths": [
         {
+          "path": "/rubycocos/cocos/tree/master/lib/cocos",
+          "title": "cocos/lib/cocos at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
           "path": "/rubycocos/cocos",
           "title": "rubycocos/cocos: cocos (code commons) - auto-include quick-starter prelude & ...",
           "count": 3,
-          "uniques": 2
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos.rb",
+          "title": "cocos/lib/cocos.rb at master · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib",
+          "title": "cocos/lib at master · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubyflow.com",
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "awesome-ruby.com",
           "count": 1,
           "uniques": 1
         }
@@ -1031,6 +1063,24 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-11-18": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-11-23": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2023-11-21": {
+        "clones": {
+          "count": 5,
+          "uniques": 3
         }
       }
     }

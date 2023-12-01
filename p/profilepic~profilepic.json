@@ -90,6 +90,10 @@
     "2023-11-15": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2023-12-01": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -129,23 +133,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 10,
         "uniques": 1
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/profilepic/profilepic",
-          "title": "GitHub - profilepic/profilepic: Profile Pic(ture) As A Service",
-          "count": 1,
+          "path": "/profilepic/profilepic/tree/master/profilepic",
+          "title": "profilepic/profilepic at master · profilepic/profilepic",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/profilepic/profilepic/blob/master/profilepic/lib/profilepic/public/spritesheet.js",
+          "title": "profilepic/profilepic/lib/profilepic/public/spritesheet.js at master · profil...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/profilepic/profilepic/tree/master",
+          "title": "profilepic/profilepic: Profile Pic(ture) As A Service",
+          "count": 3,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "old.reddit.com",
+          "count": 10,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -748,6 +768,24 @@
       "2023-11-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-19": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2023-11-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-21": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

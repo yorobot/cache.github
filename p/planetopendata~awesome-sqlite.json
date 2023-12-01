@@ -341,24 +341,28 @@
     "2023-11-15": {
       "stargazers_count": 251,
       "forks_count": 32
+    },
+    "2023-12-01": {
+      "stargazers_count": 257,
+      "forks_count": 32
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-05-06T11:40:10Z",
+        "date": "2023-11-25T10:19:08Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2023-05-06T11:40:10Z",
-        "name": "Louis Brauer"
+        "date": "2023-11-25T10:19:08Z",
+        "name": "septs"
       },
-      "message": "Add pg2sqlite (#13)"
+      "message": "Add cr-sqlite and litestream (#14)\n\n* remove empty line\r\n\r\n* add cr-sqlite and litestream\r\n\r\n* fix typo"
     }
   ],
-  "size": 65,
-  "updated_at": "2023-11-14T04:04:32Z",
-  "pushed_at": "2023-05-06T11:40:10Z",
+  "size": 66,
+  "updated_at": "2023-11-30T16:38:05Z",
+  "pushed_at": "2023-11-25T10:19:09Z",
   "description": "A collection of awesome sqlite tools, scripts, books, etc",
   "language": null,
   "topics": [
@@ -369,55 +373,77 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 99,
-        "uniques": 74
+        "count": 121,
+        "uniques": 96
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 10,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/planetopendata/awesome-sqlite",
           "title": "planetopendata/awesome-sqlite: A collection of awesome sqlite tools, scripts,...",
-          "count": 88,
-          "uniques": 68
+          "count": 98,
+          "uniques": 83
         },
         {
           "path": "/planetopendata/awesome-sqlite/blob/master/COMMERCIAL.md",
-          "title": "awesome-sqlite/COMMERCIAL.md at master · planetopendata/awesome-sqlite",
-          "count": 2,
+          "title": "awesome-sqlite/COMMERCIAL.md at master · planetopendata/awesome-sqlite · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/14",
+          "title": "Add cr-sqlite and litestream by septs · Pull Request #14 · planetopendata/awe...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/14/files",
+          "title": "Add cr-sqlite and litestream by septs · Pull Request #14 · planetopendata/awe...",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 47,
-          "uniques": 37
+          "count": 60,
+          "uniques": 51
         },
         {
           "referrer": "github.com",
-          "count": 19,
-          "uniques": 14
-        },
-        {
-          "referrer": "search.brave.com",
-          "count": 7,
-          "uniques": 4
+          "count": 15,
+          "uniques": 11
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 5,
+          "count": 4,
           "uniques": 3
         },
         {
-          "referrer": "youtube.com",
+          "referrer": "Bing",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "lite.qwant.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "linkedin.com",
+          "referrer": "StartPage",
           "count": 1,
           "uniques": 1
         },
@@ -427,12 +453,7 @@
           "uniques": 1
         },
         {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "planetopendata.github.io",
+          "referrer": "you.com",
           "count": 1,
           "uniques": 1
         }
@@ -6359,6 +6380,116 @@
         "views": {
           "count": 9,
           "uniques": 6
+        }
+      },
+      "2023-11-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-18": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-11-19": {
+        "views": {
+          "count": 9,
+          "uniques": 8
+        }
+      },
+      "2023-11-20": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2023-11-21": {
+        "views": {
+          "count": 8,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-22": {
+        "views": {
+          "count": 7,
+          "uniques": 6
+        }
+      },
+      "2023-11-23": {
+        "views": {
+          "count": 9,
+          "uniques": 8
+        }
+      },
+      "2023-11-24": {
+        "views": {
+          "count": 13,
+          "uniques": 8
+        }
+      },
+      "2023-11-25": {
+        "views": {
+          "count": 18,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-11-26": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-11-27": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-28": {
+        "views": {
+          "count": 8,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-29": {
+        "views": {
+          "count": 13,
+          "uniques": 10
+        }
+      },
+      "2023-11-30": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2023-12-01": {
+        "views": {
+          "count": 12,
+          "uniques": 10
         }
       }
     }

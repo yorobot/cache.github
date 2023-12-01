@@ -341,6 +341,10 @@
     "2023-11-15": {
       "stargazers_count": 68,
       "forks_count": 15
+    },
+    "2023-12-01": {
+      "stargazers_count": 68,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -367,17 +371,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 1
+        "count": 38,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/openbeer/world/blob/master/europe/5--it-italy--southern/beers.txt",
-          "title": "world/europe/5--it-italy--southern/beers.txt at master · openbeer/world",
+          "path": "/openbeer/world/tree/master/pacific",
+          "title": "world/pacific at master · openbeer/world · GitHub",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/blob/master/pacific/au-australia/beers.txt",
+          "title": "world/pacific/au-australia/beers.txt at master · openbeer/world · GitHub",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/pacific/au-australia",
+          "title": "world/pacific/au-australia at master · openbeer/world · GitHub",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/north-america/ca-canada/1--bc-british-columbia--pacific",
+          "title": "world/north-america/ca-canada/1--bc-british-columbia--pacific at master · ope...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world",
+          "title": "openbeer/world: Free open public domain beer, brewery n brewpub data",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/beers.txt",
+          "title": "world/europe/1--en-england--british-isles/beers.txt at master · openbeer/worl...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/north-america/ca-canada/1--bc-british-columbia--pacific/1--vancouver-n-the-burbs/breweries.txt",
+          "title": "world/north-america/ca-canada/1--bc-british-columbia--pacific/1--vancouver-n-...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/pacific/nz-new-zealand/beers.txt",
+          "title": "world/pacific/nz-new-zealand/beers.txt at master · openbeer/world · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/africa",
+          "title": "world/africa at master · openbeer/world · GitHub",
           "count": 2,
           "uniques": 1
         },
@@ -386,22 +438,14 @@
           "title": "world/europe at master · openbeer/world",
           "count": 2,
           "uniques": 1
-        },
-        {
-          "path": "/openbeer/world/tree/master/europe/5--it-italy--southern",
-          "title": "world/europe/5--it-italy--southern at master · openbeer/world",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openbeer/world",
-          "title": "openbeer/world: Free open public domain beer, brewery n brewpub data",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 25,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2029,6 +2073,30 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-11-20": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2023-11-27": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        }
+      },
+      "2023-11-18": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

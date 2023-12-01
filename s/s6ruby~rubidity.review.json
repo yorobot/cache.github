@@ -1,10 +1,10 @@
 {
   "full_name": "s6ruby/rubidity.review",
   "created_at": "2015-04-20T14:44:40Z",
-  "updated_at": "2023-10-28T12:08:50Z",
-  "pushed_at": "2023-10-28T12:52:14Z",
-  "size": 19,
-  "description": "Rubidity O.G (Dumb Contracts) Public Code Review / (More) Tests",
+  "updated_at": "2023-11-16T15:30:37Z",
+  "pushed_at": "2023-11-17T18:35:31Z",
+  "size": 52,
+  "description": "Rubidity O.G (Dumb Contracts) Public Code Review / (More) Tests / Gems & More",
   "language": "Ruby",
   "history": {
     "2023-11-01": {
@@ -14,42 +14,128 @@
     "2023-11-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2023-12-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-10-28T12:52:09Z",
+        "date": "2023-11-17T18:35:22Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-10-28T12:52:09Z",
+        "date": "2023-11-17T18:35:22Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
   "topics": [
-    "rubidity"
+    "rubidity",
+    "ethereum",
+    "facet",
+    "solidity",
+    "0xfacet"
   ],
   "languages": {
-    "Ruby": 23697
+    "Ruby": 84321
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 1
-      },
-      "clones": {
-        "count": 3,
+        "count": 24,
         "uniques": 3
       },
+      "clones": {
+        "count": 7,
+        "uniques": 6
+      },
       "paths": [
-
+        {
+          "path": "/s6ruby/rubidity.review",
+          "title": "s6ruby/rubidity.review: Rubidity O.G (Dumb Contracts) Public Code Review / (M...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/rubidity.review/tree/master/0xfacet-contracts/lib/0xfacet/contracts",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts at master · s6ruby/ru...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/blob/master/0xfacet-contracts/lib/0xfacet/contracts/EtherBridge.rb",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts/EtherBridge.rb at mas...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/blob/master/0xfacet-contracts/lib/0xfacet/contracts/EtherBridgeV2.rb",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts/EtherBridgeV2.rb at m...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/blob/master/0xfacet-contracts/lib/0xfacet/contracts/EthscriptionERC20Bridge.rb",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts/EthscriptionERC20Brid...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/blob/master/0xfacet-contracts/lib/0xfacet/contracts/Upgradeable.rb",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts/Upgradeable.rb at mas...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/blob/master/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapSetupZapV2.rb",
+          "title": "rubidity.review/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapSetupZapV2.rb at m...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/blob/master/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapV2Router.rb",
+          "title": "rubidity.review/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapV2Router.rb at mas...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/tree/master/0xfacet-uniswap/lib/0xfacet/uniswap",
+          "title": "rubidity.review/0xfacet-uniswap/lib/0xfacet/uniswap at master · s6ruby/rubidi...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/rubidity.review/tree/master",
+          "title": "s6ruby/rubidity.review: Rubidity O.G (Dumb Contracts) Public Code Review / (M...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 11,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubydoc.info",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "docs.ethscriptions.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -106,6 +192,58 @@
       "2023-11-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-18": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2023-11-20": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-11-23": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-11-28": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

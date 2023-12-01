@@ -341,6 +341,10 @@
     "2023-11-15": {
       "stargazers_count": 15,
       "forks_count": 7
+    },
+    "2023-12-01": {
+      "stargazers_count": 15,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -367,31 +371,84 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 1
+        "count": 34,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
+          "path": "/planetruby/planet/tree/master/attic",
+          "title": "planet/attic at master · planetruby/planet",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/rubynews",
+          "title": "planet/rubynews at master · planetruby/planet",
+          "count": 7,
+          "uniques": 1
+        },
+        {
           "path": "/planetruby/planet/blob/master/planet.ini",
           "title": "planet/planet.ini at master · planetruby/planet",
-          "count": 6,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/planetruby/planet",
           "title": "planetruby/planet: planet ruby news reader subscriptions (incl. command line ...",
-          "count": 1,
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/o",
+          "title": "planet/o at master · planetruby/planet",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/blob/6759fa888fe94f44e871396a8ac035192b285ef6/attic/ruby-books.ini",
+          "title": "planet/attic/ruby-books.ini at 6759fa888fe94f44e871396a8ac035192b285ef6 · pla...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/blob/master/attic/NOTES.md",
+          "title": "planet/attic/NOTES.md at master · planetruby/planet",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/blob/master/attic/ruby.ini",
+          "title": "planet/attic/ruby.ini at master · planetruby/planet",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/blob/master/rubynews/test/test_tool.rb",
+          "title": "planet/rubynews/test/test_tool.rb at master · planetruby/planet",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/planet/tree/master/rubynews/test",
+          "title": "planet/rubynews/test at master · planetruby/planet",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "DuckDuckGo",
-          "count": 3,
+          "referrer": "planetruby.github.io",
+          "count": 30,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2207,6 +2264,30 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2023-11-18": {
+        "views": {
+          "count": 30,
+          "uniques": 1
+        }
+      },
+      "2023-11-20": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-11-22": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-11-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
