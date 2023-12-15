@@ -345,6 +345,10 @@
     "2023-12-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2023-12-15": {
+      "stargazers_count": 4,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -371,8 +375,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 3
+        "count": 18,
+        "uniques": 2
       },
       "clones": {
         "count": 0,
@@ -380,21 +384,51 @@
       },
       "paths": [
         {
+          "path": "/opensport/hockey.db/tree/master/2015-16",
+          "title": "hockey.db/2015-16 at master · opensport/hockey.db",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/opensport/hockey.db/blob/master/2015-16/nhl.txt",
+          "title": "hockey.db/2015-16/nhl.txt at master · opensport/hockey.db",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/hockey.db/blob/master/2015-16/nhl.yml",
+          "title": "hockey.db/2015-16/nhl.yml at master · opensport/hockey.db",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/hockey.db/blob/master/leagues.txt",
+          "title": "hockey.db/leagues.txt at master · opensport/hockey.db",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "path": "/opensport/hockey.db",
-          "title": "GitHub - opensport/hockey.db: Free open public domain National Hockey League ...",
+          "title": "opensport/hockey.db: Free open public domain National Hockey League (NHL) dat...",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/opensport/hockey.db/blob/master/teams.txt",
+          "title": "hockey.db/teams.txt at master · opensport/hockey.db",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "opensport.github.io",
-          "count": 1,
+          "count": 15,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
-          "count": 1,
+          "referrer": "Yahoo",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -1525,6 +1559,18 @@
       "2023-12-01": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-12-12": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2023-12-13": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

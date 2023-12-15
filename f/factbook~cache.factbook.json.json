@@ -2,8 +2,8 @@
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
   "updated_at": "2023-10-27T19:26:03Z",
-  "pushed_at": "2023-11-30T22:16:53Z",
-  "size": 121475,
+  "pushed_at": "2023-12-14T22:17:25Z",
+  "size": 126824,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -238,19 +238,23 @@
     "2023-12-01": {
       "stargazers_count": 7,
       "forks_count": 3
+    },
+    "2023-12-15": {
+      "stargazers_count": 7,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-11-30T22:16:50Z",
+        "date": "2023-12-14T22:17:23Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2023-11-30T22:16:50Z",
+        "date": "2023-12-14T22:17:23Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 48"
+      "message": "auto-update week 50"
     }
   ],
   "topics": [
@@ -261,90 +265,38 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 25,
-        "uniques": 5
+        "count": 13,
+        "uniques": 4
       },
       "clones": {
-        "count": 28,
-        "uniques": 16
+        "count": 24,
+        "uniques": 17
       },
       "paths": [
         {
-          "path": "/factbook/cache.factbook.json",
-          "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 6,
-          "uniques": 5
-        },
-        {
           "path": "/factbook/cache.factbook.json/tree/master/africa",
-          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/north-america",
-          "title": "cache.factbook.json/north-america at master · factbook/cache.factbook.json",
-          "count": 3,
-          "uniques": 1
+          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json",
+          "count": 6,
+          "uniques": 2
         },
         {
           "path": "/factbook/cache.factbook.json/blob/master/africa/ag.json",
-          "title": "cache.factbook.json/africa/ag.json at master · factbook/cache.factbook.json ·...",
-          "count": 2,
-          "uniques": 1
+          "title": "cache.factbook.json/africa/ag.json at master · factbook/cache.factbook.json",
+          "count": 4,
+          "uniques": 2
         },
         {
-          "path": "/factbook/cache.factbook.json/blob/master/central-asia/kg.json",
-          "title": "cache.factbook.json/central-asia/kg.json at master · factbook/cache.factbook....",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/north-america/bd.json",
-          "title": "cache.factbook.json/north-america/bd.json at master · factbook/cache.factbook...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/central-asia",
-          "title": "cache.factbook.json/central-asia at master · factbook/cache.factbook.json",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/europe",
-          "title": "cache.factbook.json/europe at master · factbook/cache.factbook.json · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/world",
-          "title": "cache.factbook.json/world at master · factbook/cache.factbook.json",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master",
-          "title": "factbook/cache.factbook.json: A cache for datasets for the country profiles f...",
-          "count": 1,
-          "uniques": 1
+          "path": "/factbook/cache.factbook.json",
+          "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
+          "count": 3,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 13,
-          "uniques": 2
-        },
-        {
-          "referrer": "groups.google.com",
-          "count": 5,
-          "uniques": 1
-        },
-        {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 1
+          "count": 7,
+          "uniques": 2
         }
       ]
     },
@@ -4296,6 +4248,82 @@
         }
       },
       "2023-12-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-08": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-12-13": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-05": {
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2023-12-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-07": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2023-12-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-10": {
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2023-12-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-12": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-14": {
         "clones": {
           "count": 2,
           "uniques": 2

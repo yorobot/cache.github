@@ -345,6 +345,10 @@
     "2023-12-01": {
       "stargazers_count": 575,
       "forks_count": 54
+    },
+    "2023-12-15": {
+      "stargazers_count": 574,
+      "forks_count": 54
     }
   },
   "commits": [
@@ -361,7 +365,7 @@
     }
   ],
   "size": 1088,
-  "updated_at": "2023-10-10T15:49:02Z",
+  "updated_at": "2023-12-08T01:07:53Z",
   "pushed_at": "2017-08-31T18:19:59Z",
   "description": "Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)",
   "language": null,
@@ -371,71 +375,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
+        "count": 104,
         "uniques": 15
       },
       "clones": {
-        "count": 11,
-        "uniques": 10
+        "count": 9,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 13,
-          "uniques": 12
+          "count": 30,
+          "uniques": 14
         },
         {
-          "path": "/openmundi/world.db/tree/master/setups",
-          "title": "world.db/setups at master · openmundi/world.db · GitHub",
+          "path": "/openmundi/world.db/tree/master/asia",
+          "title": "world.db/asia at master · openmundi/world.db · GitHub",
           "count": 6,
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/tree/master/europe",
-          "title": "world.db/europe at master · openmundi/world.db · GitHub",
+          "path": "/openmundi/world.db/blob/master/README.md",
+          "title": "world.db/README.md at master · openmundi/world.db · GitHub",
           "count": 5,
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/tree/master/pacific",
-          "title": "world.db/pacific at master · openmundi/world.db",
+          "path": "/openmundi/world.db/tree/master/africa",
+          "title": "world.db/africa at master · openmundi/world.db · GitHub",
           "count": 5,
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/blob/master/continents.txt",
-          "title": "world.db/continents.txt at master · openmundi/world.db · GitHub",
+          "path": "/openmundi/world.db/blob/master/north-america/mx-mexico/cities.txt",
+          "title": "world.db/north-america/mx-mexico/cities.txt at master · openmundi/world.db · ...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/asia/2-more",
+          "title": "world.db/asia/2-more at master · openmundi/world.db",
           "count": 4,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/tree/master/europe/nl-netherlands",
-          "title": "world.db/europe/nl-netherlands at master · openmundi/world.db",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/europe/nl-netherlands/NOTES.md",
-          "title": "world.db/europe/nl-netherlands/NOTES.md at master · openmundi/world.db",
+          "path": "/openmundi/world.db/blob/master/asia/1-codes/.gitkeep",
+          "title": "world.db/asia/1-codes/.gitkeep at master · openmundi/world.db · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/pacific/au-australia/cities.txt",
-          "title": "world.db/pacific/au-australia/cities.txt at master · openmundi/world.db",
+          "path": "/openmundi/world.db/blob/master/asia/2-more/continents.yml",
+          "title": "world.db/asia/2-more/continents.yml at master · openmundi/world.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/blob/master/setups/all.txt",
-          "title": "world.db/setups/all.txt at master · openmundi/world.db · GitHub",
+          "path": "/openmundi/world.db/blob/master/asia/2-more/oceans.yml",
+          "title": "world.db/asia/2-more/oceans.yml at master · openmundi/world.db",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/tree/master/1-codes",
-          "title": "world.db/1-codes at master · openmundi/world.db · GitHub",
+          "path": "/openmundi/world.db/blob/master/asia/az-azerbaijan/cities.txt",
+          "title": "world.db/asia/az-azerbaijan/cities.txt at master · openmundi/world.db · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -443,26 +447,26 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 25,
-          "uniques": 6
+          "count": 15,
+          "uniques": 4
+        },
+        {
+          "referrer": "openmundi.github.io",
+          "count": 12,
+          "uniques": 2
         },
         {
           "referrer": "kabytes.com",
-          "count": 15,
-          "uniques": 5
+          "count": 5,
+          "uniques": 3
         },
         {
-          "referrer": "Google",
+          "referrer": "groups.google.com",
           "count": 5,
           "uniques": 2
         },
         {
-          "referrer": "groups.google.com",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "news.ycombinator.com",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -5352,6 +5356,98 @@
         }
       },
       "2023-12-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-03": {
+        "views": {
+          "count": 34,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-10": {
+        "views": {
+          "count": 36,
+          "uniques": 3
+        }
+      },
+      "2023-12-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-12": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-13": {
+        "views": {
+          "count": 17,
+          "uniques": 3
+        }
+      },
+      "2023-12-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-09": {
         "clones": {
           "count": 1,
           "uniques": 1

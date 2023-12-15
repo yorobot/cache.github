@@ -1,7 +1,7 @@
 {
   "full_name": "planetruby/quiz",
   "created_at": "2018-10-28T15:58:20Z",
-  "updated_at": "2022-08-22T18:22:10Z",
+  "updated_at": "2023-12-15T16:10:47Z",
   "pushed_at": "2021-10-02T12:23:09Z",
   "size": 275,
   "history": {
@@ -315,6 +315,10 @@
     "2023-12-01": {
       "stargazers_count": 64,
       "forks_count": 2
+    },
+    "2023-12-15": {
+      "stargazers_count": 65,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -338,18 +342,44 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 15,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
-
+        {
+          "path": "/planetruby/quiz/tree/master/001",
+          "title": "quiz/001 at master · planetruby/quiz · GitHub",
+          "count": 11,
+          "uniques": 3
+        },
+        {
+          "path": "/planetruby/quiz/blob/master/001/solution.rb",
+          "title": "quiz/001/solution.rb at master · planetruby/quiz · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/quiz",
+          "title": "planetruby/quiz: Ruby Quiz is a fortnightly programming challenge for Ruby pr...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 11,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2274,6 +2304,48 @@
       "2023-11-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-10": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-12-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-12-12": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2023-12-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-13": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

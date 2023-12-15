@@ -340,6 +340,10 @@
     "2023-12-01": {
       "stargazers_count": 12,
       "forks_count": 11
+    },
+    "2023-12-15": {
+      "stargazers_count": 12,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -370,29 +374,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 3
+        "count": 10,
+        "uniques": 5
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/feedreader/pluto.starter",
           "title": "GitHub - feedreader/pluto.starter: planet pluto quick starter kit - (auto-) b...",
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/feedreader/pluto.starter/blob/master/README.md",
-          "title": "pluto.starter/README.md at master · feedreader/pluto.starter · GitHub",
+          "path": "/feedreader/pluto.starter/blob/master/planet.ini",
+          "title": "pluto.starter/planet.ini at master · feedreader/pluto.starter · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto.starter/issues/3",
-          "title": "Install issues on Debian - \"gem install pluto\" method - sudo/root needed, plu...",
+          "path": "/feedreader/pluto.starter/blob/master/planet-starter/starter.txt",
+          "title": "pluto.starter/planet-starter/starter.txt at master · feedreader/pluto.starter...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto.starter/tree/master/planet-starter",
+          "title": "pluto.starter/planet-starter at master · feedreader/pluto.starter · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto.starter/compare/master...Unvanquished:pluto-devfeeds:master",
+          "title": "Comparing feedreader:master...Unvanquished:master · feedreader/pluto.starter",
           "count": 1,
           "uniques": 1
         }
@@ -400,8 +416,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 4,
+          "count": 3,
           "uniques": 2
+        },
+        {
+          "referrer": "planet.gentoo.org",
+          "count": 3,
+          "uniques": 1
         }
       ]
     },
@@ -2288,6 +2309,42 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2023-12-03": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2023-12-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-12-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

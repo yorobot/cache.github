@@ -318,6 +318,10 @@
     "2023-12-01": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2023-12-15": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -341,18 +345,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/sportdb/docs/blob/master/README.md",
+          "title": "docs/README.md at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/working-with-csv-files.md",
+          "title": "docs/working-with-csv-files.md at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/working-with-csv-files.rb",
+          "title": "docs/working-with-csv-files.rb at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs",
+          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 7,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1501,6 +1532,18 @@
       "2023-11-06": {
         "views": {
           "count": 16,
+          "uniques": 1
+        }
+      },
+      "2023-12-14": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2023-12-10": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

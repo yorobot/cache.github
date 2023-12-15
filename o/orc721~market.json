@@ -1,10 +1,10 @@
 {
   "full_name": "orc721/market",
   "created_at": "2014-05-06T14:02:40Z",
-  "updated_at": "2023-07-09T14:41:44Z",
-  "pushed_at": "2023-09-03T10:30:34Z",
-  "size": 254,
-  "description": "Bitcoin Ordinal Generative (ORC-721 / OG / Ordgen) Market Listings",
+  "updated_at": "2023-12-05T12:16:33Z",
+  "pushed_at": "2023-12-15T11:35:42Z",
+  "size": 721,
+  "description": "Bitcoin Ordinal Generative Market Listings (Incl. ORC-721 / OG / Ordgen & Frens)",
   "language": null,
   "history": {
     "2023-08-15": {
@@ -42,19 +42,23 @@
     "2023-12-01": {
       "stargazers_count": 5,
       "forks_count": 3
+    },
+    "2023-12-15": {
+      "stargazers_count": 5,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-09-03T10:30:34Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2023-09-03T10:30:34Z",
+        "date": "2023-12-15T11:35:34Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2023-12-15T11:35:34Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "topics": [
@@ -75,70 +79,88 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 26,
-        "uniques": 6
+        "count": 270,
+        "uniques": 8
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 47,
+        "uniques": 27
       },
       "paths": [
         {
+          "path": "/orc721/market/blob/master/monkes21/mint.csv",
+          "title": "market/monkes21/mint.csv at master · orc721/market",
+          "count": 49,
+          "uniques": 3
+        },
+        {
+          "path": "/orc721/market/blob/master/nodepunks/mint.csv",
+          "title": "market/nodepunks/mint.csv at master · orc721/market",
+          "count": 32,
+          "uniques": 1
+        },
+        {
           "path": "/orc721/market",
           "title": "orc721/market: Bitcoin Ordinal Generative (ORC-721 / OG / Ordgen) Market List...",
+          "count": 22,
+          "uniques": 5
+        },
+        {
+          "path": "/orc721/market/tree/master/nodepunks",
+          "title": "market/nodepunks at master · orc721/market",
+          "count": 21,
+          "uniques": 2
+        },
+        {
+          "path": "/orc721/market/blob/master/nodepunks/inscriptions.json",
+          "title": "market/nodepunks/inscriptions.json at master · orc721/market",
+          "count": 16,
+          "uniques": 2
+        },
+        {
+          "path": "/orc721/market/blob/master/NOTES.md",
+          "title": "market/NOTES.md at master · orc721/market",
+          "count": 14,
+          "uniques": 1
+        },
+        {
+          "path": "/orc721/market/tree/master/monkes21",
+          "title": "market/monkes21 at master · orc721/market",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/orc721/market/tree/master",
+          "title": "orc721/market: Bitcoin Ordinal Generative Market Listings (Incl. ORC-721 / OG...",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "path": "/orc721/market/edit/master/NOTES.md",
+          "title": "Editing market/NOTES.md at master · orc721/market",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/orc721/market/tree/master/diyaliens",
+          "title": "market/diyaliens at master · orc721/market",
           "count": 7,
-          "uniques": 6
-        },
-        {
-          "path": "/orc721/market/tree/master/diymaxibiz",
-          "title": "market/diymaxibiz at master · orc721/market",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/orc721/market/blob/master/diymaxibiz/inscriptions.json",
-          "title": "market/diymaxibiz/inscriptions.json at master · orc721/market",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/orc721/market/tree/master/diypunks",
-          "title": "market/diypunks at master · orc721/market · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/orc721/market/tree/master/more",
-          "title": "market/more at master · orc721/market",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/orc721/market/blob/master/diymartians/inscriptions.json",
-          "title": "market/diymartians/inscriptions.json at master · orc721/market",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/orc721/market/blob/master/diypunks/inscriptions.json",
-          "title": "market/diypunks/inscriptions.json at master · orc721/market · GitHub",
-          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 2
+          "count": 42,
+          "uniques": 4
         },
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "orc721.github.io",
+          "count": 8,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "ordimint.com",
           "count": 1,
           "uniques": 1
         }
@@ -469,6 +491,108 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2023-12-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-12-05": {
+        "views": {
+          "count": 90,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 7
+        }
+      },
+      "2023-12-06": {
+        "views": {
+          "count": 27,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2023-12-07": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-09": {
+        "views": {
+          "count": 22,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 12,
+          "uniques": 8
+        }
+      },
+      "2023-12-10": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2023-12-11": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-12": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-13": {
+        "views": {
+          "count": 43,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2023-12-14": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2023-12-15": {
+        "views": {
+          "count": 41,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
         }
       }
     }
