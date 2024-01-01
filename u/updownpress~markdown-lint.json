@@ -349,6 +349,10 @@
     "2023-12-15": {
       "stargazers_count": 54,
       "forks_count": 92
+    },
+    "2024-01-01": {
+      "stargazers_count": 55,
+      "forks_count": 92
     }
   },
   "commits": [
@@ -365,7 +369,7 @@
     }
   ],
   "size": 49,
-  "updated_at": "2023-10-18T20:49:34Z",
+  "updated_at": "2023-12-20T10:41:15Z",
   "pushed_at": "2020-02-28T15:03:46Z",
   "description": "Markdown Lint Tool / Checker Documentation by Mark Harrison (Manuscripts Edition)",
   "language": null,
@@ -375,114 +379,109 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1469,
-        "uniques": 452
+        "count": 950,
+        "uniques": 290
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 5,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/updownpress/markdown-lint/blob/master/rules/034-no-bare-urls.md",
-          "title": "markdown-lint/rules/034-no-bare-urls.md at master · updownpress/markdown-lint...",
-          "count": 230,
-          "uniques": 94
-        },
-        {
           "path": "/updownpress/markdown-lint/blob/master/rules/040-fenced-code-language.md",
           "title": "markdown-lint/rules/040-fenced-code-language.md at master · updownpress/markd...",
-          "count": 146,
-          "uniques": 71
+          "count": 121,
+          "uniques": 51
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/034-no-bare-urls.md",
+          "title": "markdown-lint/rules/034-no-bare-urls.md at master · updownpress/markdown-lint...",
+          "count": 115,
+          "uniques": 51
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/003-header-style.md",
+          "title": "markdown-lint/rules/003-header-style.md at master · updownpress/markdown-lint...",
+          "count": 105,
+          "uniques": 12
         },
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/033-no-inline-html.md",
           "title": "markdown-lint/rules/033-no-inline-html.md at master · updownpress/markdown-lint",
-          "count": 96,
-          "uniques": 39
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/032-blanks-around-lists.md",
-          "title": "markdown-lint/rules/032-blanks-around-lists.md at master · updownpress/markdo...",
-          "count": 76,
-          "uniques": 32
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/014-commands-show-output.md",
-          "title": "markdown-lint/rules/014-commands-show-output.md at master · updownpress/markd...",
-          "count": 76,
-          "uniques": 27
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/007-ul-indent.md",
-          "title": "markdown-lint/rules/007-ul-indent.md at master · updownpress/markdown-lint · ...",
-          "count": 64,
-          "uniques": 22
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/013-line-length.md",
-          "title": "markdown-lint/rules/013-line-length.md at master · updownpress/markdown-lint ...",
-          "count": 64,
-          "uniques": 22
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/024-no-duplicate-header.md",
-          "title": "markdown-lint/rules/024-no-duplicate-header.md at master · updownpress/markdo...",
-          "count": 63,
-          "uniques": 26
+          "count": 67,
+          "uniques": 31
         },
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/036-no-emphasis-as-header.md",
           "title": "markdown-lint/rules/036-no-emphasis-as-header.md at master · updownpress/mark...",
-          "count": 56,
-          "uniques": 25
+          "count": 59,
+          "uniques": 27
         },
         {
-          "path": "/updownpress/markdown-lint/blob/master/rules/010-no-hard-tabs.md",
-          "title": "markdown-lint/rules/010-no-hard-tabs.md at master · updownpress/markdown-lint...",
-          "count": 52,
-          "uniques": 22
+          "path": "/updownpress/markdown-lint/blob/master/rules/009-no-trailing-spaces.md",
+          "title": "markdown-lint/rules/009-no-trailing-spaces.md at master · updownpress/markdow...",
+          "count": 59,
+          "uniques": 21
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/032-blanks-around-lists.md",
+          "title": "markdown-lint/rules/032-blanks-around-lists.md at master · updownpress/markdo...",
+          "count": 38,
+          "uniques": 16
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/024-no-duplicate-header.md",
+          "title": "markdown-lint/rules/024-no-duplicate-header.md at master · updownpress/markdo...",
+          "count": 38,
+          "uniques": 14
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/014-commands-show-output.md",
+          "title": "markdown-lint/rules/014-commands-show-output.md at master · updownpress/markd...",
+          "count": 37,
+          "uniques": 10
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/007-ul-indent.md",
+          "title": "markdown-lint/rules/007-ul-indent.md at master · updownpress/markdown-lint · ...",
+          "count": 34,
+          "uniques": 8
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1219,
-          "uniques": 403
-        },
-        {
-          "referrer": "statics.teams.cdn.office.net",
-          "count": 32,
-          "uniques": 2
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 24,
-          "uniques": 4
+          "count": 837,
+          "uniques": 250
         },
         {
           "referrer": "search.brave.com",
-          "count": 4,
+          "count": 21,
+          "uniques": 3
+        },
+        {
+          "referrer": "statics.teams.cdn.office.net",
+          "count": 18,
+          "uniques": 5
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 6,
           "uniques": 2
         },
         {
-          "referrer": "pages.github.maif.io",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "StartPage",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "updownpress.github.io",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "t.co",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -6324,6 +6323,108 @@
         "views": {
           "count": 98,
           "uniques": 36
+        }
+      },
+      "2023-12-18": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-12-19": {
+        "views": {
+          "count": 154,
+          "uniques": 59
+        }
+      },
+      "2023-12-20": {
+        "views": {
+          "count": 151,
+          "uniques": 48
+        }
+      },
+      "2023-12-21": {
+        "views": {
+          "count": 99,
+          "uniques": 40
+        }
+      },
+      "2023-12-22": {
+        "views": {
+          "count": 106,
+          "uniques": 41
+        }
+      },
+      "2023-12-23": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-24": {
+        "views": {
+          "count": 24,
+          "uniques": 8
+        }
+      },
+      "2023-12-25": {
+        "views": {
+          "count": 58,
+          "uniques": 13
+        }
+      },
+      "2023-12-26": {
+        "views": {
+          "count": 34,
+          "uniques": 16
+        }
+      },
+      "2023-12-27": {
+        "views": {
+          "count": 69,
+          "uniques": 29
+        }
+      },
+      "2023-12-28": {
+        "views": {
+          "count": 61,
+          "uniques": 24
+        }
+      },
+      "2023-12-29": {
+        "views": {
+          "count": 45,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-12-30": {
+        "views": {
+          "count": 75,
+          "uniques": 12
+        }
+      },
+      "2023-12-31": {
+        "views": {
+          "count": 34,
+          "uniques": 4
+        }
+      },
+      "2024-01-01": {
+        "views": {
+          "count": 25,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

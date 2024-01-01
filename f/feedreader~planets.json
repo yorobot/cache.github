@@ -349,6 +349,10 @@
     "2023-12-15": {
       "stargazers_count": 20,
       "forks_count": 3
+    },
+    "2024-01-01": {
+      "stargazers_count": 20,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -375,31 +379,42 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 9,
         "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 9,
+        "uniques": 5
       },
       "paths": [
         {
-          "path": "/feedreader/planets/blob/master/newsweek/README.md",
-          "title": "planets/newsweek/README.md at master · feedreader/planets · GitHub",
+          "path": "/feedreader/planets",
+          "title": "GitHub - feedreader/planets: planet setup / configuration samples - planetari...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/blob/master/haskell.ini",
+          "title": "planets/haskell.ini at master · feedreader/planets · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/feedreader/planets",
-          "title": "feedreader/planets: planet setup / configuration samples - planetarium - add ...",
-          "count": 1,
+          "path": "/feedreader/planets/blob/master/nytimes.ini",
+          "title": "planets/nytimes.ini at master · feedreader/planets · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 1
+        },
+        {
           "referrer": "feedreader.github.io",
-          "count": 1,
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -2228,6 +2243,40 @@
       "2023-12-10": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-28": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2024-01-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-12-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-29": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2023-12-30": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

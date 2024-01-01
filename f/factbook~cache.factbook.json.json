@@ -2,8 +2,8 @@
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
   "updated_at": "2023-10-27T19:26:03Z",
-  "pushed_at": "2023-12-14T22:17:25Z",
-  "size": 126824,
+  "pushed_at": "2023-12-30T14:30:56Z",
+  "size": 129149,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -242,19 +242,23 @@
     "2023-12-15": {
       "stargazers_count": 7,
       "forks_count": 3
+    },
+    "2024-01-01": {
+      "stargazers_count": 7,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-14T22:17:23Z",
+        "date": "2023-12-30T14:30:55Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2023-12-14T22:17:23Z",
+        "date": "2023-12-30T14:30:55Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 50"
+      "message": "auto-update week 52"
     }
   ],
   "topics": [
@@ -265,39 +269,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 4
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
-        "count": 24,
+        "count": 32,
         "uniques": 17
       },
       "paths": [
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/africa",
-          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/ag.json",
-          "title": "cache.factbook.json/africa/ag.json at master · factbook/cache.factbook.json",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/cache.factbook.json",
-          "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 3,
-          "uniques": 3
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "Google",
-          "count": 7,
-          "uniques": 2
-        }
+
       ]
     },
     "history": {
@@ -4327,6 +4310,64 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-01-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2023-12-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2023-12-23": {
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2023-12-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2023-12-30": {
+        "clones": {
+          "count": 12,
+          "uniques": 7
+        }
+      },
+      "2023-12-31": {
+        "clones": {
+          "count": 6,
+          "uniques": 5
         }
       }
     }
