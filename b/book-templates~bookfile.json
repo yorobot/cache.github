@@ -353,6 +353,10 @@
     "2024-01-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2024-01-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -379,25 +383,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 2
+        "count": 6,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       },
       "paths": [
         {
+          "path": "/book-templates/bookfile/blob/master/beer.rb",
+          "title": "bookfile/beer.rb at master · book-templates/bookfile · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
           "path": "/book-templates/bookfile",
-          "title": "GitHub - book-templates/bookfile: quick starter bookfile templates - World Al...",
+          "title": "book-templates/bookfile: quick starter bookfile templates - World Almanac, Wo...",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 2,
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -1476,6 +1486,18 @@
       "2023-12-29": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-09": {
+        "views": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2024-01-12": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

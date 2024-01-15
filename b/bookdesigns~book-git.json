@@ -353,6 +353,10 @@
     "2024-01-01": {
       "stargazers_count": 15,
       "forks_count": 3
+    },
+    "2024-01-15": {
+      "stargazers_count": 15,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -379,25 +383,67 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 2
+        "count": 45,
+        "uniques": 4
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 5,
+        "uniques": 4
       },
       "paths": [
         {
+          "path": "/bookdesigns/book-git/blob/gh-pages/_chapters/01.md",
+          "title": "book-git/_chapters/01.md at gh-pages · bookdesigns/book-git",
+          "count": 19,
+          "uniques": 1
+        },
+        {
           "path": "/bookdesigns/book-git",
-          "title": "GitHub - bookdesigns/book-git: Git Book Theme by Mathieu David",
-          "count": 4,
+          "title": "bookdesigns/book-git: Git Book Theme by Mathieu David",
+          "count": 6,
           "uniques": 2
+        },
+        {
+          "path": "/bookdesigns/book-git/blame/gh-pages/_chapters/01.md",
+          "title": "Blaming book-git/_chapters/01.md at gh-pages · bookdesigns/book-git",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/tree/gh-pages/_chapters",
+          "title": "book-git/_chapters at gh-pages · bookdesigns/book-git",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/tree/gh-pages",
+          "title": "bookdesigns/book-git: Git Book Theme by Mathieu David",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/bookdesigns/book-git/edit/gh-pages/_chapters/01.md",
+          "title": "Editing book-git/_chapters/01.md at gh-pages · bookdesigns/book-git",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/tree/gh-pages/css",
+          "title": "book-git/css at gh-pages · bookdesigns/book-git",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/bookdesigns/book-git/commit/29ca483648f94a421bf410250c6278aceb5e1c4e",
+          "title": "up · bookdesigns/book-git@29ca483",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 41,
           "uniques": 1
         }
       ]
@@ -1846,6 +1892,34 @@
       "2023-12-28": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-09": {
+        "views": {
+          "count": 43,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-01-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-11": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

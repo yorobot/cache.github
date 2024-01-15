@@ -74,6 +74,10 @@
     "2024-01-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2024-01-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -98,35 +102,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 11,
+        "count": 10,
         "uniques": 1
       },
       "clones": {
-        "count": 3,
+        "count": 2,
         "uniques": 2
       },
       "paths": [
         {
+          "path": "/beerkit/beer.csv",
+          "title": "beerkit/beer.csv: beer, brewery n brewpub data",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.csv/blob/master/world/north-america/mx-mexico/beers.csv",
+          "title": "beer.csv/world/north-america/mx-mexico/beers.csv at master · beerkit/beer.csv",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/beerkit/beer.csv/tree/master/world",
           "title": "beer.csv/world at master · beerkit/beer.csv",
-          "count": 3,
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.csv/tree/master/world/europe",
-          "title": "beer.csv/world/europe at master · beerkit/beer.csv",
-          "count": 3,
+          "path": "/beerkit/beer.csv/tree/master/world/north-america",
+          "title": "beer.csv/world/north-america at master · beerkit/beer.csv",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.csv/tree/master/world/europe/sco-scotland",
-          "title": "beer.csv/world/europe/sco-scotland at master · beerkit/beer.csv",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.csv/blob/master/world/europe/sco-scotland/beers.csv",
-          "title": "beer.csv/world/europe/sco-scotland/beers.csv at master · beerkit/beer.csv",
+          "path": "/beerkit/beer.csv/tree/master/world/north-america/mx-mexico",
+          "title": "beer.csv/world/north-america/mx-mexico at master · beerkit/beer.csv",
           "count": 2,
           "uniques": 1
         }
@@ -134,7 +144,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
+          "count": 10,
           "uniques": 1
         }
       ]
@@ -423,6 +433,30 @@
       "2023-12-29": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-03": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-01-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-13": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

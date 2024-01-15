@@ -2,8 +2,8 @@
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
   "updated_at": "2023-10-27T19:26:03Z",
-  "pushed_at": "2023-12-30T14:30:56Z",
-  "size": 129149,
+  "pushed_at": "2024-01-11T22:16:03Z",
+  "size": 118248,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -246,19 +246,23 @@
     "2024-01-01": {
       "stargazers_count": 7,
       "forks_count": 3
+    },
+    "2024-01-15": {
+      "stargazers_count": 7,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-30T14:30:55Z",
+        "date": "2024-01-11T22:16:01Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2023-12-30T14:30:55Z",
+        "date": "2024-01-11T22:16:01Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 52"
+      "message": "auto-update week 2"
     }
   ],
   "topics": [
@@ -269,18 +273,86 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 52,
+        "uniques": 6
       },
       "clones": {
-        "count": 32,
+        "count": 23,
         "uniques": 17
       },
       "paths": [
-
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/central-america-n-caribbean/aa.json",
+          "title": "cache.factbook.json/central-america-n-caribbean/aa.json at master · factbook/...",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json",
+          "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/europe/al.json",
+          "title": "cache.factbook.json/europe/al.json at master · factbook/cache.factbook.json ·...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/africa/mo.json",
+          "title": "cache.factbook.json/africa/mo.json at master · factbook/cache.factbook.json ·...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blob/master/central-america-n-caribbean/rq.json",
+          "title": "cache.factbook.json/central-america-n-caribbean/rq.json at master · factbook/...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/australia-oceania",
+          "title": "cache.factbook.json/australia-oceania at master · factbook/cache.factbook.jso...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/central-america-n-caribbean",
+          "title": "cache.factbook.json/central-america-n-caribbean at master · factbook/cache.fa...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/europe",
+          "title": "cache.factbook.json/europe at master · factbook/cache.factbook.json · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/blame/master/central-america-n-caribbean/aa.json",
+          "title": "Blaming cache.factbook.json/central-america-n-caribbean/aa.json at master · f...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/world",
+          "title": "cache.factbook.json/world at master · factbook/cache.factbook.json · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 22,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 9,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -4368,6 +4440,88 @@
         "clones": {
           "count": 6,
           "uniques": 5
+        }
+      },
+      "2024-01-10": {
+        "views": {
+          "count": 19,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-12": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-01-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-15": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-04": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-01-06": {
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2024-01-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

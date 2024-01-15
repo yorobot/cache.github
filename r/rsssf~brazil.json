@@ -305,6 +305,10 @@
     "2024-01-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2024-01-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -328,17 +332,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 1
+        "count": 16,
+        "uniques": 4
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/rsssf/brazil/tree/master/2015",
-          "title": "brazil/2015 at master · rsssf/brazil · GitHub",
+          "path": "/rsssf/brazil",
+          "title": "GitHub - rsssf/brazil: football.db RSSSF (Rec.Sport.Soccer Statistics Foundat...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/rsssf/brazil/blob/master/2012/seriea.yml",
+          "title": "File not found · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/brazil/tree/master/tables",
+          "title": "brazil/tables at master · rsssf/brazil · GitHub",
           "count": 3,
           "uniques": 1
         },
@@ -349,14 +365,34 @@
           "uniques": 1
         },
         {
-          "path": "/rsssf/brazil",
-          "title": "GitHub - rsssf/brazil: football.db RSSSF (Rec.Sport.Soccer Statistics Foundat...",
-          "count": 1,
+          "path": "/rsssf/brazil/blob/master/tables/braz2011.txt",
+          "title": "brazil/tables/braz2011.txt at master · rsssf/brazil · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/brazil/tree/master/2013",
+          "title": "brazil/2013 at master · rsssf/brazil",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "rsssf.github.io",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "referrer": "blog.desdelinux.net",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1495,6 +1531,36 @@
       "2023-12-30": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-12": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-01-14": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-01-13": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

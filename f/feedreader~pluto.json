@@ -353,6 +353,10 @@
     "2024-01-01": {
       "stargazers_count": 190,
       "forks_count": 16
+    },
+    "2024-01-15": {
+      "stargazers_count": 190,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -392,89 +396,89 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 25,
-        "uniques": 10
+        "count": 126,
+        "uniques": 11
       },
       "clones": {
-        "count": 19,
-        "uniques": 13
+        "count": 13,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 8,
-          "uniques": 4
+          "count": 11,
+          "uniques": 7
         },
         {
-          "path": "/feedreader/pluto/blob/5105cef814c52ac9da9d2323da4e3e88fac3223c/pluto-models/lib/pluto/schema.rb",
-          "title": "pluto/pluto-models/lib/pluto/schema.rb at 5105cef814c52ac9da9d2323da4e3e88fac...",
-          "count": 2,
+          "path": "/feedreader/pluto/tree/master/pluto",
+          "title": "pluto/pluto at master · feedreader/pluto",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/pluto-models/lib/pluto/models",
+          "title": "pluto/pluto-models/lib/pluto/models at master · feedreader/pluto",
+          "count": 6,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/blob/5105cef814c52ac9da9d2323da4e3e88fac3223c/pluto-update/lib/pluto/update/site_fetcher.rb",
-          "title": "pluto/pluto-update/lib/pluto/update/site_fetcher.rb at 5105cef814c52ac9da9d23...",
-          "count": 2,
+          "path": "/feedreader/pluto/tree/master/pluto-models",
+          "title": "pluto/pluto-models at master · feedreader/pluto · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/pluto-feedfetcher/lib/pluto",
+          "title": "pluto/pluto-feedfetcher/lib/pluto at master · feedreader/pluto",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto",
-          "count": 2,
+          "path": "/feedreader/pluto/tree/master/pluto-feedfetcher/lib/pluto/feedfetcher",
+          "title": "pluto/pluto-feedfetcher/lib/pluto/feedfetcher at master · feedreader/pluto",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/pulls",
-          "title": "Pull requests · feedreader/pluto",
-          "count": 2,
+          "path": "/feedreader/pluto/tree/master/pluto-models/lib/pluto",
+          "title": "pluto/pluto-models/lib/pluto at master · feedreader/pluto",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/barcharts",
-          "title": "pluto/barcharts at master · feedreader/pluto",
-          "count": 2,
+          "path": "/feedreader/pluto/blob/5105cef814c52ac9da9d2323da4e3e88fac3223c/pluto-update/lib/pluto/update/feed_refresher.rb",
+          "title": "pluto/pluto-update/lib/pluto/update/feed_refresher.rb at 5105cef814c52ac9da9d...",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/script",
-          "title": "pluto/script at master · feedreader/pluto",
-          "count": 2,
+          "path": "/feedreader/pluto/blob/master/pluto-update/lib/pluto/update/feed_refresher.rb",
+          "title": "pluto/pluto-update/lib/pluto/update/feed_refresher.rb at master · feedreader/...",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues/33",
-          "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/pull/16",
-          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
-          "count": 1,
+          "path": "/feedreader/pluto/tree/5105cef814c52ac9da9d2323da4e3e88fac3223c/pluto-models/lib/pluto/models",
+          "title": "pluto/pluto-models/lib/pluto/models at 5105cef814c52ac9da9d2323da4e3e88fac322...",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "referrer": "Google",
-          "count": 7,
+          "count": 96,
           "uniques": 4
         },
         {
-          "referrer": "rubygems.org",
-          "count": 3,
+          "referrer": "Google",
+          "count": 12,
+          "uniques": 3
+        },
+        {
+          "referrer": "planet-if.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -5196,6 +5200,98 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-01-03": {
+        "views": {
+          "count": 103,
+          "uniques": 2
+        }
+      },
+      "2024-01-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-09": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-12": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-13": {
+        "clones": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

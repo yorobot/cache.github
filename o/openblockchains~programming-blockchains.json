@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-blockchains",
   "created_at": "2018-03-15T17:18:42Z",
-  "updated_at": "2023-12-27T17:33:21Z",
+  "updated_at": "2024-01-13T01:16:43Z",
   "pushed_at": "2021-01-02T10:52:07Z",
   "size": 553,
   "history": {
@@ -320,6 +320,10 @@
     "2024-01-01": {
       "stargazers_count": 656,
       "forks_count": 72
+    },
+    "2024-01-15": {
+      "stargazers_count": 654,
+      "forks_count": 72
     }
   },
   "commits": [
@@ -343,37 +347,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 111,
-        "uniques": 33
+        "count": 137,
+        "uniques": 37
       },
       "clones": {
-        "count": 12,
-        "uniques": 9
+        "count": 13,
+        "uniques": 12
       },
       "paths": [
         {
           "path": "/openblockchains/programming-blockchains",
           "title": "openblockchains/programming-blockchains: Programming Blockchains Step-by-Step...",
-          "count": 30,
+          "count": 31,
           "uniques": 25
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/01_crypto_hash.md",
           "title": "programming-blockchains/01_crypto_hash.md at master · openblockchains/program...",
-          "count": 22,
+          "count": 20,
           "uniques": 7
         },
         {
-          "path": "/openblockchains/programming-blockchains/blob/master/05_mining.md",
-          "title": "programming-blockchains/05_mining.md at master · openblockchains/programming-...",
-          "count": 10,
-          "uniques": 4
+          "path": "/openblockchains/programming-blockchains/blob/master/03_blockchain.md",
+          "title": "programming-blockchains/03_blockchain.md at master · openblockchains/programm...",
+          "count": 13,
+          "uniques": 6
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/02_crypto_block.md",
           "title": "programming-blockchains/02_crypto_block.md at master · openblockchains/progra...",
-          "count": 8,
-          "uniques": 3
+          "count": 10,
+          "uniques": 4
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/06_bitcoin.md",
@@ -382,60 +386,55 @@
           "uniques": 3
         },
         {
-          "path": "/openblockchains/programming-blockchains/tree/master/i",
-          "title": "programming-blockchains/i at master · openblockchains/programming-blockchains",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/tree/master/META",
-          "title": "programming-blockchains/META at master · openblockchains/programming-blockcha...",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/openblockchains/programming-blockchains/blob/master/03_blockchain.md",
-          "title": "programming-blockchains/03_blockchain.md at master · openblockchains/programm...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "path": "/openblockchains/programming-blockchains/blob/master/bitcoin_hash.rb",
           "title": "programming-blockchains/bitcoin_hash.rb at master · openblockchains/programmi...",
-          "count": 2,
-          "uniques": 1
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/timestamp.rb",
+          "title": "programming-blockchains/timestamp.rb at master · openblockchains/programming-...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/05_mining.md",
+          "title": "programming-blockchains/05_mining.md at master · openblockchains/programming-...",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/openblockchains/programming-blockchains/blob/master/bitcoin_header.rb",
           "title": "programming-blockchains/bitcoin_header.rb at master · openblockchains/program...",
-          "count": 2,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-blockchains/blob/master/block.rb",
+          "title": "programming-blockchains/block.rb at master · openblockchains/programming-bloc...",
+          "count": 4,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 58,
-          "uniques": 11
+          "count": 40,
+          "uniques": 13
         },
         {
           "referrer": "Google",
+          "count": 22,
+          "uniques": 8
+        },
+        {
+          "referrer": "l.facebook.com",
           "count": 12,
-          "uniques": 4
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 11,
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "build-your-own-x.vercel.app",
-          "count": 1,
+          "referrer": "learnmeabitcoin.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -6895,6 +6894,112 @@
         "views": {
           "count": 6,
           "uniques": 6
+        }
+      },
+      "2024-01-03": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-01-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-05": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-06": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-01-08": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-09": {
+        "views": {
+          "count": 33,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-01-10": {
+        "views": {
+          "count": 40,
+          "uniques": 3
+        }
+      },
+      "2024-01-12": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-01-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-14": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2024-01-15": {
+        "views": {
+          "count": 13,
+          "uniques": 6
+        }
+      },
+      "2024-01-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
