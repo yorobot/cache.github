@@ -206,6 +206,10 @@
     "2024-01-15": {
       "stargazers_count": 26,
       "forks_count": 15
+    },
+    "2024-01-28": {
+      "stargazers_count": 26,
+      "forks_count": 16
     }
   },
   "commits": [
@@ -234,80 +238,98 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
-        "uniques": 10
+        "count": 33,
+        "uniques": 12
       },
       "clones": {
-        "count": 10,
-        "uniques": 10
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/punks.contracts",
           "title": "GitHub - cryptopunksnotdead/punks.contracts: Inside the CryptoPunks Blockchai...",
           "count": 9,
-          "uniques": 8
+          "uniques": 7
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v1/CryptoPunks.sol",
-          "title": "punks.contracts/punks-v1/CryptoPunks.sol at master · cryptopunksnotdead/punks...",
-          "count": 7,
-          "uniques": 1
+          "path": "/cryptopunksnotdead/punks.contracts/blob/51334fcfbde79a9fd2085584ffe60502f16a81bc/bored/BoredPunkYachtClub.sol",
+          "title": "punks.contracts/bored/BoredPunkYachtClub.sol at 51334fcfbde79a9fd2085584ffe60...",
+          "count": 4,
+          "uniques": 2
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/currency",
-          "title": "punks.contracts/currency at master · cryptopunksnotdead/punks.contracts · Git...",
+          "path": "/cryptopunksnotdead/punks.contracts/tree/master/punks-v1",
+          "title": "punks.contracts/punks-v1 at master · cryptopunksnotdead/punks.contracts",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/currency/IERC165.sol",
-          "title": "punks.contracts/currency/IERC165.sol at master · cryptopunksnotdead/punks.con...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/51334fcfbde79a9fd2085584ffe60502f16a81bc/ape/ApePunks.sol",
+          "title": "punks.contracts/ape/ApePunks.sol at 51334fcfbde79a9fd2085584ffe60502f16a81bc ...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v2/CryptoPunksMarket.sol",
-          "title": "punks.contracts/punks-v2/CryptoPunksMarket.sol at master · cryptopunksnotdead...",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/51334fcfbde79a9fd2085584ffe60502f16a81bc/phunks-v3/lib/StringsUpgradeable.sol",
+          "title": "punks.contracts/phunks-v3/lib/StringsUpgradeable.sol at 51334fcfbde79a9fd2085...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.contracts/tree/master/ape",
-          "title": "punks.contracts/ape at master · cryptopunksnotdead/punks.contracts · GitHub",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punksdata/transactions.txt",
+          "title": "punks.contracts/punksdata/transactions.txt at master · cryptopunksnotdead/pun...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/tree/master/punks",
+          "path": "/cryptopunksnotdead/punks.contracts/blob/master/punks-v1/CryptoPunks.sol",
           "title": "punks.contracts/punks-v1/CryptoPunks.sol at master · cryptopunksnotdead/punks...",
-          "count": 1,
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/fork",
+          "title": "Fork cryptopunksnotdead/punks.contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/tree/master/hdpunks",
+          "title": "punks.contracts/hdpunks at master · cryptopunksnotdead/punks.contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.contracts/tree/master/phunks-v1-wrapped",
+          "title": "punks.contracts/phunks-v1-wrapped at master · cryptopunksnotdead/punks.contra...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "arxiv.org",
-          "count": 6,
+          "referrer": "github.com",
+          "count": 27,
+          "uniques": 7
+        },
+        {
+          "referrer": "search.brave.com",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "t.co",
-          "count": 4,
-          "uniques": 2
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "github.com",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "cryptopunksnotdead.github.io",
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "chat.openai.com",
           "count": 1,
           "uniques": 1
         }
@@ -3866,6 +3888,56 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-01-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-22": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-01-23": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-01-25": {
+        "views": {
+          "count": 21,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

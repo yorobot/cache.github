@@ -309,6 +309,10 @@
     "2024-01-15": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2024-01-28": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -341,61 +345,78 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 52,
+        "count": 26,
         "uniques": 2
       },
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
-          "count": 7,
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
-          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues",
-          "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs/lib/footballdb",
-          "title": "football.db/footballdb-clubs/lib/footballdb at master · sportdb/football.db ·...",
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/bin/football2sqlite",
+          "title": "football.db/football-to-sqlite/bin/football2sqlite at master · sportdb/footba...",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db",
-          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
-          "count": 2,
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/bin/football-to-sqlite",
+          "title": "football.db/football-to-sqlite/bin/football-to-sqlite at master · sportdb/foo...",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/tree/master/footballdb-clubs/lib/footballdb/clubs",
-          "title": "football.db/footballdb-clubs/lib/footballdb/clubs at master · sportdb/footbal...",
-          "count": 2,
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/lib/football-to-sqlite.rb",
+          "title": "football.db/football-to-sqlite/lib/football-to-sqlite.rb at master · sportdb/...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/bin",
+          "title": "football.db/football-to-sqlite/bin at master · sportdb/football.db · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
           "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib/football-to-sqlite",
+          "title": "football.db/football-to-sqlite/lib/football-to-sqlite at master · sportdb/foo...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/footballdb-clubs/README.md",
+          "title": "football.db/footballdb-clubs/README.md at master · sportdb/football.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/fifa",
+          "title": "football.db/fifa at master · sportdb/football.db · GitHub",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 28,
+          "referrer": "github.com",
+          "count": 24,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -3367,8 +3388,38 @@
       },
       "2024-01-14": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-16": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-24": {
+        "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-01-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

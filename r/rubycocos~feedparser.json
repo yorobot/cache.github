@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/feedparser",
   "created_at": "2013-09-19T20:33:21Z",
-  "updated_at": "2024-01-09T18:56:19Z",
+  "updated_at": "2024-01-24T13:18:28Z",
   "pushed_at": "2023-04-04T10:07:46Z",
   "size": 1190,
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
@@ -110,6 +110,10 @@
     "2024-01-15": {
       "stargazers_count": 163,
       "forks_count": 11
+    },
+    "2024-01-28": {
+      "stargazers_count": 164,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -149,88 +153,64 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 60,
-        "uniques": 9
+        "count": 18,
+        "uniques": 3
       },
       "clones": {
-        "count": 29,
-        "uniques": 20
+        "count": 22,
+        "uniques": 12
       },
       "paths": [
         {
-          "path": "/rubycocos/feedparser/tree/master/feedparser/lib/feedparser",
-          "title": "feedparser/feedparser/lib/feedparser at master · rubycocos/feedparser",
-          "count": 11,
-          "uniques": 1
-        },
-        {
           "path": "/rubycocos/feedparser",
           "title": "rubycocos/feedparser: feedparser gem - (universal) web feed parser and normal...",
-          "count": 10,
-          "uniques": 8
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/feedfilter",
+          "title": "feedparser/feedfilter at master · rubycocos/feedparser",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/rubycocos/feedparser/tree/master/feedparser",
           "title": "feedparser/feedparser at master · rubycocos/feedparser",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/rubycocos/feedparser/blob/master/feedparser/lib/feedparser/parser.rb",
-          "title": "feedparser/feedparser/lib/feedparser/parser.rb at master · rubycocos/feedparser",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/feedparser/tree/master/feedparser/lib/feedparser/builder",
-          "title": "feedparser/feedparser/lib/feedparser/builder at master · rubycocos/feedparser",
           "count": 4,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/rubycocos/feedparser/blob/master/lib/feedparser/tag.rb",
-          "title": "File not found",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/feedparser/tree/master/feedparser/lib",
-          "title": "feedparser/feedparser/lib at master · rubycocos/feedparser",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/feedparser/blob/master/feedparser/lib/feedparser/author.rb",
-          "title": "feedparser/feedparser/lib/feedparser/author.rb at master · rubycocos/feedparser",
+          "path": "/rubycocos/feedparser/tree/master/awesome-feeds",
+          "title": "feedparser/awesome-feeds at master · rubycocos/feedparser",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/feedparser/blob/master/feedparser/lib/feedparser/builder/rss.rb",
-          "title": "feedparser/feedparser/lib/feedparser/builder/rss.rb at master · rubycocos/fee...",
+          "path": "/rubycocos/feedparser/tree/master/feeds",
+          "title": "feedparser/feeds at master · rubycocos/feedparser",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/feedparser/blob/master/feedparser/lib/feedparser/feed.rb",
-          "title": "feedparser/feedparser/lib/feedparser/feed.rb at master · rubycocos/feedparser",
+          "path": "/rubycocos/feedparser/tree/master/feedtxt",
+          "title": "feedparser/feedtxt at master · rubycocos/feedparser",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 46,
-          "uniques": 2
-        },
-        {
-          "referrer": "ruby-toolbox.com",
+          "referrer": "ruby.libhunt.com",
           "count": 3,
           "uniques": 1
         },
         {
-          "referrer": "kod10.com",
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -2799,6 +2779,92 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-01-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-27": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-16": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-17": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-18": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-19": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-23": {
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-01-25": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

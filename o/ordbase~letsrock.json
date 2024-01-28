@@ -2,8 +2,8 @@
   "full_name": "ordbase/letsrock",
   "created_at": "2014-01-24T19:46:32Z",
   "updated_at": "2023-12-18T05:25:05Z",
-  "pushed_at": "2023-12-17T13:33:10Z",
-  "size": 924,
+  "pushed_at": "2024-01-21T10:35:48Z",
+  "size": 926,
   "description": "Let's generate 1000 rocks (28×28px) in a reference edition.",
   "language": "Ruby",
   "history": {
@@ -14,19 +14,23 @@
     "2024-01-15": {
       "stargazers_count": 3,
       "forks_count": 0
+    },
+    "2024-01-28": {
+      "stargazers_count": 3,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-17T13:33:10Z",
+        "date": "2024-01-21T10:35:48Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2023-12-17T13:33:10Z",
+        "date": "2024-01-21T10:35:48Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update generate_meta.rb"
+      "message": "Update README.md"
     }
   ],
   "topics": [
@@ -44,95 +48,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 139,
+        "count": 58,
         "uniques": 8
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 8,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/ordbase/letsrock",
           "title": "ordbase/letsrock: Let's generate 1000 rocks (28×28px) in a reference edition.",
-          "count": 30,
-          "uniques": 7
-        },
-        {
-          "path": "/ordbase/letsrock/blob/master/letsrock.csv",
-          "title": "letsrock/letsrock.csv at master · ordbase/letsrock",
-          "count": 12,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/letsrock/tree/master/i",
-          "title": "letsrock/i at master · ordbase/letsrock",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "path": "/ordbase/letsrock/blob/master/i%408x/rock000%408x.png",
-          "title": "letsrock/i@8x/rock000@8x.png at master · ordbase/letsrock",
-          "count": 10,
-          "uniques": 1
+          "count": 39,
+          "uniques": 8
         },
         {
           "path": "/ordbase/letsrock/tree/master/attributes",
-          "title": "letsrock/attributes at master · ordbase/letsrock · GitHub",
-          "count": 9,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/letsrock/tree/master",
-          "title": "ordbase/letsrock: Let's generate 1000 rocks (28×28px) in a reference edition.",
-          "count": 9,
+          "title": "letsrock/attributes at master · ordbase/letsrock",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/ordbase/letsrock/blob/master/generate.rb",
-          "title": "letsrock/generate.rb at master · ordbase/letsrock",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/letsrock/blob/master/generate_meta.rb",
-          "title": "letsrock/generate_meta.rb at master · ordbase/letsrock",
-          "count": 7,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/letsrock/blob/master/i/rock000.png",
-          "title": "letsrock/i/rock000.png at master · ordbase/letsrock",
+          "path": "/ordbase/letsrock/blob/master/attributes/pepe.png",
+          "title": "letsrock/attributes/pepe.png at master · ordbase/letsrock",
           "count": 4,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/letsrock/blob/master/attributes/safemode.png",
+          "title": "letsrock/attributes/safemode.png at master · ordbase/letsrock",
+          "count": 4,
+          "uniques": 1
         },
         {
           "path": "/ordbase/letsrock/blob/master/README.md",
           "title": "letsrock/README.md at master · ordbase/letsrock",
-          "count": 4,
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/letsrock/edit/master/README.md",
+          "title": "Editing letsrock/README.md at master · ordbase/letsrock",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 28,
-          "uniques": 5
+          "count": 8,
+          "uniques": 2
         },
         {
-          "referrer": "ordbase.github.io",
-          "count": 21,
-          "uniques": 1
-        },
-        {
-          "referrer": "bionluk.com",
-          "count": 16,
-          "uniques": 1
-        },
-        {
-          "referrer": "orc721.github.io",
-          "count": 12,
-          "uniques": 1
+          "referrer": "t.co",
+          "count": 6,
+          "uniques": 3
         }
       ]
     },
@@ -321,6 +291,108 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-01-16": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-18": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-19": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-01-20": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-21": {
+        "views": {
+          "count": 27,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-01-25": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2024-01-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

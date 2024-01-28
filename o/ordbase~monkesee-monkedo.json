@@ -2,8 +2,8 @@
   "full_name": "ordbase/monkesee-monkedo",
   "created_at": "2012-03-10T09:51:12Z",
   "updated_at": "2024-01-07T20:45:43Z",
-  "pushed_at": "2023-12-17T12:13:06Z",
-  "size": 20536,
+  "pushed_at": "2024-01-21T10:36:24Z",
+  "size": 20539,
   "description": "Let's generate 21 000 monkes (28×28px) in a \"Monke See, Monke Do\" reference edition.",
   "language": "Ruby",
   "history": {
@@ -18,16 +18,20 @@
     "2024-01-15": {
       "stargazers_count": 11,
       "forks_count": 3
+    },
+    "2024-01-28": {
+      "stargazers_count": 11,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-17T12:13:06Z",
+        "date": "2024-01-21T10:36:24Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2023-12-17T12:13:06Z",
+        "date": "2024-01-21T10:36:24Z",
         "name": "Gerald Bauer"
       },
       "message": "Update README.md"
@@ -45,110 +49,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 890,
-        "uniques": 28
+        "count": 92,
+        "uniques": 8
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 11,
+        "uniques": 9
       },
       "paths": [
         {
-          "path": "/ordbase/monkesee-monkedo",
-          "title": "ordbase/monkesee-monkedo: Let's generate 21 000 monkes (28×28px) in a \"Monke ...",
-          "count": 46,
-          "uniques": 21
-        },
-        {
           "path": "/ordbase/monkesee-monkedo/tree/master/attributes",
           "title": "monkesee-monkedo/attributes at master · ordbase/monkesee-monkedo · GitHub",
-          "count": 44,
-          "uniques": 7
-        },
-        {
-          "path": "/ordbase/monkesee-monkedo/tree/master/i",
-          "title": "monkesee-monkedo/i at master · ordbase/monkesee-monkedo",
-          "count": 12,
+          "count": 19,
           "uniques": 4
         },
         {
-          "path": "/ordbase/monkesee-monkedo/blob/master/i/monke00001.png",
-          "title": "monkesee-monkedo/i/monke00001.png at master · ordbase/monkesee-monkedo · GitHub",
-          "count": 9,
-          "uniques": 4
+          "path": "/ordbase/monkesee-monkedo",
+          "title": "ordbase/monkesee-monkedo: Let's generate 21 000 monkes (28×28px) in a \"Monke ...",
+          "count": 16,
+          "uniques": 8
         },
         {
-          "path": "/ordbase/monkesee-monkedo/blob/master/monkesee-monkedo.csv",
-          "title": "monkesee-monkedo/monkesee-monkedo.csv at master · ordbase/monkesee-monkedo",
-          "count": 8,
-          "uniques": 4
-        },
-        {
-          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/alien.png",
-          "title": "monkesee-monkedo/attributes/alien.png at master · ordbase/monkesee-monkedo · ...",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/ordbase/monkesee-monkedo/tree/master/i%408x",
-          "title": "monkesee-monkedo/i@8x at master · ordbase/monkesee-monkedo",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/blue.png",
-          "title": "monkesee-monkedo/attributes/blue.png at master · ordbase/monkesee-monkedo · G...",
-          "count": 8,
+          "path": "/ordbase/monkesee-monkedo/tree/master/attributes/maxibiz",
+          "title": "monkesee-monkedo/attributes/maxibiz at master · ordbase/monkesee-monkedo · Gi...",
+          "count": 7,
           "uniques": 2
         },
         {
-          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/blue-orc.png",
-          "title": "monkesee-monkedo/attributes/blue-orc.png at master · ordbase/monkesee-monkedo...",
-          "count": 8,
+          "path": "/ordbase/monkesee-monkedo/tree/master/attributes/accessories",
+          "title": "monkesee-monkedo/attributes/accessories at master · ordbase/monkesee-monkedo",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/monkesee-monkedo/blob/master/generate.rb",
+          "title": "monkesee-monkedo/generate.rb at master · ordbase/monkesee-monkedo",
+          "count": 5,
           "uniques": 1
         },
         {
           "path": "/ordbase/monkesee-monkedo/tree/master",
           "title": "ordbase/monkesee-monkedo: Let's generate 21 000 monkes (28×28px) in a \"Monke ...",
-          "count": 6,
-          "uniques": 3
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/accessories/bandana.png",
+          "title": "monkesee-monkedo/attributes/accessories/bandana.png at master · ordbase/monke...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/accessories/hoodie-pink.png",
+          "title": "monkesee-monkedo/attributes/accessories/hoodie-pink.png at master · ordbase/m...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/accessories/wizardhat.png",
+          "title": "monkesee-monkedo/attributes/accessories/wizardhat.png at master · ordbase/mon...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/monkesee-monkedo/blob/master/attributes/bot.png",
+          "title": "monkesee-monkedo/attributes/bot.png at master · ordbase/monkesee-monkedo",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 29,
-          "uniques": 3
-        },
-        {
           "referrer": "t.co",
-          "count": 22,
+          "count": 6,
           "uniques": 2
-        },
-        {
-          "referrer": "ordbase.github.io",
-          "count": 20,
-          "uniques": 1
         },
         {
           "referrer": "github.com",
-          "count": 18,
-          "uniques": 4
+          "count": 6,
+          "uniques": 2
         },
         {
           "referrer": "orc721.github.io",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "referrer": "bionluk.com",
-          "count": 5,
+          "count": 1,
           "uniques": 1
-        },
-        {
-          "referrer": "openbeer.github.io",
-          "count": 2,
-          "uniques": 2
         }
       ]
     },
@@ -418,6 +402,68 @@
       "2024-01-13": {
         "views": {
           "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-01-16": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-01-19": {
+        "views": {
+          "count": 19,
+          "uniques": 1
+        }
+      },
+      "2024-01-21": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-25": {
+        "views": {
+          "count": 39,
+          "uniques": 4
+        }
+      },
+      "2024-01-26": {
+        "views": {
+          "count": 19,
+          "uniques": 1
+        }
+      },
+      "2024-01-17": {
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-01-27": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-28": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

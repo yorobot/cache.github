@@ -158,6 +158,10 @@
     "2024-01-15": {
       "stargazers_count": 77,
       "forks_count": 6
+    },
+    "2024-01-28": {
+      "stargazers_count": 77,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -188,71 +192,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 70,
-        "uniques": 8
+        "count": 27,
+        "uniques": 5
       },
       "clones": {
-        "count": 24,
-        "uniques": 21
+        "count": 12,
+        "uniques": 10
       },
       "paths": [
         {
-          "path": "/pixelartexchange/artbase.server",
-          "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 11,
-          "uniques": 5
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/master/i",
-          "title": "artbase.server/i at master · pixelartexchange/artbase.server",
-          "count": 7,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/master/artbase",
-          "title": "artbase.server/artbase at master · pixelartexchange/artbase.server",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/master/attic",
-          "title": "artbase.server/attic at master · pixelartexchange/artbase.server",
-          "count": 4,
+          "path": "/pixelartexchange/artbase.server/blob/00869b99978c7115ea034886890fc1cfacc62347/collections.csv",
+          "title": "artbase.server/collections.csv at 00869b99978c7115ea034886890fc1cfacc62347 · ...",
+          "count": 6,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/tree/master/.github/workflows",
-          "title": "artbase.server/.github/workflows at master · pixelartexchange/artbase.server",
+          "path": "/pixelartexchange/artbase.server",
+          "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/00869b99978c7115ea034886890fc1cfacc62347/attic/artbase/collections_ordinals.go.bak",
+          "title": "artbase.server/attic/artbase/collections_ordinals.go.bak at 00869b99978c7115e...",
           "count": 3,
           "uniques": 1
         },
         {
           "path": "/pixelartexchange/artbase.server/blob/00869b99978c7115ea034886890fc1cfacc62347/attic/artbase/collections_standard.go.bak",
           "title": "artbase.server/attic/artbase/collections_standard.go.bak at 00869b99978c7115e...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/00869b99978c7115ea034886890fc1cfacc62347/serve/templates.go",
+          "title": "artbase.server/serve/templates.go at 00869b99978c7115ea034886890fc1cfacc62347...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/blob/00869b99978c7115ea034886890fc1cfacc62347/.github/workflows/release_build.yml",
+          "title": "artbase.server/.github/workflows/release_build.yml at 00869b99978c7115ea03488...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/i/punks-000002.png",
-          "title": "artbase.server/i/punks-000002.png at master · pixelartexchange/artbase.server",
+          "path": "/pixelartexchange/artbase.server/blob/00869b99978c7115ea034886890fc1cfacc62347/README.md",
+          "title": "artbase.server/README.md at 00869b99978c7115ea034886890fc1cfacc62347 · pixela...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/pixelartexchange/artbase.server/releases",
-          "title": "Releases · pixelartexchange/artbase.server",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/00869b99978c7115ea034886890fc1cfacc62347/artbase",
-          "title": "artbase.server/artbase at 00869b99978c7115ea034886890fc1cfacc62347 · pixelart...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/pixelartexchange/artbase.server/tree/00869b99978c7115ea034886890fc1cfacc62347/i",
-          "title": "artbase.server/i at 00869b99978c7115ea034886890fc1cfacc62347 · pixelartexchan...",
+          "path": "/pixelartexchange/artbase.server/blob/master/collections.csv",
+          "title": "artbase.server/collections.csv at master · pixelartexchange/artbase.server · ...",
           "count": 2,
           "uniques": 1
         }
@@ -260,18 +252,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
+          "count": 5,
           "uniques": 3
-        },
-        {
-          "referrer": "pixelartexchange.github.io",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -3190,6 +3172,46 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-01-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-24": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-01-16": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-20": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
