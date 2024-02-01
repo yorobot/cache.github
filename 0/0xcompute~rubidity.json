@@ -2,8 +2,8 @@
   "full_name": "0xCompute/rubidity",
   "created_at": "2015-06-27T17:28:04Z",
   "updated_at": "2024-01-18T09:27:45Z",
-  "pushed_at": "2023-12-08T19:45:06Z",
-  "size": 5871,
+  "pushed_at": "2024-01-28T12:43:25Z",
+  "size": 5878,
   "description": "Rubidity & Rubysol - Rubies for Layer 1 (L1) Contracts / Protocols with \"Off-Chain\" Indexer",
   "language": "Ruby",
   "history": {
@@ -22,16 +22,20 @@
     "2024-01-28": {
       "stargazers_count": 20,
       "forks_count": 4
+    },
+    "2024-02-01": {
+      "stargazers_count": 20,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-08T19:44:56Z",
+        "date": "2024-01-28T12:43:20Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-12-08T19:44:56Z",
+        "date": "2024-01-28T12:43:20Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -49,7 +53,7 @@
     "rubysol"
   ],
   "languages": {
-    "Ruby": 1231554,
+    "Ruby": 1246443,
     "Solidity": 185199,
     "JavaScript": 61869,
     "TypeScript": 25328,
@@ -58,30 +62,24 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 61,
+        "count": 43,
         "uniques": 11
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/0xCompute/rubidity",
           "title": "GitHub - 0xCompute/rubidity: Rubidity & Rubysol - Rubies for Layer 1 (L1) Con...",
-          "count": 10,
-          "uniques": 8
+          "count": 11,
+          "uniques": 9
         },
         {
           "path": "/0xCompute/rubidity/blob/master/FACETCONTRACTS.md",
           "title": "rubidity/FACETCONTRACTS.md at master · 0xCompute/rubidity · GitHub",
           "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/0xCompute/rubidity/tree/master/ethscribe",
-          "title": "rubidity/ethscribe at master · 0xCompute/rubidity · GitHub",
-          "count": 5,
           "uniques": 2
         },
         {
@@ -91,26 +89,20 @@
           "uniques": 2
         },
         {
-          "path": "/0xCompute/rubidity/tree/master/learninminutes",
-          "title": "rubidity/learninminutes at master · 0xCompute/rubidity",
-          "count": 4,
-          "uniques": 1
-        },
-        {
           "path": "/0xCompute/rubidity/tree/master/rubidity/contracts",
           "title": "rubidity/rubidity/contracts at master · 0xCompute/rubidity · GitHub",
           "count": 4,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/master/facet/build_v0.rb",
-          "title": "rubidity/facet/build_v0.rb at master · 0xCompute/rubidity · GitHub",
-          "count": 2,
+          "path": "/0xCompute/rubidity/tree/master/redpaper",
+          "title": "File not found",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/master/facet/facet.log",
-          "title": "rubidity/facet/facet.log at master · 0xCompute/rubidity",
+          "path": "/0xCompute/rubidity/blob/master/facet/build_v0.rb",
+          "title": "rubidity/facet/build_v0.rb at master · 0xCompute/rubidity · GitHub",
           "count": 2,
           "uniques": 1
         },
@@ -125,6 +117,18 @@
           "title": "rubidity/rubidity/contracts/ERC721.rb at master · 0xCompute/rubidity · GitHub",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/tree/master/ethscribe",
+          "title": "rubidity/ethscribe at master · 0xCompute/rubidity · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/tree/master/rubidity",
+          "title": "rubidity/rubidity at master · 0xCompute/rubidity · GitHub",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
@@ -134,14 +138,9 @@
           "uniques": 4
         },
         {
-          "referrer": "ruby-toolbox.com",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "referrer": "Baidu",
-          "count": 4,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 2
         },
         {
           "referrer": "mail.google.com",
@@ -154,7 +153,7 @@
           "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "referrer": "Baidu",
           "count": 1,
           "uniques": 1
         }
@@ -558,6 +557,26 @@
         }
       },
       "2024-01-28": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        },
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-01-29": {
         "clones": {
           "count": 1,
           "uniques": 1

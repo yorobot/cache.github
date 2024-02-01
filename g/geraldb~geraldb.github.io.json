@@ -361,24 +361,28 @@
     "2024-01-28": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2024-02-01": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-02-19T17:29:04Z",
+        "date": "2024-02-01T12:43:24Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-02-19T17:29:04Z",
+        "date": "2024-02-01T12:43:24Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 787,
+  "size": 823,
   "updated_at": "2024-01-18T23:43:42Z",
-  "pushed_at": "2023-02-19T17:29:10Z",
+  "pushed_at": "2024-02-01T12:43:28Z",
   "description": "Gerald Bauer's Site @ GitHub",
   "language": "Ruby",
   "topics": [
@@ -391,38 +395,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
+        "count": 64,
         "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 16,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/geraldb/geraldb.github.io",
-          "title": "GitHub - geraldb/geraldb.github.io: Gerald Bauer's Site @ GitHub",
-          "count": 3,
+          "title": "geraldb/geraldb.github.io: Gerald Bauer's Site @ GitHub",
+          "count": 4,
           "uniques": 2
         },
         {
-          "path": "/geraldb/geraldb.github.io/tree/master/slideshow",
-          "title": "geraldb.github.io/slideshow at master · geraldb/geraldb.github.io",
+          "path": "/geraldb/geraldb.github.io/blob/master/bookmarks.md",
+          "title": "geraldb.github.io/bookmarks.md at master · geraldb/geraldb.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/blob/master/sinatra.md",
+          "title": "geraldb.github.io/sinatra.md at master · geraldb/geraldb.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/blob/master/talks.md",
+          "title": "geraldb.github.io/talks.md at master · geraldb/geraldb.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/commits/master",
+          "title": "Commits · geraldb/geraldb.github.io",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/geraldb/geraldb.github.io/issues",
-          "title": "Issues · geraldb/geraldb.github.io",
-          "count": 1,
+          "path": "/geraldb/geraldb.github.io/blob/master/anchor.html",
+          "title": "geraldb.github.io/anchor.html at master · geraldb/geraldb.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/blob/master/enterprise_ruby.md",
+          "title": "geraldb.github.io/enterprise_ruby.md at master · geraldb/geraldb.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/blob/master/haskell.md",
+          "title": "geraldb.github.io/haskell.md at master · geraldb/geraldb.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/blob/master/heroku.md",
+          "title": "geraldb.github.io/heroku.md at master · geraldb/geraldb.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/geraldb.github.io/blob/master/jekyll_versions.md",
+          "title": "geraldb.github.io/jekyll_versions.md at master · geraldb/geraldb.github.io",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
+          "count": 13,
+          "uniques": 1
         },
         {
           "referrer": "geraldb.github.io",
@@ -2141,13 +2187,36 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 27,
+          "uniques": 1
+        }
+      },
+      "2024-01-31": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2024-02-01": {
+        "views": {
+          "count": 25,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 7
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 10864,
-    "CSS": 10423,
-    "HTML": 5228,
-    "JavaScript": 48
+    "Ruby": 5442
   }
 }

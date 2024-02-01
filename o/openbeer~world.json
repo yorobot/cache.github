@@ -361,6 +361,10 @@
     "2024-01-28": {
       "stargazers_count": 66,
       "forks_count": 15
+    },
+    "2024-02-01": {
+      "stargazers_count": 66,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -387,8 +391,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 2
+        "count": 9,
+        "uniques": 3
       },
       "clones": {
         "count": 2,
@@ -398,11 +402,28 @@
         {
           "path": "/openbeer/world",
           "title": "GitHub - openbeer/world: Free open public domain beer, brewery n brewpub data",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/openbeer/world/tree/master/europe/1--en-england--british-isles",
+          "title": "world/europe/1--en-england--british-isles at master · openbeer/world · GitHub",
           "count": 3,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/breweries.txt",
+          "title": "world/europe/1--en-england--british-isles/breweries.txt at master · openbeer/...",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 1
+        },
         {
           "referrer": "DuckDuckGo",
           "count": 3,
@@ -2216,6 +2237,12 @@
       "2024-01-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }

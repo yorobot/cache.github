@@ -114,6 +114,10 @@
     "2024-01-28": {
       "stargazers_count": 53,
       "forks_count": 2
+    },
+    "2024-02-01": {
+      "stargazers_count": 53,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -152,13 +156,42 @@
       },
       "paths": [
         {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos/env.rb",
+          "title": "cocos/lib/cocos/env.rb at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos.rb",
+          "title": "cocos/lib/cocos.rb at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib",
+          "title": "cocos/lib at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
           "path": "/rubycocos/cocos",
           "title": "rubycocos/cocos: cocos (code commons) - auto-include quick-starter prelude & ...",
-          "count": 1,
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib/cocos",
+          "title": "cocos/lib/cocos at master · rubycocos/cocos",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        },
         {
           "referrer": "rubygems.org",
           "count": 1,
@@ -1195,8 +1228,8 @@
           "uniques": 1
         },
         "clones": {
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         }
       },
       "2024-01-16": {
@@ -1212,6 +1245,12 @@
         }
       },
       "2024-01-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-31": {
         "clones": {
           "count": 1,
           "uniques": 1

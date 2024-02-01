@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-bitcoin-script",
   "created_at": "2015-08-01T12:07:19Z",
-  "updated_at": "2024-01-12T19:32:55Z",
+  "updated_at": "2024-01-28T15:10:31Z",
   "pushed_at": "2021-01-02T10:47:50Z",
   "size": 475,
   "history": {
@@ -325,6 +325,10 @@
     "2024-01-28": {
       "stargazers_count": 53,
       "forks_count": 17
+    },
+    "2024-02-01": {
+      "stargazers_count": 54,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -352,61 +356,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 244,
-        "uniques": 61
+        "count": 200,
+        "uniques": 54
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/openblockchains/programming-bitcoin-script",
           "title": "openblockchains/programming-bitcoin-script: Programming Bitcoin Script Transa...",
-          "count": 70,
-          "uniques": 52
+          "count": 58,
+          "uniques": 43
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script",
           "title": "programming-bitcoin-script/bitcoin-script at master · openblockchains/program...",
-          "count": 44,
-          "uniques": 9
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/lib/bitcoin-script/version.rb",
-          "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script/version.rb at ma...",
-          "count": 15,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib/bitcoin-script",
-          "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script at master · open...",
-          "count": 15,
-          "uniques": 3
+          "count": 35,
+          "uniques": 7
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/test",
           "title": "programming-bitcoin-script/bitcoin-script/test at master · openblockchains/pr...",
-          "count": 12,
+          "count": 13,
           "uniques": 4
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
-          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/blame/master/bitcoin-script/lib/bitcoin-script/version.rb",
-          "title": "Blaming programming-bitcoin-script/bitcoin-script/lib/bitcoin-script/version....",
-          "count": 9,
-          "uniques": 1
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/blob/master/README.md",
           "title": "programming-bitcoin-script/README.md at master · openblockchains/programming-...",
-          "count": 8,
-          "uniques": 3
+          "count": 12,
+          "uniques": 6
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/test/helper.rb",
@@ -415,36 +395,60 @@
           "uniques": 3
         },
         {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/test/test_ops.rb",
+          "title": "programming-bitcoin-script/bitcoin-script/test/test_ops.rb at master · openbl...",
+          "count": 7,
+          "uniques": 3
+        },
+        {
           "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_add.rb",
           "title": "programming-bitcoin-script/stackmachine_add.rb at master · openblockchains/pr...",
           "count": 7,
           "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
+          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib/bitcoin-script",
+          "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script at master · open...",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/issues",
+          "title": "Issues · openblockchains/programming-bitcoin-script · GitHub",
+          "count": 4,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 189,
-          "uniques": 44
+          "count": 133,
+          "uniques": 37
         },
         {
           "referrer": "github.com",
-          "count": 32,
-          "uniques": 6
-        },
-        {
-          "referrer": "Bing",
-          "count": 6,
+          "count": 28,
           "uniques": 4
         },
         {
-          "referrer": "yandex.ru",
-          "count": 3,
+          "referrer": "Bing",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "fr.search.yahoo.com",
+          "count": 1,
           "uniques": 1
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 2,
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -6488,6 +6492,38 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        },
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2024-01-29": {
+        "views": {
+          "count": 11,
+          "uniques": 6
+        }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-31": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2024-02-01": {
+        "views": {
+          "count": 20,
+          "uniques": 5
         }
       }
     }

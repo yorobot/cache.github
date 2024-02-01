@@ -2,8 +2,8 @@
   "full_name": "orc721/monkes21",
   "created_at": "2014-10-13T20:54:20Z",
   "updated_at": "2023-12-23T11:42:56Z",
-  "pushed_at": "2024-01-16T10:44:54Z",
-  "size": 19105,
+  "pushed_at": "2024-01-28T14:55:48Z",
+  "size": 16749,
   "description": "Monkes Twenty One (Monkes21) - Self inscribing, First is first",
   "language": "Ruby",
   "history": {
@@ -22,16 +22,20 @@
     "2024-01-28": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2024-02-01": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-01-16T10:44:49Z",
+        "date": "2024-01-28T14:55:42Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-01-16T10:44:49Z",
+        "date": "2024-01-28T14:55:42Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -45,13 +49,13 @@
     "pixelart"
   ],
   "languages": {
-    "Ruby": 27600
+    "Ruby": 64827
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 223,
-        "uniques": 20
+        "count": 214,
+        "uniques": 18
       },
       "clones": {
         "count": 8,
@@ -61,20 +65,20 @@
         {
           "path": "/orc721/monkes21",
           "title": "orc721/monkes21: Monkes Twenty One (Monkes21) - Self inscribing, First is first",
-          "count": 33,
-          "uniques": 14
+          "count": 35,
+          "uniques": 15
         },
         {
-          "path": "/orc721/monkes21/blob/master/EDITIONS.md",
-          "title": "monkes21/EDITIONS.md at master · orc721/monkes21",
-          "count": 12,
+          "path": "/orc721/monkes21/tree/master/text-to-image",
+          "title": "monkes21/text-to-image at master · orc721/monkes21",
+          "count": 18,
           "uniques": 3
         },
         {
-          "path": "/orc721/monkes21/tree/master/inscribe",
-          "title": "monkes21/inscribe at master · orc721/monkes21 · GitHub",
-          "count": 10,
-          "uniques": 3
+          "path": "/orc721/monkes21/commits/master",
+          "title": "Commits · orc721/monkes21",
+          "count": 9,
+          "uniques": 2
         },
         {
           "path": "/orc721/monkes21/blob/79730607c7bf7a9c6c34e133e87d0e0b684e4841/docs/script.js",
@@ -85,12 +89,6 @@
         {
           "path": "/orc721/monkes21/blob/bff82451eedf15ec0798fb077128040f2f8c8a7c/index.html",
           "title": "monkes21/index.html at bff82451eedf15ec0798fb077128040f2f8c8a7c · orc721/monk...",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/orc721/monkes21/commits/master",
-          "title": "Commits · orc721/monkes21",
           "count": 7,
           "uniques": 1
         },
@@ -107,28 +105,34 @@
           "uniques": 1
         },
         {
-          "path": "/orc721/monkes21/blob/master/inscribe/monke00001.png",
-          "title": "monkes21/inscribe/monke00001.png at master · orc721/monkes21 · GitHub",
+          "path": "/orc721/monkes21/commits/5245298bf45afde09e28adf797a6cd56285baedf",
+          "title": "Commits · orc721/monkes21",
           "count": 6,
           "uniques": 1
         },
         {
-          "path": "/orc721/monkes21/commits/5245298bf45afde09e28adf797a6cd56285baedf",
-          "title": "Commits · orc721/monkes21",
-          "count": 6,
+          "path": "/orc721/monkes21/blob/5245298bf45afde09e28adf797a6cd56285baedf/docs/items.js",
+          "title": "monkes21/docs/items.js at 5245298bf45afde09e28adf797a6cd56285baedf · orc721/m...",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/orc721/monkes21/blob/5245298bf45afde09e28adf797a6cd56285baedf/docs/script.js",
+          "title": "monkes21/docs/script.js at 5245298bf45afde09e28adf797a6cd56285baedf · orc721/...",
+          "count": 5,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 50,
-          "uniques": 3
+          "count": 41,
+          "uniques": 4
         },
         {
           "referrer": "t.co",
-          "count": 18,
-          "uniques": 5
+          "count": 25,
+          "uniques": 4
         },
         {
           "referrer": "rubyflow.com",
@@ -507,12 +511,34 @@
       },
       "2024-01-28": {
         "views": {
-          "count": 3,
-          "uniques": 1
+          "count": 11,
+          "uniques": 2
         },
         "clones": {
-          "count": 2,
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2024-01-29": {
+        "views": {
+          "count": 3,
           "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2024-01-31": {
+        "views": {
+          "count": 32,
+          "uniques": 5
         }
       }
     }

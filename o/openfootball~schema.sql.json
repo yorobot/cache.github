@@ -361,6 +361,10 @@
     "2024-01-28": {
       "stargazers_count": 46,
       "forks_count": 15
+    },
+    "2024-02-01": {
+      "stargazers_count": 46,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -387,24 +391,24 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 40,
-        "uniques": 12
+        "count": 58,
+        "uniques": 17
       },
       "clones": {
-        "count": 8,
+        "count": 7,
         "uniques": 7
       },
       "paths": [
         {
           "path": "/openfootball/schema.sql",
           "title": "openfootball/schema.sql: football.db database schema (tables, views, etc.) sc...",
-          "count": 14,
-          "uniques": 12
+          "count": 16,
+          "uniques": 15
         },
         {
           "path": "/openfootball/schema.sql/blob/master/football.sql",
           "title": "schema.sql/football.sql at master · openfootball/schema.sql · GitHub",
-          "count": 12,
+          "count": 10,
           "uniques": 5
         },
         {
@@ -414,14 +418,20 @@
           "uniques": 2
         },
         {
-          "path": "/openfootball/schema.sql/blob/master/world.sql",
-          "title": "schema.sql/world.sql at master · openfootball/schema.sql",
-          "count": 4,
-          "uniques": 2
-        },
-        {
           "path": "/openfootball/schema.sql/blob/master/football.events.views.sql",
           "title": "schema.sql/football.events.views.sql at master · openfootball/schema.sql",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/schema.sql/blob/master/NOTES.md",
+          "title": "schema.sql/NOTES.md at master · openfootball/schema.sql",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/schema.sql/blob/master/world.sql",
+          "title": "schema.sql/world.sql at master · openfootball/schema.sql",
           "count": 2,
           "uniques": 1
         },
@@ -447,18 +457,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 26,
-          "uniques": 7
+          "count": 25,
+          "uniques": 10
         },
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "referrer": "statics.teams.cdn.office.net",
-          "count": 3,
-          "uniques": 2
+          "count": 8,
+          "uniques": 3
         }
       ]
     },
@@ -5781,6 +5786,42 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        },
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-29": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-31": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-01": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

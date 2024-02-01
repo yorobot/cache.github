@@ -82,6 +82,10 @@
     "2024-01-28": {
       "stargazers_count": 9,
       "forks_count": 6
+    },
+    "2024-02-01": {
+      "stargazers_count": 9,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -112,12 +116,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 8,
         "uniques": 2
       },
       "clones": {
-        "count": 25,
-        "uniques": 20
+        "count": 26,
+        "uniques": 22
       },
       "paths": [
         {
@@ -125,17 +129,30 @@
           "title": "ordbase/ordbase.server: ordbased - (zero-config) art base server for ordinal ...",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "path": "/ordbase/ordbase.server/blob/master/collections.csv",
+          "title": "ordbase.server/collections.csv at master · ordbase/ordbase.server",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase.server/blob/master/ordbased.go",
+          "title": "ordbase.server/ordbased.go at master · ordbase/ordbase.server",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase.server/tree/master/.github/workflows",
+          "title": "ordbase.server/.github/workflows at master · ordbase/ordbase.server",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -1095,6 +1112,28 @@
         "clones": {
           "count": 9,
           "uniques": 8
+        }
+      },
+      "2024-01-31": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-29": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-01-30": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

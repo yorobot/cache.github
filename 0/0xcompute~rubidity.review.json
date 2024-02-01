@@ -1,7 +1,7 @@
 {
   "full_name": "0xCompute/rubidity.review",
   "created_at": "2015-04-20T14:44:40Z",
-  "updated_at": "2023-12-04T07:15:28Z",
+  "updated_at": "2024-01-30T11:30:56Z",
   "pushed_at": "2023-11-17T18:35:31Z",
   "size": 52,
   "description": "Rubidity O.G (Dumb Contracts) Public Code Review / (More) Tests / Gems & More",
@@ -21,6 +21,10 @@
     },
     "2024-01-28": {
       "stargazers_count": 1,
+      "forks_count": 0
+    },
+    "2024-02-01": {
+      "stargazers_count": 2,
       "forks_count": 0
     }
   },
@@ -50,14 +54,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 15,
-        "uniques": 1
-      },
-      "clones": {
-        "count": 3,
+        "count": 38,
         "uniques": 2
       },
+      "clones": {
+        "count": 1,
+        "uniques": 1
+      },
       "paths": [
+        {
+          "path": "/0xCompute/rubidity.review/tree/master/0xfacet-rubidity",
+          "title": "rubidity.review/0xfacet-rubidity at master · 0xCompute/rubidity.review · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/0xCompute/rubidity.review/tree/master/0xfacet-contracts/lib/0xfacet/contracts",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts at master · 0xCompute...",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity.review/tree/master/0xfacet-contracts/lib/0xfacet",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet at master · 0xCompute/rubidity....",
+          "count": 4,
+          "uniques": 1
+        },
         {
           "path": "/0xCompute/rubidity.review/blob/master/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapV2ERC20.rb",
           "title": "rubidity.review/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapV2ERC20.rb at mast...",
@@ -65,8 +87,8 @@
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity.review/tree/master/0xfacet-rubidity",
-          "title": "rubidity.review/0xfacet-rubidity at master · 0xCompute/rubidity.review · GitHub",
+          "path": "/0xCompute/rubidity.review/tree/master/0xfacet-contracts",
+          "title": "rubidity.review/0xfacet-contracts at master · 0xCompute/rubidity.review",
           "count": 3,
           "uniques": 1
         },
@@ -83,20 +105,30 @@
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity.review/blob/master/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapV2Pair.rb",
-          "title": "rubidity.review/0xfacet-uniswap/lib/0xfacet/uniswap/UniswapV2Pair.rb at maste...",
+          "path": "/0xCompute/rubidity.review",
+          "title": "GitHub - 0xCompute/rubidity.review: Rubidity O.G (Dumb Contracts) Public Code...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/0xCompute/rubidity.review/blob/master/0xfacet-contracts/lib/0xfacet/contracts/ERC20.rb",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts/ERC20.rb at master · ...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity.review",
-          "title": "GitHub - 0xCompute/rubidity.review: Rubidity O.G (Dumb Contracts) Public Code...",
-          "count": 1,
+          "path": "/0xCompute/rubidity.review/blob/master/0xfacet-contracts/lib/0xfacet/contracts/ERC721.rb",
+          "title": "rubidity.review/0xfacet-contracts/lib/0xfacet/contracts/ERC721.rb at master ·...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 23,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -201,6 +233,12 @@
       "2024-01-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-01-30": {
+        "views": {
+          "count": 23,
           "uniques": 1
         }
       }
