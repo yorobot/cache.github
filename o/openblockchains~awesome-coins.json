@@ -332,6 +332,10 @@
     "2024-02-01": {
       "stargazers_count": 4,
       "forks_count": 3
+    },
+    "2024-02-15": {
+      "stargazers_count": 4,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -355,24 +359,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/openblockchains/awesome-coins",
-          "title": "GitHub - openblockchains/awesome-coins: Awesome Coins - CryptoCurrency Timeli...",
-          "count": 1,
+          "title": "openblockchains/awesome-coins: Awesome Coins - CryptoCurrency Timeline - 2009...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/awesome-coins/blob/master/NOTES.md",
+          "title": "awesome-coins/NOTES.md at master · openblockchains/awesome-coins",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "ecosia.org",
           "count": 1,
           "uniques": 1
         }
@@ -1173,6 +1188,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-02-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

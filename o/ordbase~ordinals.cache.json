@@ -86,6 +86,10 @@
     "2024-02-01": {
       "stargazers_count": 19,
       "forks_count": 1
+    },
+    "2024-02-15": {
+      "stargazers_count": 19,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -115,32 +119,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 3
+        "count": 17,
+        "uniques": 2
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/ordbase/ordinals.cache",
-          "title": "ordbase/ordinals.cache: Ordinals (Inscription Content & Metadata) Cache - Vol...",
+          "path": "/ordbase/ordinals.cache/tree/master/inscription",
+          "title": "ordinals.cache/inscription at master · ordbase/ordinals.cache · GitHub",
           "count": 3,
-          "uniques": 3
+          "uniques": 1
         },
         {
-          "path": "/ordbase/ordinals.cache/tree/master/inscription",
-          "title": "ordinals.cache/inscription at master · ordbase/ordinals.cache",
+          "path": "/ordbase/ordinals.cache",
+          "title": "ordbase/ordinals.cache: Ordinals (Inscription Content & Metadata) Cache - Vol...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/ordinals.cache/blob/master/inscription/00/0160ebbddd50176b608531135db9800891a80dc59bc72c0bc8100cba5a5a71i0.meta.txt",
+          "title": "ordinals.cache/inscription/00/0160ebbddd50176b608531135db9800891a80dc59bc72c0...",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "orc721.github.io",
+          "count": 6,
+          "uniques": 1
+        },
+        {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 3
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1204,6 +1219,34 @@
         }
       },
       "2024-02-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-07": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-15": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2024-02-03": {
         "clones": {
           "count": 1,
           "uniques": 1

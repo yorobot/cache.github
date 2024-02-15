@@ -365,24 +365,28 @@
     "2024-02-01": {
       "stargazers_count": 851,
       "forks_count": 101
+    },
+    "2024-02-15": {
+      "stargazers_count": 865,
+      "forks_count": 104
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-03T14:17:44Z",
+        "date": "2024-02-13T09:44:09Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2023-12-03T14:17:44Z",
-        "name": "Andrew Zito"
+        "date": "2024-02-13T09:44:09Z",
+        "name": "Carlo Barazzetta"
       },
-      "message": "Remove writekit/markdown-note because it is gone (#40)\n\n* Remove writekit/markdown-note because it is gone\r\n\r\n* Markdown Note: Add archive link to HISTORY.md"
+      "message": "Added \"MarkDown Shell Extensions\" and \"MarkDown Help Viewer\" (#45)"
     }
   ],
-  "size": 73,
-  "updated_at": "2024-01-31T11:11:14Z",
-  "pushed_at": "2023-12-03T14:17:44Z",
+  "size": 97,
+  "updated_at": "2024-02-15T15:24:29Z",
+  "pushed_at": "2024-02-13T09:44:09Z",
   "description": "A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more",
   "language": null,
   "topics": [
@@ -391,125 +395,125 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4134,
-        "uniques": 2760
+        "count": 3806,
+        "uniques": 2500
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 16,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/mundimark/awesome-markdown-editors",
           "title": "mundimark/awesome-markdown-editors: A collection of awesome markdown editors ...",
-          "count": 3577,
-          "uniques": 2580
+          "count": 3320,
+          "uniques": 2350
         },
         {
           "path": "/mundimark/awesome-markdown-editors/blob/master/README.md",
           "title": "awesome-markdown-editors/README.md at master · mundimark/awesome-markdown-edi...",
-          "count": 97,
-          "uniques": 23
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/blob/master/HISTORY.md",
-          "title": "awesome-markdown-editors/HISTORY.md at master · mundimark/awesome-markdown-ed...",
-          "count": 52,
-          "uniques": 13
+          "count": 77,
+          "uniques": 22
         },
         {
           "path": "/mundimark/awesome-markdown-editors/blob/master/NOTES.md",
           "title": "awesome-markdown-editors/NOTES.md at master · mundimark/awesome-markdown-edit...",
-          "count": 40,
-          "uniques": 15
+          "count": 26,
+          "uniques": 11
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/blob/master/HISTORY.md",
+          "title": "awesome-markdown-editors/HISTORY.md at master · mundimark/awesome-markdown-ed...",
+          "count": 21,
+          "uniques": 9
         },
         {
           "path": "/mundimark/awesome-markdown-editors/edit/master/README.md",
           "title": "Editing awesome-markdown-editors/README.md at master · mundimark/awesome-mark...",
-          "count": 24,
-          "uniques": 10
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/blame/master/README.md",
-          "title": "Blaming awesome-markdown-editors/README.md at master · mundimark/awesome-mark...",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/tree/master",
-          "title": "mundimark/awesome-markdown-editors: A collection of awesome markdown editors ...",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/new/master",
-          "title": "New File at / · mundimark/awesome-markdown-editors",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/mundimark/awesome-markdown-editors/actions",
-          "title": "Actions · mundimark/awesome-markdown-editors · GitHub",
-          "count": 3,
-          "uniques": 2
+          "count": 14,
+          "uniques": 5
         },
         {
           "path": "/mundimark/awesome-markdown-editors/issues",
-          "title": "Issues · mundimark/awesome-markdown-editors",
-          "count": 2,
+          "title": "Issues · mundimark/awesome-markdown-editors · GitHub",
+          "count": 13,
+          "uniques": 8
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/pulls",
+          "title": "Pull requests · mundimark/awesome-markdown-editors",
+          "count": 13,
+          "uniques": 5
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/issues/44",
+          "title": "Open-Source Markdown Shell Extensions and Editor (Windows) and Viewer · Issue...",
+          "count": 7,
           "uniques": 2
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/blob/9940d0a50095be1b2d954608a3c1cd1188b6d474/README.md",
+          "title": "awesome-markdown-editors/README.md at 9940d0a50095be1b2d954608a3c1cd1188b6d47...",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/mundimark/awesome-markdown-editors/commits/master",
+          "title": "Commits · mundimark/awesome-markdown-editors",
+          "count": 7,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 3410,
-          "uniques": 2337
+          "count": 3074,
+          "uniques": 2149
         },
         {
           "referrer": "search.brave.com",
-          "count": 40,
-          "uniques": 30
+          "count": 42,
+          "uniques": 20
         },
         {
           "referrer": "de.wikipedia.org",
-          "count": 27,
-          "uniques": 22
-        },
-        {
-          "referrer": "StartPage",
-          "count": 19,
-          "uniques": 19
-        },
-        {
-          "referrer": "Bing",
-          "count": 19,
-          "uniques": 15
-        },
-        {
-          "referrer": "yandex.ru",
-          "count": 18,
-          "uniques": 10
-        },
-        {
-          "referrer": "ecosia.org",
-          "count": 17,
-          "uniques": 4
+          "count": 26,
+          "uniques": 23
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 16,
-          "uniques": 16
+          "count": 24,
+          "uniques": 21
         },
         {
           "referrer": "github.com",
-          "count": 12,
-          "uniques": 11
+          "count": 24,
+          "uniques": 12
         },
         {
-          "referrer": "statics.teams.cdn.office.net",
+          "referrer": "StartPage",
+          "count": 20,
+          "uniques": 16
+        },
+        {
+          "referrer": "Bing",
+          "count": 18,
+          "uniques": 16
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 16,
+          "uniques": 12
+        },
+        {
+          "referrer": "t.co",
           "count": 8,
           "uniques": 1
+        },
+        {
+          "referrer": "de.m.wikipedia.org",
+          "count": 7,
+          "uniques": 5
         }
       ]
     },
@@ -7214,8 +7218,120 @@
       },
       "2024-02-01": {
         "views": {
-          "count": 307,
-          "uniques": 208
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-02-02": {
+        "views": {
+          "count": 321,
+          "uniques": 214
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-03": {
+        "views": {
+          "count": 155,
+          "uniques": 103
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-04": {
+        "views": {
+          "count": 204,
+          "uniques": 144
+        }
+      },
+      "2024-02-05": {
+        "views": {
+          "count": 358,
+          "uniques": 250
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-02-06": {
+        "views": {
+          "count": 335,
+          "uniques": 238
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-07": {
+        "views": {
+          "count": 287,
+          "uniques": 220
+        }
+      },
+      "2024-02-08": {
+        "views": {
+          "count": 302,
+          "uniques": 222
+        }
+      },
+      "2024-02-09": {
+        "views": {
+          "count": 266,
+          "uniques": 209
+        }
+      },
+      "2024-02-10": {
+        "views": {
+          "count": 187,
+          "uniques": 126
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-02-11": {
+        "views": {
+          "count": 175,
+          "uniques": 139
+        }
+      },
+      "2024-02-12": {
+        "views": {
+          "count": 346,
+          "uniques": 242
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-02-13": {
+        "views": {
+          "count": 354,
+          "uniques": 219
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-02-14": {
+        "views": {
+          "count": 266,
+          "uniques": 198
+        }
+      },
+      "2024-02-15": {
+        "views": {
+          "count": 247,
+          "uniques": 194
         }
       }
     }

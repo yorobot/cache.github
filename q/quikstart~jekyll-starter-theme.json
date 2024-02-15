@@ -365,6 +365,10 @@
     "2024-02-01": {
       "stargazers_count": 3,
       "forks_count": 1
+    },
+    "2024-02-15": {
+      "stargazers_count": 3,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -392,18 +396,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/quikstart/jekyll-starter-theme/blob/master/quik.rb",
+          "title": "jekyll-starter-theme/quik.rb at master · quikstart/jekyll-starter-theme",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/quikstart/jekyll-starter-theme",
+          "title": "quikstart/jekyll-starter-theme: jekyll quick starter template / scaffold - bu...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "DuckDuckGo",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -922,6 +941,12 @@
       "2024-01-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-07": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }
