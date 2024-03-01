@@ -1,7 +1,7 @@
 {
   "full_name": "s6ruby/ethereum-contracts",
   "created_at": "2015-11-22T21:38:58Z",
-  "updated_at": "2023-08-25T14:31:30Z",
+  "updated_at": "2024-02-25T13:34:05Z",
   "pushed_at": "2019-08-06T08:01:42Z",
   "size": 89,
   "history": {
@@ -333,6 +333,10 @@
     "2024-02-15": {
       "stargazers_count": 17,
       "forks_count": 5
+    },
+    "2024-03-01": {
+      "stargazers_count": 18,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -356,61 +360,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 77,
-        "uniques": 28
+        "count": 60,
+        "uniques": 16
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 2,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
           "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 61,
-          "uniques": 23
+          "count": 21,
+          "uniques": 7
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePonzi.sol",
+          "title": "ethereum-contracts/SimplePonzi.sol at master · s6ruby/ethereum-contracts · Gi...",
+          "count": 7,
+          "uniques": 2
         },
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
-          "count": 5,
-          "uniques": 5
+          "count": 6,
+          "uniques": 6
         },
         {
-          "path": "/s6ruby/ethereum-contracts/commits",
-          "title": "Commits · s6ruby/ethereum-contracts · GitHub",
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePyramid.sol",
+          "title": "ethereum-contracts/SimplePyramid.sol at master · s6ruby/ethereum-contracts",
           "count": 4,
           "uniques": 2
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
-          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 2,
-          "uniques": 1
+          "path": "/s6ruby/ethereum-contracts/blob/master/GandhiJi.sol",
+          "title": "ethereum-contracts/GandhiJi.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "count": 3,
+          "uniques": 2
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
-          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts · G...",
-          "count": 2,
+          "path": "/s6ruby/ethereum-contracts/blob/master/GodsUnchained.sol",
+          "title": "ethereum-contracts/GodsUnchained.sol at master · s6ruby/ethereum-contracts · ...",
+          "count": 3,
           "uniques": 1
         },
         {
           "path": "/s6ruby/ethereum-contracts/tree/master",
           "title": "GitHub - s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / t...",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/CryptoPunksMarket.sol",
+          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contract...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/Cryptostamp.sol",
+          "title": "ethereum-contracts/Cryptostamp.sol at master · s6ruby/ethereum-contracts · Gi...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
+          "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 66,
-          "uniques": 24
+          "count": 28,
+          "uniques": 9
         },
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 24,
+          "uniques": 5
         }
       ]
     },
@@ -3908,6 +3936,76 @@
       "2024-02-15": {
         "views": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-02-18": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-02-19": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2024-02-20": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-02-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-24": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-02-25": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-02-26": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-02-27": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-02-28": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-02-29": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        }
+      },
+      "2024-02-17": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

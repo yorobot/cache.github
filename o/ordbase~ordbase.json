@@ -90,6 +90,10 @@
     "2024-02-15": {
       "stargazers_count": 13,
       "forks_count": 2
+    },
+    "2024-03-01": {
+      "stargazers_count": 13,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -121,8 +125,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 63,
-        "uniques": 12
+        "count": 65,
+        "uniques": 17
       },
       "clones": {
         "count": 5,
@@ -130,62 +134,62 @@
       },
       "paths": [
         {
+          "path": "/ordbase/ordbase",
+          "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
+          "count": 10,
+          "uniques": 8
+        },
+        {
           "path": "/ordbase/ordbase/tree/master/ordinals",
           "title": "ordbase/ordinals at master · ordbase/ordbase · GitHub",
-          "count": 23,
+          "count": 10,
           "uniques": 4
         },
         {
-          "path": "/ordbase/ordbase",
-          "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 11,
-          "uniques": 9
+          "path": "/ordbase/ordbase/tree/master/bitgen",
+          "title": "ordbase/bitgen at master · ordbase/ordbase",
+          "count": 9,
+          "uniques": 3
         },
         {
-          "path": "/ordbase/ordbase/blob/68a322cde1560c34cd4d391c27d9456f93641650/ordinals/lib/ordinals/ordinalsbot.rb",
-          "title": "ordbase/ordinals/lib/ordinals/ordinalsbot.rb at 68a322cde1560c34cd4d391c27d94...",
-          "count": 8,
+          "path": "/ordbase/ordbase/tree/master/bitgen/lib",
+          "title": "ordbase/bitgen/lib at master · ordbase/ordbase",
+          "count": 6,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase/tree/68a322cde1560c34cd4d391c27d9456f93641650/ordinals",
-          "title": "ordbase/ordinals at 68a322cde1560c34cd4d391c27d9456f93641650 · ordbase/ordbase",
+          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md",
+          "title": "File not found",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/bitgen/lib/bitgen.rb",
+          "title": "ordbase/bitgen/lib/bitgen.rb at master · ordbase/ordbase",
           "count": 4,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase/blob/master/sub10k/build.rb",
-          "title": "ordbase/sub10k/build.rb at master · ordbase/ordbase · GitHub",
-          "count": 3,
+          "path": "/ordbase/ordbase/tree/master/sub10k",
+          "title": "ordbase/sub10k at master · ordbase/ordbase",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase/blob/master/unisat/lib/unisat/cache.rb",
-          "title": "ordbase/unisat/lib/unisat/cache.rb at master · ordbase/ordbase · GitHub",
-          "count": 3,
-          "uniques": 1
+          "path": "/ordbase/ordbase/commits/master",
+          "title": "Commits · ordbase/ordbase · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/ordbase/ordbase/tree/master/unisat",
-          "title": "ordbase/unisat at master · ordbase/ordbase · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/blob/master/ordinals/attic/api.rb",
-          "title": "ordbase/ordinals/attic/api.rb at master · ordbase/ordbase",
+          "path": "/ordbase/ordbase/blob/68a322cde1560c34cd4d391c27d9456f93641650/ordlite/lib/ordlite/models/inscribe.rb",
+          "title": "ordbase/ordlite/lib/ordlite/models/inscribe.rb at 68a322cde1560c34cd4d391c27d...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase/blob/master/ordscan/Rakefile",
-          "title": "ordbase/ordscan/Rakefile at master · ordbase/ordbase",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/blob/master/satsnames/config/relays.2023.csv",
-          "title": "ordbase/satsnames/config/relays.2023.csv at master · ordbase/ordbase · GitHub",
+          "path": "/ordbase/ordbase/blob/68a322cde1560c34cd4d391c27d9456f93641650/satsnames/sandbox/export_relays.rb",
+          "title": "ordbase/satsnames/sandbox/export_relays.rb at 68a322cde1560c34cd4d391c27d9456...",
           "count": 2,
           "uniques": 1
         }
@@ -193,22 +197,17 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 28,
-          "uniques": 9
-        },
-        {
-          "referrer": "orc721.github.io",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "referrer": "rubyflow.com",
-          "count": 2,
-          "uniques": 1
+          "count": 19,
+          "uniques": 7
         },
         {
           "referrer": "Google",
-          "count": 1,
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -1810,6 +1809,102 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-02-17": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-02-18": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-02-19": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-02-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-21": {
+        "views": {
+          "count": 31,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-22": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-02-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-02-25": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-02-26": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-02-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-29": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-03-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-02-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
