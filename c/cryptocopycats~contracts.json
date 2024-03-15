@@ -258,6 +258,10 @@
     "2024-03-01": {
       "stargazers_count": 21,
       "forks_count": 18
+    },
+    "2024-03-15": {
+      "stargazers_count": 21,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -292,38 +296,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 11,
         "uniques": 2
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ERC721.sol",
-          "title": "contracts/cryptokitties/ERC721.sol at master · cryptocopycats/contracts · Git...",
-          "count": 2,
+          "path": "/cryptocopycats/contracts/blob/master/cryptocats/CryptoCatsMarket.sol",
+          "title": "contracts/cryptocats/CryptoCatsMarket.sol at master · cryptocopycats/contracts",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/cryptocopycats/contracts",
           "title": "cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Friends Blockc...",
-          "count": 1,
-          "uniques": 1
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "Google",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
-          "count": 1,
+          "path": "/cryptocopycats/contracts/tree/master/cryptocats",
+          "title": "contracts/cryptocats at master · cryptocopycats/contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/cryptokitties",
+          "title": "contracts/cryptokitties at master · cryptocopycats/contracts",
+          "count": 2,
           "uniques": 1
         }
+      ],
+      "referrers": [
+
       ]
     },
     "history": {
@@ -4204,6 +4211,24 @@
         }
       },
       "2024-02-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-04": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2024-03-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-12": {
         "clones": {
           "count": 1,
           "uniques": 1

@@ -2,8 +2,8 @@
   "full_name": "ordbase/welovepunks",
   "created_at": "2015-05-11T06:46:06Z",
   "updated_at": "2024-01-21T10:33:40Z",
-  "pushed_at": "2024-01-21T11:48:24Z",
-  "size": 3741,
+  "pushed_at": "2024-03-13T14:01:01Z",
+  "size": 3763,
   "description": "Let's generate 5000 punks (24×24px) in a \"We Love ~Monkes~ Punks\" reference edition.",
   "language": "Ruby",
   "history": {
@@ -22,16 +22,20 @@
     "2024-03-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2024-03-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-01-21T11:48:16Z",
+        "date": "2024-03-13T14:00:56Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-01-21T11:48:16Z",
+        "date": "2024-03-13T14:00:56Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -44,42 +48,100 @@
     "punks"
   ],
   "languages": {
-    "Ruby": 14860
+    "Ruby": 20946
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 4
+        "count": 420,
+        "uniques": 33
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/ordbase/welovepunks",
           "title": "ordbase/welovepunks: Let's generate 5000 punks (24×24px) in a \"We Love ~Monke...",
-          "count": 4,
+          "count": 68,
+          "uniques": 30
+        },
+        {
+          "path": "/ordbase/welovepunks/blob/master/generate_presidents.rb",
+          "title": "welovepunks/generate_presidents.rb at master · ordbase/welovepunks · GitHub",
+          "count": 18,
           "uniques": 4
         },
         {
+          "path": "/ordbase/welovepunks/tree/master/attributes",
+          "title": "welovepunks/attributes at master · ordbase/welovepunks · GitHub",
+          "count": 17,
+          "uniques": 5
+        },
+        {
+          "path": "/ordbase/welovepunks/blob/master/welovepunks.csv",
+          "title": "welovepunks/welovepunks.csv at master · ordbase/welovepunks · GitHub",
+          "count": 11,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/welovepunks/tree/master/i",
+          "title": "welovepunks/i at master · ordbase/welovepunks · GitHub",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/welovepunks/blob/master/i%408x/punk0010%408x.png",
+          "title": "welovepunks/i@8x/punk0010@8x.png at master · ordbase/welovepunks · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
           "path": "/ordbase/welovepunks/blob/master/welovepunks.png",
-          "title": "welovepunks/welovepunks.png at master · ordbase/welovepunks",
-          "count": 2,
+          "title": "welovepunks/welovepunks.png at master · ordbase/welovepunks · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/welovepunks/blob/master/i%408x/punk0006%408x.png",
+          "title": "welovepunks/i@8x/punk0006@8x.png at master · ordbase/welovepunks · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/welovepunks/blob/master/i%408x/punk0009%408x.png",
+          "title": "welovepunks/i@8x/punk0009@8x.png at master · ordbase/welovepunks · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/welovepunks/blob/master/base.rb",
+          "title": "welovepunks/base.rb at master · ordbase/welovepunks",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "referrer": "t.co",
+          "count": 299,
+          "uniques": 7
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 33,
+          "uniques": 13
         },
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 26,
+          "uniques": 2
+        },
+        {
+          "referrer": "feedly.com",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -211,6 +273,66 @@
         }
       },
       "2024-02-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-03-04": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-03-10": {
+        "views": {
+          "count": 284,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-03-11": {
+        "views": {
+          "count": 50,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-13": {
+        "views": {
+          "count": 39,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-03-14": {
+        "views": {
+          "count": 37,
+          "uniques": 11
+        }
+      },
+      "2024-03-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-03-09": {
         "clones": {
           "count": 1,
           "uniques": 1

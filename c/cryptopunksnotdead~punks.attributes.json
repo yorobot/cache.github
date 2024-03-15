@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/punks.attributes",
   "created_at": "2015-04-26T20:11:02Z",
-  "updated_at": "2024-02-29T10:42:00Z",
+  "updated_at": "2024-03-08T18:15:39Z",
   "pushed_at": "2024-02-29T10:41:52Z",
   "size": 1067,
   "description": "Punk Datasets - Meta Data (In Tabular .CSV Format) Incl. Attributes & More -  Original Matt & John's Series (V1/V2), Expansion, More, & Frens ",
@@ -222,6 +222,10 @@
     "2024-03-01": {
       "stargazers_count": 61,
       "forks_count": 33
+    },
+    "2024-03-15": {
+      "stargazers_count": 62,
+      "forks_count": 33
     }
   },
   "commits": [
@@ -262,99 +266,94 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 307,
-        "uniques": 33
+        "count": 419,
+        "uniques": 29
       },
       "clones": {
-        "count": 26,
-        "uniques": 21
+        "count": 10,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/punks.attributes/tree/master/original",
           "title": "punks.attributes/original at master · cryptopunksnotdead/punks.attributes · G...",
-          "count": 61,
-          "uniques": 11
+          "count": 77,
+          "uniques": 14
         },
         {
-          "path": "/cryptopunksnotdead/punks.attributes",
-          "title": "GitHub - cryptopunksnotdead/punks.attributes: cryptopunks.csv - All 10 000 Cr...",
+          "path": "/cryptopunksnotdead/punks.attributes/blob/master/original/cryptopunks-classic.csv",
+          "title": "punks.attributes/original/cryptopunks-classic.csv at master · cryptopunksnotd...",
           "count": 49,
-          "uniques": 25
+          "uniques": 10
         },
         {
           "path": "/cryptopunksnotdead/punks.attributes/blob/master/original/cryptopunks.csv",
           "title": "punks.attributes/original/cryptopunks.csv at master · cryptopunksnotdead/punk...",
-          "count": 20,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.attributes/tree/master",
-          "title": "punks.attributes/ at master · cryptopunksnotdead/punks.attributes",
-          "count": 17,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.attributes/blob/master/original/0-999.csv",
-          "title": "punks.attributes/original/0-999.csv at master · cryptopunksnotdead/punks.attr...",
-          "count": 16,
+          "count": 49,
           "uniques": 7
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.attributes",
+          "title": "GitHub - cryptopunksnotdead/punks.attributes: Punk Datasets - Meta Data (In T...",
+          "count": 43,
+          "uniques": 25
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.attributes/blob/master/original/README.md",
+          "title": "punks.attributes/original/README.md at master · cryptopunksnotdead/punks.attr...",
+          "count": 35,
+          "uniques": 6
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.attributes/tree/master/ordinal",
+          "title": "punks.attributes/ordinal at master · cryptopunksnotdead/punks.attributes · Gi...",
+          "count": 20,
+          "uniques": 6
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.attributes/tree/master/more",
+          "title": "punks.attributes/more at master · cryptopunksnotdead/punks.attributes · GitHub",
+          "count": 17,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.attributes/tree/master/boredapes",
+          "title": "punks.attributes/boredapes at master · cryptopunksnotdead/punks.attributes · ...",
+          "count": 16,
+          "uniques": 4
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.attributes/tree/master/expansion",
+          "title": "punks.attributes/expansion at master · cryptopunksnotdead/punks.attributes · ...",
+          "count": 15,
+          "uniques": 6
         },
         {
           "path": "/cryptopunksnotdead/punks.attributes/blob/master/ordinal/ordinalpunks.csv",
           "title": "punks.attributes/ordinal/ordinalpunks.csv at master · cryptopunksnotdead/punk...",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.attributes/tree/master/ordinal",
-          "title": "punks.attributes/ordinal at master · cryptopunksnotdead/punks.attributes",
-          "count": 12,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.attributes/tree/master/expansion",
-          "title": "punks.attributes/expansion at master · cryptopunksnotdead/punks.attributes",
-          "count": 10,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.attributes/tree/master/alienclan",
-          "title": "punks.attributes/alienclan at master · cryptopunksnotdead/punks.attributes",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.attributes/tree/master/more",
-          "title": "punks.attributes/more at master · cryptopunksnotdead/punks.attributes",
-          "count": 9,
-          "uniques": 2
+          "count": 13,
+          "uniques": 6
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 67,
-          "uniques": 6
-        },
-        {
           "referrer": "Google",
-          "count": 56,
-          "uniques": 18
+          "count": 162,
+          "uniques": 19
         },
         {
-          "referrer": "reddit.com",
-          "count": 29,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 73,
+          "uniques": 4
         },
         {
-          "referrer": "Bing",
-          "count": 6,
-          "uniques": 1
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "referrer": "openblockchains.github.io",
-          "count": 5,
+          "referrer": "cryptopunksnotdead.github.io",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -5368,6 +5367,130 @@
         "clones": {
           "count": 6,
           "uniques": 5
+        }
+      },
+      "2024-03-02": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-04": {
+        "views": {
+          "count": 34,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-05": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-06": {
+        "views": {
+          "count": 69,
+          "uniques": 3
+        }
+      },
+      "2024-03-07": {
+        "views": {
+          "count": 78,
+          "uniques": 4
+        }
+      },
+      "2024-03-08": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-09": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-10": {
+        "views": {
+          "count": 105,
+          "uniques": 6
+        }
+      },
+      "2024-03-11": {
+        "views": {
+          "count": 58,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-12": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-14": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-15": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

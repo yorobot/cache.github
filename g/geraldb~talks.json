@@ -373,6 +373,10 @@
     "2024-03-01": {
       "stargazers_count": 217,
       "forks_count": 17
+    },
+    "2024-03-15": {
+      "stargazers_count": 217,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -399,90 +403,105 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 67,
-        "uniques": 17
+        "count": 92,
+        "uniques": 24
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
+          "path": "/geraldb/talks/blob/master/factbook.md",
+          "title": "talks/factbook.md at master · geraldb/talks · GitHub",
+          "count": 15,
+          "uniques": 6
+        },
+        {
           "path": "/geraldb/talks/blob/master/contracts.md",
           "title": "talks/contracts.md at master · geraldb/talks · GitHub",
-          "count": 14,
-          "uniques": 3
-        },
-        {
-          "path": "/geraldb/talks/blob/master/factbook.md",
-          "title": "talks/factbook.md at master · geraldb/talks",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
-          "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks · GitHub",
-          "count": 6,
+          "count": 12,
           "uniques": 2
-        },
-        {
-          "path": "/geraldb/talks/blob/master/football_db_intro.md",
-          "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/go_http_api.md",
-          "title": "talks/go_http_api.md at master · geraldb/talks",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/jsonfeed.md",
-          "title": "talks/jsonfeed.md at master · geraldb/talks",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/webfeeds.md",
-          "title": "talks/webfeeds.md at master · geraldb/talks",
-          "count": 3,
-          "uniques": 1
         },
         {
           "path": "/geraldb/talks",
           "title": "geraldb/talks: talks, talks, talks (sources in Markdown)",
-          "count": 2,
-          "uniques": 2
+          "count": 10,
+          "uniques": 8
         },
         {
-          "path": "/geraldb/talks/blob/d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2/ethers.md",
-          "title": "talks/ethers.md at d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2 · geraldb/talks",
-          "count": 2,
+          "path": "/geraldb/talks/blob/master/football_db_intro.md",
+          "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/geraldb/talks/blob/d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2/hyperledger.md",
-          "title": "talks/hyperledger.md at d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2 · geraldb/ta...",
-          "count": 2,
+          "path": "/geraldb/talks/blob/master/goreleaser.md",
+          "title": "talks/goreleaser.md at master · geraldb/talks",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
+          "title": "talks/open_data_world_cup_with_js.md at master · geraldb/talks",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/geraldb/talks/blob/master/open_data_world_cup.md",
+          "title": "talks/open_data_world_cup.md at master · geraldb/talks",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/talks/blob/master/ethers.md",
+          "title": "talks/ethers.md at master · geraldb/talks",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/geraldb/talks/blob/master/csv.md",
+          "title": "talks/csv.md at master · geraldb/talks · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/talks/blob/master/README.md",
+          "title": "talks/README.md at master · geraldb/talks · GitHub",
+          "count": 3,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 7
-        },
-        {
-          "referrer": "Google",
-          "count": 20,
-          "uniques": 4
+          "count": 30,
+          "uniques": 14
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 12,
+          "count": 22,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 10,
           "uniques": 4
+        },
+        {
+          "referrer": "geographyclub.github.io",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "forum.middlemanapp.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "geraldb.github.io",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -6029,6 +6048,82 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-03-02": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2024-03-03": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2024-03-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-03-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-03-07": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2024-03-08": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2024-03-09": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-12": {
+        "views": {
+          "count": 13,
+          "uniques": 4
+        }
+      },
+      "2024-03-13": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-03-14": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-03-15": {
+        "views": {
+          "count": 13,
+          "uniques": 2
         }
       }
     }

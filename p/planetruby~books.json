@@ -373,24 +373,28 @@
     "2024-03-01": {
       "stargazers_count": 56,
       "forks_count": 20
+    },
+    "2024-03-15": {
+      "stargazers_count": 56,
+      "forks_count": 20
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-02-29T08:59:24Z",
+        "date": "2024-03-13T12:19:53Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2024-02-29T08:59:24Z",
-        "name": "Duncan Holm"
+        "date": "2024-03-13T12:19:53Z",
+        "name": "Vladimir Dementyev"
       },
-      "message": "Update Pickaxe 5th edition now that it's published (#34)"
+      "message": "Add Layered Design for Ruby on Rails Applications (#35)\n\nThis one: https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785"
     }
   ],
-  "size": 414,
+  "size": 418,
   "updated_at": "2023-10-02T21:41:19Z",
-  "pushed_at": "2024-02-29T08:59:25Z",
+  "pushed_at": "2024-03-13T12:19:54Z",
   "description": "List of all Ruby books",
   "language": "HTML",
   "topics": [
@@ -405,85 +409,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 36,
-        "uniques": 5
+        "count": 62,
+        "uniques": 6
       },
       "clones": {
-        "count": 11,
-        "uniques": 11
+        "count": 13,
+        "uniques": 12
       },
       "paths": [
         {
-          "path": "/planetruby/books/blob/master/_books/2023/Programming_Ruby_3.2_(5th_edition)_-_The_Pragmatic_Programmers'_Guide.md",
-          "title": "books/_books/2023/Programming_Ruby_3.2_(5th_edition)_-_The_Pragmatic_Programm...",
-          "count": 6,
-          "uniques": 2
+          "path": "/planetruby/books",
+          "title": "planetruby/books: List of all Ruby books",
+          "count": 8,
+          "uniques": 5
         },
         {
           "path": "/planetruby/books/tree/master/_books",
-          "title": "books/_books at master · planetruby/books · GitHub",
-          "count": 6,
+          "title": "books/_books at master · planetruby/books",
+          "count": 8,
           "uniques": 2
         },
         {
           "path": "/planetruby/books/tree/master/_books/2023",
-          "title": "books/_books/2023 at master · planetruby/books · GitHub",
+          "title": "books/_books/2023 at master · planetruby/books",
           "count": 6,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/planetruby/books",
-          "title": "planetruby/books: List of all Ruby books",
-          "count": 4,
-          "uniques": 4
+          "path": "/planetruby/books/pull/35",
+          "title": "Add Layered Design for Ruby on Rails Applications by palkan · Pull Request #3...",
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/planetruby/books/blob/master/_books/2023/Agile_Web_Development_with_Rails_4.md",
           "title": "books/_books/2023/Agile_Web_Development_with_Rails_4.md at master · planetrub...",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2015/Learn_Game_Programming_with_Ruby_-_Bring_Your_Ideas_to_Life_with_Gosu.md",
+          "title": "books/_books/2015/Learn_Game_Programming_with_Ruby_-_Bring_Your_Ideas_to_Life...",
           "count": 4,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/pull/34",
-          "title": "Update Pickaxe 5th edition now that it's published by frou · Pull Request #34...",
+          "path": "/planetruby/books/blob/master/_books/2021/Polished_Ruby_Programming.md",
+          "title": "books/_books/2021/Polished_Ruby_Programming.md at master · planetruby/books",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/pull/35/files",
+          "title": "Add Layered Design for Ruby on Rails Applications by palkan · Pull Request #3...",
           "count": 3,
-          "uniques": 1
+          "uniques": 3
         },
         {
-          "path": "/planetruby/books/blob/master/_books/2021/Modern_Front-End_Development_for_Rails.md",
-          "title": "books/_books/2021/Modern_Front-End_Development_for_Rails.md at master · plane...",
+          "path": "/planetruby/books/blob/master/_books/2021/Beginning_Ruby_3.md",
+          "title": "books/_books/2021/Beginning_Ruby_3.md at master · planetruby/books",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/blob/master/_books/2022/Learn_Enough_Ruby_to_Be_Dangerous.html",
-          "title": "books/_books/2022/Learn_Enough_Ruby_to_Be_Dangerous.html at master · planetru...",
+          "path": "/planetruby/books/blob/master/_books/2021/Learn_to_Program%2C_Third_Edition.md",
+          "title": "books/_books/2021/Learn_to_Program,_Third_Edition.md at master · planetruby/b...",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/pulls",
-          "title": "Pull requests · planetruby/books",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/pull/34/files",
-          "title": "Update Pickaxe 5th edition now that it's published by frou · Pull Request #34...",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "rubyflow.com",
+          "count": 7,
+          "uniques": 1
+        },
+        {
           "referrer": "Google",
-          "count": 22,
+          "count": 2,
           "uniques": 2
         },
         {
           "referrer": "github.com",
-          "count": 13,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -3803,6 +3812,82 @@
         }
       },
       "2024-03-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-13": {
+        "views": {
+          "count": 58,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-03-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-06": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-03-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-15": {
         "clones": {
           "count": 1,
           "uniques": 1

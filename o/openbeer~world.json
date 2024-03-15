@@ -373,6 +373,10 @@
     "2024-03-01": {
       "stargazers_count": 66,
       "forks_count": 15
+    },
+    "2024-03-15": {
+      "stargazers_count": 66,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -399,30 +403,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
+          "path": "/openbeer/world/tree/master/asia",
+          "title": "world/asia at master · openbeer/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/openbeer/world",
           "title": "openbeer/world: Free open public domain beer, brewery n brewpub data",
-          "count": 2,
-          "uniques": 2
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "yandex.ru",
+          "path": "/openbeer/world/commit/0dbdd52a8d642e76026e8c5a8efe27166111bfdc",
+          "title": "add za,kr,vn,by,se,ve · openbeer/world@0dbdd52",
           "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -2283,6 +2294,18 @@
         }
       },
       "2024-02-29": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-08": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-03-10": {
         "clones": {
           "count": 1,
           "uniques": 1

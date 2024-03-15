@@ -2,8 +2,8 @@
   "full_name": "learnpixelart/pixelart.sandbox",
   "created_at": "2015-08-12T14:17:42Z",
   "updated_at": "2022-10-22T13:27:31Z",
-  "pushed_at": "2023-12-17T15:31:55Z",
-  "size": 667,
+  "pushed_at": "2024-03-15T13:26:43Z",
+  "size": 701,
   "description": "pixel art sandbox",
   "language": "Ruby",
   "history": {
@@ -102,16 +102,20 @@
     "2024-03-01": {
       "stargazers_count": 12,
       "forks_count": 4
+    },
+    "2024-03-15": {
+      "stargazers_count": 12,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-17T15:31:49Z",
+        "date": "2024-03-15T13:26:34Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-12-17T15:31:49Z",
+        "date": "2024-03-15T13:26:34Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -125,81 +129,93 @@
     "png"
   ],
   "languages": {
-    "Ruby": 27677
+    "Ruby": 42324
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 25,
-        "uniques": 5
+        "count": 75,
+        "uniques": 7
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 11,
+        "uniques": 11
       },
       "paths": [
         {
+          "path": "/learnpixelart/pixelart.sandbox/tree/master/monkes.mini",
+          "title": "pixelart.sandbox/monkes.mini at master · learnpixelart/pixelart.sandbox · Git...",
+          "count": 12,
+          "uniques": 3
+        },
+        {
           "path": "/learnpixelart/pixelart.sandbox",
           "title": "learnpixelart/pixelart.sandbox: pixel art sandbox",
-          "count": 7,
+          "count": 10,
           "uniques": 5
+        },
+        {
+          "path": "/learnpixelart/pixelart.sandbox/commits/master",
+          "title": "Commits · learnpixelart/pixelart.sandbox",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart.sandbox/blob/master/monkes.mini/generate_sample.rb",
+          "title": "pixelart.sandbox/monkes.mini/generate_sample.rb at master · learnpixelart/pix...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart.sandbox/blob/master/monkes.mini/generate_specials.rb",
+          "title": "pixelart.sandbox/monkes.mini/generate_specials.rb at master · learnpixelart/p...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart.sandbox/graphs/traffic",
+          "title": "Traffic · learnpixelart/pixelart.sandbox",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/learnpixelart/pixelart.sandbox/tree/master/monkes",
           "title": "pixelart.sandbox/monkes at master · learnpixelart/pixelart.sandbox",
-          "count": 3,
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/learnpixelart/pixelart.sandbox/tree/master/monkes/attributes",
           "title": "pixelart.sandbox/monkes/attributes at master · learnpixelart/pixelart.sandbox",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/learnpixelart/pixelart.sandbox/tree/master/monkes/attributes/more",
-          "title": "pixelart.sandbox/monkes/attributes/more at master · learnpixelart/pixelart.sa...",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/learnpixelart/pixelart.sandbox/tree/master/pattern",
-          "title": "pixelart.sandbox/pattern at master · learnpixelart/pixelart.sandbox",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/learnpixelart/pixelart.sandbox/blob/master/monkes/attributes/more/greener.png",
-          "title": "pixelart.sandbox/monkes/attributes/more/greener.png at master · learnpixelart...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart.sandbox/blob/master/pattern/lego.png",
-          "title": "pixelart.sandbox/pattern/lego.png at master · learnpixelart/pixelart.sandbox",
-          "count": 2,
+          "path": "/learnpixelart/pixelart.sandbox/commit/4cc443300e7db5e3248fe1054ec85270d5f7e490",
+          "title": "up · learnpixelart/pixelart.sandbox@4cc4433",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart.sandbox/commits",
-          "title": "Commits · learnpixelart/pixelart.sandbox",
-          "count": 2,
+          "path": "/learnpixelart/pixelart.sandbox/pulse",
+          "title": "Pulse · learnpixelart/pixelart.sandbox",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "drjekyllthemes.github.io",
-          "count": 1,
-          "uniques": 1
+          "referrer": "t.co",
+          "count": 14,
+          "uniques": 3
         },
         {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 2,
+          "uniques": 2
         },
         {
-          "referrer": "henrythemes.github.io",
+          "referrer": "drjekyllthemes.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -993,6 +1009,74 @@
         }
       },
       "2024-02-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-10": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-03-11": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-03-12": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2024-03-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-14": {
+        "views": {
+          "count": 20,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-15": {
+        "views": {
+          "count": 34,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-07": {
         "clones": {
           "count": 1,
           "uniques": 1

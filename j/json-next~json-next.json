@@ -359,6 +359,10 @@
     "2024-03-01": {
       "stargazers_count": 31,
       "forks_count": 0
+    },
+    "2024-03-15": {
+      "stargazers_count": 32,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -374,7 +378,7 @@
       "message": "Create LICENSE.md"
     }
   ],
-  "updated_at": "2022-12-27T02:31:17Z",
+  "updated_at": "2024-03-05T04:48:20Z",
   "pushed_at": "2020-12-23T13:26:56Z",
   "description": "json-next gem - read generation y / next generation json versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more",
   "language": "Ruby",
@@ -394,8 +398,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 20,
-        "uniques": 4
+        "count": 21,
+        "uniques": 5
       },
       "clones": {
         "count": 1,
@@ -405,36 +409,42 @@
         {
           "path": "/json-next/json-next",
           "title": "json-next/json-next: json-next gem - read generation y / next generation json...",
-          "count": 7,
-          "uniques": 4
+          "count": 5,
+          "uniques": 3
         },
         {
-          "path": "/json-next/json-next/blob/master/lib/json/next.rb",
-          "title": "json-next/lib/json/next.rb at master · json-next/json-next · GitHub",
-          "count": 4,
+          "path": "/json-next/json-next/tree/master/test",
+          "title": "json-next/test at master · json-next/json-next",
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/json-next/json-next/tree/master/lib/json",
-          "title": "json-next/lib/json at master · json-next/json-next · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/json-next/json-next/blob/master/lib/json/next/parser/hanson.rb",
-          "title": "json-next/lib/json/next/parser/hanson.rb at master · json-next/json-next · Gi...",
+          "path": "/json-next/json-next/blob/master/LICENSE.md",
+          "title": "json-next/LICENSE.md at master · json-next/json-next",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/json-next/json-next/tree/master/lib/json/next",
-          "title": "json-next/lib/json/next at master · json-next/json-next · GitHub",
+          "path": "/json-next/json-next/blob/master/test/helper.rb",
+          "title": "json-next/test/helper.rb at master · json-next/json-next",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/json-next/json-next/tree/master/lib/json/next/parser",
-          "title": "json-next/lib/json/next/parser at master · json-next/json-next · GitHub",
+          "path": "/json-next/json-next/blob/master/test/test_commata.rb",
+          "title": "json-next/test/test_commata.rb at master · json-next/json-next",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/blob/master/test/test_parser_son.rb",
+          "title": "json-next/test/test_parser_son.rb at master · json-next/json-next",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/json-next/json-next/tree/master/test/data",
+          "title": "json-next/test/data at master · json-next/json-next",
           "count": 2,
           "uniques": 1
         }
@@ -444,6 +454,11 @@
           "referrer": "Google",
           "count": 3,
           "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 1
         }
       ]
     },
@@ -3536,6 +3551,36 @@
       },
       "2024-02-28": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-03-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-03-14": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2024-03-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-08": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }
