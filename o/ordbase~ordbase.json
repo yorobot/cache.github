@@ -1,7 +1,7 @@
 {
   "full_name": "ordbase/ordbase",
   "created_at": "2014-02-07T15:55:57Z",
-  "updated_at": "2024-02-03T16:58:38Z",
+  "updated_at": "2024-03-28T04:08:17Z",
   "pushed_at": "2024-01-30T11:23:50Z",
   "size": 9425,
   "description": "Ordinal inscription command line tools, machinery & helpers for Bitcoin, Litcoin, Dogecoin & Co.",
@@ -98,6 +98,10 @@
     "2024-03-15": {
       "stargazers_count": 13,
       "forks_count": 2
+    },
+    "2024-04-01": {
+      "stargazers_count": 14,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -129,85 +133,85 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 139,
-        "uniques": 13
+        "count": 112,
+        "uniques": 11
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/ordbase/ordbase/tree/master/ordinals",
-          "title": "ordbase/ordinals at master · ordbase/ordbase · GitHub",
-          "count": 32,
-          "uniques": 8
-        },
-        {
           "path": "/ordbase/ordbase",
           "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 18,
-          "uniques": 11
+          "count": 15,
+          "uniques": 7
         },
         {
-          "path": "/ordbase/ordbase/tree/master/ordinals/lib",
-          "title": "ordbase/ordinals/lib at master · ordbase/ordbase",
+          "path": "/ordbase/ordbase/tree/master/ordgen",
+          "title": "ordbase/ordgen at master · ordbase/ordbase",
           "count": 10,
-          "uniques": 3
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordinals/lib/ordinals",
-          "title": "ordbase/ordinals/lib/ordinals at master · ordbase/ordbase",
-          "count": 8,
           "uniques": 2
         },
         {
-          "path": "/ordbase/ordbase/tree/master/ordlite",
-          "title": "ordbase/ordlite at master · ordbase/ordbase · GitHub",
+          "path": "/ordbase/ordbase/tree/master/ordbase",
+          "title": "ordbase/ordbase at master · ordbase/ordbase · GitHub",
           "count": 7,
           "uniques": 2
         },
         {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/ltc_sub1k.md",
+          "path": "/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md",
           "title": "File not found",
-          "count": 7,
+          "count": 5,
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordbase/tree/master/sandbox",
-          "title": "ordbase/sandbox at master · ordbase/ordbase · GitHub",
-          "count": 6,
-          "uniques": 2
+          "path": "/ordbase/ordbase/tree/master/ordlite",
+          "title": "ordbase/ordlite at master · ordbase/ordbase",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/bitgen/gbrc721bitpunks.json",
+          "title": "ordbase/bitgen/gbrc721bitpunks.json at master · ordbase/ordbase",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/bitgen/sandbox/generate_flower.rb",
+          "title": "ordbase/bitgen/sandbox/generate_flower.rb at master · ordbase/ordbase",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/blob/master/ordbase/lib/ordbase.rb",
+          "title": "ordbase/ordbase/lib/ordbase.rb at master · ordbase/ordbase",
+          "count": 4,
+          "uniques": 1
         },
         {
           "path": "/ordbase/ordbase/tree/master",
           "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 5,
-          "uniques": 4
+          "count": 3,
+          "uniques": 2
         },
         {
-          "path": "/ordbase/ordbase/blob/master/ordinals/lib/ordinals/api.rb",
-          "title": "ordbase/ordinals/lib/ordinals/api.rb at master · ordbase/ordbase",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordscan",
-          "title": "ordbase/ordscan at master · ordbase/ordbase",
-          "count": 5,
+          "path": "/ordbase/ordbase/blob/master/ordgen/Manifest.txt",
+          "title": "ordbase/ordgen/Manifest.txt at master · ordbase/ordbase",
+          "count": 3,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 44,
-          "uniques": 7
+          "referrer": "Google",
+          "count": 21,
+          "uniques": 5
         },
         {
-          "referrer": "Google",
-          "count": 37,
-          "uniques": 7
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 3
         }
       ]
     },
@@ -1978,6 +1982,80 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-03-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-20": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        }
+      },
+      "2024-03-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-03-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-28": {
+        "views": {
+          "count": 86,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-31": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-04-01": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2024-03-22": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

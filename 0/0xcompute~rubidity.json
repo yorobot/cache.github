@@ -38,6 +38,10 @@
     "2024-03-15": {
       "stargazers_count": 20,
       "forks_count": 4
+    },
+    "2024-04-01": {
+      "stargazers_count": 20,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -74,49 +78,84 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
-        "uniques": 7
+        "count": 64,
+        "uniques": 5
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 13,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/0xCompute/rubidity",
-          "title": "GitHub - 0xCompute/rubidity: Rubidity & Rubysol - Rubies for Layer 1 (L1) Con...",
+          "path": "/0xCompute/rubidity/tree/481b0aa08ae3b209810533cc7375ae86c40fd1ba/upstream/contracts_v0",
+          "title": "rubidity/upstream/contracts_v0 at 481b0aa08ae3b209810533cc7375ae86c40fd1ba · ...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/tree/481b0aa08ae3b209810533cc7375ae86c40fd1ba",
+          "title": "0xCompute/rubidity at 481b0aa08ae3b209810533cc7375ae86c40fd1ba",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/0xCompute/rubidity/blob/master/programming-ethscriptions/sub1k.md",
-          "title": "rubidity/programming-ethscriptions/sub1k.md at master · 0xCompute/rubidity",
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/ethscribe/lib/ethscribe/api.rb",
+          "title": "rubidity/ethscribe/lib/ethscribe/api.rb at 481b0aa08ae3b209810533cc7375ae86c4...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/tree/master/scribelite",
-          "title": "rubidity/scribelite at master · 0xCompute/rubidity",
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/NAMES.md",
+          "title": "rubidity/NAMES.md at 481b0aa08ae3b209810533cc7375ae86c40fd1ba · 0xCompute/rub...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/commit/4132260f8e5183cd02cc2ea3afb3028f40cc52e5",
-          "title": "up · 0xCompute/rubidity@4132260 · GitHub",
-          "count": 1,
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rarible-exchange-v2/ExchangeV2Core.rb",
+          "title": "rubidity/rarible-exchange-v2/ExchangeV2Core.rb at 481b0aa08ae3b209810533cc737...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/commit/481b0aa08ae3b209810533cc7375ae86c40fd1ba",
-          "title": "up · 0xCompute/rubidity@481b0aa · GitHub",
-          "count": 1,
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rarible-exchange-v2/upstream/package.json",
+          "title": "rubidity/rarible-exchange-v2/upstream/package.json at 481b0aa08ae3b209810533c...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rubysol-by-example/defi/uniswap-v2/uniswapv2swapexamples.rb",
+          "title": "rubidity/rubysol-by-example/defi/uniswap-v2/uniswapv2swapexamples.rb at 481b0...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rubysol-by-example/defi/uniswap-v2/UniswapV2SwapExamples.sol",
+          "title": "rubidity/rubysol-by-example/defi/uniswap-v2/UniswapV2SwapExamples.sol at 481b...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/upstream/contracts_v0/erc20.rb",
+          "title": "rubidity/upstream/contracts_v0/erc20.rb at 481b0aa08ae3b209810533cc7375ae86c4...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/upstream/contracts_v0/uniswap_v2_erc20.rb",
+          "title": "rubidity/upstream/contracts_v0/uniswap_v2_erc20.rb at 481b0aa08ae3b209810533c...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubyflow.com",
-          "count": 2,
+          "referrer": "github.com",
+          "count": 24,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -742,6 +781,58 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-03-20": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-03-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-03-30": {
+        "views": {
+          "count": 27,
+          "uniques": 1
+        }
+      },
+      "2024-04-01": {
+        "views": {
+          "count": 29,
+          "uniques": 1
+        }
+      },
+      "2024-03-19": {
+        "clones": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-03-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

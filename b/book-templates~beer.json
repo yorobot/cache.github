@@ -377,6 +377,10 @@
     "2024-03-15": {
       "stargazers_count": 1,
       "forks_count": 2
+    },
+    "2024-04-01": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -403,18 +407,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 8,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/book-templates/beer/tree/gh-pages/_templates",
+          "title": "beer/_templates at gh-pages · book-templates/beer",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/beer/blob/gh-pages/_templates/beers-idx.md",
+          "title": "beer/_templates/beers-idx.md at gh-pages · book-templates/beer",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/beer/blob/gh-pages/_templates/country-mini.md",
+          "title": "beer/_templates/country-mini.md at gh-pages · book-templates/beer",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/beer",
+          "title": "book-templates/beer: Beer, Brewery 'n' Brewpubs Guide Book Template",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1093,6 +1124,12 @@
       "2024-03-10": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-19": {
+        "views": {
+          "count": 8,
           "uniques": 1
         }
       }

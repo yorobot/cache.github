@@ -2,8 +2,8 @@
   "full_name": "learnpixelart/pixelart",
   "created_at": "2017-05-14T17:33:27Z",
   "updated_at": "2024-01-25T17:48:19Z",
-  "pushed_at": "2023-08-11T18:40:17Z",
-  "size": 1418,
+  "pushed_at": "2024-03-28T15:47:07Z",
+  "size": 1419,
   "description": "pixel art (and graphics) libraries & scripts   ",
   "language": "Ruby",
   "history": {
@@ -106,16 +106,20 @@
     "2024-03-15": {
       "stargazers_count": 67,
       "forks_count": 8
+    },
+    "2024-04-01": {
+      "stargazers_count": 67,
+      "forks_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-08-11T18:40:11Z",
+        "date": "2024-03-28T15:47:02Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-08-11T18:40:11Z",
+        "date": "2024-03-28T15:47:02Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -129,34 +133,96 @@
     "avatars"
   ],
   "languages": {
-    "Ruby": 157017
+    "Ruby": 157678
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 2
+        "count": 42,
+        "uniques": 5
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 14,
+        "uniques": 13
       },
       "paths": [
         {
+          "path": "/learnpixelart/pixelart",
+          "title": "learnpixelart/pixelart: pixel art (and graphics) libraries & scripts",
+          "count": 7,
+          "uniques": 4
+        },
+        {
           "path": "/learnpixelart/pixelart/tree/master/pixelart",
           "title": "pixelart/pixelart at master · learnpixelart/pixelart",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/learnpixelart/pixelart/tree/master/pixelart-characters",
+          "title": "pixelart/pixelart-characters at master · learnpixelart/pixelart",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/learnpixelart/pixelart/tree/master/programming-pixelart",
+          "title": "pixelart/programming-pixelart at master · learnpixelart/pixelart",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/pixelart/README.md",
+          "title": "pixelart/pixelart/README.md at master · learnpixelart/pixelart",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/tree/master/pixelart-glimmer",
+          "title": "pixelart/pixelart-glimmer at master · learnpixelart/pixelart",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/8bit/NOTES.md",
+          "title": "pixelart/8bit/NOTES.md at master · learnpixelart/pixelart",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/learnpixelart/pixelart",
-          "title": "learnpixelart/pixelart: pixel art (and graphics) libraries & scripts",
-          "count": 1,
+          "path": "/learnpixelart/pixelart/blob/master/pixelart-characters/README.md",
+          "title": "pixelart/pixelart-characters/README.md at master · learnpixelart/pixelart",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/blob/master/programming-pixelart/samples.rb",
+          "title": "pixelart/programming-pixelart/samples.rb at master · learnpixelart/pixelart",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/learnpixelart/pixelart/commits/master",
+          "title": "Commits · learnpixelart/pixelart",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 28,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1665,6 +1731,78 @@
         }
       },
       "2024-03-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-21": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-25": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-03-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-03-28": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2024-03-31": {
+        "views": {
+          "count": 28,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-03-29": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-03-30": {
         "clones": {
           "count": 1,
           "uniques": 1
