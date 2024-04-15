@@ -290,6 +290,10 @@
     "2024-04-01": {
       "stargazers_count": 258,
       "forks_count": 72
+    },
+    "2024-04-15": {
+      "stargazers_count": 258,
+      "forks_count": 72
     }
   },
   "commits": [
@@ -320,23 +324,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 9,
+        "uniques": 4
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/planetruby/conferences",
-          "title": "GitHub - planetruby/conferences: What's Upcoming in 2023? - A collection of a...",
+          "title": "planetruby/conferences: What's Upcoming in 2023? - A collection of awesome ru...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/conferences/blob/master/_data/conferences2023.yml",
+          "title": "conferences/_data/conferences2023.yml at master · planetruby/conferences · Gi...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/conferences/pulls",
+          "title": "Pull requests · planetruby/conferences · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -3481,6 +3511,54 @@
       "2024-03-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-04-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-04-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-04-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-04-12": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -1,7 +1,7 @@
 {
   "full_name": "ordbase/ordinals.cache",
   "created_at": "2015-07-01T21:49:37Z",
-  "updated_at": "2023-07-18T15:16:04Z",
+  "updated_at": "2024-04-10T08:05:16Z",
   "pushed_at": "2023-08-06T16:09:28Z",
   "size": 8783,
   "description": "Ordinals (Inscription Content & Metadata) Cache - Vol. 1 - Bitcoin (BTC)",
@@ -102,6 +102,10 @@
     "2024-04-01": {
       "stargazers_count": 19,
       "forks_count": 1
+    },
+    "2024-04-15": {
+      "stargazers_count": 20,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -131,25 +135,49 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 18,
-        "uniques": 3
+        "count": 41,
+        "uniques": 7
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 3,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/ordbase/ordinals.cache",
-          "title": "ordbase/ordinals.cache: Ordinals (Inscription Content & Metadata) Cache - Vol...",
-          "count": 7,
-          "uniques": 3
+          "path": "/ordbase/ordinals.cache/tree/master/inscription",
+          "title": "ordinals.cache/inscription at master · ordbase/ordinals.cache · GitHub",
+          "count": 13,
+          "uniques": 4
         },
         {
-          "path": "/ordbase/ordinals.cache/tree/master/inscription",
-          "title": "ordinals.cache/inscription at master · ordbase/ordinals.cache",
-          "count": 5,
+          "path": "/ordbase/ordinals.cache",
+          "title": "ordbase/ordinals.cache: Ordinals (Inscription Content & Metadata) Cache - Vol...",
+          "count": 11,
+          "uniques": 7
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/inscription/00",
+          "title": "ordinals.cache/inscription/00 at master · ordbase/ordinals.cache",
+          "count": 4,
           "uniques": 2
+        },
+        {
+          "path": "/ordbase/ordinals.cache/commits",
+          "title": "Commits · ordbase/ordinals.cache",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/inscription/01",
+          "title": "ordinals.cache/inscription/01 at master · ordbase/ordinals.cache",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordinals.cache/tree/master/inscription/fb",
+          "title": "ordinals.cache/inscription/fb at master · ordbase/ordinals.cache · GitHub",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/ordbase/ordinals.cache/blob/master/inscription/01/03815ecb4c7917e133a04286e7e121a436b77f760a84b3668f37eb5b423c30i0.txt",
@@ -158,14 +186,8 @@
           "uniques": 1
         },
         {
-          "path": "/ordbase/ordinals.cache/commits",
-          "title": "Commits · ordbase/ordinals.cache",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordinals.cache/tree/master/inscription/01",
-          "title": "ordinals.cache/inscription/01 at master · ordbase/ordinals.cache",
+          "path": "/ordbase/ordinals.cache/blob/master/inscription/fb/166b92331b782b2cbe5deedfbd5710efd1d3f2a97a626e2ccd2e726d1eaf55i0.meta.txt",
+          "title": "ordinals.cache/inscription/fb/166b92331b782b2cbe5deedfbd5710efd1d3f2a97a626e2...",
           "count": 2,
           "uniques": 1
         }
@@ -173,8 +195,13 @@
       "referrers": [
         {
           "referrer": "github.com",
+          "count": 34,
+          "uniques": 6
+        },
+        {
+          "referrer": "rubyflow.com",
           "count": 5,
-          "uniques": 2
+          "uniques": 1
         }
       ]
     },
@@ -1350,6 +1377,46 @@
       "2024-03-29": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-04-07": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2024-04-08": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2024-04-09": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2024-04-12": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-03": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -330,6 +330,10 @@
     "2024-04-01": {
       "stargazers_count": 6,
       "forks_count": 8
+    },
+    "2024-04-15": {
+      "stargazers_count": 6,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -355,31 +359,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 20,
+        "uniques": 5
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/footballcsv/spec/tree/master/docs",
           "title": "spec/docs at master · footballcsv/spec · GitHub",
-          "count": 2,
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/spec/blob/master/docs/README.md",
+          "title": "spec/docs/README.md at master · footballcsv/spec · GitHub",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/spec/edit/master/docs/README.md",
+          "title": "Editing spec/docs/README.md at master · footballcsv/spec",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/footballcsv/spec",
           "title": "GitHub - footballcsv/spec: Football.CSV Format Spec (& Tests)",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/spec/tree/master",
+          "title": "footballcsv/spec: Football.CSV Format Spec (& Tests)",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "footballcsv.github.io",
+          "referrer": "Google",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2321,6 +2353,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-04-13": {
+        "views": {
+          "count": 17,
+          "uniques": 3
+        }
+      },
+      "2024-04-14": {
+        "views": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

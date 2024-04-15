@@ -376,6 +376,10 @@
     "2024-04-01": {
       "stargazers_count": 217,
       "forks_count": 29
+    },
+    "2024-04-15": {
+      "stargazers_count": 217,
+      "forks_count": 29
     }
   },
   "commits": [
@@ -405,109 +409,94 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 104,
-        "uniques": 17
+        "count": 69,
+        "uniques": 13
       },
       "clones": {
-        "count": 35,
-        "uniques": 9
+        "count": 17,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb",
-          "title": "sport.db/sportdb at master · sportdb/sport.db · GitHub",
-          "count": 27,
-          "uniques": 7
+          "path": "/sportdb/sport.db/tree/0734ededcd4347be9f436d1dec147fdc9a2c35c9/lib",
+          "title": "sport.db/lib at 0734ededcd4347be9f436d1dec147fdc9a2c35c9 · sportdb/sport.db ·...",
+          "count": 14,
+          "uniques": 1
         },
         {
           "path": "/sportdb/sport.db",
           "title": "sportdb/sport.db: sport.db - open sports database (e.g. football.db, formula1...",
-          "count": 21,
-          "uniques": 16
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master/sportdb-readers",
-          "title": "sport.db/sportdb-readers at master · sportdb/sport.db · GitHub",
-          "count": 6,
-          "uniques": 2
+          "count": 11,
+          "uniques": 9
         },
         {
           "path": "/sportdb/sport.db/tree/master/football",
           "title": "sport.db/football at master · sportdb/sport.db · GitHub",
-          "count": 5,
+          "count": 8,
           "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-models",
-          "title": "sport.db/sportdb-models at master · sportdb/sport.db",
-          "count": 5,
+          "path": "/sportdb/sport.db/tree/0734ededcd4347be9f436d1dec147fdc9a2c35c9/lib/sportdb",
+          "title": "sport.db/lib/sportdb at 0734ededcd4347be9f436d1dec147fdc9a2c35c9 · sportdb/sp...",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/tree/master/sportdb",
+          "title": "sport.db/sportdb at master · sportdb/sport.db",
+          "count": 6,
           "uniques": 2
-        },
-        {
-          "path": "/sportdb/sport.db/blob/master/sportdb-models/lib/sportdb/schema.rb",
-          "title": "File not found · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sport.db/tree/master",
-          "title": "sport.db/ at master · sportdb/sport.db",
-          "count": 3,
-          "uniques": 1
         },
         {
           "path": "/sportdb/sport.db/tree/master/football/lib",
           "title": "sport.db/football/lib at master · sportdb/sport.db · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db/blob/master/football/Manifest.txt",
+          "title": "sport.db/football/Manifest.txt at master · sportdb/sport.db",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sport",
-          "title": "sport.db/sport at master · sportdb/sport.db",
-          "count": 3,
+          "path": "/sportdb/sport.db/blob/master/test-csv/helper.rb",
+          "title": "sport.db/test-csv/helper.rb at master · sportdb/sport.db · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db/tree/master/sportdb-importers",
-          "title": "sport.db/sportdb-importers at master · sportdb/sport.db · GitHub",
-          "count": 3,
+          "path": "/sportdb/sport.db/blob/master/test-csv/Rakefile",
+          "title": "sport.db/test-csv/Rakefile at master · sportdb/sport.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db/blob/master/test-csv/test_csv_match_parser.rb",
+          "title": "sport.db/test-csv/test_csv_match_parser.rb at master · sportdb/sport.db · Git...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 40,
-          "uniques": 5
-        },
-        {
           "referrer": "github.com",
-          "count": 33,
-          "uniques": 5
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 4,
+          "count": 14,
           "uniques": 2
         },
         {
-          "referrer": "rsssf.github.io",
-          "count": 4,
-          "uniques": 1
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 5
         },
         {
           "referrer": "chat.openai.com",
-          "count": 3,
+          "count": 9,
           "uniques": 1
         },
         {
-          "referrer": "opensport.github.io",
-          "count": 2,
+          "referrer": "openfootball.github.io",
+          "count": 6,
           "uniques": 1
         },
         {
@@ -7215,6 +7204,92 @@
       "2024-03-31": {
         "clones": {
           "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-04-02": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-04-04": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-04-08": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2024-04-10": {
+        "views": {
+          "count": 26,
+          "uniques": 1
+        }
+      },
+      "2024-04-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-13": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-04-15": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-04-03": {
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-04-12": {
+        "clones": {
+          "count": 2,
           "uniques": 2
         }
       }

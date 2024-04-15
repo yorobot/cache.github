@@ -376,6 +376,10 @@
     "2024-04-01": {
       "stargazers_count": 37,
       "forks_count": 1
+    },
+    "2024-04-15": {
+      "stargazers_count": 37,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -409,89 +413,79 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
-        "uniques": 6
+        "count": 49,
+        "uniques": 3
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 9,
+        "uniques": 3
       },
       "paths": [
         {
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
+          "count": 12,
+          "uniques": 2
+        },
+        {
           "path": "/beerkit/beer.db",
           "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
-          "count": 6,
-          "uniques": 6
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-admin/db",
+          "title": "beer.db/beerdb-admin/db at master · beerkit/beer.db · GitHub",
+          "count": 5,
+          "uniques": 1
         },
         {
           "path": "/beerkit/beer.db/tree/master/beerdb-models",
           "title": "beer.db/beerdb-models at master · beerkit/beer.db · GitHub",
           "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-starter",
+          "title": "beer.db/beerdb-starter at master · beerkit/beer.db",
+          "count": 4,
           "uniques": 2
         },
         {
-          "path": "/beerkit/beer.db/tree/master/beerbook",
-          "title": "beer.db/beerbook at master · beerkit/beer.db · GitHub",
+          "path": "/beerkit/beer.db/blob/master/beerdb-admin/db/schema.rb",
+          "title": "beer.db/beerdb-admin/db/schema.rb at master · beerkit/beer.db · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/beerdb/README.md",
+          "title": "beer.db/beerdb/README.md at master · beerkit/beer.db",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-admin",
+          "title": "beer.db/beerdb-admin at master · beerkit/beer.db · GitHub",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db/tree/master/beerbook/app",
-          "title": "beer.db/beerbook/app at master · beerkit/beer.db · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db/tree/master/beerbook/app/controllers",
-          "title": "beer.db/beerbook/app/controllers at master · beerkit/beer.db · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db/tree/master/beerdb",
-          "title": "beer.db/beerdb at master · beerkit/beer.db · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db/blob/master/beerbook/app/controllers/application_controller.rb",
-          "title": "beer.db/beerbook/app/controllers/application_controller.rb at master · beerki...",
+          "path": "/beerkit/beer.db/blob/master/beerdb-admin/db/seeds.rb",
+          "title": "beer.db/beerdb-admin/db/seeds.rb at master · beerkit/beer.db · GitHub",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db/commits/master",
-          "title": "Commits · beerkit/beer.db",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/beerkit/beer.db/commit/f401ca217114f0acd0e737c0a316dc76f39aa5de",
-          "title": "up · beerkit/beer.db@f401ca2",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openbeer.github.io",
-          "count": 19,
-          "uniques": 2
-        },
-        {
           "referrer": "Google",
-          "count": 4,
+          "count": 20,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "copilot.microsoft.com",
-          "count": 1,
-          "uniques": 1
+          "referrer": "openbeer.github.io",
+          "count": 17,
+          "uniques": 2
         }
       ]
     },
@@ -2971,6 +2965,58 @@
         }
       },
       "2024-03-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-04-08": {
+        "views": {
+          "count": 20,
+          "uniques": 1
+        }
+      },
+      "2024-04-10": {
+        "views": {
+          "count": 23,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-04-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-13": {
+        "clones": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-04-15": {
         "clones": {
           "count": 1,
           "uniques": 1

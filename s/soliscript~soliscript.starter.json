@@ -1,7 +1,7 @@
 {
   "full_name": "soliscript/soliscript.starter",
   "created_at": "2014-11-13T21:48:57Z",
-  "updated_at": "2023-10-14T12:59:49Z",
+  "updated_at": "2024-04-04T01:19:22Z",
   "pushed_at": "2023-10-14T13:09:46Z",
   "size": 15,
   "description": "soliscript quick starter - run (blockchain) contracts in rubidity (with 100%-solidity compatible data types & abis) on an ethereum simulacrum in your own home for fun & profit (for free)",
@@ -58,6 +58,10 @@
     "2024-04-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2024-04-15": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -89,18 +93,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
         "count": 2,
-        "uniques": 2
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/soliscript/soliscript.starter",
+          "title": "soliscript/soliscript.starter: soliscript quick starter - run (blockchain) co...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/soliscript/soliscript.starter/blob/master/ballot.rb",
+          "title": "soliscript.starter/ballot.rb at master · soliscript/soliscript.starter",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubyflow.com",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -311,6 +330,18 @@
       "2024-03-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-04": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-04-05": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

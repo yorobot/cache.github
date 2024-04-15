@@ -1,8 +1,8 @@
 {
   "full_name": "0xCompute/rubidity",
   "created_at": "2015-06-27T17:28:04Z",
-  "updated_at": "2024-01-18T09:27:45Z",
-  "pushed_at": "2024-01-28T12:43:25Z",
+  "updated_at": "2024-04-04T01:13:26Z",
+  "pushed_at": "2024-04-04T13:48:23Z",
   "size": 5878,
   "description": "Rubidity & Rubysol - Rubies for Layer 1 (L1) Contracts / Protocols with \"Off-Chain\" Indexer",
   "language": "Ruby",
@@ -42,19 +42,23 @@
     "2024-04-01": {
       "stargazers_count": 20,
       "forks_count": 4
+    },
+    "2024-04-15": {
+      "stargazers_count": 21,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-01-28T12:43:20Z",
+        "date": "2024-04-04T13:48:18Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-01-28T12:43:20Z",
+        "date": "2024-04-04T13:48:18Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "mv ethscribe"
     }
   ],
   "topics": [
@@ -69,7 +73,7 @@
     "rubysol"
   ],
   "languages": {
-    "Ruby": 1246443,
+    "Ruby": 1074398,
     "Solidity": 185199,
     "JavaScript": 61869,
     "TypeScript": 25328,
@@ -78,80 +82,67 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 64,
+        "count": 22,
         "uniques": 5
       },
       "clones": {
-        "count": 13,
-        "uniques": 4
+        "count": 9,
+        "uniques": 9
       },
       "paths": [
         {
-          "path": "/0xCompute/rubidity/tree/481b0aa08ae3b209810533cc7375ae86c40fd1ba/upstream/contracts_v0",
-          "title": "rubidity/upstream/contracts_v0 at 481b0aa08ae3b209810533cc7375ae86c40fd1ba · ...",
-          "count": 6,
-          "uniques": 1
+          "path": "/0xCompute/rubidity",
+          "title": "GitHub - 0xCompute/rubidity: Rubidity & Rubysol - Rubies for Layer 1 (L1) Con...",
+          "count": 11,
+          "uniques": 5
         },
         {
-          "path": "/0xCompute/rubidity/tree/481b0aa08ae3b209810533cc7375ae86c40fd1ba",
-          "title": "0xCompute/rubidity at 481b0aa08ae3b209810533cc7375ae86c40fd1ba",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/ethscribe/lib/ethscribe/api.rb",
-          "title": "rubidity/ethscribe/lib/ethscribe/api.rb at 481b0aa08ae3b209810533cc7375ae86c4...",
+          "path": "/0xCompute/rubidity/blob/master/NAMES.md",
+          "title": "rubidity/NAMES.md at master · 0xCompute/rubidity",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/NAMES.md",
-          "title": "rubidity/NAMES.md at 481b0aa08ae3b209810533cc7375ae86c40fd1ba · 0xCompute/rub...",
+          "path": "/0xCompute/rubidity/blob/master/redpaper/crowdfunder.rb",
+          "title": "File not found",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rarible-exchange-v2/ExchangeV2Core.rb",
-          "title": "rubidity/rarible-exchange-v2/ExchangeV2Core.rb at 481b0aa08ae3b209810533cc737...",
+          "path": "/0xCompute/rubidity/commits",
+          "title": "Commits · 0xCompute/rubidity",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rarible-exchange-v2/upstream/package.json",
-          "title": "rubidity/rarible-exchange-v2/upstream/package.json at 481b0aa08ae3b209810533c...",
+          "path": "/0xCompute/rubidity/tree/master/indexer",
+          "title": "rubidity/indexer at master · 0xCompute/rubidity",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rubysol-by-example/defi/uniswap-v2/uniswapv2swapexamples.rb",
-          "title": "rubidity/rubysol-by-example/defi/uniswap-v2/uniswapv2swapexamples.rb at 481b0...",
+          "path": "/0xCompute/rubidity/tree/master/rubidity-typed",
+          "title": "File not found",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/rubysol-by-example/defi/uniswap-v2/UniswapV2SwapExamples.sol",
-          "title": "rubidity/rubysol-by-example/defi/uniswap-v2/UniswapV2SwapExamples.sol at 481b...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/upstream/contracts_v0/erc20.rb",
-          "title": "rubidity/upstream/contracts_v0/erc20.rb at 481b0aa08ae3b209810533cc7375ae86c4...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/0xCompute/rubidity/blob/481b0aa08ae3b209810533cc7375ae86c40fd1ba/upstream/contracts_v0/uniswap_v2_erc20.rb",
-          "title": "rubidity/upstream/contracts_v0/uniswap_v2_erc20.rb at 481b0aa08ae3b209810533c...",
-          "count": 2,
+          "path": "/0xCompute/rubidity/stargazers",
+          "title": "Stargazers · 0xCompute/rubidity",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 24,
-          "uniques": 2
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 7,
+          "uniques": 1
         },
         {
           "referrer": "Google",
@@ -830,6 +821,64 @@
         }
       },
       "2024-03-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-04-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-04": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-04-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-04-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-15": {
         "clones": {
           "count": 1,
           "uniques": 1

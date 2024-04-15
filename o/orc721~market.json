@@ -1,7 +1,7 @@
 {
   "full_name": "orc721/market",
   "created_at": "2014-05-06T14:02:40Z",
-  "updated_at": "2023-12-21T09:03:15Z",
+  "updated_at": "2024-04-10T08:05:10Z",
   "pushed_at": "2023-12-24T08:49:33Z",
   "size": 3145,
   "description": "Bitcoin Ordinal Generative Market Listings (Incl. ORC-721 / OG / Ordgen & Frens)",
@@ -78,6 +78,10 @@
     "2024-04-01": {
       "stargazers_count": 6,
       "forks_count": 5
+    },
+    "2024-04-15": {
+      "stargazers_count": 7,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -111,18 +115,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 4,
-        "uniques": 4
-      },
       "paths": [
-
+        {
+          "path": "/orc721/market",
+          "title": "orc721/market: Bitcoin Ordinal Generative Market Listings (Incl. ORC-721 / OG...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/orc721/market/blob/master/README.md",
+          "title": "market/README.md at master · orc721/market · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1002,6 +1021,18 @@
       },
       "2024-04-01": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-04-12": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

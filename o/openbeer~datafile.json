@@ -381,6 +381,10 @@
     "2024-04-01": {
       "stargazers_count": 7,
       "forks_count": 1
+    },
+    "2024-04-15": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -407,43 +411,38 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 3
+        "count": 10,
+        "uniques": 2
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
+          "path": "/openbeer/datafile/blob/master/europe.rb",
+          "title": "datafile/europe.rb at master · openbeer/datafile · GitHub",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/datafile/blob/master/all.rb",
+          "title": "datafile/all.rb at master · openbeer/datafile · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "path": "/openbeer/datafile",
-          "title": "GitHub - openbeer/datafile: beer.db quick starter datafile templates",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/openbeer/datafile/blob/master/at.rb",
-          "title": "datafile/at.rb at master · openbeer/datafile · GitHub",
+          "title": "openbeer/datafile: beer.db quick starter datafile templates",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openbeer/datafile/blob/master/cz.rb",
-          "title": "datafile/cz.rb at master · openbeer/datafile · GitHub",
-          "count": 2,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 7,
-          "uniques": 2
-        },
-        {
           "referrer": "openbeer.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 10,
+          "uniques": 2
         }
       ]
     },
@@ -2705,6 +2704,18 @@
       "2024-03-31": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-08": {
+        "views": {
+          "count": 9,
           "uniques": 1
         }
       }
