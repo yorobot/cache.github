@@ -385,6 +385,10 @@
     "2024-04-15": {
       "stargazers_count": 190,
       "forks_count": 15
+    },
+    "2024-05-01": {
+      "stargazers_count": 190,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -402,7 +406,7 @@
   ],
   "size": 596,
   "updated_at": "2024-01-01T04:06:39Z",
-  "pushed_at": "2024-03-05T11:43:31Z",
+  "pushed_at": "2024-04-17T11:19:03Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
   "topics": [
@@ -424,30 +428,48 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 22,
+        "count": 29,
         "uniques": 10
       },
       "clones": {
-        "count": 8,
-        "uniques": 5
+        "count": 10,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 13,
-          "uniques": 8
+          "count": 11,
+          "uniques": 6
         },
         {
           "path": "/feedreader/pluto/tree/master/pluto",
           "title": "pluto/pluto at master · feedreader/pluto",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/issues",
+          "title": "Issues · feedreader/pluto",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/html-template",
+          "title": "pluto/html-template at master · feedreader/pluto",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/newscast",
-          "title": "pluto/newscast at master · feedreader/pluto · GitHub",
+          "path": "/feedreader/pluto/issues/42",
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/15",
+          "title": "Relative links not rendering correctly · Issue #15 · feedreader/pluto",
+          "count": 1,
           "uniques": 1
         },
         {
@@ -457,14 +479,14 @@
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
+          "path": "/feedreader/pluto/issues/39",
+          "title": "Feeds requiring cookie support · Issue #39 · feedreader/pluto · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/pull/45",
-          "title": "Work around removal of \"to_h\" method in Rails 7.0 by bmos · Pull Request #45 ...",
+          "path": "/feedreader/pluto/pull/47",
+          "title": "add OpenSSL error to rescue list by bmos · Pull Request #47 · feedreader/pluto",
           "count": 1,
           "uniques": 1
         }
@@ -472,21 +494,16 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 8,
-          "uniques": 6
+          "count": 11,
+          "uniques": 2
         },
         {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 1
+          "count": 4,
+          "uniques": 3
         },
         {
           "referrer": "rubygems.org",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         }
@@ -5839,6 +5856,82 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-04-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-22": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-04-25": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-04-27": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-18": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-04-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-04-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

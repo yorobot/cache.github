@@ -385,6 +385,10 @@
     "2024-04-15": {
       "stargazers_count": 1,
       "forks_count": 2
+    },
+    "2024-05-01": {
+      "stargazers_count": 1,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -411,18 +415,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 6,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/book-templates/world/tree/gh-pages/_templates",
+          "title": "world/_templates at gh-pages · book-templates/world",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/world/blob/gh-pages/_templates/country.md",
+          "title": "world/_templates/country.md at gh-pages · book-templates/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/world",
+          "title": "book-templates/world: World Fact Book Template",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -981,6 +1006,18 @@
       "2024-03-19": {
         "views": {
           "count": 22,
+          "uniques": 1
+        }
+      },
+      "2024-04-24": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-04-29": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
