@@ -274,6 +274,10 @@
     "2024-05-01": {
       "stargazers_count": 21,
       "forks_count": 18
+    },
+    "2024-05-15": {
+      "stargazers_count": 21,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -308,42 +312,78 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 3
+        "count": 27,
+        "uniques": 5
       },
       "clones": {
-        "count": 4,
-        "uniques": 3
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/cryptocopycats/contracts/tree/master/mooncats-hd",
-          "title": "contracts/mooncats-hd at master · cryptocopycats/contracts · GitHub",
-          "count": 3,
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/README.md",
+          "title": "contracts/cryptokitties/README.md at master · cryptocopycats/contracts · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ERC721.sol",
+          "title": "contracts/cryptokitties/ERC721.sol at master · cryptocopycats/contracts",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/SaleClockAuction.sol",
+          "title": "contracts/cryptokitties/SaleClockAuction.sol at master · cryptocopycats/contr...",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/cryptocopycats/contracts",
           "title": "GitHub - cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Frien...",
-          "count": 2,
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/README.md",
-          "title": "contracts/cryptokitties/README.md at master · cryptocopycats/contracts · GitHub",
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ClockAuctionBase.sol",
+          "title": "contracts/cryptokitties/ClockAuctionBase.sol at master · cryptocopycats/contr...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ClockAuction.sol",
+          "title": "contracts/cryptokitties/ClockAuction.sol at master · cryptocopycats/contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ERC721Metadata.sol",
+          "title": "contracts/cryptokitties/ERC721Metadata.sol at master · cryptocopycats/contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/SiringClockAuction.sol",
+          "title": "contracts/cryptokitties/SiringClockAuction.sol at master · cryptocopycats/con...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/cryptokitties",
+          "title": "contracts/cryptokitties at master · cryptocopycats/contracts",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 2,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 22,
+          "uniques": 2
         },
         {
-          "referrer": "github.com",
-          "count": 1,
+          "referrer": "Google",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -4351,6 +4391,72 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-05-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-07": {
+        "views": {
+          "count": 20,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-08": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

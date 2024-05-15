@@ -1,10 +1,10 @@
 {
   "full_name": "openfootball/euro.json",
   "created_at": "2014-09-02T15:32:38Z",
-  "updated_at": "2021-07-12T07:04:33Z",
-  "pushed_at": "2021-06-15T09:36:40Z",
-  "size": 376,
-  "description": "Free open public domain football data for the European Football Championship (\"Euro\") in JSON incl.  Euro 2020 (in 2021) and more - No API key required ;-)",
+  "updated_at": "2024-05-13T01:01:22Z",
+  "pushed_at": "2024-05-10T13:48:38Z",
+  "size": 378,
+  "description": "Free open public domain football data for the European Football Championship (\"Euro\") in JSON incl.  Euro 2024 and more - No API key required ;-)",
   "language": null,
   "history": {
     "2021-06-15": {
@@ -250,16 +250,20 @@
     "2024-05-01": {
       "stargazers_count": 4,
       "forks_count": 2
+    },
+    "2024-05-15": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2021-06-15T09:36:34Z",
+        "date": "2024-05-10T13:48:33Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2021-06-15T09:36:34Z",
+        "date": "2024-05-10T13:48:33Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -270,73 +274,108 @@
     "euro2020",
     "euro2021",
     "json",
-    "opendata"
+    "opendata",
+    "euro2024"
   ],
   "languages": {
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 31,
-        "uniques": 6
+        "count": 190,
+        "uniques": 17
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 11,
+        "uniques": 10
       },
       "paths": [
         {
-          "path": "/openfootball/euro.json/tree/master/2020",
-          "title": "euro.json/2020 at master · openfootball/euro.json · GitHub",
-          "count": 12,
-          "uniques": 3
-        },
-        {
           "path": "/openfootball/euro.json",
           "title": "openfootball/euro.json: Free open public domain football data for the Europea...",
-          "count": 5,
+          "count": 37,
+          "uniques": 12
+        },
+        {
+          "path": "/openfootball/euro.json/tree/master/2024",
+          "title": "euro.json/2024 at master · openfootball/euro.json · GitHub",
+          "count": 24,
           "uniques": 5
         },
         {
+          "path": "/openfootball/euro.json/tree/master/2020",
+          "title": "euro.json/2020 at master · openfootball/euro.json",
+          "count": 23,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/euro.json/blob/master/2024/euro.json",
+          "title": "euro.json/2024/euro.json at master · openfootball/euro.json",
+          "count": 17,
+          "uniques": 4
+        },
+        {
           "path": "/openfootball/euro.json/blob/master/2020/euro.json",
-          "title": "euro.json/2020/euro.json at master · openfootball/euro.json · GitHub",
-          "count": 5,
-          "uniques": 2
+          "title": "euro.json/2020/euro.json at master · openfootball/euro.json",
+          "count": 15,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/euro.json/blob/master/2024/euro.groups.json",
+          "title": "euro.json/2024/euro.groups.json at master · openfootball/euro.json · GitHub",
+          "count": 11,
+          "uniques": 4
         },
         {
           "path": "/openfootball/euro.json/blob/master/2020/euro.groups.json",
-          "title": "euro.json/2020/euro.groups.json at master · openfootball/euro.json · GitHub",
-          "count": 5,
-          "uniques": 1
+          "title": "euro.json/2020/euro.groups.json at master · openfootball/euro.json",
+          "count": 9,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/euro.json/tree/master",
-          "title": "openfootball/euro.json: Free open public domain football data for the Europea...",
-          "count": 2,
+          "path": "/openfootball/euro.json/issues/1",
+          "title": "Add Standings · Issue #1 · openfootball/euro.json",
+          "count": 7,
           "uniques": 2
         },
         {
-          "path": "/openfootball/euro.json/blob/master/README.md",
-          "title": "euro.json/README.md at master · openfootball/euro.json",
-          "count": 2,
+          "path": "/openfootball/euro.json/blob/master/README.2020.md",
+          "title": "euro.json/README.2020.md at master · openfootball/euro.json",
+          "count": 6,
           "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro.json/issues",
+          "title": "Issues · openfootball/euro.json",
+          "count": 4,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 13,
-          "uniques": 3
+          "referrer": "github.com",
+          "count": 80,
+          "uniques": 7
         },
         {
-          "referrer": "github.com",
-          "count": 12,
+          "referrer": "openfootball.github.io",
+          "count": 18,
+          "uniques": 2
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 6,
           "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 6,
-          "uniques": 2
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "Bing",
+          "count": 2,
+          "uniques": 1
         }
       ]
     },
@@ -3225,6 +3264,84 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-05-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-05": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-05-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-09": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-10": {
+        "views": {
+          "count": 38,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2024-05-12": {
+        "views": {
+          "count": 79,
+          "uniques": 4
+        }
+      },
+      "2024-05-13": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-05-14": {
+        "views": {
+          "count": 22,
+          "uniques": 4
+        }
+      },
+      "2024-05-15": {
+        "views": {
+          "count": 17,
+          "uniques": 3
         }
       }
     }
