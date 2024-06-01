@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/austria",
   "created_at": "2013-05-20T08:14:40Z",
-  "updated_at": "2024-02-04T10:07:19Z",
-  "pushed_at": "2020-12-01T05:01:26Z",
-  "size": 959,
+  "updated_at": "2024-05-28T11:14:24Z",
+  "pushed_at": "2024-05-28T11:14:20Z",
+  "size": 973,
   "history": {
     "2019-12-08": {
       "stargazers_count": 12
@@ -348,47 +348,57 @@
     "2024-05-15": {
       "stargazers_count": 15,
       "forks_count": 4
+    },
+    "2024-06-01": {
+      "stargazers_count": 15,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-12-01T05:01:21Z",
-        "name": "Yo Robot"
+        "date": "2024-05-28T11:14:18Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-12-01T05:01:21Z",
-        "name": "Yo Robot"
+        "date": "2024-05-28T11:14:18Z",
+        "name": "Gerald Bauer"
       },
-      "message": "auto-update week 49"
+      "message": "up week 22"
     }
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 20,
+        "count": 29,
         "uniques": 5
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 10,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/openfootball/austria",
           "title": "openfootball/austria: Free open public domain football data for Austria (Öste...",
-          "count": 5,
+          "count": 7,
           "uniques": 4
         },
         {
-          "path": "/openfootball/austria/tree/master/clubs",
-          "title": "austria/clubs at master · openfootball/austria · GitHub",
-          "count": 3,
-          "uniques": 1
+          "path": "/openfootball/austria/tree/master/2023-24/squads",
+          "title": "austria/2023-24/squads at master · openfootball/austria · GitHub",
+          "count": 6,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/austria/tree/master/clubs/1-names",
-          "title": "austria/clubs/1-names at master · openfootball/austria · GitHub",
+          "path": "/openfootball/austria/blob/master/2023-24/squads/austria_klagenfurt.txt",
+          "title": "austria/2023-24/squads/austria_klagenfurt.txt at master · openfootball/austria",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/austria/blob/master/2023-24/squads/sturm_graz.txt",
+          "title": "austria/2023-24/squads/sturm_graz.txt at master · openfootball/austria · GitHub",
           "count": 3,
           "uniques": 1
         },
@@ -399,14 +409,14 @@
           "uniques": 1
         },
         {
-          "path": "/openfootball/austria/blob/master/clubs/1-names/oe24.yml",
-          "title": "austria/clubs/1-names/oe24.yml at master · openfootball/austria · GitHub",
+          "path": "/openfootball/austria/blob/master/README.md",
+          "title": "austria/README.md at master · openfootball/austria",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/austria/tree/master/2010-11",
-          "title": "austria/2010-11 at master · openfootball/austria",
+          "path": "/openfootball/austria/commits/master",
+          "title": "Commits · openfootball/austria",
           "count": 2,
           "uniques": 1
         },
@@ -415,26 +425,27 @@
           "title": "austria/2020-21 at master · openfootball/austria",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/openfootball/austria/commit/5623e4cccebff41246a26057905388dd0c96667f",
+          "title": "up week 22 · openfootball/austria@5623e4c",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 9,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 12,
+          "uniques": 2
         },
         {
           "referrer": "footballcsv.github.io",
-          "count": 7,
+          "count": 10,
           "uniques": 1
         },
         {
-          "referrer": "opendataportal.at",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "github.com",
+          "referrer": "Google",
           "count": 1,
           "uniques": 1
         }
@@ -3138,6 +3149,66 @@
         }
       },
       "2024-05-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2024-05-31": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-01": {
         "clones": {
           "count": 1,
           "uniques": 1

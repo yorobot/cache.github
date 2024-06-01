@@ -1,7 +1,7 @@
 {
   "full_name": "footballcsv/cache.footballdata",
   "created_at": "2014-07-25T16:30:09Z",
-  "updated_at": "2023-04-10T10:37:50Z",
+  "updated_at": "2024-05-25T19:15:51Z",
   "pushed_at": "2021-01-25T09:00:46Z",
   "size": 2419,
   "history": {
@@ -342,6 +342,10 @@
     "2024-05-15": {
       "stargazers_count": 10,
       "forks_count": 4
+    },
+    "2024-06-01": {
+      "stargazers_count": 10,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -365,85 +369,95 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 44,
-        "uniques": 9
+        "count": 112,
+        "uniques": 16
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/footballcsv/cache.footballdata",
           "title": "GitHub - footballcsv/cache.footballdata: Cache - Football-Data",
-          "count": 10,
-          "uniques": 7
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/tree/master/1993-94",
-          "title": "cache.footballdata/1993-94 at master · footballcsv/cache.footballdata · GitHub",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/blob/master/2020-21/at.1.csv",
-          "title": "cache.footballdata/2020-21/at.1.csv at master · footballcsv/cache.footballdat...",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/tree/master/2020-21",
-          "title": "cache.footballdata/2020-21 at master · footballcsv/cache.footballdata · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/blob/master/1993-94/eng.1.csv",
-          "title": "cache.footballdata/1993-94/eng.1.csv at master · footballcsv/cache.footballdata",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/blame/master/2020-21/at.1.csv",
-          "title": "Blaming cache.footballdata/2020-21/at.1.csv at master · footballcsv/cache.foo...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/blob/master/1993-94/de.1.csv",
-          "title": "cache.footballdata/1993-94/de.1.csv at master · footballcsv/cache.footballdat...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/footballcsv/cache.footballdata/blob/master/2020-21/sco.1.csv",
-          "title": "cache.footballdata/2020-21/sco.1.csv at master · footballcsv/cache.footballda...",
-          "count": 2,
-          "uniques": 1
+          "count": 19,
+          "uniques": 15
         },
         {
           "path": "/footballcsv/cache.footballdata/tree/master/2020",
           "title": "cache.footballdata/2020 at master · footballcsv/cache.footballdata · GitHub",
-          "count": 2,
+          "count": 14,
+          "uniques": 4
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/tree/master/2020-21",
+          "title": "cache.footballdata/2020-21 at master · footballcsv/cache.footballdata · GitHub",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/commits/master",
+          "title": "Commits · footballcsv/cache.footballdata",
+          "count": 6,
           "uniques": 1
         },
         {
-          "path": "/footballcsv/cache.footballdata/commit/5cefd5145422f117a3411d7e12e8b7ee427a9a8e",
-          "title": "up · footballcsv/cache.footballdata@5cefd51 · GitHub",
-          "count": 1,
+          "path": "/footballcsv/cache.footballdata/tree/master",
+          "title": "footballcsv/cache.footballdata: Cache - Football-Data",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/tree/master/1993-94",
+          "title": "cache.footballdata/1993-94 at master · footballcsv/cache.footballdata · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/blob/master/2020-21/at.1.csv",
+          "title": "cache.footballdata/2020-21/at.1.csv at master · footballcsv/cache.footballdata",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/blob/master/2020/ar.1.csv",
+          "title": "cache.footballdata/2020/ar.1.csv at master · footballcsv/cache.footballdata ·...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/blob/master/2020/cn.1.csv",
+          "title": "cache.footballdata/2020/cn.1.csv at master · footballcsv/cache.footballdata ·...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.footballdata/blob/master/SUMMARY.md",
+          "title": "cache.footballdata/SUMMARY.md at master · footballcsv/cache.footballdata",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "footballcsv.github.io",
+          "count": 53,
+          "uniques": 11
+        },
+        {
           "referrer": "Google",
-          "count": 19,
+          "count": 9,
           "uniques": 3
         },
         {
-          "referrer": "footballcsv.github.io",
-          "count": 18,
-          "uniques": 4
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "br.search.yahoo.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -5027,6 +5041,72 @@
         }
       },
       "2024-05-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-20": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-05-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-22": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-25": {
+        "views": {
+          "count": 56,
+          "uniques": 1
+        }
+      },
+      "2024-05-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-05-30": {
+        "views": {
+          "count": 20,
+          "uniques": 4
+        }
+      },
+      "2024-05-31": {
         "views": {
           "count": 1,
           "uniques": 1

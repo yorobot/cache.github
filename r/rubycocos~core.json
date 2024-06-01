@@ -146,6 +146,10 @@
     "2024-05-15": {
       "stargazers_count": 7,
       "forks_count": 2
+    },
+    "2024-06-01": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -177,29 +181,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 2
+        "count": 20,
+        "uniques": 4
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
-          "path": "/rubycocos/core/tree/master/date-formats",
-          "title": "core/date-formats at master · rubycocos/core",
-          "count": 3,
+          "path": "/rubycocos/core",
+          "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/rubycocos/core/tree/master/alphabets/lib",
+          "title": "core/alphabets/lib at master · rubycocos/core",
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core",
-          "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
+          "path": "/rubycocos/core/blob/master/alphabets/lib/alphabets.rb",
+          "title": "core/alphabets/lib/alphabets.rb at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/blob/master/alphabets/test/test_unaccent.rb",
-          "title": "core/alphabets/test/test_unaccent.rb at master · rubycocos/core",
+          "path": "/rubycocos/core/blob/master/alphabets/lib/alphabets/variants.rb",
+          "title": "core/alphabets/lib/alphabets/variants.rb at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         },
@@ -210,8 +220,14 @@
           "uniques": 1
         },
         {
-          "path": "/rubycocos/core/tree/master/alphabets/test",
-          "title": "core/alphabets/test at master · rubycocos/core",
+          "path": "/rubycocos/core/tree/master/alphabets/lib/alphabets",
+          "title": "core/alphabets/lib/alphabets at master · rubycocos/core",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/alphabets/script",
+          "title": "core/alphabets/script at master · rubycocos/core",
           "count": 2,
           "uniques": 1
         }
@@ -219,7 +235,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 4,
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -1342,6 +1358,48 @@
         }
       },
       "2024-05-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-31": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2024-05-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-29": {
         "clones": {
           "count": 1,
           "uniques": 1

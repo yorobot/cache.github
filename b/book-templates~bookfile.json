@@ -393,6 +393,10 @@
     "2024-05-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2024-06-01": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -419,18 +423,56 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 11,
+        "uniques": 3
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/book-templates/bookfile",
+          "title": "GitHub - book-templates/bookfile: quick starter bookfile templates - World Al...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/beer.rb",
+          "title": "bookfile/beer.rb at master · book-templates/bookfile · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/football.rb",
+          "title": "bookfile/football.rb at master · book-templates/bookfile · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/README.md",
+          "title": "bookfile/README.md at master · book-templates/bookfile · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/bookfile/blob/master/world.rb",
+          "title": "bookfile/world.rb at master · book-templates/bookfile · GitHub",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "markdownguide.org",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1661,6 +1703,18 @@
       "2024-04-29": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-26": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }

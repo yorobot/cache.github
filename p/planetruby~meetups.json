@@ -1,9 +1,9 @@
 {
   "full_name": "planetruby/meetups",
   "created_at": "2018-11-19T18:10:05Z",
-  "updated_at": "2022-10-21T15:20:49Z",
-  "pushed_at": "2023-12-08T20:19:54Z",
-  "size": 44,
+  "updated_at": "2024-05-23T13:07:31Z",
+  "pushed_at": "2024-05-23T13:07:26Z",
+  "size": 54,
   "history": {
     "2019-02-01": {
       "stargazers_count": 8
@@ -360,19 +360,23 @@
     "2024-05-15": {
       "stargazers_count": 13,
       "forks_count": 9
+    },
+    "2024-06-01": {
+      "stargazers_count": 13,
+      "forks_count": 11
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-12-08T20:19:54Z",
+        "date": "2024-05-23T13:07:26Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2023-12-08T20:19:54Z",
-        "name": "Peter Cai"
+        "date": "2024-05-23T13:07:26Z",
+        "name": "Jos O'shea"
       },
-      "message": "Update bostonrb (#11)"
+      "message": "add Bluegrass Ruby Users Group (#14)"
     }
   ],
   "description": "A collection of awesome ruby meetups & orgs from around the world - Add your ruby meetup!",
@@ -383,31 +387,78 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 20,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 13,
+        "uniques": 10
       },
       "paths": [
         {
-          "path": "/planetruby/meetups/blob/master/_config.yml",
-          "title": "meetups/_config.yml at master · planetruby/meetups · GitHub",
+          "path": "/planetruby/meetups",
+          "title": "GitHub - planetruby/meetups: A collection of awesome ruby meetups & orgs from...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/meetups/pull/12",
+          "title": "Update AMERICA.md by crespire · Pull Request #12 · planetruby/meetups",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/meetups/pull/13",
+          "title": "Update AMERICA.md by crespire · Pull Request #13 · planetruby/meetups",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/meetups/pull/14",
+          "title": "add Bluegrass Ruby Users Group by whatnotery · Pull Request #14 · planetruby/...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/meetups/pull/14/files",
+          "title": "add Bluegrass Ruby Users Group by whatnotery · Pull Request #14 · planetruby/...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/meetups/blob/master/AMERICA.md",
+          "title": "meetups/AMERICA.md at master · planetruby/meetups · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/meetups",
-          "title": "GitHub - planetruby/meetups: A collection of awesome ruby meetups & orgs from...",
+          "path": "/planetruby/meetups/pulls",
+          "title": "Pull requests · planetruby/meetups",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/pull/12/files",
+          "title": "Update AMERICA.md by crespire · Pull Request #12 · planetruby/meetups",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/meetups/pull/13/files",
+          "title": "Update AMERICA.md by crespire · Pull Request #13 · planetruby/meetups",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "planetruby.github.io",
-          "count": 3,
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "referrer": "linkedin.com",
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -1394,6 +1445,36 @@
         }
       },
       "2024-05-10": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-22": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 10,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2024-05-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
         "clones": {
           "count": 1,
           "uniques": 1

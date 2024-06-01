@@ -393,6 +393,10 @@
     "2024-05-15": {
       "stargazers_count": 10,
       "forks_count": 10
+    },
+    "2024-06-01": {
+      "stargazers_count": 10,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -419,71 +423,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 197,
-        "uniques": 23
+        "count": 207,
+        "uniques": 20
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags",
           "title": "world.db.flags/vendor/assets/images/flags at master · worlddb/world.db.flags ...",
-          "count": 42,
-          "uniques": 11
-        },
-        {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/24x24",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24 at master · worlddb/world.db....",
-          "count": 35,
-          "uniques": 8
+          "count": 25,
+          "uniques": 6
         },
         {
           "path": "/worlddb/world.db.flags",
           "title": "worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32x32, 48x4...",
-          "count": 32,
-          "uniques": 21
+          "count": 21,
+          "uniques": 14
         },
         {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/32x32",
-          "title": "world.db.flags/vendor/assets/images/flags/32x32 at master · worlddb/world.db....",
-          "count": 11,
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/64x64",
+          "title": "world.db.flags/vendor/assets/images/flags/64x64 at master · worlddb/world.db....",
+          "count": 20,
+          "uniques": 3
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/lib/worlddb",
+          "title": "world.db.flags/lib/worlddb at master · worlddb/world.db.flags · GitHub",
+          "count": 17,
+          "uniques": 5
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/24x24",
+          "title": "world.db.flags/vendor/assets/images/flags/24x24 at master · worlddb/world.db....",
+          "count": 13,
           "uniques": 3
         },
         {
           "path": "/worlddb/world.db.flags/tree/master/lib/worlddb/flags",
           "title": "world.db.flags/lib/worlddb/flags at master · worlddb/world.db.flags · GitHub",
+          "count": 12,
+          "uniques": 5
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/32x32",
+          "title": "world.db.flags/vendor/assets/images/flags/32x32 at master · worlddb/world.db....",
           "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/worlddb/world.db.flags/tree/master",
+          "title": "GitHub - worlddb/world.db.flags: worlddb-flags gem - country flags (24x24, 32...",
+          "count": 5,
           "uniques": 4
         },
         {
-          "path": "/worlddb/world.db.flags/tree/master/lib/worlddb",
-          "title": "world.db.flags/lib/worlddb at master · worlddb/world.db.flags · GitHub",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/32x32/ad.png",
-          "title": "world.db.flags/vendor/assets/images/flags/32x32/ad.png at master · worlddb/wo...",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/24x24/ad.png",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24/ad.png at master · worlddb/wo...",
-          "count": 6,
-          "uniques": 3
-        },
-        {
-          "path": "/worlddb/world.db.flags/tree/master/vendor/assets/images/flags/64x64",
-          "title": "world.db.flags/vendor/assets/images/flags/64x64 at master · worlddb/world.db....",
+          "path": "/worlddb/world.db.flags/blob/master/lib/worlddb/flags/engine.rb",
+          "title": "world.db.flags/lib/worlddb/flags/engine.rb at master · worlddb/world.db.flags...",
           "count": 5,
           "uniques": 2
         },
         {
-          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/24x24/fr.png",
-          "title": "world.db.flags/vendor/assets/images/flags/24x24/fr.png at master · worlddb/wo...",
+          "path": "/worlddb/world.db.flags/blob/master/vendor/assets/images/flags/64x64/ad.png",
+          "title": "world.db.flags/vendor/assets/images/flags/64x64/ad.png at master · worlddb/wo...",
           "count": 4,
           "uniques": 2
         }
@@ -491,11 +495,16 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 150,
-          "uniques": 16
+          "count": 183,
+          "uniques": 13
         },
         {
-          "referrer": "github.com",
+          "referrer": "presearch.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "search.brave.com",
           "count": 1,
           "uniques": 1
         }
@@ -3356,6 +3365,78 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-05-20": {
+        "views": {
+          "count": 61,
+          "uniques": 4
+        }
+      },
+      "2024-05-21": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-05-22": {
+        "views": {
+          "count": 32,
+          "uniques": 5
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-26": {
+        "views": {
+          "count": 41,
+          "uniques": 1
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-31": {
+        "views": {
+          "count": 48,
+          "uniques": 1
+        }
+      },
+      "2024-06-01": {
+        "views": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

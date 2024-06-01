@@ -1,7 +1,7 @@
 {
   "full_name": "ordbase/ordbase",
   "created_at": "2014-02-07T15:55:57Z",
-  "updated_at": "2024-05-01T20:38:00Z",
+  "updated_at": "2024-05-27T00:18:11Z",
   "pushed_at": "2024-01-30T11:23:50Z",
   "size": 9425,
   "description": "Ordinal inscription command line tools, machinery & helpers for Bitcoin, Litcoin, Dogecoin & Co.",
@@ -114,6 +114,10 @@
     "2024-05-15": {
       "stargazers_count": 16,
       "forks_count": 2
+    },
+    "2024-06-01": {
+      "stargazers_count": 17,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -145,84 +149,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 108,
-        "uniques": 6
+        "count": 20,
+        "uniques": 5
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/ordbase/ordbase/tree/master/ordinals",
-          "title": "ordbase/ordinals at master · ordbase/ordbase",
-          "count": 8,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordlite/lib/ordlite",
-          "title": "ordbase/ordlite/lib/ordlite at master · ordbase/ordbase",
-          "count": 8,
-          "uniques": 1
-        },
-        {
           "path": "/ordbase/ordbase",
           "title": "ordbase/ordbase: Ordinal inscription command line tools, machinery & helpers ...",
-          "count": 7,
-          "uniques": 3
+          "count": 4,
+          "uniques": 4
         },
         {
-          "path": "/ordbase/ordbase/blob/master/ordlite/lib/ordlite/schema.rb",
-          "title": "ordbase/ordlite/lib/ordlite/schema.rb at master · ordbase/ordbase",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordlite",
-          "title": "ordbase/ordlite at master · ordbase/ordbase",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/ordbase/ordbase/blob/master/ordlite/lib/ordlite/models/inscribe.rb",
-          "title": "ordbase/ordlite/lib/ordlite/models/inscribe.rb at master · ordbase/ordbase",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordlite/lib/ordlite/models",
-          "title": "ordbase/ordlite/lib/ordlite/models at master · ordbase/ordbase",
-          "count": 6,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/blob/master/programming-ordinals/ltc_sub1k.md",
-          "title": "File not found",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "path": "/ordbase/ordbase/tree/master/ordbase",
-          "title": "ordbase/ordbase at master · ordbase/ordbase · GitHub",
+          "path": "/ordbase/ordbase/blob/68a322cde1560c34cd4d391c27d9456f93641650/ordinals/README.md",
+          "title": "ordbase/ordinals/README.md at 68a322cde1560c34cd4d391c27d9456f93641650 · ordb...",
           "count": 4,
           "uniques": 2
         },
         {
-          "path": "/ordbase/ordbase/blob/master/ordinals/lib/ordinals.rb",
-          "title": "ordbase/ordinals/lib/ordinals.rb at master · ordbase/ordbase",
-          "count": 4,
+          "path": "/ordbase/ordbase/blob/master/satsnames/sandbox/export_relays.rb",
+          "title": "ordbase/satsnames/sandbox/export_relays.rb at master · ordbase/ordbase",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/commits/master/satsnames/sandbox/export_relays.rb",
+          "title": "History for satsnames/sandbox/export_relays.rb - ordbase/ordbase",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/blob/68a322cde1560c34cd4d391c27d9456f93641650/satsnames/sandbox/export_relays.rb",
+          "title": "ordbase/satsnames/sandbox/export_relays.rb at 68a322cde1560c34cd4d391c27d9456...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/commits/4747af18711a1f8abe184bd048c9cf4427b25e51/sandbox/prepare_relays.rb",
+          "title": "History for sandbox/prepare_relays.rb - ordbase/ordbase",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/ordbase/tree/master/bitgen",
+          "title": "ordbase/bitgen at master · ordbase/ordbase · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 11,
-          "uniques": 3
+          "count": 15,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 1,
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2202,6 +2193,40 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-05-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-30": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2024-05-25": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

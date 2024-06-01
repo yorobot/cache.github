@@ -1,7 +1,7 @@
 {
   "full_name": "s6ruby/ethereum-contracts",
   "created_at": "2015-11-22T21:38:58Z",
-  "updated_at": "2024-04-28T19:07:21Z",
+  "updated_at": "2024-05-22T19:26:54Z",
   "pushed_at": "2019-08-06T08:01:42Z",
   "size": 89,
   "history": {
@@ -357,6 +357,10 @@
     "2024-05-15": {
       "stargazers_count": 20,
       "forks_count": 6
+    },
+    "2024-06-01": {
+      "stargazers_count": 21,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -380,25 +384,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 46,
-        "uniques": 12
+        "count": 43,
+        "uniques": 16
       },
       "clones": {
-        "count": 3,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/s6ruby/ethereum-contracts",
           "title": "s6ruby/ethereum-contracts: Ethereum (crypto blockchain) contract / transactio...",
           "count": 10,
-          "uniques": 7
+          "uniques": 9
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
+          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
+          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts",
+          "count": 5,
+          "uniques": 2
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/Dice2Win.sol",
           "title": "ethereum-contracts/Dice2Win.sol at master · s6ruby/ethereum-contracts · GitHub",
-          "count": 6,
-          "uniques": 3
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/FckDice.sol",
@@ -407,44 +423,32 @@
           "uniques": 2
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GodsUnchained.sol",
-          "title": "ethereum-contracts/GodsUnchained.sol at master · s6ruby/ethereum-contracts",
-          "count": 4,
-          "uniques": 2
+          "path": "/s6ruby/ethereum-contracts/blob/master/SimplePyramid.sol",
+          "title": "ethereum-contracts/SimplePyramid.sol at master · s6ruby/ethereum-contracts",
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/s6ruby/ethereum-contracts/blob/master/CryptoPunksMarket.sol",
-          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contract...",
+          "title": "ethereum-contracts/CryptoPunksMarket.sol at master · s6ruby/ethereum-contracts",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/Cryptostamp.sol",
-          "title": "ethereum-contracts/Cryptostamp.sol at master · s6ruby/ethereum-contracts · Gi...",
+          "path": "/s6ruby/ethereum-contracts/blob/master/GandhiJi.sol",
+          "title": "ethereum-contracts/GandhiJi.sol at master · s6ruby/ethereum-contracts",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/.gitattributes",
-          "title": "ethereum-contracts/.gitattributes at master · s6ruby/ethereum-contracts · Git...",
+          "path": "/s6ruby/ethereum-contracts/blob/master/PyramidGame.sol",
+          "title": "ethereum-contracts/PyramidGame.sol at master · s6ruby/ethereum-contracts · Gi...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/s6ruby/ethereum-contracts/blob/master/GradualPonzi.sol",
-          "title": "ethereum-contracts/GradualPonzi.sol at master · s6ruby/ethereum-contracts",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/KingOfTheEtherThrone.sol",
-          "title": "ethereum-contracts/KingOfTheEtherThrone.sol at master · s6ruby/ethereum-contr...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/s6ruby/ethereum-contracts/blob/master/PonzICO.sol",
-          "title": "ethereum-contracts/PonzICO.sol at master · s6ruby/ethereum-contracts · GitHub",
+          "path": "/s6ruby/ethereum-contracts/commits",
+          "title": "Commits · s6ruby/ethereum-contracts · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -452,13 +456,13 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 16,
-          "uniques": 7
+          "count": 23,
+          "uniques": 10
         },
         {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 1
+          "count": 12,
+          "uniques": 4
         }
       ]
     },
@@ -4284,6 +4288,92 @@
         }
       },
       "2024-05-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-20": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-05-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-22": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-05-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-05-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-19": {
         "clones": {
           "count": 1,
           "uniques": 1

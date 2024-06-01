@@ -393,24 +393,28 @@
     "2024-05-15": {
       "stargazers_count": 20,
       "forks_count": 3
+    },
+    "2024-06-01": {
+      "stargazers_count": 20,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-24T07:35:14Z",
+        "date": "2024-05-22T18:17:53Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-10-24T07:35:14Z",
-        "name": "Gerald Bauer"
+        "date": "2024-05-22T18:17:53Z",
+        "name": "Jean-François Gagné"
       },
-      "message": "Update README.md"
+      "message": "Planet for the MySQL Community not in beta anymore. (#4)\n\nAnnouncement of graduation from beta (January 2023):\r\nhttps://jfg-mysql.blogspot.com/2023/01/planet-for-mysql-community-graduation-from-beta.html"
     }
   ],
-  "size": 66,
-  "updated_at": "2022-10-08T19:02:45Z",
-  "pushed_at": "2020-10-24T07:35:15Z",
+  "size": 68,
+  "updated_at": "2024-05-22T18:17:58Z",
+  "pushed_at": "2024-05-22T18:17:53Z",
   "description": "planet setup / configuration samples - planetarium - add your planets!",
   "language": "Ruby",
   "topics": [
@@ -419,31 +423,88 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 3
+        "count": 32,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 14,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/feedreader/planets",
-          "title": "GitHub - feedreader/planets: planet setup / configuration samples - planetari...",
-          "count": 3,
-          "uniques": 3
+          "title": "feedreader/planets: planet setup / configuration samples - planetarium - add ...",
+          "count": 11,
+          "uniques": 2
         },
         {
-          "path": "/feedreader/planets/blob/master/nytimes.ini",
-          "title": "planets/nytimes.ini at master · feedreader/planets · GitHub",
+          "path": "/feedreader/planets/pull/4",
+          "title": "Planet for the MySQL Community not in beta anymore. by jfg956 · Pull Request ...",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/planets/blob/master/web/js-node.ini",
+          "title": "planets/web/js-node.ini at master · feedreader/planets · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/planets/tree/master",
+          "title": "planets/ at master · feedreader/planets · GitHub",
           "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/fork",
+          "title": "Fork feedreader/planets",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/tree/master/web",
+          "title": "planets/web at master · feedreader/planets · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/compare/master...jfg956:feedreader-planets:master",
+          "title": "Comparing feedreader:master...jfg956:master · feedreader/planets",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/pull/4/files",
+          "title": "Planet for the MySQL Community not in beta anymore. by jfg956 · Pull Request ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/planets/pulls",
+          "title": "Pull requests · feedreader/planets",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 13,
+          "uniques": 2
+        },
+        {
           "referrer": "Google",
-          "count": 4,
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "referrer": "calendar.google.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "valkey-demo.oursqlcommunity.org",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2625,6 +2686,70 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-05-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-22": {
+        "views": {
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 6
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2024-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-28": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-05-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-31": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

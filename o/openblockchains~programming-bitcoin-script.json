@@ -1,7 +1,7 @@
 {
   "full_name": "openblockchains/programming-bitcoin-script",
   "created_at": "2015-08-01T12:07:19Z",
-  "updated_at": "2024-05-13T15:28:19Z",
+  "updated_at": "2024-05-25T22:11:32Z",
   "pushed_at": "2021-01-02T10:47:50Z",
   "size": 475,
   "history": {
@@ -357,6 +357,10 @@
     "2024-05-15": {
       "stargazers_count": 59,
       "forks_count": 17
+    },
+    "2024-06-01": {
+      "stargazers_count": 60,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -384,103 +388,108 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 332,
-        "uniques": 101
+        "count": 353,
+        "uniques": 100
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/openblockchains/programming-bitcoin-script",
           "title": "openblockchains/programming-bitcoin-script: Programming Bitcoin Script Transa...",
-          "count": 120,
-          "uniques": 90
+          "count": 152,
+          "uniques": 92
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script",
           "title": "programming-bitcoin-script/bitcoin-script at master · openblockchains/program...",
-          "count": 49,
-          "uniques": 17
+          "count": 47,
+          "uniques": 10
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/README.md",
-          "title": "programming-bitcoin-script/bitcoin-script/README.md at master · openblockchai...",
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/Manifest.txt",
+          "title": "programming-bitcoin-script/bitcoin-script/Manifest.txt at master · openblockc...",
           "count": 14,
-          "uniques": 3
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
-          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
-          "count": 13,
-          "uniques": 4
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/lib/bitcoin-script/version.rb",
-          "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script/version.rb at ma...",
-          "count": 11,
-          "uniques": 4
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib/bitcoin-script",
-          "title": "programming-bitcoin-script/bitcoin-script/lib/bitcoin-script at master · open...",
-          "count": 10,
-          "uniques": 4
-        },
-        {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_add.rb",
-          "title": "programming-bitcoin-script/stackmachine_add.rb at master · openblockchains/pr...",
-          "count": 9,
           "uniques": 4
         },
         {
           "path": "/openblockchains/programming-bitcoin-script/blob/master/hash160.rb",
           "title": "programming-bitcoin-script/hash160.rb at master · openblockchains/programming...",
-          "count": 9,
+          "count": 11,
+          "uniques": 3
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_add.rb",
+          "title": "programming-bitcoin-script/stackmachine_add.rb at master · openblockchains/pr...",
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/Rakefile",
+          "title": "programming-bitcoin-script/bitcoin-script/Rakefile at master · openblockchain...",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/tree/master/bitcoin-script/lib",
+          "title": "programming-bitcoin-script/bitcoin-script/lib at master · openblockchains/pro...",
+          "count": 8,
           "uniques": 2
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/Manifest.txt",
-          "title": "programming-bitcoin-script/bitcoin-script/Manifest.txt at master · openblockc...",
-          "count": 8,
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/ripemd160.rb",
+          "title": "programming-bitcoin-script/ripemd160.rb at master · openblockchains/programmi...",
+          "count": 6,
           "uniques": 3
         },
         {
-          "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_anyone.rb",
-          "title": "programming-bitcoin-script/stackmachine_anyone.rb at master · openblockchains...",
-          "count": 8,
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/stackmachine_puzzle.rb",
+          "title": "programming-bitcoin-script/stackmachine_puzzle.rb at master · openblockchains...",
+          "count": 6,
           "uniques": 3
+        },
+        {
+          "path": "/openblockchains/programming-bitcoin-script/blob/master/bitcoin-script/README.md",
+          "title": "programming-bitcoin-script/bitcoin-script/README.md at master · openblockchai...",
+          "count": 6,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 256,
-          "uniques": 71
+          "count": 213,
+          "uniques": 65
         },
         {
-          "referrer": "github.com",
+          "referrer": "search.brave.com",
+          "count": 25,
+          "uniques": 5
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 18,
           "uniques": 8
         },
         {
-          "referrer": "Bing",
-          "count": 13,
-          "uniques": 12
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 6
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 2,
+          "referrer": "rubydoc.info",
+          "count": 5,
           "uniques": 2
         },
         {
-          "referrer": "fr.search.yahoo.com",
-          "count": 2,
-          "uniques": 1
+          "referrer": "Bing",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "referrer": "search.brave.com",
+          "referrer": "openblockchains.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -7243,6 +7252,102 @@
         "views": {
           "count": 6,
           "uniques": 6
+        }
+      },
+      "2024-05-19": {
+        "views": {
+          "count": 29,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-20": {
+        "views": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2024-05-21": {
+        "views": {
+          "count": 15,
+          "uniques": 11
+        }
+      },
+      "2024-05-22": {
+        "views": {
+          "count": 14,
+          "uniques": 6
+        }
+      },
+      "2024-05-23": {
+        "views": {
+          "count": 16,
+          "uniques": 5
+        }
+      },
+      "2024-05-24": {
+        "views": {
+          "count": 83,
+          "uniques": 7
+        }
+      },
+      "2024-05-25": {
+        "views": {
+          "count": 55,
+          "uniques": 6
+        }
+      },
+      "2024-05-26": {
+        "views": {
+          "count": 10,
+          "uniques": 5
+        }
+      },
+      "2024-05-27": {
+        "views": {
+          "count": 16,
+          "uniques": 8
+        }
+      },
+      "2024-05-28": {
+        "views": {
+          "count": 35,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-29": {
+        "views": {
+          "count": 12,
+          "uniques": 9
+        }
+      },
+      "2024-05-30": {
+        "views": {
+          "count": 20,
+          "uniques": 15
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-05-31": {
+        "views": {
+          "count": 19,
+          "uniques": 9
+        }
+      },
+      "2024-06-01": {
+        "views": {
+          "count": 21,
+          "uniques": 7
         }
       }
     }
