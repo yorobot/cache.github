@@ -1,9 +1,9 @@
 {
   "full_name": "wikiscript/football.json",
   "created_at": "2014-06-06T17:19:05Z",
-  "updated_at": "2020-12-04T17:48:54Z",
-  "pushed_at": "2020-12-04T17:48:07Z",
-  "size": 484,
+  "updated_at": "2024-06-20T12:09:58Z",
+  "pushed_at": "2024-06-20T12:09:54Z",
+  "size": 565,
   "description": "Football Players, World Cup Squads 'n' More Sourced from Wikipedia's Players and Squads' Pages Converted into JSON - Free Open Public Domain Data",
   "language": null,
   "history": {
@@ -314,19 +314,23 @@
     "2024-06-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2024-06-20": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-12-04T17:48:07Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2020-12-04T17:48:07Z",
+        "date": "2024-06-20T12:09:48Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update README.md"
+      "author": {
+        "date": "2024-06-20T12:09:48Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "topics": [
@@ -343,17 +347,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 27,
         "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 13,
+        "uniques": 12
       },
       "paths": [
         {
+          "path": "/wikiscript/football.json/commits/master",
+          "title": "Commits · wikiscript/football.json",
+          "count": 6,
+          "uniques": 1
+        },
+        {
           "path": "/wikiscript/football.json",
           "title": "wikiscript/football.json: Football Players, World Cup Squads 'n' More Sourced...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/blob/master/_source/squads/euro-cup/UEFA_Euro_2012_squads.txt",
+          "title": "football.json/_source/squads/euro-cup/UEFA_Euro_2012_squads.txt at master · w...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/blob/master/NOTES.md",
+          "title": "football.json/NOTES.md at master · wikiscript/football.json",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/commit/a3229f31da02907af9a1dc2d825babe2047a1594",
+          "title": "up · wikiscript/football.json@a3229f3",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master",
+          "title": "wikiscript/football.json: Football Players, World Cup Squads 'n' More Sourced...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source",
+          "title": "football.json/_source at master · wikiscript/football.json",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source/squads",
+          "title": "football.json/_source/squads at master · wikiscript/football.json",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/tree/master/_source/squads/euro-cup",
+          "title": "football.json/_source/squads/euro-cup at master · wikiscript/football.json",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/football.json/commit/f0ea75908c1fc325a074ec7b5a48662d9fd400d7",
+          "title": "up · wikiscript/football.json@f0ea759",
           "count": 1,
           "uniques": 1
         }
@@ -361,7 +419,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 18,
           "uniques": 1
         }
       ]
@@ -1211,6 +1269,32 @@
       },
       "2024-05-25": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 22,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 8
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-06-11": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

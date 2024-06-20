@@ -392,6 +392,10 @@
     "2024-06-01": {
       "stargazers_count": 12,
       "forks_count": 11
+    },
+    "2024-06-20": {
+      "stargazers_count": 12,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -422,14 +426,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 8,
+        "uniques": 5
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
+        {
+          "path": "/feedreader/pluto.starter/issues/4",
+          "title": "'to_h' to 'to_s' ? · Issue #4 · feedreader/pluto.starter",
+          "count": 4,
+          "uniques": 2
+        },
         {
           "path": "/feedreader/pluto.starter",
           "title": "GitHub - feedreader/pluto.starter: planet pluto quick starter kit - (auto-) b...",
@@ -437,14 +447,23 @@
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto.starter/issues/1",
-          "title": "error: undefined method `to_time' for nil:NilClass · Issue #1 · feedreader/pl...",
+          "path": "/feedreader/pluto.starter/issues",
+          "title": "Issues · feedreader/pluto.starter",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "kkgithub.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2665,6 +2684,62 @@
         }
       },
       "2024-05-25": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-06": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-06-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-17": {
         "clones": {
           "count": 1,
           "uniques": 1

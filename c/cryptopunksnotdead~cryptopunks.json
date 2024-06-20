@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/cryptopunks",
   "created_at": "2021-10-22T22:23:19Z",
-  "updated_at": "2024-04-01T01:33:06Z",
+  "updated_at": "2024-06-04T13:45:02Z",
   "pushed_at": "2024-03-19T09:28:56Z",
   "size": 6305,
   "description": "(crypto) pixel punks - libraries, tools & scripts, and more",
@@ -286,6 +286,10 @@
     "2024-06-01": {
       "stargazers_count": 39,
       "forks_count": 7
+    },
+    "2024-06-20": {
+      "stargazers_count": 40,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -323,99 +327,89 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 209,
-        "uniques": 18
+        "count": 63,
+        "uniques": 10
       },
       "clones": {
-        "count": 6,
-        "uniques": 3
+        "count": 8,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks",
           "title": "cryptopunks/cryptopunks at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 20,
-          "uniques": 7
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-graphql",
-          "title": "cryptopunks/cryptopunks-graphql at master · cryptopunksnotdead/cryptopunks · ...",
-          "count": 19,
+          "count": 16,
           "uniques": 5
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks",
           "title": "GitHub - cryptopunksnotdead/cryptopunks: (crypto) pixel punks - libraries, to...",
-          "count": 16,
-          "uniques": 13
+          "count": 10,
+          "uniques": 9
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-contracts",
-          "title": "cryptopunks/cryptopunks-contracts at master · cryptopunksnotdead/cryptopunks ...",
-          "count": 11,
-          "uniques": 4
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/punks",
-          "title": "cryptopunks/punks at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks/bin",
-          "title": "cryptopunks/cryptopunks/bin at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-contracts/sandbox",
-          "title": "cryptopunks/cryptopunks-contracts/sandbox at master · cryptopunksnotdead/cryp...",
-          "count": 8,
-          "uniques": 3
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-contracts/attic",
-          "title": "cryptopunks/cryptopunks-contracts/attic at master · cryptopunksnotdead/crypto...",
-          "count": 7,
-          "uniques": 3
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-gui",
+          "title": "cryptopunks/cryptopunks-gui at master · cryptopunksnotdead/cryptopunks · GitHub",
+          "count": 10,
+          "uniques": 2
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks/tree/master/punkart",
           "title": "cryptopunks/punkart at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 7,
+          "count": 6,
           "uniques": 3
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/blob/master/cryptopunks/bin/cryptopunk",
-          "title": "cryptopunks/cryptopunks/bin/cryptopunk at master · cryptopunksnotdead/cryptop...",
-          "count": 6,
-          "uniques": 3
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/synthpunks",
+          "title": "cryptopunks/synthpunks at master · cryptopunksnotdead/cryptopunks · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-graphql",
+          "title": "cryptopunks/cryptopunks-graphql at master · cryptopunksnotdead/cryptopunks · ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks/lib",
+          "title": "cryptopunks/cryptopunks/lib at master · cryptopunksnotdead/cryptopunks",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks/lib/cryptopunks",
+          "title": "cryptopunks/cryptopunks/lib/cryptopunks at master · cryptopunksnotdead/crypto...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks/lib/cryptopunks/contract",
+          "title": "cryptopunks/cryptopunks/lib/cryptopunks/contract at master · cryptopunksnotde...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/punkart/sandbox",
+          "title": "cryptopunks/punkart/sandbox at master · cryptopunksnotdead/cryptopunks · GitHub",
+          "count": 2,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 115,
-          "uniques": 11
+          "count": 30,
+          "uniques": 7
         },
         {
           "referrer": "github.com",
-          "count": 49,
-          "uniques": 5
-        },
-        {
-          "referrer": "Bing",
-          "count": 35,
-          "uniques": 1
+          "count": 16,
+          "uniques": 2
         },
         {
           "referrer": "yandex.kz",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 2,
+          "count": 16,
           "uniques": 1
         }
       ]
@@ -7396,6 +7390,96 @@
       "2024-05-28": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-06-07": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-06-09": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-06-11": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-12": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-06-14": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-06-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-06-17": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-06-19": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-06-20": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -397,6 +397,10 @@
     "2024-06-01": {
       "stargazers_count": 14,
       "forks_count": 2
+    },
+    "2024-06-20": {
+      "stargazers_count": 15,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -413,7 +417,7 @@
     }
   ],
   "size": 4,
-  "updated_at": "2024-04-26T03:35:01Z",
+  "updated_at": "2024-06-05T19:24:21Z",
   "pushed_at": "2016-07-04T07:42:01Z",
   "description": "Book Quick Starter Kit - Write Your Own Book in Plain Text (with Markdown)",
   "language": null,
@@ -423,14 +427,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 4
+        "count": 15,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
+        {
+          "path": "/manuscripts/book-starter/blob/master/1__First_Page.md",
+          "title": "book-starter/1__First_Page.md at master · manuscripts/book-starter · GitHub",
+          "count": 5,
+          "uniques": 1
+        },
         {
           "path": "/manuscripts/book-starter",
           "title": "GitHub - manuscripts/book-starter: Book Quick Starter Kit - Write Your Own Bo...",
@@ -438,23 +448,34 @@
           "uniques": 3
         },
         {
-          "path": "/manuscripts/book-starter/blob/master/1__First_Page.md",
-          "title": "book-starter/1__First_Page.md at master · manuscripts/book-starter · GitHub",
+          "path": "/manuscripts/book-starter/tree/master/META",
+          "title": "book-starter/META at master · manuscripts/book-starter · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/manuscripts/book-starter/blob/master/META/book.yml",
+          "title": "book-starter/META/book.yml at master · manuscripts/book-starter · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/manuscripts/book-starter/blob/master/2__Second_Page.md",
-          "title": "book-starter/2__Second_Page.md at master · manuscripts/book-starter · GitHub",
+          "path": "/manuscripts/book-starter/tree/master/images",
+          "title": "book-starter/images at master · manuscripts/book-starter · GitHub",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 2
+          "referrer": "manuscripts.github.io",
+          "count": 13,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -2305,6 +2326,32 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

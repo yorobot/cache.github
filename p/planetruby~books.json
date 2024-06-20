@@ -397,6 +397,10 @@
     "2024-06-01": {
       "stargazers_count": 56,
       "forks_count": 20
+    },
+    "2024-06-20": {
+      "stargazers_count": 56,
+      "forks_count": 20
     }
   },
   "commits": [
@@ -429,71 +433,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 50,
-        "uniques": 5
+        "count": 40,
+        "uniques": 6
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/planetruby/books/blob/master/_books/2023/Agile_Web_Development_with_Rails_4.md",
-          "title": "books/_books/2023/Agile_Web_Development_with_Rails_4.md at master · planetrub...",
-          "count": 12,
-          "uniques": 1
-        },
-        {
           "path": "/planetruby/books/tree/master/_books",
           "title": "books/_books at master · planetruby/books · GitHub",
-          "count": 5,
-          "uniques": 2
+          "count": 9,
+          "uniques": 3
         },
         {
           "path": "/planetruby/books",
           "title": "planetruby/books: List of all Ruby books",
-          "count": 4,
-          "uniques": 4
+          "count": 6,
+          "uniques": 6
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2001",
+          "title": "books/_books/2001 at master · planetruby/books · GitHub",
+          "count": 5,
+          "uniques": 2
         },
         {
           "path": "/planetruby/books/tree/master/_books/0000",
-          "title": "books/_books/0000 at master · planetruby/books",
+          "title": "books/_books/0000 at master · planetruby/books · GitHub",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/blob/11c64622625d60596e03005be49c7e55f63d298f/_books/2015/Ruby_Deep_Dive.md",
-          "title": "books/_books/2015/Ruby_Deep_Dive.md at 11c64622625d60596e03005be49c7e55f63d29...",
+          "path": "/planetruby/books/tree/master/_books/2006",
+          "title": "books/_books/2006 at master · planetruby/books · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2021",
+          "title": "books/_books/2021 at master · planetruby/books · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2023",
+          "title": "books/_books/2023 at master · planetruby/books · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2001/Ruby_in_a_Nutshell.md",
+          "title": "books/_books/2001/Ruby_in_a_Nutshell.md at master · planetruby/books",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/blob/11c64622625d60596e03005be49c7e55f63d298f/_books/2021/Modern_Front-End_Development_for_Rails.md",
-          "title": "books/_books/2021/Modern_Front-End_Development_for_Rails.md at 11c64622625d60...",
+          "path": "/planetruby/books/blob/master/_books/2024/Programming_Ruby_3.3_(5th_edition)_-_The_Pragmatic_Programmers'_Guide.md",
+          "title": "books/_books/2024/Programming_Ruby_3.3_(5th_edition)_-_The_Pragmatic_Programm...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/blob/11c64622625d60596e03005be49c7e55f63d298f/_books/2022/Learn_Enough_Ruby_to_Be_Dangerous.html",
-          "title": "books/_books/2022/Learn_Enough_Ruby_to_Be_Dangerous.html at 11c64622625d60596...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/11c64622625d60596e03005be49c7e55f63d298f/_books/2023/Agile_Web_Development_with_Rails_4.md",
-          "title": "books/_books/2023/Agile_Web_Development_with_Rails_4.md at 11c64622625d60596e...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/11c64622625d60596e03005be49c7e55f63d298f/_books/2023/Layered_Design_for_Ruby_on_Rails_Applications.md",
-          "title": "books/_books/2023/Layered_Design_for_Ruby_on_Rails_Applications.md at 11c6462...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/0000/Ruby_Programming_-_Wikibooks.md",
-          "title": "books/_books/0000/Ruby_Programming_-_Wikibooks.md at master · planetruby/books",
+          "path": "/planetruby/books/tree/master/_books/2004",
+          "title": "books/_books/2004 at master · planetruby/books",
           "count": 2,
           "uniques": 1
         }
@@ -501,12 +505,17 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 22,
+          "count": 21,
           "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 18,
+          "count": 11,
+          "uniques": 3
+        },
+        {
+          "referrer": "planetruby.github.io",
+          "count": 8,
           "uniques": 2
         }
       ]
@@ -4091,6 +4100,52 @@
         }
       },
       "2024-05-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-06-09": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-06-12": {
+        "views": {
+          "count": 21,
+          "uniques": 1
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-17": {
         "clones": {
           "count": 1,
           "uniques": 1

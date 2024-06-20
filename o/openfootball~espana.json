@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/espana",
   "created_at": "2013-05-22T07:12:04Z",
-  "updated_at": "2024-05-28T11:14:16Z",
-  "pushed_at": "2024-05-28T11:14:12Z",
-  "size": 941,
+  "updated_at": "2024-06-18T16:32:29Z",
+  "pushed_at": "2024-06-18T16:32:26Z",
+  "size": 960,
   "history": {
     "2019-12-08": {
       "stargazers_count": 53
@@ -352,19 +352,23 @@
     "2024-06-01": {
       "stargazers_count": 65,
       "forks_count": 24
+    },
+    "2024-06-20": {
+      "stargazers_count": 65,
+      "forks_count": 24
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-05-28T11:14:10Z",
+        "date": "2024-06-18T16:32:24Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-05-28T11:14:10Z",
+        "date": "2024-06-18T16:32:24Z",
         "name": "Gerald Bauer"
       },
-      "message": "up week 22"
+      "message": "up week 25"
     }
   ],
   "description": "Free open public domain football data (football.db) for España (Spain) / Europe - Primera División / La Liga, etc.",
@@ -384,99 +388,109 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 231,
-        "uniques": 38
+        "count": 252,
+        "uniques": 33
       },
       "clones": {
-        "count": 16,
-        "uniques": 14
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/openfootball/espana",
-          "title": "openfootball/espana: Free open public domain football data (football.db) for ...",
-          "count": 33,
-          "uniques": 26
-        },
-        {
           "path": "/openfootball/espana/tree/master/2023-24",
           "title": "espana/2023-24 at master · openfootball/espana · GitHub",
-          "count": 24,
-          "uniques": 9
+          "count": 47,
+          "uniques": 14
+        },
+        {
+          "path": "/openfootball/espana/tree/master/2023-24/squads",
+          "title": "espana/2023-24/squads at master · openfootball/espana · GitHub",
+          "count": 36,
+          "uniques": 11
+        },
+        {
+          "path": "/openfootball/espana",
+          "title": "openfootball/espana: Free open public domain football data (football.db) for ...",
+          "count": 23,
+          "uniques": 20
         },
         {
           "path": "/openfootball/espana/blob/master/2023-24/1-liga.txt",
           "title": "espana/2023-24/1-liga.txt at master · openfootball/espana · GitHub",
-          "count": 16,
-          "uniques": 7
+          "count": 22,
+          "uniques": 9
         },
         {
-          "path": "/openfootball/espana/tree/master/clubs",
-          "title": "espana/clubs at master · openfootball/espana · GitHub",
-          "count": 14,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/espana/tree/master/2020-21",
-          "title": "espana/2020-21 at master · openfootball/espana · GitHub",
-          "count": 12,
+          "path": "/openfootball/espana/blob/master/2023-24/squads/barcelona.txt",
+          "title": "espana/2023-24/squads/barcelona.txt at master · openfootball/espana · GitHub",
+          "count": 13,
           "uniques": 5
+        },
+        {
+          "path": "/openfootball/espana/blob/master/2023-24/squads/alaves.txt",
+          "title": "espana/2023-24/squads/alaves.txt at master · openfootball/espana · GitHub",
+          "count": 10,
+          "uniques": 3
         },
         {
           "path": "/openfootball/espana/tree/master/clubs/1-names",
           "title": "espana/clubs/1-names at master · openfootball/espana · GitHub",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/espana/tree/master/clubs",
+          "title": "espana/clubs at master · openfootball/espana · GitHub",
           "count": 8,
           "uniques": 3
         },
         {
-          "path": "/openfootball/espana/blob/master/.build/clubs.txt",
-          "title": "espana/.build/clubs.txt at master · openfootball/espana · GitHub",
+          "path": "/openfootball/espana/blob/master/clubs/1-names/marca.yml",
+          "title": "espana/clubs/1-names/marca.yml at master · openfootball/espana · GitHub",
           "count": 7,
-          "uniques": 2
+          "uniques": 3
         },
         {
-          "path": "/openfootball/espana/blob/master/clubs/clubs.props.txt",
-          "title": "espana/clubs/clubs.props.txt at master · openfootball/espana · GitHub",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/espana/tree/master/.build",
-          "title": "espana/.build at master · openfootball/espana · GitHub",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/espana/blob/master/.build/conf.txt",
-          "title": "espana/.build/conf.txt at master · openfootball/espana · GitHub",
-          "count": 5,
-          "uniques": 2
+          "path": "/openfootball/espana/tree/master/2012-13",
+          "title": "espana/2012-13 at master · openfootball/espana · GitHub",
+          "count": 7,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 77,
-          "uniques": 14
+          "referrer": "openfootball.github.io",
+          "count": 106,
+          "uniques": 9
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 44,
+          "referrer": "github.com",
+          "count": 95,
           "uniques": 10
         },
         {
           "referrer": "Google",
-          "count": 8,
-          "uniques": 4
+          "count": 12,
+          "uniques": 5
         },
         {
-          "referrer": "cn.bing.com",
-          "count": 1,
+          "referrer": "blog.desdelinux.net",
+          "count": 12,
           "uniques": 1
         },
         {
-          "referrer": "classic.yarnpkg.com",
-          "count": 1,
+          "referrer": "es.search.yahoo.com",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "referrer": "euc-word-edit.officeapps.live.com",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -7358,6 +7372,102 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2024-06-09": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2024-06-10": {
+        "views": {
+          "count": 74,
+          "uniques": 5
+        }
+      },
+      "2024-06-11": {
+        "views": {
+          "count": 31,
+          "uniques": 5
+        }
+      },
+      "2024-06-12": {
+        "views": {
+          "count": 36,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        }
+      },
+      "2024-06-14": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-15": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 31,
+          "uniques": 2
+        }
+      },
+      "2024-06-17": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-06-19": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2024-06-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-07": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

@@ -397,6 +397,10 @@
     "2024-06-01": {
       "stargazers_count": 137,
       "forks_count": 23
+    },
+    "2024-06-20": {
+      "stargazers_count": 138,
+      "forks_count": 23
     }
   },
   "commits": [
@@ -413,7 +417,7 @@
     }
   ],
   "size": 872,
-  "updated_at": "2024-03-30T13:39:21Z",
+  "updated_at": "2024-06-18T11:05:47Z",
   "pushed_at": "2023-12-30T14:26:04Z",
   "description": "factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)",
   "language": "HTML",
@@ -427,94 +431,109 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 196,
-        "uniques": 17
+        "count": 408,
+        "uniques": 25
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 18,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 22,
-          "uniques": 13
-        },
-        {
-          "path": "/factbook/factbook/tree/master/2021",
-          "title": "factbook/2021 at master · factbook/factbook · GitHub",
-          "count": 14,
-          "uniques": 3
+          "count": 42,
+          "uniques": 18
         },
         {
           "path": "/factbook/factbook/tree/master/factbook-codes",
           "title": "factbook/factbook-codes at master · factbook/factbook · GitHub",
-          "count": 11,
-          "uniques": 3
+          "count": 40,
+          "uniques": 8
         },
         {
-          "path": "/factbook/factbook/tree/master/factbook-fields/data",
-          "title": "factbook/factbook-fields/data at master · factbook/factbook",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/factbook/blob/master/factbook-codes/lib/factbook-codes/codes.rb",
-          "title": "factbook/factbook-codes/lib/factbook-codes/codes.rb at master · factbook/fact...",
-          "count": 7,
-          "uniques": 3
-        },
-        {
-          "path": "/factbook/factbook/blob/master/factbook-codes/data/codes.csv",
-          "title": "factbook/factbook-codes/data/codes.csv at master · factbook/factbook · GitHub",
-          "count": 7,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-importers",
-          "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
-          "count": 7,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-readers",
-          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
-          "count": 7,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-fields",
-          "title": "factbook/factbook-fields at master · factbook/factbook",
-          "count": 7,
-          "uniques": 1
+          "path": "/factbook/factbook/actions",
+          "title": "Workflow runs · factbook/factbook · GitHub",
+          "count": 23,
+          "uniques": 4
         },
         {
           "path": "/factbook/factbook/tree/master/factbook",
           "title": "factbook/factbook at master · factbook/factbook · GitHub",
-          "count": 6,
+          "count": 22,
+          "uniques": 5
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-codes/lib",
+          "title": "factbook/factbook-codes/lib at master · factbook/factbook",
+          "count": 14,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook/tree/master/script",
+          "title": "factbook/script at master · factbook/factbook",
+          "count": 13,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-readers",
+          "title": "factbook/factbook-readers at master · factbook/factbook",
+          "count": 12,
+          "uniques": 4
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-codes/data",
+          "title": "factbook/factbook-codes/data at master · factbook/factbook",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-codes/lib/factbook-codes",
+          "title": "factbook/factbook-codes/lib/factbook-codes at master · factbook/factbook",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-readers/lib",
+          "title": "factbook/factbook-readers/lib at master · factbook/factbook",
+          "count": 9,
           "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 49,
-          "uniques": 4
+          "count": 124,
+          "uniques": 9
         },
         {
           "referrer": "github.com",
-          "count": 33,
-          "uniques": 5
+          "count": 74,
+          "uniques": 8
         },
         {
-          "referrer": "quora.com",
-          "count": 4,
+          "referrer": "DuckDuckGo",
+          "count": 11,
           "uniques": 1
         },
         {
-          "referrer": "rdocumentation.org",
-          "count": 2,
+          "referrer": "planetruby.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "statics.teams.cdn.office.net",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "medium.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -7222,6 +7241,134 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-06-06": {
+        "views": {
+          "count": 16,
+          "uniques": 2
+        }
+      },
+      "2024-06-07": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 47,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-06-10": {
+        "views": {
+          "count": 111,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-11": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-06-12": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 92,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-06-15": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-17": {
+        "views": {
+          "count": 19,
+          "uniques": 3
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 79,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2024-06-19": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-20": {
+        "views": {
+          "count": 16,
+          "uniques": 3
         }
       }
     }

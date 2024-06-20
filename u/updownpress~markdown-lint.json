@@ -397,24 +397,28 @@
     "2024-06-01": {
       "stargazers_count": 55,
       "forks_count": 92
+    },
+    "2024-06-20": {
+      "stargazers_count": 55,
+      "forks_count": 91
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-02-28T15:03:44Z",
+        "date": "2024-06-07T14:01:10Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2020-02-28T15:03:44Z",
-        "name": "Waldir Pimenta"
+        "date": "2024-06-07T14:01:10Z",
+        "name": "Bruno Feliano"
       },
-      "message": "Update link to page that was moved (#1)"
+      "message": "fixing wrong links (#4)"
     }
   ],
-  "size": 49,
-  "updated_at": "2023-12-20T10:41:15Z",
-  "pushed_at": "2020-02-28T15:03:46Z",
+  "size": 48,
+  "updated_at": "2024-06-07T14:01:15Z",
+  "pushed_at": "2024-06-07T14:01:10Z",
   "description": "Markdown Lint Tool / Checker Documentation by Mark Harrison (Manuscripts Edition)",
   "language": null,
   "topics": [
@@ -423,123 +427,123 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1408,
-        "uniques": 416
+        "count": 1580,
+        "uniques": 480
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 10,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/034-no-bare-urls.md",
           "title": "markdown-lint/rules/034-no-bare-urls.md at master · updownpress/markdown-lint...",
-          "count": 227,
-          "uniques": 92
+          "count": 267,
+          "uniques": 113
         },
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/040-fenced-code-language.md",
           "title": "markdown-lint/rules/040-fenced-code-language.md at master · updownpress/markd...",
-          "count": 122,
-          "uniques": 55
+          "count": 138,
+          "uniques": 60
         },
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/033-no-inline-html.md",
           "title": "markdown-lint/rules/033-no-inline-html.md at master · updownpress/markdown-lint",
-          "count": 113,
-          "uniques": 47
+          "count": 100,
+          "uniques": 40
         },
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/009-no-trailing-spaces.md",
           "title": "markdown-lint/rules/009-no-trailing-spaces.md at master · updownpress/markdow...",
-          "count": 80,
-          "uniques": 33
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/014-commands-show-output.md",
-          "title": "markdown-lint/rules/014-commands-show-output.md at master · updownpress/markd...",
-          "count": 73,
-          "uniques": 25
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/036-no-emphasis-as-header.md",
-          "title": "markdown-lint/rules/036-no-emphasis-as-header.md at master · updownpress/mark...",
-          "count": 70,
-          "uniques": 27
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/010-no-hard-tabs.md",
-          "title": "markdown-lint/rules/010-no-hard-tabs.md at master · updownpress/markdown-lint...",
-          "count": 54,
-          "uniques": 20
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/041-first-line-h1.md",
-          "title": "markdown-lint/rules/041-first-line-h1.md at master · updownpress/markdown-lint",
-          "count": 51,
-          "uniques": 23
-        },
-        {
-          "path": "/updownpress/markdown-lint/blob/master/rules/032-blanks-around-lists.md",
-          "title": "markdown-lint/rules/032-blanks-around-lists.md at master · updownpress/markdo...",
-          "count": 49,
-          "uniques": 22
+          "count": 61,
+          "uniques": 24
         },
         {
           "path": "/updownpress/markdown-lint/blob/master/rules/007-ul-indent.md",
           "title": "markdown-lint/rules/007-ul-indent.md at master · updownpress/markdown-lint · ...",
-          "count": 46,
-          "uniques": 22
+          "count": 58,
+          "uniques": 24
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/014-commands-show-output.md",
+          "title": "markdown-lint/rules/014-commands-show-output.md at master · updownpress/markd...",
+          "count": 57,
+          "uniques": 26
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/010-no-hard-tabs.md",
+          "title": "markdown-lint/rules/010-no-hard-tabs.md at master · updownpress/markdown-lint...",
+          "count": 57,
+          "uniques": 24
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/013-line-length.md",
+          "title": "markdown-lint/rules/013-line-length.md at master · updownpress/markdown-lint ...",
+          "count": 56,
+          "uniques": 23
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/041-first-line-h1.md",
+          "title": "markdown-lint/rules/041-first-line-h1.md at master · updownpress/markdown-lint",
+          "count": 48,
+          "uniques": 24
+        },
+        {
+          "path": "/updownpress/markdown-lint/blob/master/rules/031-blanks-around-fences.md",
+          "title": "markdown-lint/rules/031-blanks-around-fences.md at master · updownpress/markd...",
+          "count": 43,
+          "uniques": 21
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1170,
+          "count": 1198,
           "uniques": 376
         },
         {
           "referrer": "Bing",
-          "count": 46,
-          "uniques": 7
+          "count": 51,
+          "uniques": 20
         },
         {
           "referrer": "search.brave.com",
-          "count": 34,
-          "uniques": 6
-        },
-        {
-          "referrer": "DuckDuckGo",
           "count": 27,
           "uniques": 5
         },
         {
-          "referrer": "pdupc-confluence.internal.ericsson.com",
-          "count": 21,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 14,
-          "uniques": 1
+          "count": 19,
+          "uniques": 4
         },
         {
-          "referrer": "ghe.spotify.net",
-          "count": 9,
-          "uniques": 1
+          "referrer": "ecosia.org",
+          "count": 14,
+          "uniques": 3
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 8,
+          "uniques": 4
         },
         {
           "referrer": "cn.bing.com",
-          "count": 3,
+          "count": 5,
           "uniques": 1
         },
         {
-          "referrer": "yandex.ru",
+          "referrer": "yandex.kz",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "ya.ru",
+          "referrer": "qwant.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "pages.github.maif.io",
           "count": 2,
           "uniques": 1
         }
@@ -7420,6 +7424,108 @@
         "views": {
           "count": 28,
           "uniques": 11
+        }
+      },
+      "2024-06-06": {
+        "views": {
+          "count": 94,
+          "uniques": 25
+        }
+      },
+      "2024-06-07": {
+        "views": {
+          "count": 199,
+          "uniques": 52
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 24,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-09": {
+        "views": {
+          "count": 36,
+          "uniques": 9
+        }
+      },
+      "2024-06-10": {
+        "views": {
+          "count": 189,
+          "uniques": 51
+        }
+      },
+      "2024-06-11": {
+        "views": {
+          "count": 164,
+          "uniques": 46
+        }
+      },
+      "2024-06-12": {
+        "views": {
+          "count": 101,
+          "uniques": 42
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 141,
+          "uniques": 53
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-14": {
+        "views": {
+          "count": 170,
+          "uniques": 58
+        }
+      },
+      "2024-06-15": {
+        "views": {
+          "count": 29,
+          "uniques": 11
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 32,
+          "uniques": 12
+        }
+      },
+      "2024-06-17": {
+        "views": {
+          "count": 107,
+          "uniques": 44
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 128,
+          "uniques": 51
+        }
+      },
+      "2024-06-19": {
+        "views": {
+          "count": 82,
+          "uniques": 34
+        }
+      },
+      "2024-06-20": {
+        "views": {
+          "count": 84,
+          "uniques": 24
         }
       }
     }

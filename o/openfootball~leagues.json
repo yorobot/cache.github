@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/leagues",
   "created_at": "2014-06-29T20:38:44Z",
-  "updated_at": "2024-05-28T17:17:20Z",
-  "pushed_at": "2024-05-28T17:17:16Z",
-  "size": 711,
+  "updated_at": "2024-06-18T09:58:23Z",
+  "pushed_at": "2024-06-18T09:58:19Z",
+  "size": 720,
   "history": {
     "2019-09-29": {
       "stargazers_count": 30
@@ -355,123 +355,130 @@
     "2024-06-01": {
       "stargazers_count": 37,
       "forks_count": 11
+    },
+    "2024-06-20": {
+      "stargazers_count": 37,
+      "forks_count": 11
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-05-28T17:17:12Z",
+        "date": "2024-06-18T09:58:15Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-05-28T17:17:12Z",
+        "date": "2024-06-18T09:58:15Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "description": "Free open public domain football datasets for national and international football club leagues & cups from around the world",
+  "description": "Free open public domain football datasets for national & international football club leagues & cups from around the world - home of the leagues.db download/release",
   "language": null,
   "topics": [
-
+    "cups",
+    "football",
+    "leagues",
+    "opendata"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 184,
-        "uniques": 23
+        "count": 195,
+        "uniques": 27
       },
       "clones": {
-        "count": 13,
-        "uniques": 12
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/openfootball/leagues/tree/master/europe",
           "title": "leagues/europe at master · openfootball/leagues · GitHub",
-          "count": 30,
+          "count": 33,
           "uniques": 11
         },
         {
           "path": "/openfootball/leagues",
           "title": "openfootball/leagues: Free open public domain football datasets for national ...",
-          "count": 26,
-          "uniques": 21
+          "count": 28,
+          "uniques": 24
         },
         {
           "path": "/openfootball/leagues/tree/master/europe/england",
           "title": "leagues/europe/england at master · openfootball/leagues · GitHub",
-          "count": 18,
-          "uniques": 6
+          "count": 19,
+          "uniques": 5
         },
         {
           "path": "/openfootball/leagues/blob/master/europe/england/eng.leagues.txt",
           "title": "leagues/europe/england/eng.leagues.txt at master · openfootball/leagues · Git...",
-          "count": 12,
-          "uniques": 6
-        },
-        {
-          "path": "/openfootball/leagues/tree/master/south-america",
-          "title": "leagues/south-america at master · openfootball/leagues · GitHub",
-          "count": 9,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/leagues/tree/master/south-america/brazil",
-          "title": "leagues/south-america/brazil at master · openfootball/leagues · GitHub",
-          "count": 9,
-          "uniques": 3
+          "count": 11,
+          "uniques": 5
         },
         {
           "path": "/openfootball/leagues/tree/master/europe/germany",
           "title": "leagues/europe/germany at master · openfootball/leagues · GitHub",
-          "count": 8,
-          "uniques": 3
+          "count": 11,
+          "uniques": 4
         },
         {
-          "path": "/openfootball/leagues/blob/master/europe/leagues.txt",
-          "title": "leagues/europe/leagues.txt at master · openfootball/leagues · GitHub",
-          "count": 7,
-          "uniques": 3
+          "path": "/openfootball/leagues/blob/master/europe/england/eng.seasons.txt",
+          "title": "leagues/europe/england/eng.seasons.txt at master · openfootball/leagues · Git...",
+          "count": 10,
+          "uniques": 5
         },
         {
-          "path": "/openfootball/leagues/blob/master/south-america/brazil/br.seasons.txt",
-          "title": "leagues/south-america/brazil/br.seasons.txt at master · openfootball/leagues ...",
+          "path": "/openfootball/leagues/tree/master/south-america",
+          "title": "leagues/south-america at master · openfootball/leagues · GitHub",
           "count": 6,
-          "uniques": 3
+          "uniques": 2
         },
         {
-          "path": "/openfootball/leagues/blob/master/north-america/leagues.txt",
-          "title": "leagues/north-america/leagues.txt at master · openfootball/leagues",
-          "count": 6,
-          "uniques": 1
+          "path": "/openfootball/leagues/tree/master/south-america/brazil",
+          "title": "leagues/south-america/brazil at master · openfootball/leagues · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/europe/germany/de.leagues.txt",
+          "title": "leagues/europe/germany/de.leagues.txt at master · openfootball/leagues · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/europe/seasons.txt",
+          "title": "leagues/europe/seasons.txt at master · openfootball/leagues · GitHub",
+          "count": 4,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 66,
-          "uniques": 7
-        },
-        {
-          "referrer": "jokecamp.com",
-          "count": 24,
-          "uniques": 2
-        },
-        {
-          "referrer": "commons.wikimedia.org",
-          "count": 24,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 21,
-          "uniques": 3
+          "count": 49,
+          "uniques": 12
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 32,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 7,
+          "count": 18,
           "uniques": 4
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 14,
+          "uniques": 1
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 12,
+          "uniques": 1
         },
         {
           "referrer": "Bing",
@@ -3866,6 +3873,96 @@
         }
       },
       "2024-05-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-07": {
+        "views": {
+          "count": 39,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-06-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-11": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-06-12": {
+        "views": {
+          "count": 17,
+          "uniques": 2
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 36,
+          "uniques": 4
+        }
+      },
+      "2024-06-14": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-15": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-06-17": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 52,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-06-19": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        }
+      },
+      "2024-06-08": {
         "clones": {
           "count": 1,
           "uniques": 1

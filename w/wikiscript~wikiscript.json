@@ -397,24 +397,28 @@
     "2024-06-01": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2024-06-20": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-12-12T13:30:09Z",
+        "date": "2024-06-20T12:06:10Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-12-12T13:30:09Z",
+        "date": "2024-06-20T12:06:10Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 230,
-  "updated_at": "2020-12-12T13:30:31Z",
-  "pushed_at": "2020-12-12T13:30:28Z",
+  "size": 191,
+  "updated_at": "2024-06-20T12:06:21Z",
+  "pushed_at": "2024-06-20T12:06:18Z",
   "description": "wikiscript gem - scripts for wikipedia (get wikitext for page, parse tables & links, etc.)",
   "language": "Ruby",
   "topics": [
@@ -429,18 +433,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 33,
+        "uniques": 4
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 16,
+        "uniques": 14
       },
       "paths": [
-
+        {
+          "path": "/wikiscript/wikiscript",
+          "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
+          "count": 11,
+          "uniques": 3
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript",
+          "title": "wikiscript/wikiscript at master · wikiscript/wikiscript · GitHub",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/commits/master",
+          "title": "Commits · wikiscript/wikiscript",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/countries",
+          "title": "wikiscript/countries at master · wikiscript/wikiscript · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser",
+          "title": "wikiscript/wikiscript-parser at master · wikiscript/wikiscript · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser/lib",
+          "title": "wikiscript/wikiscript-parser/lib at master · wikiscript/wikiscript · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser/lib/wikiscript-parser",
+          "title": "wikiscript/wikiscript-parser/lib/wikiscript-parser at master · wikiscript/wik...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/commit/9bab93d8945a5be59b62829496880c1c2e1924ae",
+          "title": "up · wikiscript/wikiscript@9bab93d",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/commit/d48435d539f0a9c8375f9fdf9dac14f44bac0b3a",
+          "title": "up · wikiscript/wikiscript@d48435d",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 16,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 11,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2015,10 +2081,72 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-06-08": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 8,
+          "uniques": 7
+        }
+      },
+      "2024-06-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-16": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-06-18": {
+        "views": {
+          "count": 17,
+          "uniques": 1
+        }
+      },
+      "2024-06-20": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-06-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-14": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-06-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 104907
+    "Ruby": 113395
   }
 }
