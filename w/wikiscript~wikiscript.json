@@ -401,24 +401,28 @@
     "2024-06-20": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2024-07-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-06-20T12:06:10Z",
-        "name": "Gerald Bauer"
+        "date": "2024-06-20T15:45:58Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2024-06-20T12:06:10Z",
+        "date": "2024-06-20T15:45:58Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "Update teams.rb"
     }
   ],
-  "size": 191,
-  "updated_at": "2024-06-20T12:06:21Z",
-  "pushed_at": "2024-06-20T12:06:18Z",
+  "size": 199,
+  "updated_at": "2024-06-20T15:46:02Z",
+  "pushed_at": "2024-06-20T15:45:59Z",
   "description": "wikiscript gem - scripts for wikipedia (get wikitext for page, parse tables & links, etc.)",
   "language": "Ruby",
   "topics": [
@@ -433,18 +437,24 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 33,
+        "count": 58,
         "uniques": 4
       },
       "clones": {
-        "count": 16,
-        "uniques": 14
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser",
+          "title": "wikiscript/wikiscript-parser at master · wikiscript/wikiscript · GitHub",
+          "count": 11,
+          "uniques": 2
+        },
+        {
           "path": "/wikiscript/wikiscript",
           "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
-          "count": 11,
+          "count": 8,
           "uniques": 3
         },
         {
@@ -454,57 +464,62 @@
           "uniques": 1
         },
         {
-          "path": "/wikiscript/wikiscript/commits/master",
-          "title": "Commits · wikiscript/wikiscript",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/wikiscript/wikiscript/tree/master/countries",
-          "title": "wikiscript/countries at master · wikiscript/wikiscript · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser",
-          "title": "wikiscript/wikiscript-parser at master · wikiscript/wikiscript · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
           "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser/lib",
           "title": "wikiscript/wikiscript-parser/lib at master · wikiscript/wikiscript · GitHub",
-          "count": 2,
-          "uniques": 1
+          "count": 5,
+          "uniques": 2
         },
         {
           "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser/lib/wikiscript-parser",
           "title": "wikiscript/wikiscript-parser/lib/wikiscript-parser at master · wikiscript/wik...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/wikiscript/wikiscript/blob/master/football/scripts/teams.rb",
+          "title": "wikiscript/football/scripts/teams.rb at master · wikiscript/wikiscript",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/tree/master/wikiscript-parser/lib/wikiscript-parser/helpers",
+          "title": "wikiscript/wikiscript-parser/lib/wikiscript-parser/helpers at master · wikisc...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/proxy_u/en-ru.ru.5b4ce82b-6673d70c-8565aaef-74722d776562/https/github.com/wikiscript/wikiscript/blob/master/README.md",
+          "title": "wikiscript/README.md at master · wikiscript/wikiscript · GitHub",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/wikiscript/commit/9bab93d8945a5be59b62829496880c1c2e1924ae",
-          "title": "up · wikiscript/wikiscript@9bab93d",
-          "count": 1,
+          "path": "/wikiscript/wikiscript/blob/master/wikiscript-parser/NOTES.md",
+          "title": "wikiscript/wikiscript-parser/NOTES.md at master · wikiscript/wikiscript",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/wikiscript/wikiscript/commit/d48435d539f0a9c8375f9fdf9dac14f44bac0b3a",
-          "title": "up · wikiscript/wikiscript@d48435d",
-          "count": 1,
+          "path": "/wikiscript/wikiscript/commits/master",
+          "title": "Commits · wikiscript/wikiscript",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 16,
+          "count": 30,
           "uniques": 3
         },
         {
           "referrer": "Google",
           "count": 11,
+          "uniques": 1
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -2116,8 +2131,12 @@
       },
       "2024-06-20": {
         "views": {
-          "count": 2,
-          "uniques": 1
+          "count": 18,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
         }
       },
       "2024-06-11": {
@@ -2143,10 +2162,22 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-06-26": {
+        "views": {
+          "count": 23,
+          "uniques": 1
+        }
+      },
+      "2024-07-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 113395
+    "Ruby": 113396
   }
 }

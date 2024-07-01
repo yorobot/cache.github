@@ -401,6 +401,10 @@
     "2024-06-20": {
       "stargazers_count": 7,
       "forks_count": 1
+    },
+    "2024-07-01": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -427,35 +431,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
-        "uniques": 1
+        "count": 19,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
-          "path": "/openbeer/datafile",
-          "title": "openbeer/datafile: beer.db quick starter datafile templates",
-          "count": 4,
-          "uniques": 1
-        },
-        {
           "path": "/openbeer/datafile/blob/master/all.rb",
-          "title": "datafile/all.rb at master · openbeer/datafile",
-          "count": 2,
+          "title": "datafile/all.rb at master · openbeer/datafile · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
           "path": "/openbeer/datafile/blob/master/at.rb",
-          "title": "datafile/at.rb at master · openbeer/datafile",
-          "count": 2,
+          "title": "datafile/at.rb at master · openbeer/datafile · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openbeer/datafile/blob/master/README.md",
-          "title": "datafile/README.md at master · openbeer/datafile",
+          "path": "/openbeer/datafile/blob/master/bayern.rb",
+          "title": "datafile/bayern.rb at master · openbeer/datafile · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/datafile/blob/master/cz.rb",
+          "title": "datafile/cz.rb at master · openbeer/datafile · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/datafile/blob/master/europe.rb",
+          "title": "datafile/europe.rb at master · openbeer/datafile · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/datafile",
+          "title": "GitHub - openbeer/datafile: beer.db quick starter datafile templates",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/datafile/blob/master/franken.rb",
+          "title": "datafile/franken.rb at master · openbeer/datafile · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -463,12 +485,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "referrer": "openbeer.github.io",
-          "count": 3,
+          "count": 18,
           "uniques": 1
         }
       ]
@@ -2861,6 +2878,18 @@
       "2024-06-12": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-30": {
+        "views": {
+          "count": 18,
           "uniques": 1
         }
       }

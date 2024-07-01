@@ -1,9 +1,9 @@
 {
   "full_name": "rubycocos/cocos",
   "created_at": "2013-10-12T21:36:51Z",
-  "updated_at": "2023-11-08T14:02:35Z",
-  "pushed_at": "2023-09-05T12:22:12Z",
-  "size": 105,
+  "updated_at": "2024-06-29T14:45:36Z",
+  "pushed_at": "2024-06-29T14:45:33Z",
+  "size": 107,
   "description": "cocos (code commons) - auto-include quick-starter prelude & prolog",
   "language": "Ruby",
   "history": {
@@ -154,16 +154,20 @@
     "2024-06-20": {
       "stargazers_count": 53,
       "forks_count": 2
+    },
+    "2024-07-01": {
+      "stargazers_count": 53,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-09-05T12:22:06Z",
+        "date": "2024-06-29T14:45:29Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-09-05T12:22:06Z",
+        "date": "2024-06-29T14:45:29Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -178,28 +182,76 @@
     "prolog"
   ],
   "languages": {
-    "Ruby": 17351
+    "Ruby": 18409
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 3
+        "count": 28,
+        "uniques": 1
       },
       "clones": {
-        "count": 9,
-        "uniques": 7
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/rubycocos/cocos",
-          "title": "GitHub - rubycocos/cocos: cocos (code commons) - auto-include quick-starter p...",
-          "count": 2,
-          "uniques": 2
+          "title": "rubycocos/cocos: cocos (code commons) - auto-include quick-starter prelude & ...",
+          "count": 8,
+          "uniques": 1
         },
         {
-          "path": "/rubycocos/cocos/pulls",
-          "title": "Pull requests · rubycocos/cocos · GitHub",
+          "path": "/rubycocos/cocos/tree/master/lib",
+          "title": "cocos/lib at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib/cocos",
+          "title": "cocos/lib/cocos at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos/env.rb",
+          "title": "cocos/lib/cocos/env.rb at master · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/lib/cocos.rb",
+          "title": "cocos/lib/cocos.rb at master · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/commits/master",
+          "title": "Commits · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/graphs/traffic",
+          "title": "Traffic · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/pulse",
+          "title": "Pulse · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/commit/b4772a5a3d6f1e0febbe89e9634e5747ad1f4f1c",
+          "title": "up · rubycocos/cocos@b4772a5",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/commit/c0f436e9410c94012fdd04d50ffb5449adec6f9d",
+          "title": "up · rubycocos/cocos@c0f436e",
           "count": 1,
           "uniques": 1
         }
@@ -207,7 +259,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 1,
+          "count": 7,
           "uniques": 1
         }
       ]
@@ -1517,6 +1569,44 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-06-23": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-28": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2024-06-29": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

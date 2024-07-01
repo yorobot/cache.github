@@ -401,6 +401,10 @@
     "2024-06-20": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2024-07-01": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -427,23 +431,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/openbeer/be-belgium",
           "title": "GitHub - openbeer/be-belgium: Free open public domain beer, brewery n brewpub...",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/be-belgium/tree/master/2--vbr-vlaams-brabant--flanders",
+          "title": "be-belgium/2--vbr-vlaams-brabant--flanders at master · openbeer/be-belgium · ...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1326,6 +1340,12 @@
       "2024-06-08": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-29": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

@@ -1,9 +1,9 @@
 {
   "full_name": "rubycocos/markdown",
   "created_at": "2012-05-25T17:05:04Z",
-  "updated_at": "2023-10-23T09:15:40Z",
-  "pushed_at": "2022-04-05T07:45:40Z",
-  "size": 205,
+  "updated_at": "2024-06-28T20:04:36Z",
+  "pushed_at": "2024-06-28T20:04:33Z",
+  "size": 186,
   "description": "markdown tools, libraries & scripts",
   "language": "JavaScript",
   "history": {
@@ -154,19 +154,23 @@
     "2024-06-20": {
       "stargazers_count": 52,
       "forks_count": 6
+    },
+    "2024-07-01": {
+      "stargazers_count": 52,
+      "forks_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-11-01T16:16:06Z",
+        "date": "2024-06-28T20:04:28Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2020-11-01T16:16:06Z",
+        "date": "2024-06-28T20:04:28Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "prepare gem"
     }
   ],
   "topics": [
@@ -179,79 +183,92 @@
   ],
   "languages": {
     "JavaScript": 144145,
-    "Ruby": 50043,
+    "Ruby": 49744,
     "HTML": 16379,
     "CSS": 12223
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 35,
-        "uniques": 8
+        "count": 102,
+        "uniques": 7
       },
       "clones": {
-        "count": 9,
-        "uniques": 8
+        "count": 11,
+        "uniques": 10
       },
       "paths": [
         {
-          "path": "/rubycocos/markdown/tree/master/kramdown-service",
-          "title": "markdown/kramdown-service at master · rubycocos/markdown · GitHub",
-          "count": 10,
-          "uniques": 3
-        },
-        {
           "path": "/rubycocos/markdown",
           "title": "rubycocos/markdown: markdown tools, libraries & scripts",
-          "count": 9,
+          "count": 18,
           "uniques": 7
         },
         {
           "path": "/rubycocos/markdown/tree/master/markdown",
           "title": "markdown/markdown at master · rubycocos/markdown",
+          "count": 14,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/markdown/pull/12",
+          "title": "Use File.exists? for 3.2.0 compatibility by ishiikurisu · Pull Request #12 · ...",
+          "count": 12,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/markdown/pull/12/files",
+          "title": "Use File.exists? for 3.2.0 compatibility by ishiikurisu · Pull Request #12 · ...",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/markdown/branches",
+          "title": "Branches · rubycocos/markdown",
           "count": 8,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/markdown/blob/master/kramdown-service/Manifest.txt",
-          "title": "markdown/kramdown-service/Manifest.txt at master · rubycocos/markdown · GitHub",
-          "count": 2,
-          "uniques": 1
+          "path": "/rubycocos/markdown/pulls",
+          "title": "Pull requests · rubycocos/markdown",
+          "count": 6,
+          "uniques": 2
         },
         {
-          "path": "/rubycocos/markdown/tree/master/kramdown-service/lib/kramdown/service/public",
-          "title": "markdown/kramdown-service/lib/kramdown/service/public at master · rubycocos/m...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/markdown/tree/master/kramdown-service/test",
-          "title": "markdown/kramdown-service/test at master · rubycocos/markdown",
-          "count": 2,
+          "path": "/rubycocos/markdown/tree/master/kramdown-service",
+          "title": "markdown/kramdown-service at master · rubycocos/markdown · GitHub",
+          "count": 6,
           "uniques": 1
         },
         {
           "path": "/rubycocos/markdown/tree/master/markdown-tools",
           "title": "markdown/markdown-tools at master · rubycocos/markdown",
-          "count": 2,
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/markdown/commits/master",
+          "title": "Commits · rubycocos/markdown",
+          "count": 4,
           "uniques": 1
+        },
+        {
+          "path": "/rubycocos/markdown/issues",
+          "title": "Issues · rubycocos/markdown",
+          "count": 3,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
           "referrer": "rubygems.org",
-          "count": 19,
-          "uniques": 3
+          "count": 51,
+          "uniques": 5
         },
         {
           "referrer": "github.com",
-          "count": 8,
+          "count": 22,
           "uniques": 3
-        },
-        {
-          "referrer": "Google",
-          "count": 6,
-          "uniques": 1
         }
       ]
     },
@@ -2160,6 +2177,52 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-06-24": {
+        "views": {
+          "count": 21,
+          "uniques": 2
+        }
+      },
+      "2024-06-25": {
+        "views": {
+          "count": 17,
+          "uniques": 1
+        }
+      },
+      "2024-06-26": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-06-28": {
+        "views": {
+          "count": 49,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-06-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-06-23": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-07-01": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }
