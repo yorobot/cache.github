@@ -405,6 +405,10 @@
     "2024-07-01": {
       "stargazers_count": 209,
       "forks_count": 11
+    },
+    "2024-07-15": {
+      "stargazers_count": 209,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -431,29 +435,81 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 3
+        "count": 33,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSERVERS/README.md",
+          "title": "awesome/WEBSERVERS/README.md at master · planetruby/awesome · GitHub",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSERVERS/benchmark/thin_bench.rb",
+          "title": "awesome/WEBSERVERS/benchmark/thin_bench.rb at master · planetruby/awesome · G...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSERVERS/NOTES.md",
+          "title": "awesome/WEBSERVERS/NOTES.md at master · planetruby/awesome · GitHub",
+          "count": 4,
+          "uniques": 1
+        },
         {
           "path": "/planetruby/awesome",
           "title": "GitHub - planetruby/awesome: Awesome Ruby Collections - Web Servers, Web Fram...",
           "count": 3,
-          "uniques": 3
+          "uniques": 2
         },
         {
-          "path": "/planetruby/awesome/tree/master/WEBSERVERS",
-          "title": "awesome/WEBSERVERS at master · planetruby/awesome · GitHub",
-          "count": 3,
+          "path": "/planetruby/awesome/blob/master/ACTIVERECORD/README.md",
+          "title": "awesome/ACTIVERECORD/README.md at master · planetruby/awesome · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/FUNCTIONAL/README.md",
+          "title": "awesome/FUNCTIONAL/README.md at master · planetruby/awesome · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSERVERS/benchmark/root/index.html",
+          "title": "awesome/WEBSERVERS/benchmark/root/index.html at master · planetruby/awesome ·...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSERVERS/benchmark/webrick_bench.ru",
+          "title": "awesome/WEBSERVERS/benchmark/webrick_bench.ru at master · planetruby/awesome ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSERVERS/EXAMPLES.md",
+          "title": "awesome/WEBSERVERS/EXAMPLES.md at master · planetruby/awesome · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/awesome/blob/master/WEBSOCKETS/README.md",
+          "title": "awesome/WEBSOCKETS/README.md at master · planetruby/awesome · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubytalk.org",
+          "count": 31,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -3143,6 +3199,28 @@
       },
       "2024-06-27": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-14": {
+        "views": {
+          "count": 33,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-03": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-15": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

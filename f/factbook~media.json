@@ -1,7 +1,7 @@
 {
   "full_name": "factbook/media",
   "created_at": "2014-11-30T16:26:19Z",
-  "updated_at": "2023-04-28T23:09:03Z",
+  "updated_at": "2024-07-12T22:12:52Z",
   "pushed_at": "2021-02-03T08:41:17Z",
   "size": 15610,
   "description": "World Factbook Media - Flags, Maps, Locators",
@@ -298,6 +298,10 @@
     "2024-07-01": {
       "stargazers_count": 11,
       "forks_count": 2
+    },
+    "2024-07-15": {
+      "stargazers_count": 12,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -321,73 +325,61 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
+        "count": 19,
         "uniques": 2
       },
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       },
       "paths": [
         {
-          "path": "/factbook/media",
-          "title": "factbook/media: World Factbook Media - Flags, Maps, Locators",
-          "count": 4,
+          "path": "/factbook/media/tree/master/maps",
+          "title": "media/maps at master · factbook/media",
+          "count": 5,
           "uniques": 2
-        },
-        {
-          "path": "/factbook/media/blob/master/maps/lh.png",
-          "title": "media/maps/lh.png at master · factbook/media",
-          "count": 3,
-          "uniques": 1
         },
         {
           "path": "/factbook/media/tree/master/flags",
           "title": "media/flags at master · factbook/media",
-          "count": 3,
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media",
+          "title": "factbook/media: World Factbook Media - Flags, Maps, Locators",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/media/blob/master/locators/av.png",
+          "title": "media/locators/av.png at master · factbook/media",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/blob/master/maps/ag.png",
+          "title": "media/maps/ag.png at master · factbook/media",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/blob/master/maps/bc.png",
+          "title": "media/maps/bc.png at master · factbook/media",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/factbook/media/tree/master/locators",
           "title": "media/locators at master · factbook/media",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/blob/master/flags/aa.png",
-          "title": "media/flags/aa.png at master · factbook/media",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/blob/master/locators/aj.png",
-          "title": "media/locators/aj.png at master · factbook/media",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/blob/master/locators/lh.png",
-          "title": "media/locators/lh.png at master · factbook/media",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/tree/master/maps",
-          "title": "media/maps at master · factbook/media",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/media/tree/master",
-          "title": "factbook/media: World Factbook Media - Flags, Maps, Locators",
-          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 14,
+          "count": 9,
           "uniques": 1
         },
         {
@@ -2043,6 +2035,22 @@
       "2024-06-23": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-07-03": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-07-12": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

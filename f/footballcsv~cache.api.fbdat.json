@@ -1,13 +1,17 @@
 {
   "full_name": "footballcsv/cache.api.fbdat",
   "created_at": "2014-07-25T16:47:04Z",
-  "updated_at": "2024-07-01T19:05:22Z",
-  "pushed_at": "2024-07-01T19:05:19Z",
-  "size": 562,
+  "updated_at": "2024-07-04T12:48:42Z",
+  "pushed_at": "2024-07-04T12:48:38Z",
+  "size": 585,
   "description": "cached footballdata api match data",
   "language": null,
   "history": {
     "2024-07-01": {
+      "stargazers_count": 4,
+      "forks_count": 4
+    },
+    "2024-07-15": {
       "stargazers_count": 4,
       "forks_count": 4
     }
@@ -15,11 +19,11 @@
   "commits": [
     {
       "committer": {
-        "date": "2024-07-01T19:05:12Z",
+        "date": "2024-07-04T12:48:30Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-07-01T19:05:12Z",
+        "date": "2024-07-04T12:48:30Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -33,25 +37,79 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 67,
-        "uniques": 1
+        "count": 146,
+        "uniques": 6
       },
       "clones": {
-        "count": 9,
-        "uniques": 8
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/footballcsv/cache.updates",
-          "title": "footballcsv/cache.updates: Cache - Football Match Updates - Week by Week",
-          "count": 1,
+          "path": "/footballcsv/cache.api.fbdat/tree/master/2024",
+          "title": "cache.api.fbdat/2024 at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 12,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2024/br.1.csv",
+          "title": "cache.api.fbdat/2024/br.1.csv at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/commits/master",
+          "title": "Commits · footballcsv/cache.api.fbdat",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2023-24/uefa.cl.clubs.txt",
+          "title": "cache.api.fbdat/2023-24/uefa.cl.clubs.txt at master · footballcsv/cache.api.f...",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2024/br.1.clubs.txt",
+          "title": "cache.api.fbdat/2024/br.1.clubs.txt at master · footballcsv/cache.api.fbdat ·...",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2024/copa.l.clubs.txt",
+          "title": "cache.api.fbdat/2024/copa.l.clubs.txt at master · footballcsv/cache.api.fbdat",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat",
+          "title": "GitHub - footballcsv/cache.api.fbdat: cached footballdata api match data",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2023-24/de.1.clubs.txt",
+          "title": "cache.api.fbdat/2023-24/de.1.clubs.txt at master · footballcsv/cache.api.fbdat",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2023-24/eng.1.clubs.txt",
+          "title": "cache.api.fbdat/2023-24/eng.1.clubs.txt at master · footballcsv/cache.api.fbdat",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2023-24/eng.2.clubs.txt",
+          "title": "cache.api.fbdat/2023-24/eng.2.clubs.txt at master · footballcsv/cache.api.fbdat",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "rubydoc.info",
-          "count": 1,
+          "referrer": "github.com",
+          "count": 4,
           "uniques": 1
         }
       ]
@@ -83,6 +141,40 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-07-03": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-07-04": {
+        "views": {
+          "count": 51,
+          "uniques": 1
+        }
+      },
+      "2024-07-07": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2024-07-11": {
+        "views": {
+          "count": 10,
+          "uniques": 1
+        }
+      },
+      "2024-07-15": {
+        "views": {
+          "count": 69,
+          "uniques": 2
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/csvreader",
   "created_at": "2018-08-15T07:57:34Z",
-  "updated_at": "2023-08-04T09:56:08Z",
+  "updated_at": "2024-07-07T05:57:50Z",
   "pushed_at": "2022-04-05T07:35:15Z",
   "size": 468,
   "description": "csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)",
@@ -158,6 +158,10 @@
     "2024-07-01": {
       "stargazers_count": 179,
       "forks_count": 9
+    },
+    "2024-07-15": {
+      "stargazers_count": 178,
+      "forks_count": 9
     }
   },
   "commits": [
@@ -193,29 +197,65 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 18,
-        "uniques": 10
+        "count": 41,
+        "uniques": 14
       },
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/rubycocos/csvreader",
           "title": "rubycocos/csvreader: csvreader library / gem - read tabular data in the comma...",
-          "count": 8,
-          "uniques": 8
+          "count": 14,
+          "uniques": 13
         },
         {
           "path": "/rubycocos/csvreader/tree/master/csvreader",
           "title": "csvreader/csvreader at master · rubycocos/csvreader · GitHub",
-          "count": 4,
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/rubycocos/csvreader/tree/master/csvrecord",
+          "title": "csvreader/csvrecord at master · rubycocos/csvreader",
+          "count": 5,
           "uniques": 2
         },
         {
+          "path": "/rubycocos/csvreader/tree/master/csvyaml",
+          "title": "csvreader/csvyaml at master · rubycocos/csvreader · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/csvreader/tree/master/csvhuman",
+          "title": "csvreader/csvhuman at master · rubycocos/csvreader",
+          "count": 2,
+          "uniques": 1
+        },
+        {
           "path": "/rubycocos/csvreader/tree/master/csvjson",
-          "title": "csvreader/csvjson at master · rubycocos/csvreader · GitHub",
+          "title": "csvreader/csvjson at master · rubycocos/csvreader",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/csvreader/tree/master/csvpack",
+          "title": "csvreader/csvpack at master · rubycocos/csvreader",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/csvreader/tree/master/csvutils",
+          "title": "csvreader/csvutils at master · rubycocos/csvreader",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/csvreader/tree/master/csvyaml/lib",
+          "title": "csvreader/csvyaml/lib at master · rubycocos/csvreader · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -223,16 +263,31 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 7,
+          "count": 8,
           "uniques": 3
         },
         {
-          "referrer": "awesome-ruby.com",
-          "count": 4,
-          "uniques": 2
+          "referrer": "github.com",
+          "count": 5,
+          "uniques": 1
         },
         {
-          "referrer": "ruby-toolbox.com",
+          "referrer": "sogou.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "awesome-ruby.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -4074,6 +4129,62 @@
         }
       },
       "2024-06-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-02": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2024-07-03": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-07-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-05": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-07-08": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-07-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-10": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2024-07-12": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        },
         "clones": {
           "count": 1,
           "uniques": 1

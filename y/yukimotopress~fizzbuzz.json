@@ -391,6 +391,10 @@
     "2024-07-01": {
       "stargazers_count": 2,
       "forks_count": 3
+    },
+    "2024-07-15": {
+      "stargazers_count": 2,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -418,18 +422,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/yukimotopress/fizzbuzz",
+          "title": "yukimotopress/fizzbuzz: FizzBuzz by Example (Book Edition) by Tom Dalling, Pa...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/yukimotopress/fizzbuzz/blob/master/fizzbuzz.md",
+          "title": "fizzbuzz/fizzbuzz.md at master · yukimotopress/fizzbuzz",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1130,6 +1149,12 @@
       "2024-06-20": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-05": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

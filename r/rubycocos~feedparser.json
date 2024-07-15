@@ -2,7 +2,7 @@
   "full_name": "rubycocos/feedparser",
   "created_at": "2013-09-19T20:33:21Z",
   "updated_at": "2024-01-24T13:18:28Z",
-  "pushed_at": "2023-04-04T10:07:46Z",
+  "pushed_at": "2024-07-02T22:37:59Z",
   "size": 1190,
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
   "language": "Ruby",
@@ -158,6 +158,10 @@
     "2024-07-01": {
       "stargazers_count": 164,
       "forks_count": 11
+    },
+    "2024-07-15": {
+      "stargazers_count": 164,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -197,26 +201,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 5
+        "count": 34,
+        "uniques": 6
       },
       "clones": {
-        "count": 13,
-        "uniques": 10
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/rubycocos/feedparser",
           "title": "rubycocos/feedparser: feedparser gem - (universal) web feed parser and normal...",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/rubycocos/feedparser/pull/11",
+          "title": "Fix: media element w/o duration would overwrite enclosure's length by onli · ...",
           "count": 6,
-          "uniques": 5
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/feeds",
+          "title": "feedparser/feeds at master · rubycocos/feedparser",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/feedparser",
+          "title": "feedparser/feedparser at master · rubycocos/feedparser",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/awesome-feeds",
+          "title": "feedparser/awesome-feeds at master · rubycocos/feedparser",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/pull/11/files",
+          "title": "Fix: media element w/o duration would overwrite enclosure's length by onli · ...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/feedparser/sandbox",
+          "title": "feedparser/feedparser/sandbox at master · rubycocos/feedparser",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/issues",
+          "title": "Issues · rubycocos/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/issues/8",
+          "title": "Support channel image · Issue #8 · rubycocos/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/stargazers",
+          "title": "Stargazers · rubycocos/feedparser",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 18,
+          "uniques": 3
+        },
+        {
+          "referrer": "pipes.digital",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -3907,6 +3975,38 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-07-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-03": {
+        "views": {
+          "count": 24,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-09": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2024-07-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
