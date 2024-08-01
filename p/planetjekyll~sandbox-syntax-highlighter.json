@@ -409,6 +409,10 @@
     "2024-07-15": {
       "stargazers_count": 1,
       "forks_count": 4
+    },
+    "2024-08-01": {
+      "stargazers_count": 1,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -435,18 +439,38 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/planetjekyll/sandbox-syntax-highlighter/blob/gh-pages/lists.md",
+          "title": "File not found",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/sandbox-syntax-highlighter/issues/1",
+          "title": "Wrong indentation · Issue #1 · planetjekyll/sandbox-syntax-highlighter",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "gist.github.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetjekyll.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1209,6 +1233,12 @@
       "2024-07-11": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-19": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

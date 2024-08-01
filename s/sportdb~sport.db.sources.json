@@ -1,9 +1,9 @@
 {
   "full_name": "sportdb/sport.db.sources",
   "created_at": "2015-09-15T07:20:47Z",
-  "updated_at": "2024-06-11T17:11:42Z",
-  "pushed_at": "2024-06-11T17:11:39Z",
-  "size": 130,
+  "updated_at": "2024-07-22T19:19:46Z",
+  "pushed_at": "2024-07-22T19:19:43Z",
+  "size": 215,
   "history": {
     "2020-06-05": {
       "stargazers_count": 7
@@ -361,16 +361,20 @@
     "2024-07-15": {
       "stargazers_count": 9,
       "forks_count": 2
+    },
+    "2024-08-01": {
+      "stargazers_count": 9,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-06-11T17:11:31Z",
+        "date": "2024-07-22T19:19:37Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-06-11T17:11:31Z",
+        "date": "2024-07-22T19:19:37Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -384,48 +388,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 3
+        "count": 61,
+        "uniques": 4
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 12,
+        "uniques": 11
       },
       "paths": [
         {
+          "path": "/sportdb/sport.db.sources/commits/master",
+          "title": "Commits · sportdb/sport.db.sources",
+          "count": 20,
+          "uniques": 1
+        },
+        {
           "path": "/sportdb/sport.db.sources",
           "title": "sportdb/sport.db.sources: sport.db.sources - helpers to prepare external sour...",
-          "count": 4,
+          "count": 13,
           "uniques": 3
         },
         {
           "path": "/sportdb/sport.db.sources/tree/master/rsssf",
-          "title": "sport.db.sources/rsssf at master · sportdb/sport.db.sources",
-          "count": 3,
+          "title": "sport.db.sources/rsssf at master · sportdb/sport.db.sources · GitHub",
+          "count": 12,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/sport.db.sources/blob/master/rsssf/sandbox/at.rb",
+          "title": "sport.db.sources/rsssf/sandbox/at.rb at master · sportdb/sport.db.sources · G...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db.sources/tree/master/footballdata-12xpert",
-          "title": "sport.db.sources/footballdata-12xpert at master · sportdb/sport.db.sources",
+          "path": "/sportdb/sport.db.sources/tree/master/rsssf/sandbox",
+          "title": "sport.db.sources/rsssf/sandbox at master · sportdb/sport.db.sources · GitHub",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.sources/tree/master/rsssf/test",
+          "title": "sport.db.sources/rsssf/test at master · sportdb/sport.db.sources · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.sources/commit/0bfc0bda3f9adf08a67751a8baad8b07ba18f77b",
+          "title": "up · sportdb/sport.db.sources@0bfc0bd",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.sources/commit/10c050603c7522cb479c33d2eb78cb5a05f10d92",
+          "title": "up · sportdb/sport.db.sources@10c0506",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.sources/commit/34e3a300562a318f54dde44a4e549129dd3982f5",
+          "title": "up · sportdb/sport.db.sources@34e3a30",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.sources/commit/c0780d12d5b39cf32d144fe0383aa34eb18c85b5",
+          "title": "up · sportdb/sport.db.sources@c0780d1",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "openfootball.github.io",
-          "count": 3,
-          "uniques": 1
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
+          "count": 11,
+          "uniques": 2
         }
       ]
     },
@@ -1921,10 +1957,62 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-07-19": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-20": {
+        "views": {
+          "count": 19,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-07-21": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 6
+        }
+      },
+      "2024-07-22": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-07-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 67253
+    "Ruby": 113647
   }
 }

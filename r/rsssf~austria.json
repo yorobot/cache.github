@@ -1,9 +1,9 @@
 {
   "full_name": "rsssf/austria",
   "created_at": "2015-07-25T12:44:54Z",
-  "updated_at": "2020-05-13T19:47:36Z",
-  "pushed_at": "2015-12-02T22:29:19Z",
-  "size": 57,
+  "updated_at": "2024-07-20T15:29:31Z",
+  "pushed_at": "2024-07-20T15:29:28Z",
+  "size": 523,
   "history": {
     "2020-06-05": {
       "stargazers_count": 1
@@ -361,41 +361,120 @@
     "2024-07-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2024-08-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-12-02T22:29:16Z",
+        "date": "2024-07-20T15:29:23Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2015-12-02T22:29:16Z",
+        "date": "2024-07-20T15:29:23Z",
         "name": "Gerald Bauer"
       },
-      "message": "up standings"
+      "message": "up"
     }
   ],
   "description": "football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for Austria (Österreich) / Europe - Österr. Bundesliga, Erste Liga, ÖFB Pokal etc.",
   "language": null,
   "topics": [
-
+    "austria",
+    "football",
+    "rsssf"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 1
+        "count": 77,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
-
+        {
+          "path": "/rsssf/austria/tree/master/tables",
+          "title": "austria/tables at master · rsssf/austria",
+          "count": 15,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria",
+          "title": "rsssf/austria: football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Arc...",
+          "count": 14,
+          "uniques": 3
+        },
+        {
+          "path": "/rsssf/austria/blob/master/2015-16/1-bundesliga.txt",
+          "title": "austria/2015-16/1-bundesliga.txt at master · rsssf/austria",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/blob/master/tables/config.yml",
+          "title": "austria/tables/config.yml at master · rsssf/austria",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/tree/master",
+          "title": "rsssf/austria: football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Arc...",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/blob/master/2015-16/cup.txt",
+          "title": "austria/2015-16/cup.txt at master · rsssf/austria",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/blob/master/tables/oost2023.txt",
+          "title": "austria/tables/oost2023.txt at master · rsssf/austria",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/blob/master/tables/oost2024.txt",
+          "title": "austria/tables/oost2024.txt at master · rsssf/austria",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/tree/master/2010-11",
+          "title": "austria/2010-11 at master · rsssf/austria",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rsssf/austria/blob/master/2010-11/1-bundesliga.txt",
+          "title": "austria/2010-11/1-bundesliga.txt at master · rsssf/austria",
+          "count": 2,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 32,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "blog.desdelinux.net",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -906,6 +985,50 @@
       "2024-07-15": {
         "views": {
           "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-07-19": {
+        "views": {
+          "count": 48,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-07-20": {
+        "views": {
+          "count": 23,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-07-21": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-07-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-29": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

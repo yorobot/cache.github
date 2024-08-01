@@ -162,6 +162,10 @@
     "2024-07-15": {
       "stargazers_count": 52,
       "forks_count": 6
+    },
+    "2024-08-01": {
+      "stargazers_count": 52,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -194,18 +198,24 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 1
+        "count": 22,
+        "uniques": 5
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/rubycocos/markdown/tree/master/markdown",
-          "title": "markdown/markdown at master · rubycocos/markdown",
+          "path": "/rubycocos/markdown",
+          "title": "rubycocos/markdown: markdown tools, libraries & scripts",
           "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycocos/markdown/tree/master/markdown/lib/markdown",
+          "title": "markdown/markdown/lib/markdown at master · rubycocos/markdown",
+          "count": 4,
           "uniques": 1
         },
         {
@@ -215,14 +225,32 @@
           "uniques": 1
         },
         {
-          "path": "/rubycocos/markdown",
-          "title": "rubycocos/markdown: markdown tools, libraries & scripts",
+          "path": "/rubycocos/markdown/blob/master/markdown/lib/markdown/config.rb",
+          "title": "markdown/markdown/lib/markdown/config.rb at master · rubycocos/markdown",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/markdown/tree/master/markdown/lib/markdown",
-          "title": "markdown/markdown/lib/markdown at master · rubycocos/markdown",
+          "path": "/rubycocos/markdown/blob/master/markdown/lib/markdown/engines/redcarpet.rb",
+          "title": "markdown/markdown/lib/markdown/engines/redcarpet.rb at master · rubycocos/mar...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/markdown/blob/master/markdown/lib/markdown.rb",
+          "title": "markdown/markdown/lib/markdown.rb at master · rubycocos/markdown",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/markdown/tree/master/markdown",
+          "title": "markdown/markdown at master · rubycocos/markdown",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/markdown/tree/master/markdown/lib/markdown/engines",
+          "title": "markdown/markdown/lib/markdown/engines at master · rubycocos/markdown",
           "count": 2,
           "uniques": 1
         }
@@ -230,7 +258,12 @@
       "referrers": [
         {
           "referrer": "rubygems.org",
-          "count": 12,
+          "count": 18,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2197,6 +2230,36 @@
       "2024-07-09": {
         "views": {
           "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-07-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-21": {
+        "views": {
+          "count": 19,
+          "uniques": 2
+        }
+      },
+      "2024-07-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-24": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

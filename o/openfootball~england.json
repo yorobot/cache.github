@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/england",
   "created_at": "2013-05-21T21:50:40Z",
-  "updated_at": "2024-07-11T06:05:06Z",
+  "updated_at": "2024-07-29T07:17:46Z",
   "pushed_at": "2024-07-01T14:23:54Z",
   "size": 1758,
   "history": {
@@ -364,6 +364,10 @@
     "2024-07-15": {
       "stargazers_count": 404,
       "forks_count": 118
+    },
+    "2024-08-01": {
+      "stargazers_count": 405,
+      "forks_count": 119
     }
   },
   "commits": [
@@ -382,120 +386,110 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 887,
-        "uniques": 130
+        "count": 816,
+        "uniques": 90
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/openfootball/england/tree/master/2023-24",
-          "title": "england/2023-24 at master · openfootball/england · GitHub",
-          "count": 131,
-          "uniques": 43
-        },
-        {
           "path": "/openfootball/england/tree/master/2024-25",
           "title": "england/2024-25 at master · openfootball/england · GitHub",
-          "count": 120,
-          "uniques": 36
+          "count": 118,
+          "uniques": 39
+        },
+        {
+          "path": "/openfootball/england/tree/master/2023-24",
+          "title": "england/2023-24 at master · openfootball/england · GitHub",
+          "count": 86,
+          "uniques": 23
         },
         {
           "path": "/openfootball/england",
           "title": "openfootball/england: Free open public domain football data for England (and ...",
-          "count": 90,
-          "uniques": 77
+          "count": 85,
+          "uniques": 70
         },
         {
           "path": "/openfootball/england/blob/master/2024-25/1-premierleague.txt",
           "title": "england/2024-25/1-premierleague.txt at master · openfootball/england · GitHub",
-          "count": 75,
-          "uniques": 30
+          "count": 67,
+          "uniques": 29
         },
         {
           "path": "/openfootball/england/blob/master/2023-24/1-premierleague.txt",
           "title": "england/2023-24/1-premierleague.txt at master · openfootball/england · GitHub",
-          "count": 58,
-          "uniques": 27
+          "count": 46,
+          "uniques": 17
         },
         {
           "path": "/openfootball/england/tree/master/2023-24/squads",
           "title": "england/2023-24/squads at master · openfootball/england · GitHub",
-          "count": 46,
-          "uniques": 15
+          "count": 26,
+          "uniques": 11
+        },
+        {
+          "path": "/openfootball/england/tree/master/clubs",
+          "title": "england/clubs at master · openfootball/england · GitHub",
+          "count": 21,
+          "uniques": 8
         },
         {
           "path": "/openfootball/england/tree/master",
           "title": "openfootball/england: Free open public domain football data for England (and ...",
-          "count": 32,
-          "uniques": 11
+          "count": 17,
+          "uniques": 8
         },
         {
           "path": "/openfootball/england/tree/master/2000-01",
           "title": "england/2000-01 at master · openfootball/england · GitHub",
           "count": 14,
-          "uniques": 6
+          "uniques": 5
         },
         {
-          "path": "/openfootball/england/blob/master/2023-24/squads/arsenal.txt",
-          "title": "england/2023-24/squads/arsenal.txt at master · openfootball/england · GitHub",
-          "count": 12,
-          "uniques": 6
-        },
-        {
-          "path": "/openfootball/england/blame/master/2023-24/2-championship.txt",
-          "title": "Blaming england/2023-24/2-championship.txt at master · openfootball/england ·...",
-          "count": 12,
-          "uniques": 2
+          "path": "/openfootball/england/tree/master/2022-23",
+          "title": "england/2022-23 at master · openfootball/england · GitHub",
+          "count": 13,
+          "uniques": 5
         }
       ],
       "referrers": [
         {
           "referrer": "openfootball.github.io",
-          "count": 381,
-          "uniques": 42
+          "count": 250,
+          "uniques": 30
         },
         {
           "referrer": "github.com",
-          "count": 88,
-          "uniques": 16
+          "count": 148,
+          "uniques": 17
         },
         {
           "referrer": "Google",
-          "count": 77,
-          "uniques": 16
+          "count": 94,
+          "uniques": 15
         },
         {
-          "referrer": "footballcsv.github.io",
-          "count": 27,
-          "uniques": 5
-        },
-        {
-          "referrer": "jokecamp.com",
-          "count": 19,
-          "uniques": 3
-        },
-        {
-          "referrer": "Bing",
-          "count": 16,
-          "uniques": 2
-        },
-        {
-          "referrer": "claude.ai",
-          "count": 13,
+          "referrer": "statsbomb.com",
+          "count": 24,
           "uniques": 1
         },
         {
-          "referrer": "quora.com",
-          "count": 12,
-          "uniques": 5
+          "referrer": "Bing",
+          "count": 20,
+          "uniques": 3
         },
         {
-          "referrer": "sportdb.github.io",
-          "count": 4,
+          "referrer": "footballcsv.github.io",
+          "count": 14,
           "uniques": 2
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 6,
+          "uniques": 1
         }
       ]
     },
@@ -8776,6 +8770,106 @@
         "views": {
           "count": 93,
           "uniques": 14
+        }
+      },
+      "2024-07-19": {
+        "views": {
+          "count": 64,
+          "uniques": 7
+        }
+      },
+      "2024-07-20": {
+        "views": {
+          "count": 45,
+          "uniques": 6
+        }
+      },
+      "2024-07-21": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2024-07-22": {
+        "views": {
+          "count": 54,
+          "uniques": 7
+        }
+      },
+      "2024-07-23": {
+        "views": {
+          "count": 117,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-24": {
+        "views": {
+          "count": 73,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-25": {
+        "views": {
+          "count": 95,
+          "uniques": 9
+        }
+      },
+      "2024-07-26": {
+        "views": {
+          "count": 19,
+          "uniques": 4
+        }
+      },
+      "2024-07-27": {
+        "views": {
+          "count": 38,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-07-28": {
+        "views": {
+          "count": 35,
+          "uniques": 2
+        }
+      },
+      "2024-07-29": {
+        "views": {
+          "count": 96,
+          "uniques": 11
+        }
+      },
+      "2024-07-30": {
+        "views": {
+          "count": 34,
+          "uniques": 2
+        }
+      },
+      "2024-07-31": {
+        "views": {
+          "count": 73,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-01": {
+        "views": {
+          "count": 62,
+          "uniques": 6
         }
       }
     }
