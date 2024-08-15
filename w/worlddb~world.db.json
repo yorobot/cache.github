@@ -408,6 +408,10 @@
     "2024-08-01": {
       "stargazers_count": 73,
       "forks_count": 5
+    },
+    "2024-08-15": {
+      "stargazers_count": 73,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -440,25 +444,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 19,
-        "uniques": 10
+        "count": 42,
+        "uniques": 16
       },
       "clones": {
-        "count": 8,
+        "count": 2,
         "uniques": 2
       },
       "paths": [
         {
           "path": "/worlddb/world.db",
           "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 12,
-          "uniques": 10
+          "count": 21,
+          "uniques": 16
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worlddb",
+          "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
+          "count": 9,
+          "uniques": 3
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb-models",
-          "title": "world.db/worlddb-models at master · worlddb/world.db",
-          "count": 3,
-          "uniques": 1
+          "title": "world.db/worlddb-models at master · worlddb/world.db · GitHub",
+          "count": 6,
+          "uniques": 2
         },
         {
           "path": "/worlddb/world.db/blob/master/README.md",
@@ -467,8 +477,14 @@
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb-compat",
-          "title": "world.db/worlddb-compat at master · worlddb/world.db",
+          "path": "/worlddb/world.db/blob/master/worlddb/.gitignore",
+          "title": "world.db/worlddb/.gitignore at master · worlddb/world.db · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/tree/master/worldlite",
+          "title": "world.db/worldlite at master · worlddb/world.db · GitHub",
           "count": 2,
           "uniques": 1
         }
@@ -476,21 +492,21 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 8,
-          "uniques": 6
+          "count": 13,
+          "uniques": 10
+        },
+        {
+          "referrer": "yandex.ru",
+          "count": 12,
+          "uniques": 1
+        },
+        {
+          "referrer": "Bing",
+          "count": 6,
+          "uniques": 2
         },
         {
           "referrer": "github.com",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "referrer": "cn.bing.com",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "grep.app",
           "count": 1,
           "uniques": 1
         }
@@ -6118,6 +6134,64 @@
       "2024-07-21": {
         "clones": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-08-02": {
+        "views": {
+          "count": 14,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-08-06": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-08-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-09": {
+        "views": {
+          "count": 14,
+          "uniques": 3
+        }
+      },
+      "2024-08-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-14": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-08-04": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -413,6 +413,10 @@
     "2024-08-01": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2024-08-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -439,7 +443,7 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 7,
         "uniques": 1
       },
       "clones": {
@@ -448,8 +452,20 @@
       },
       "paths": [
         {
-          "path": "/book-templates/world/tree/gh-pages/_templates",
-          "title": "world/_templates at gh-pages · book-templates/world",
+          "path": "/book-templates/world/blob/gh-pages/_scripts/city.rb",
+          "title": "world/_scripts/city.rb at gh-pages · book-templates/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/world/blob/gh-pages/_templates/cities-idx.md",
+          "title": "world/_templates/cities-idx.md at gh-pages · book-templates/world",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/book-templates/world/tree/gh-pages/_scripts",
+          "title": "world/_scripts at gh-pages · book-templates/world",
           "count": 2,
           "uniques": 1
         },
@@ -463,7 +479,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
+          "count": 7,
           "uniques": 1
         }
       ]
@@ -1072,6 +1088,12 @@
       "2024-07-22": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-08-10": {
+        "views": {
+          "count": 7,
           "uniques": 1
         }
       }

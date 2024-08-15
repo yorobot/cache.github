@@ -330,6 +330,10 @@
     "2024-08-01": {
       "stargazers_count": 14,
       "forks_count": 1
+    },
+    "2024-08-15": {
+      "stargazers_count": 14,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -355,8 +359,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 5
+        "count": 14,
+        "uniques": 4
       },
       "clones": {
         "count": 0,
@@ -365,21 +369,33 @@
       "paths": [
         {
           "path": "/wikiscript/countries.json",
-          "title": "GitHub - wikiscript/countries.json: World Country Profiles Sourced from Wikip...",
-          "count": 6,
-          "uniques": 5
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "Google",
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
           "count": 3,
           "uniques": 3
         },
         {
-          "referrer": "github.com",
+          "path": "/wikiscript/countries.json/tree/master/Europe",
+          "title": "countries.json/Europe at master · wikiscript/countries.json",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Europe/Albania.json",
+          "title": "countries.json/Europe/Albania.json at master · wikiscript/countries.json",
           "count": 2,
           "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -2215,6 +2231,30 @@
       "2024-07-26": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-05": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2024-08-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-15": {
+        "views": {
+          "count": 6,
           "uniques": 1
         }
       }
