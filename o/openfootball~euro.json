@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/euro",
   "created_at": "2013-05-21T21:41:51Z",
-  "updated_at": "2024-07-28T20:02:49Z",
-  "pushed_at": "2024-07-15T15:40:39Z",
-  "size": 262,
+  "updated_at": "2024-08-22T08:24:45Z",
+  "pushed_at": "2024-08-22T08:24:42Z",
+  "size": 266,
   "description": "Free open public domain football data (euro.db) for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), Euro 2024, etc.",
   "language": null,
   "history": {
@@ -282,19 +282,23 @@
     "2024-08-15": {
       "stargazers_count": 50,
       "forks_count": 32
+    },
+    "2024-09-01": {
+      "stargazers_count": 50,
+      "forks_count": 32
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-07-15T15:40:39Z",
-        "name": "GitHub"
+        "date": "2024-08-22T08:24:36Z",
+        "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-07-15T15:40:39Z",
-        "name": "Jgelke"
+        "date": "2024-08-22T08:24:36Z",
+        "name": "Gerald Bauer"
       },
-      "message": "Update euro.txt (#12)\n\nResult for Final match"
+      "message": "up format"
     }
   ],
   "topics": [
@@ -310,113 +314,103 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 257,
-        "uniques": 40
+        "count": 239,
+        "uniques": 41
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
-        {
-          "path": "/openfootball/euro/tree/master/2024--germany",
-          "title": "euro/2024--germany at master · openfootball/euro · GitHub",
-          "count": 55,
-          "uniques": 13
-        },
         {
           "path": "/openfootball/euro",
           "title": "openfootball/euro: Free open public domain football data (euro.db) for Euro 2...",
           "count": 41,
-          "uniques": 31
+          "uniques": 36
         },
         {
-          "path": "/openfootball/euro/tree/master/2024--germany/squads",
-          "title": "euro/2024--germany/squads at master · openfootball/euro · GitHub",
-          "count": 32,
+          "path": "/openfootball/euro/tree/master/2024--germany",
+          "title": "euro/2024--germany at master · openfootball/euro · GitHub",
+          "count": 40,
           "uniques": 11
-        },
-        {
-          "path": "/openfootball/euro/tree/master",
-          "title": "openfootball/euro: Free open public domain football data (euro.db) for Euro 2...",
-          "count": 18,
-          "uniques": 8
         },
         {
           "path": "/openfootball/euro/blob/master/2024--germany/euro.txt",
           "title": "euro/2024--germany/euro.txt at master · openfootball/euro · GitHub",
-          "count": 17,
-          "uniques": 8
+          "count": 23,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/euro/tree/master/2024--germany/squads",
+          "title": "euro/2024--germany/squads at master · openfootball/euro · GitHub",
+          "count": 23,
+          "uniques": 7
+        },
+        {
+          "path": "/openfootball/euro/tree/master/2021--europe",
+          "title": "euro/2021--europe at master · openfootball/euro · GitHub",
+          "count": 13,
+          "uniques": 4
         },
         {
           "path": "/openfootball/euro/blob/master/2024--germany/NOTES.md",
           "title": "euro/2024--germany/NOTES.md at master · openfootball/euro · GitHub",
-          "count": 8,
+          "count": 12,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/euro/tree/master/2021--europe/squads",
+          "title": "euro/2021--europe/squads at master · openfootball/euro · GitHub",
+          "count": 12,
           "uniques": 4
         },
         {
-          "path": "/openfootball/euro/commit/c047b1dacc6fc4659c659dcef2018bf008a8b473",
-          "title": "Update euro.txt (#12) · openfootball/euro@c047b1d · GitHub",
-          "count": 8,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/euro/tree/master/1996--england",
-          "title": "euro/1996--england at master · openfootball/euro · GitHub",
+          "path": "/openfootball/euro/tree/master",
+          "title": "openfootball/euro: Free open public domain football data (euro.db) for Euro 2...",
           "count": 6,
-          "uniques": 1
+          "uniques": 4
         },
         {
           "path": "/openfootball/euro/blob/master/2024--germany/squads/albania.txt",
           "title": "euro/2024--germany/squads/albania.txt at master · openfootball/euro · GitHub",
-          "count": 4,
-          "uniques": 2
+          "count": 6,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/euro/blob/master/2024--germany/squads/turkey.txt",
-          "title": "euro/2024--germany/squads/turkey.txt at master · openfootball/euro",
-          "count": 4,
-          "uniques": 2
+          "path": "/openfootball/euro/blob/master/2024--germany/squads/germany.txt",
+          "title": "euro/2024--germany/squads/germany.txt at master · openfootball/euro · GitHub",
+          "count": 6,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 76,
-          "uniques": 15
-        },
-        {
-          "referrer": "github.com",
-          "count": 47,
-          "uniques": 5
+          "count": 72,
+          "uniques": 14
         },
         {
           "referrer": "Bing",
-          "count": 44,
-          "uniques": 6
-        },
-        {
-          "referrer": "qwant.com",
-          "count": 21,
-          "uniques": 1
+          "count": 65,
+          "uniques": 8
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 19,
+          "count": 45,
+          "uniques": 8
+        },
+        {
+          "referrer": "copilot.microsoft.com",
+          "count": 9,
           "uniques": 3
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 3,
+          "referrer": "github.com",
+          "count": 8,
           "uniques": 2
         },
         {
-          "referrer": "cn.bing.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "mx.search.yahoo.com",
+          "referrer": "br.search.yahoo.com",
           "count": 1,
           "uniques": 1
         }
@@ -5984,6 +5978,106 @@
       "2024-08-15": {
         "views": {
           "count": 14,
+          "uniques": 2
+        }
+      },
+      "2024-08-19": {
+        "views": {
+          "count": 41,
+          "uniques": 5
+        }
+      },
+      "2024-08-20": {
+        "views": {
+          "count": 8,
+          "uniques": 4
+        }
+      },
+      "2024-08-21": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        }
+      },
+      "2024-08-22": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-23": {
+        "views": {
+          "count": 41,
+          "uniques": 7
+        }
+      },
+      "2024-08-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-25": {
+        "views": {
+          "count": 21,
+          "uniques": 4
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 22,
+          "uniques": 2
+        }
+      },
+      "2024-08-27": {
+        "views": {
+          "count": 31,
+          "uniques": 7
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-29": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-08-30": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2024-08-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-01": {
+        "views": {
+          "count": 7,
           "uniques": 2
         }
       }

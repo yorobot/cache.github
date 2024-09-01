@@ -417,24 +417,28 @@
     "2024-08-15": {
       "stargazers_count": 1309,
       "forks_count": 81
+    },
+    "2024-09-01": {
+      "stargazers_count": 1316,
+      "forks_count": 81
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-02-13T12:28:02Z",
+        "date": "2024-08-28T16:32:02Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2024-02-13T12:28:02Z",
-        "name": "Jan Černý"
+        "date": "2024-08-28T16:32:02Z",
+        "name": "Daniil Sivak"
       },
-      "message": "Update stars of Jektex plugin (#75)"
+      "message": "Added jekyll-fetch-notion plugin (#77)"
     }
   ],
-  "size": 237,
-  "updated_at": "2024-08-14T07:37:57Z",
-  "pushed_at": "2024-02-13T12:28:03Z",
+  "size": 176,
+  "updated_at": "2024-08-28T16:32:06Z",
+  "pushed_at": "2024-08-28T16:32:02Z",
   "description": "A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)",
   "language": null,
   "topics": [
@@ -443,41 +447,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 215,
-        "uniques": 154
+        "count": 218,
+        "uniques": 148
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 14,
+        "uniques": 14
       },
       "paths": [
         {
           "path": "/planetjekyll/awesome-jekyll-plugins",
           "title": "planetjekyll/awesome-jekyll-plugins: A collection of awesome Jekyll plugins (...",
-          "count": 185,
-          "uniques": 145
-        },
-        {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
-          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
-          "count": 10,
-          "uniques": 4
+          "count": 173,
+          "uniques": 134
         },
         {
           "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/PASTIES.md",
           "title": "awesome-jekyll-plugins/PASTIES.md at master · planetjekyll/awesome-jekyll-plu...",
-          "count": 4,
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/README.md",
+          "title": "awesome-jekyll-plugins/README.md at master · planetjekyll/awesome-jekyll-plug...",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/76",
+          "title": "Premonition ranking by lazee · Pull Request #76 · planetjekyll/awesome-jekyll...",
+          "count": 5,
           "uniques": 2
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/blob/master/NOTES.md",
-          "title": "awesome-jekyll-plugins/NOTES.md at master · planetjekyll/awesome-jekyll-plugi...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/77",
+          "title": "Added jekyll-fetch-notion plugin by seroperson · Pull Request #77 · planetjek...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pulls",
+          "title": "Pull requests · planetjekyll/awesome-jekyll-plugins",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/pull/76/files",
+          "title": "Premonition ranking by lazee · Pull Request #76 · planetjekyll/awesome-jekyll...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...lazee:awesome-jekyll-plugins:premonition-ranking",
+          "title": "Comparing planetjekyll:master...lazee:premonition-ranking · planetjekyll/awes...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/planetjekyll/awesome-jekyll-plugins/commit/c4b05f1dc104e212870c5cef41a36bfb4f3944ab",
-          "title": "Update stars of Jektex plugin (#75) · planetjekyll/awesome-jekyll-plugins@c4b...",
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare",
+          "title": "Compare · planetjekyll/awesome-jekyll-plugins",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetjekyll/awesome-jekyll-plugins/compare/master...lazee:awesome-jekyll-plugins:master",
+          "title": "Comparing planetjekyll:master...lazee:master · planetjekyll/awesome-jekyll-pl...",
           "count": 1,
           "uniques": 1
         }
@@ -485,23 +519,28 @@
       "referrers": [
         {
           "referrer": "jekyllrb.com",
-          "count": 99,
-          "uniques": 75
+          "count": 70,
+          "uniques": 60
         },
         {
           "referrer": "Google",
-          "count": 64,
-          "uniques": 46
+          "count": 63,
+          "uniques": 44
         },
         {
-          "referrer": "Bing",
-          "count": 6,
-          "uniques": 5
+          "referrer": "github.com",
+          "count": 12,
+          "uniques": 6
         },
         {
           "referrer": "DuckDuckGo",
+          "count": 9,
+          "uniques": 8
+        },
+        {
+          "referrer": "search.brave.com",
           "count": 4,
-          "uniques": 4
+          "uniques": 2
         },
         {
           "referrer": "jekyllrb-ja.github.io",
@@ -509,22 +548,22 @@
           "uniques": 1
         },
         {
-          "referrer": "jekyllthemes.io",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "planetjekyll.github.io",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "search.brave.com",
+          "referrer": "tiiny.host",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "github.com",
+          "referrer": "Baidu",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "planetjekyll.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "stackshare.io",
           "count": 1,
           "uniques": 1
         }
@@ -8469,6 +8508,114 @@
         "views": {
           "count": 12,
           "uniques": 6
+        }
+      },
+      "2024-08-19": {
+        "views": {
+          "count": 13,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-20": {
+        "views": {
+          "count": 18,
+          "uniques": 12
+        }
+      },
+      "2024-08-21": {
+        "views": {
+          "count": 11,
+          "uniques": 10
+        }
+      },
+      "2024-08-22": {
+        "views": {
+          "count": 16,
+          "uniques": 12
+        }
+      },
+      "2024-08-23": {
+        "views": {
+          "count": 17,
+          "uniques": 12
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-08-24": {
+        "views": {
+          "count": 29,
+          "uniques": 10
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-08-25": {
+        "views": {
+          "count": 14,
+          "uniques": 7
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 18,
+          "uniques": 14
+        }
+      },
+      "2024-08-27": {
+        "views": {
+          "count": 11,
+          "uniques": 9
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 17,
+          "uniques": 14
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-08-29": {
+        "views": {
+          "count": 16,
+          "uniques": 13
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-08-30": {
+        "views": {
+          "count": 15,
+          "uniques": 13
+        }
+      },
+      "2024-08-31": {
+        "views": {
+          "count": 11,
+          "uniques": 7
+        }
+      },
+      "2024-09-01": {
+        "views": {
+          "count": 12,
+          "uniques": 10
         }
       }
     }

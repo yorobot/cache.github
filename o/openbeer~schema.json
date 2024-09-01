@@ -417,6 +417,10 @@
     "2024-08-15": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2024-09-01": {
+      "stargazers_count": 4,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -444,7 +448,7 @@
     "summary": {
       "views": {
         "count": 7,
-        "uniques": 6
+        "uniques": 2
       },
       "clones": {
         "count": 0,
@@ -452,14 +456,36 @@
       },
       "paths": [
         {
+          "path": "/openbeer/schema/tree/master/_data",
+          "title": "schema/_data at master · openbeer/schema",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "path": "/openbeer/schema/blob/master/_data/database.json",
-          "title": "schema/_data/database.json at master · openbeer/schema · GitHub",
+          "title": "schema/_data/database.json at master · openbeer/schema",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema",
+          "title": "openbeer/schema: beer.db database schema docu",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/schema/blob/master/_data/symbols.json",
+          "title": "schema/_data/symbols.json at master · openbeer/schema · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 6,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1361,6 +1387,18 @@
         "views": {
           "count": 5,
           "uniques": 4
+        }
+      },
+      "2024-08-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-29": {
+        "views": {
+          "count": 6,
+          "uniques": 1
         }
       }
     }

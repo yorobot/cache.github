@@ -1,9 +1,9 @@
 {
   "full_name": "rubycocos/cocos",
   "created_at": "2013-10-12T21:36:51Z",
-  "updated_at": "2024-06-29T14:45:36Z",
-  "pushed_at": "2024-06-29T14:45:33Z",
-  "size": 107,
+  "updated_at": "2024-08-20T15:29:07Z",
+  "pushed_at": "2024-08-20T15:29:04Z",
+  "size": 111,
   "description": "cocos (code commons) - auto-include quick-starter prelude & prolog",
   "language": "Ruby",
   "history": {
@@ -170,16 +170,20 @@
     "2024-08-15": {
       "stargazers_count": 53,
       "forks_count": 2
+    },
+    "2024-09-01": {
+      "stargazers_count": 53,
+      "forks_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-06-29T14:45:29Z",
+        "date": "2024-08-20T15:28:59Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-06-29T14:45:29Z",
+        "date": "2024-08-20T15:28:59Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -194,40 +198,86 @@
     "prolog"
   ],
   "languages": {
-    "Ruby": 18409
+    "Ruby": 19020
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 6
+        "count": 43,
+        "uniques": 7
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
-          "path": "/rubycocos/cocos",
-          "title": "GitHub - rubycocos/cocos: cocos (code commons) - auto-include quick-starter p...",
-          "count": 4,
-          "uniques": 4
+          "path": "/rubycocos/cocos/blob/master/lib/cocos.rb",
+          "title": "cocos/lib/cocos.rb at master · rubycocos/cocos",
+          "count": 11,
+          "uniques": 1
         },
         {
-          "path": "/rubycocos/cocos/commit/c0f436e9410c94012fdd04d50ffb5449adec6f9d",
-          "title": "up · rubycocos/cocos@c0f436e · GitHub",
-          "count": 1,
+          "path": "/rubycocos/cocos",
+          "title": "rubycocos/cocos: cocos (code commons) - auto-include quick-starter prelude & ...",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib",
+          "title": "cocos/lib at master · rubycocos/cocos",
+          "count": 6,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/test",
+          "title": "cocos/test at master · rubycocos/cocos",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/blob/master/test/helper.rb",
+          "title": "cocos/test/helper.rb at master · rubycocos/cocos",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/rubycocos/cocos/commits/master",
-          "title": "Commits · rubycocos/cocos · GitHub",
+          "title": "Commits · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master/lib/cocos",
+          "title": "cocos/lib/cocos at master · rubycocos/cocos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/https/GitHub.com/rubycocos/cocos",
+          "title": "GitHub - rubycocos/cocos: cocos (code commons) - auto-include quick-starter p...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/stargazers",
+          "title": "Stargazers · rubycocos/cocos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/cocos/tree/master",
+          "title": "rubycocos/cocos: cocos (code commons) - auto-include quick-starter prelude & ...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1621,6 +1671,62 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-08-20": {
+        "views": {
+          "count": 32,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-08-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-09-01": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2024-08-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

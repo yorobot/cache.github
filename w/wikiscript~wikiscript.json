@@ -417,24 +417,28 @@
     "2024-08-15": {
       "stargazers_count": 6,
       "forks_count": 0
+    },
+    "2024-09-01": {
+      "stargazers_count": 6,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-06-20T15:45:58Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2024-06-20T15:45:58Z",
+        "date": "2024-09-01T16:16:19Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update teams.rb"
+      "author": {
+        "date": "2024-09-01T16:16:19Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
-  "size": 199,
-  "updated_at": "2024-06-20T15:46:02Z",
-  "pushed_at": "2024-06-20T15:45:59Z",
+  "size": 210,
+  "updated_at": "2024-09-01T16:16:27Z",
+  "pushed_at": "2024-09-01T16:16:23Z",
   "description": "wikiscript gem - scripts for wikipedia (get wikitext for page, parse tables & links, etc.)",
   "language": "Ruby",
   "topics": [
@@ -449,23 +453,57 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 21,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
+          "path": "/wikiscript/wikiscript/issues",
+          "title": "Issues · wikiscript/wikiscript · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
           "path": "/wikiscript/wikiscript",
-          "title": "GitHub - wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get w...",
+          "title": "wikiscript/wikiscript: wikiscript gem - scripts for wikipedia (get wikitext f...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/commits/master",
+          "title": "Commits · wikiscript/wikiscript",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/commit/e151dce96d4c880e6c931db075b8b6332af96705",
+          "title": "up · wikiscript/wikiscript@e151dce",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/graphs/traffic",
+          "title": "Traffic · wikiscript/wikiscript",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/wikiscript/pulse",
+          "title": "Pulse · wikiscript/wikiscript",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2148,10 +2186,48 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-08-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-31": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-09-01": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-08-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 113396
+    "Ruby": 126850
   }
 }

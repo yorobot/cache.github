@@ -406,6 +406,10 @@
     "2024-08-15": {
       "stargazers_count": 10,
       "forks_count": 1
+    },
+    "2024-09-01": {
+      "stargazers_count": 10,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -431,8 +435,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 9,
-        "uniques": 4
+        "count": 30,
+        "uniques": 5
       },
       "clones": {
         "count": 0,
@@ -442,25 +446,42 @@
         {
           "path": "/openbeer/docs/blob/master/BEERS.md",
           "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
-          "count": 4,
-          "uniques": 2
+          "count": 15,
+          "uniques": 5
         },
         {
           "path": "/openbeer/docs",
           "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
-          "count": 2,
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/openbeer/docs/blob/master/BREWERIES.md",
+          "title": "docs/BREWERIES.md at master · openbeer/docs · GitHub",
+          "count": 5,
           "uniques": 2
+        },
+        {
+          "path": "/openbeer/docs/blob/master/README.md",
+          "title": "docs/README.md at master · openbeer/docs · GitHub",
+          "count": 5,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
+          "referrer": "openbeer.github.io",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "referrer": "alcohol.stackexchange.com",
           "count": 3,
           "uniques": 1
         },
         {
-          "referrer": "openbeer.github.io",
-          "count": 3,
+          "referrer": "github.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -3284,6 +3305,30 @@
         "views": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2024-08-20": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        }
+      },
+      "2024-08-25": {
+        "views": {
+          "count": 16,
+          "uniques": 1
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 3,
+          "uniques": 1
         }
       }
     }

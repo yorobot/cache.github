@@ -1,9 +1,9 @@
 {
   "full_name": "sportdb/docs",
   "created_at": "2018-07-20T14:27:25Z",
-  "updated_at": "2020-11-19T12:01:29Z",
-  "pushed_at": "2020-05-25T15:42:40Z",
-  "size": 56,
+  "updated_at": "2024-08-30T10:00:05Z",
+  "pushed_at": "2024-08-30T10:00:01Z",
+  "size": 38,
   "history": {
     "2018-09-20": {
       "stargazers_count": 2
@@ -390,19 +390,23 @@
     "2024-08-15": {
       "stargazers_count": 4,
       "forks_count": 0
+    },
+    "2024-09-01": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-05-25T15:42:39Z",
-        "name": "GitHub"
-      },
-      "author": {
-        "date": "2020-05-25T15:42:39Z",
+        "date": "2024-08-30T09:59:57Z",
         "name": "Gerald Bauer"
       },
-      "message": "Update generating-json-datasets.md"
+      "author": {
+        "date": "2024-08-30T09:59:57Z",
+        "name": "Gerald Bauer"
+      },
+      "message": "up"
     }
   ],
   "description": "sport.db (incl. football.db) scripts & tools docs",
@@ -413,48 +417,84 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 1
+        "count": 60,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/sportdb/docs",
-          "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
-          "count": 3,
-          "uniques": 1
+          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "count": 12,
+          "uniques": 3
         },
         {
           "path": "/sportdb/docs/blob/master/generating-json-datasets.md",
-          "title": "docs/generating-json-datasets.md at master · sportdb/docs · GitHub",
-          "count": 2,
+          "title": "docs/generating-json-datasets.md at master · sportdb/docs",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/tree/master/sport.db.starter",
+          "title": "docs/sport.db.starter at master · sportdb/docs",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/sport.db.starter/app.rb",
+          "title": "docs/sport.db.starter/app.rb at master · sportdb/docs",
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/sportdb/docs/blob/master/working-with-csv-files.md",
-          "title": "docs/working-with-csv-files.md at master · sportdb/docs · GitHub",
+          "title": "docs/working-with-csv-files.md at master · sportdb/docs",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/working-with-unicode.md",
+          "title": "docs/working-with-unicode.md at master · sportdb/docs",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/pulse",
+          "title": "Pulse · sportdb/docs",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/graphs/traffic",
+          "title": "Traffic · sportdb/docs",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/articles/generating-json-datasets.md",
+          "title": "docs/articles/generating-json-datasets.md at master · sportdb/docs",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/docs/tree/master",
-          "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
-          "count": 1,
+          "path": "/sportdb/docs/blob/master/articles/working-with-csv-files.md",
+          "title": "docs/articles/working-with-csv-files.md at master · sportdb/docs",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 6,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 14,
+          "uniques": 2
         },
         {
           "referrer": "sportdb.github.io",
-          "count": 2,
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -1861,10 +1901,48 @@
           "count": 8,
           "uniques": 1
         }
+      },
+      "2024-08-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2024-08-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-29": {
+        "views": {
+          "count": 31,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-08-30": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 1454
+    "Ruby": 7053
   }
 }

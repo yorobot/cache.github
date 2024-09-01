@@ -417,24 +417,28 @@
     "2024-08-15": {
       "stargazers_count": 15,
       "forks_count": 1
+    },
+    "2024-09-01": {
+      "stargazers_count": 15,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-05-10T14:35:38Z",
+        "date": "2024-08-28T12:08:34Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-05-10T14:35:38Z",
+        "date": "2024-08-28T12:08:34Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 28,
-  "updated_at": "2024-05-10T14:35:51Z",
-  "pushed_at": "2024-05-10T14:35:47Z",
+  "size": 34,
+  "updated_at": "2024-08-28T12:08:42Z",
+  "pushed_at": "2024-08-28T12:08:39Z",
   "description": "footty gem - football.db command line client for european (\"euro\") championship 2024 and more - who's playing today?",
   "language": "Ruby",
   "topics": [
@@ -448,49 +452,90 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 19,
-        "uniques": 14
+        "count": 53,
+        "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/sportdb/footty",
-          "title": "GitHub - sportdb/footty: footty gem - football.db command line client for eur...",
-          "count": 12,
-          "uniques": 12
+          "title": "sportdb/footty: footty gem - football.db command line client for european (\"e...",
+          "count": 13,
+          "uniques": 3
         },
         {
-          "path": "/sportdb/footty/tree/master/test",
-          "title": "footty/test at master · sportdb/footty · GitHub",
+          "path": "/sportdb/footty/blob/master/lib/footty/client.rb",
+          "title": "footty/lib/footty/client.rb at master · sportdb/footty",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/README.2018.md",
+          "title": "footty/README.2018.md at master · sportdb/footty",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/commits/master",
+          "title": "Commits · sportdb/footty",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/lib",
+          "title": "footty/lib at master · sportdb/footty",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/lib/footty",
+          "title": "footty/lib/footty at master · sportdb/footty",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/README.md",
+          "title": "footty/README.md at master · sportdb/footty",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/sportdb/footty/blob/master/test/test_client_euro2020.rb",
-          "title": "footty/test/test_client_euro2020.rb at master · sportdb/footty · GitHub",
+          "path": "/sportdb/footty/blob/master/lib/footty.rb",
+          "title": "footty/lib/footty.rb at master · sportdb/footty",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/footty/issues",
-          "title": "Issues · sportdb/footty · GitHub",
-          "count": 1,
+          "path": "/sportdb/footty/blob/master/README.2020.md",
+          "title": "footty/README.2020.md at master · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/graphs/traffic",
+          "title": "Traffic · sportdb/footty",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 10,
-          "uniques": 10
+          "referrer": "rubygems.org",
+          "count": 17,
+          "uniques": 1
         },
         {
           "referrer": "github.com",
-          "count": 6,
-          "uniques": 1
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -2846,10 +2891,56 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-08-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-27": {
+        "views": {
+          "count": 17,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 29,
+          "uniques": 1
+        }
+      },
+      "2024-08-29": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2024-08-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-31": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 17446
+    "Ruby": 25869
   }
 }

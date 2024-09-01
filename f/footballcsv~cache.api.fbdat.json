@@ -1,9 +1,9 @@
 {
   "full_name": "footballcsv/cache.api.fbdat",
   "created_at": "2014-07-25T16:47:04Z",
-  "updated_at": "2024-07-04T12:48:42Z",
-  "pushed_at": "2024-07-04T12:48:38Z",
-  "size": 585,
+  "updated_at": "2024-08-28T16:31:03Z",
+  "pushed_at": "2024-08-28T16:30:59Z",
+  "size": 604,
   "description": "cached footballdata api match data",
   "language": null,
   "history": {
@@ -22,16 +22,20 @@
     "2024-08-15": {
       "stargazers_count": 4,
       "forks_count": 4
+    },
+    "2024-09-01": {
+      "stargazers_count": 4,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-07-04T12:48:30Z",
+        "date": "2024-08-28T16:30:54Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-07-04T12:48:30Z",
+        "date": "2024-08-28T16:30:54Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -45,18 +49,101 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 104,
+        "uniques": 6
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
-
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2024-25/de.1.csv",
+          "title": "cache.api.fbdat/2024-25/de.1.csv at master · footballcsv/cache.api.fbdat · Gi...",
+          "count": 17,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/tree/master/2024-25",
+          "title": "cache.api.fbdat/2024-25 at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 10,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat",
+          "title": "GitHub - footballcsv/cache.api.fbdat: cached footballdata api match data",
+          "count": 9,
+          "uniques": 6
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/tree/master/2024",
+          "title": "cache.api.fbdat/2024 at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2023-24/eng.1.csv",
+          "title": "cache.api.fbdat/2023-24/eng.1.csv at master · footballcsv/cache.api.fbdat · G...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/tree/master/2023-24",
+          "title": "cache.api.fbdat/2023-24 at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2024/copa.l.clubs.txt",
+          "title": "cache.api.fbdat/2024/copa.l.clubs.txt at master · footballcsv/cache.api.fbdat...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/SUMMARY.md",
+          "title": "cache.api.fbdat/SUMMARY.md at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2019-20/de.1.csv",
+          "title": "cache.api.fbdat/2019-20/de.1.csv at master · footballcsv/cache.api.fbdat · Gi...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/footballcsv/cache.api.fbdat/blob/master/2019/br.1.csv",
+          "title": "cache.api.fbdat/2019/br.1.csv at master · footballcsv/cache.api.fbdat · GitHub",
+          "count": 3,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "blog.desdelinux.net",
+          "count": 27,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 15,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "referrer": "jokecamp.com",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -178,6 +265,46 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-08-22": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-08-23": {
+        "views": {
+          "count": 9,
+          "uniques": 1
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 39,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-08-30": {
+        "views": {
+          "count": 36,
+          "uniques": 2
+        }
+      },
+      "2024-08-31": {
+        "views": {
+          "count": 15,
+          "uniques": 1
+        }
+      },
+      "2024-09-01": {
+        "clones": {
+          "count": 6,
+          "uniques": 6
         }
       }
     }

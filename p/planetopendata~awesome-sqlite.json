@@ -417,24 +417,28 @@
     "2024-08-15": {
       "stargazers_count": 312,
       "forks_count": 37
+    },
+    "2024-09-01": {
+      "stargazers_count": 313,
+      "forks_count": 37
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-07-26T13:58:40Z",
+        "date": "2024-08-31T11:07:54Z",
         "name": "GitHub"
       },
       "author": {
-        "date": "2024-07-26T13:58:40Z",
-        "name": "clach04"
+        "date": "2024-08-31T11:07:54Z",
+        "name": "stokebreakup"
       },
-      "message": "current jdbc link for xerial/sqlite-jdbc (#16)"
+      "message": "SQLTorrent (#17)"
     }
   ],
-  "size": 77,
-  "updated_at": "2024-08-06T22:26:47Z",
-  "pushed_at": "2024-07-26T13:58:40Z",
+  "size": 82,
+  "updated_at": "2024-08-31T11:07:58Z",
+  "pushed_at": "2024-08-31T11:07:54Z",
   "description": "A collection of awesome sqlite tools, scripts, books, etc",
   "language": null,
   "topics": [
@@ -445,23 +449,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 113,
-        "uniques": 88
+        "count": 215,
+        "uniques": 107
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 11,
+        "uniques": 10
       },
       "paths": [
         {
           "path": "/planetopendata/awesome-sqlite",
           "title": "planetopendata/awesome-sqlite: A collection of awesome sqlite tools, scripts,...",
-          "count": 106,
-          "uniques": 85
+          "count": 159,
+          "uniques": 100
         },
         {
-          "path": "/planetopendata/awesome-sqlite/actions",
-          "title": "Actions · planetopendata/awesome-sqlite",
+          "path": "/planetopendata/awesome-sqlite/blob/master/COMMERCIAL.md",
+          "title": "awesome-sqlite/COMMERCIAL.md at master · planetopendata/awesome-sqlite · GitHub",
+          "count": 18,
+          "uniques": 5
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/17",
+          "title": "SQLTorrent by stokebreakup · Pull Request #17 · planetopendata/awesome-sqlite...",
+          "count": 10,
+          "uniques": 4
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pulls",
+          "title": "Pull requests · planetopendata/awesome-sqlite · GitHub",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/blame/master/COMMERCIAL.md",
+          "title": "Blaming awesome-sqlite/COMMERCIAL.md at master · planetopendata/awesome-sqlit...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/pull/17/files",
+          "title": "SQLTorrent by stokebreakup · Pull Request #17 · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/blob/master/README.md",
+          "title": "awesome-sqlite/README.md at master · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/commits",
+          "title": "Commits · planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/fork",
+          "title": "Fork planetopendata/awesome-sqlite",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopendata/awesome-sqlite/compare",
+          "title": "Compare · planetopendata/awesome-sqlite",
           "count": 1,
           "uniques": 1
         }
@@ -469,36 +521,51 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 75,
+          "count": 94,
           "uniques": 60
         },
         {
           "referrer": "github.com",
-          "count": 10,
-          "uniques": 9
+          "count": 51,
+          "uniques": 12
+        },
+        {
+          "referrer": "in.search.yahoo.com",
+          "count": 16,
+          "uniques": 1
         },
         {
           "referrer": "DuckDuckGo",
-          "count": 3,
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "referrer": "Bing",
+          "count": 4,
           "uniques": 3
         },
         {
-          "referrer": "search.brave.com",
+          "referrer": "t.co",
           "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "yandex.ru",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "awesome-python.com",
+          "referrer": "openfootball.github.io",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "tabnews.com.br",
+          "referrer": "cn.bing.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "search.brave.com",
           "count": 1,
           "uniques": 1
         }
@@ -8213,6 +8280,114 @@
         "views": {
           "count": 6,
           "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-19": {
+        "views": {
+          "count": 9,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-08-20": {
+        "views": {
+          "count": 13,
+          "uniques": 10
+        }
+      },
+      "2024-08-21": {
+        "views": {
+          "count": 11,
+          "uniques": 8
+        }
+      },
+      "2024-08-22": {
+        "views": {
+          "count": 19,
+          "uniques": 9
+        }
+      },
+      "2024-08-23": {
+        "views": {
+          "count": 14,
+          "uniques": 7
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-24": {
+        "views": {
+          "count": 14,
+          "uniques": 10
+        }
+      },
+      "2024-08-25": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-08-26": {
+        "views": {
+          "count": 16,
+          "uniques": 12
+        }
+      },
+      "2024-08-27": {
+        "views": {
+          "count": 28,
+          "uniques": 11
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-28": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2024-08-29": {
+        "views": {
+          "count": 7,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-08-30": {
+        "views": {
+          "count": 27,
+          "uniques": 7
+        }
+      },
+      "2024-08-31": {
+        "views": {
+          "count": 38,
+          "uniques": 16
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2024-09-01": {
+        "views": {
+          "count": 9,
+          "uniques": 5
         },
         "clones": {
           "count": 1,
