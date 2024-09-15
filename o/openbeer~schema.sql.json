@@ -421,6 +421,10 @@
     "2024-09-01": {
       "stargazers_count": 8,
       "forks_count": 0
+    },
+    "2024-09-15": {
+      "stargazers_count": 8,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -447,25 +451,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openbeer/schema.sql",
           "title": "GitHub - openbeer/schema.sql: beer.db database schema (tables, views, etc.) s...",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql · GitHub",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "infoworld.com",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -2545,6 +2555,24 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-09-02": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-09-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

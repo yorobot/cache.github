@@ -421,24 +421,28 @@
     "2024-09-01": {
       "stargazers_count": 190,
       "forks_count": 15
+    },
+    "2024-09-15": {
+      "stargazers_count": 190,
+      "forks_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2020-10-31T16:55:44Z",
-        "name": "Gerald Bauer"
+        "date": "2024-09-03T12:58:45Z",
+        "name": "GitHub"
       },
       "author": {
-        "date": "2020-10-31T16:55:44Z",
+        "date": "2024-09-03T12:58:45Z",
         "name": "Gerald Bauer"
       },
-      "message": "up date-formatter"
+      "message": "Update README.md"
     }
   ],
-  "size": 596,
-  "updated_at": "2024-01-01T04:06:39Z",
-  "pushed_at": "2024-04-17T11:19:03Z",
+  "size": 558,
+  "updated_at": "2024-09-03T12:58:49Z",
+  "pushed_at": "2024-09-03T12:58:46Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
   "topics": [
@@ -460,88 +464,104 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 24,
-        "uniques": 9
+        "count": 173,
+        "uniques": 22
       },
       "clones": {
-        "count": 12,
-        "uniques": 11
+        "count": 15,
+        "uniques": 15
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 7,
-          "uniques": 5
+          "count": 27,
+          "uniques": 14
         },
         {
-          "path": "/feedreader/pluto/tree/master/pluto",
-          "title": "pluto/pluto at master · feedreader/pluto · GitHub",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/pluto/lib",
-          "title": "pluto/pluto/lib at master · feedreader/pluto · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/feedreader/pluto/blob/5105cef814c52ac9da9d2323da4e3e88fac3223c/TODO.md",
-          "title": "pluto/TODO.md at 5105cef814c52ac9da9d2323da4e3e88fac3223c · feedreader/pluto",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/date-formatter",
-          "title": "File not found",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/tree/master/pluto/lib/pluto/cli",
-          "title": "pluto/pluto/lib/pluto/cli at master · feedreader/pluto · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues",
-          "title": "Issues · feedreader/pluto · GitHub",
-          "count": 1,
+          "path": "/feedreader/pluto/blob/master/sandbox/debug_connect.rb",
+          "title": "pluto/sandbox/debug_connect.rb at master · feedreader/pluto",
+          "count": 16,
           "uniques": 1
         },
         {
           "path": "/feedreader/pluto/pulls",
-          "title": "Pull requests · feedreader/pluto · GitHub",
-          "count": 1,
+          "title": "Pull requests · feedreader/pluto",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/tree/master/pluto",
+          "title": "pluto/pluto at master · feedreader/pluto",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "path": "/feedreader/pluto/pull/45",
+          "title": "Work around removal of \"to_h\" method in Rails 7.0 by bmos · Pull Request #45 ...",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/pull/47",
+          "title": "add OpenSSL error to rescue list by bmos · Pull Request #47 · feedreader/pluto",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/42",
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/README.md",
+          "title": "pluto/README.md at master · feedreader/pluto",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/commits/master",
+          "title": "Commits · feedreader/pluto",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/pull/45/files",
+          "title": "Work around removal of \"to_h\" method in Rails 7.0 by bmos · Pull Request #45 ...",
+          "count": 4,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 16,
-          "uniques": 2
+          "count": 10,
+          "uniques": 6
         },
         {
           "referrer": "Google",
-          "count": 2,
-          "uniques": 2
+          "count": 6,
+          "uniques": 5
         },
         {
           "referrer": "rubygems.org",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "planet.gentoo.org",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "reddit.com",
+          "referrer": "rubytalk.org",
           "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "mail.google.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -6522,11 +6542,109 @@
           "count": 4,
           "uniques": 3
         }
+      },
+      "2024-09-03": {
+        "views": {
+          "count": 94,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 7
+        }
+      },
+      "2024-09-04": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-09-05": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-09-08": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-10": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-09-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-13": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-09-15": {
+        "views": {
+          "count": 51,
+          "uniques": 2
+        }
+      },
+      "2024-09-02": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-09-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 211728,
+    "Ruby": 214399,
     "HTML": 541
   }
 }
