@@ -1,7 +1,7 @@
 {
   "full_name": "bitsblocks/ethereum",
   "created_at": "2018-05-11T14:56:30Z",
-  "updated_at": "2022-02-12T22:33:18Z",
+  "updated_at": "2024-09-23T08:42:24Z",
   "pushed_at": "2018-05-14T08:45:29Z",
   "size": 50,
   "history": {
@@ -401,6 +401,10 @@
     "2024-09-15": {
       "stargazers_count": 4,
       "forks_count": 4
+    },
+    "2024-10-01": {
+      "stargazers_count": 5,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -424,31 +428,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
-        "uniques": 1
+        "count": 15,
+        "uniques": 2
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
         {
+          "path": "/bitsblocks/ethereum/fork",
+          "title": "Fork bitsblocks/ethereum",
+          "count": 5,
+          "uniques": 1
+        },
+        {
           "path": "/bitsblocks/ethereum/blob/master/manuscript/what-is.md",
           "title": "ethereum/manuscript/what-is.md at master · bitsblocks/ethereum",
-          "count": 2,
+          "count": 4,
           "uniques": 1
         },
         {
           "path": "/bitsblocks/ethereum",
           "title": "bitsblocks/ethereum: Mastering Ethereum - Building Blockchain Service Contrac...",
-          "count": 1,
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/bitsblocks/ethereum/blob/master/manuscript/tokens.md",
+          "title": "ethereum/manuscript/tokens.md at master · bitsblocks/ethereum",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 3,
+          "referrer": "github.com",
+          "count": 7,
           "uniques": 1
         }
       ]
@@ -1396,6 +1412,22 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-09-23": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        }
+      },
+      "2024-10-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
         }
       }
     }

@@ -425,6 +425,10 @@
     "2024-09-15": {
       "stargazers_count": 570,
       "forks_count": 54
+    },
+    "2024-10-01": {
+      "stargazers_count": 570,
+      "forks_count": 54
     }
   },
   "commits": [
@@ -451,19 +455,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 61,
-        "uniques": 20
+        "count": 58,
+        "uniques": 26
       },
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 18,
-          "uniques": 9
+          "count": 23,
+          "uniques": 18
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/continents.txt",
+          "title": "world.db/continents.txt at master · openmundi/world.db · GitHub",
+          "count": 6,
+          "uniques": 3
         },
         {
           "path": "/openmundi/world.db/tree/master/asia",
@@ -472,67 +482,81 @@
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/tree/master/europe",
-          "title": "world.db/europe at master · openmundi/world.db · GitHub",
-          "count": 5,
-          "uniques": 2
+          "path": "/openmundi/world.db/tree/master/africa",
+          "title": "world.db/africa at master · openmundi/world.db",
+          "count": 3,
+          "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/commit/fe69447849b6bf92771fcbf7b75a32ae7cc2cbbd",
-          "title": "add languages n usage · openmundi/world.db@fe69447 · GitHub",
-          "count": 4,
-          "uniques": 4
+          "path": "/openmundi/world.db/tree/master/africa/2-more",
+          "title": "world.db/africa/2-more at master · openmundi/world.db",
+          "count": 3,
+          "uniques": 1
         },
         {
-          "path": "/openmundi/world.db/tree/master/setups",
-          "title": "world.db/setups at master · openmundi/world.db · GitHub",
-          "count": 4,
-          "uniques": 2
+          "path": "/openmundi/world.db/blob/df13c6441ae37918a7b05317a16b39914d42ede8/africa/ci-cote-d-ivoire/cities.txt",
+          "title": "world.db/africa/ci-cote-d-ivoire/cities.txt at df13c6441ae37918a7b05317a16b39...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/africa/2-more/continents.yml",
+          "title": "world.db/africa/2-more/continents.yml at master · openmundi/world.db",
+          "count": 2,
+          "uniques": 1
         },
         {
           "path": "/openmundi/world.db/tree/master/1-codes",
           "title": "world.db/1-codes at master · openmundi/world.db · GitHub",
-          "count": 3,
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/tree/master/asia/af-afghanistan",
+          "title": "world.db/asia/af-afghanistan at master · openmundi/world.db",
+          "count": 2,
           "uniques": 1
         },
         {
           "path": "/openmundi/world.db/tree/master/asia/bd-bangladesh",
           "title": "world.db/asia/bd-bangladesh at master · openmundi/world.db · GitHub",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/europe/by-belarus",
-          "title": "world.db/europe/by-belarus at master · openmundi/world.db",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/1-codes/fips.txt",
-          "title": "world.db/1-codes/fips.txt at master · openmundi/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/asia/bd-bangladesh/cities.txt",
-          "title": "world.db/asia/bd-bangladesh/cities.txt at master · openmundi/world.db · GitHub",
           "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 40,
-          "uniques": 5
+          "referrer": "github.com",
+          "count": 20,
+          "uniques": 7
         },
         {
-          "referrer": "github.com",
-          "count": 5,
-          "uniques": 4
+          "referrer": "kabytes.com",
+          "count": 9,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 3
         },
         {
           "referrer": "Bing",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "openmundi.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "groups.google.com",
           "count": 1,
           "uniques": 1
         }
@@ -6967,6 +6991,84 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-09-19": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-09-20": {
+        "views": {
+          "count": 16,
+          "uniques": 5
+        }
+      },
+      "2024-09-21": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2024-09-23": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-09-24": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-09-25": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2024-09-26": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-09-27": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-28": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-30": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-09-22": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

@@ -425,6 +425,10 @@
     "2024-09-15": {
       "stargazers_count": 190,
       "forks_count": 15
+    },
+    "2024-10-01": {
+      "stargazers_count": 191,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -441,7 +445,7 @@
     }
   ],
   "size": 558,
-  "updated_at": "2024-09-03T12:58:49Z",
+  "updated_at": "2024-09-19T08:56:07Z",
   "pushed_at": "2024-09-03T12:58:46Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -464,103 +468,93 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 173,
-        "uniques": 22
+        "count": 26,
+        "uniques": 14
       },
       "clones": {
-        "count": 15,
-        "uniques": 15
+        "count": 9,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 27,
-          "uniques": 14
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/sandbox/debug_connect.rb",
-          "title": "pluto/sandbox/debug_connect.rb at master · feedreader/pluto",
-          "count": 16,
-          "uniques": 1
+          "count": 9,
+          "uniques": 8
         },
         {
           "path": "/feedreader/pluto/pulls",
           "title": "Pull requests · feedreader/pluto",
-          "count": 10,
+          "count": 4,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/pluto",
-          "title": "pluto/pluto at master · feedreader/pluto",
-          "count": 8,
-          "uniques": 3
+          "path": "/feedreader/pluto/pull/46",
+          "title": "Code cleanup and linter fixes by bmos · Pull Request #46 · feedreader/pluto ·...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/issues",
+          "title": "Issues · feedreader/pluto · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/issues/33",
+          "title": "handle / catch \"HTTP redirect too deep\" error / exception · Issue #33 · feedr...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/issues/42",
+          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/feedreader/pluto/blob/master/sandbox/debug_connect.rb",
+          "title": "pluto/sandbox/debug_connect.rb at master · feedreader/pluto",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/issues/40",
+          "title": "HTTP/HTTPS redirect too deep when server uses cookies to authenticate connect...",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/feedreader/pluto/pull/45",
           "title": "Work around removal of \"to_h\" method in Rails 7.0 by bmos · Pull Request #45 ...",
-          "count": 7,
+          "count": 1,
           "uniques": 1
         },
         {
           "path": "/feedreader/pluto/pull/47",
           "title": "add OpenSSL error to rescue list by bmos · Pull Request #47 · feedreader/pluto",
-          "count": 7,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto ...",
-          "count": 6,
-          "uniques": 5
-        },
-        {
-          "path": "/feedreader/pluto/blob/master/README.md",
-          "title": "pluto/README.md at master · feedreader/pluto",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commits/master",
-          "title": "Commits · feedreader/pluto",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/pull/45/files",
-          "title": "Work around removal of \"to_h\" method in Rails 7.0 by bmos · Pull Request #45 ...",
-          "count": 4,
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 10,
-          "uniques": 6
-        },
-        {
           "referrer": "Google",
-          "count": 6,
-          "uniques": 5
+          "count": 7,
+          "uniques": 7
         },
         {
-          "referrer": "rubygems.org",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "planet.gentoo.org",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubytalk.org",
-          "count": 2,
+          "referrer": "inoreader.com",
+          "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "mail.google.com",
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
           "count": 1,
           "uniques": 1
         }
@@ -6636,6 +6630,90 @@
         }
       },
       "2024-09-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-19": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-20": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-24": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-09-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-09-30": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2024-09-22": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-09-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-09-29": {
         "clones": {
           "count": 1,
           "uniques": 1
