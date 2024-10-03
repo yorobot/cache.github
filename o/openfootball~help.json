@@ -381,6 +381,10 @@
     "2024-10-01": {
       "stargazers_count": 5,
       "forks_count": 2
+    },
+    "2024-10-03": {
+      "stargazers_count": 5,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -404,8 +408,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 30,
-        "uniques": 14
+        "count": 35,
+        "uniques": 15
       },
       "clones": {
         "count": 2,
@@ -415,12 +419,24 @@
         {
           "path": "/openfootball/help",
           "title": "openfootball/help: help & support incl. frequently asked questions (FAQs) and...",
-          "count": 23,
+          "count": 27,
           "uniques": 13
         },
         {
           "path": "/openfootball/help/issues",
           "title": "Issues · openfootball/help",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/help/graphs/traffic",
+          "title": "Traffic · openfootball/help",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/help/issues/11",
+          "title": "error running sportdb new en · Issue #11 · openfootball/help · GitHub",
           "count": 1,
           "uniques": 1
         },
@@ -435,23 +451,29 @@
           "title": "Different format for scores · Issue #43 · openfootball/help",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/openfootball/help/pulse",
+          "title": "Pulse · openfootball/help",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 3
+        },
+        {
           "referrer": "openfootball.github.io",
           "count": 7,
-          "uniques": 7
+          "uniques": 6
         },
         {
           "referrer": "rubydoc.info",
           "count": 7,
           "uniques": 1
-        },
-        {
-          "referrer": "github.com",
-          "count": 5,
-          "uniques": 2
         },
         {
           "referrer": "footballbook.github.io",
@@ -4472,6 +4494,18 @@
         "views": {
           "count": 4,
           "uniques": 3
+        }
+      },
+      "2024-10-02": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2024-10-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

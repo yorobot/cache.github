@@ -378,6 +378,10 @@
     "2024-10-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2024-10-03": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -401,18 +405,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 1
       },
       "clones": {
         "count": 2,
         "uniques": 1
       },
       "paths": [
-
+        {
+          "path": "/openfootball/spec",
+          "title": "openfootball/spec: Football.TXT Format Spec (& Tests)",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/spec/tree/master/docs",
+          "title": "spec/docs at master · openfootball/spec",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "sportdb.github.io",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2186,6 +2205,12 @@
       },
       "2024-09-25": {
         "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-10-02": {
+        "views": {
           "count": 2,
           "uniques": 1
         }

@@ -338,6 +338,10 @@
     "2024-10-01": {
       "stargazers_count": 258,
       "forks_count": 72
+    },
+    "2024-10-03": {
+      "stargazers_count": 258,
+      "forks_count": 72
     }
   },
   "commits": [
@@ -368,19 +372,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 5,
-        "uniques": 5
+        "count": 7,
+        "uniques": 6
       },
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 9,
+        "uniques": 9
       },
       "paths": [
         {
           "path": "/planetruby/conferences",
-          "title": "GitHub - planetruby/conferences: What's Upcoming in 2023? - A collection of a...",
-          "count": 3,
-          "uniques": 3
+          "title": "planetruby/conferences: What's Upcoming in 2023? - A collection of awesome ru...",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/conferences/issues/74",
+          "title": "Conferences in 2022? · Issue #74 · planetruby/conferences · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/planetruby/conferences/pulls",
@@ -390,7 +400,11 @@
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 2,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -3942,6 +3956,16 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }

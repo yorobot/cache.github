@@ -322,6 +322,10 @@
     "2024-10-01": {
       "stargazers_count": 12,
       "forks_count": 3
+    },
+    "2024-10-03": {
+      "stargazers_count": 12,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -348,8 +352,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 6,
+        "uniques": 4
       },
       "clones": {
         "count": 1,
@@ -359,12 +363,40 @@
         {
           "path": "/bigkorupto/sources",
           "title": "GitHub - bigkorupto/sources: source and notes in German about the strange cas...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/bigkorupto/sources/blob/master/.gitignore",
+          "title": "sources/.gitignore at master · bigkorupto/sources · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bigkorupto/sources/blob/master/process/pdfs/2021-04-23--uniqa-stellungnahme--email-corona.pdf",
+          "title": "sources/process/pdfs/2021-04-23--uniqa-stellungnahme--email-corona.pdf at mas...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bigkorupto/sources/blob/master/process/pdfs/2021-04-23--uniqa-stellungnahme--email-kabiri-ii.pdf",
+          "title": "sources/process/pdfs/2021-04-23--uniqa-stellungnahme--email-kabiri-ii.pdf at ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/bigkorupto/sources/tree/master/process",
+          "title": "sources/process at master · bigkorupto/sources · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -2948,6 +2980,12 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-10-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
         }
       }
     }

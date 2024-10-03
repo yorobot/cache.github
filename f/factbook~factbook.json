@@ -429,6 +429,10 @@
     "2024-10-01": {
       "stargazers_count": 140,
       "forks_count": 23
+    },
+    "2024-10-03": {
+      "stargazers_count": 140,
+      "forks_count": 23
     }
   },
   "commits": [
@@ -459,25 +463,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 158,
-        "uniques": 41
+        "count": 146,
+        "uniques": 39
       },
       "clones": {
-        "count": 13,
-        "uniques": 10
+        "count": 10,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
           "count": 41,
-          "uniques": 30
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-importers",
-          "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
-          "count": 9,
-          "uniques": 3
+          "uniques": 31
         },
         {
           "path": "/factbook/factbook/tree/master/factbook",
@@ -490,6 +488,12 @@
           "title": "factbook/script at master · factbook/factbook · GitHub",
           "count": 8,
           "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-importers",
+          "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
+          "count": 7,
+          "uniques": 2
         },
         {
           "path": "/factbook/factbook/tree/master/factbook-fields",
@@ -516,28 +520,28 @@
           "uniques": 2
         },
         {
-          "path": "/factbook/factbook/tree/master/factbook-importers/test",
-          "title": "factbook/factbook-importers/test at master · factbook/factbook · GitHub",
-          "count": 5,
+          "path": "/factbook/factbook/blob/master/script/build.rb",
+          "title": "factbook/script/build.rb at master · factbook/factbook",
+          "count": 4,
           "uniques": 2
         },
         {
-          "path": "/factbook/factbook/tree/master/factbook-readers",
-          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
-          "count": 5,
-          "uniques": 2
+          "path": "/factbook/factbook/blob/master/factbook-fields/data/fields.csv",
+          "title": "factbook/factbook-fields/data/fields.csv at master · factbook/factbook",
+          "count": 4,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 41,
+          "count": 36,
           "uniques": 11
         },
         {
           "referrer": "Google",
-          "count": 12,
-          "uniques": 5
+          "count": 7,
+          "uniques": 4
         },
         {
           "referrer": "Baidu",
@@ -7888,12 +7892,12 @@
       },
       "2024-09-19": {
         "views": {
-          "count": 9,
-          "uniques": 2
+          "count": 2,
+          "uniques": 1
         },
         "clones": {
-          "count": 4,
-          "uniques": 4
+          "count": 1,
+          "uniques": 1
         }
       },
       "2024-09-20": {
@@ -7972,12 +7976,22 @@
         "views": {
           "count": 3,
           "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       },
       "2024-09-25": {
         "clones": {
           "count": 4,
           "uniques": 2
+        }
+      },
+      "2024-10-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
         }
       }
     }

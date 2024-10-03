@@ -429,6 +429,10 @@
     "2024-10-01": {
       "stargazers_count": 15,
       "forks_count": 13
+    },
+    "2024-10-03": {
+      "stargazers_count": 15,
+      "forks_count": 13
     }
   },
   "commits": [
@@ -455,8 +459,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 7
+        "count": 13,
+        "uniques": 11
       },
       "clones": {
         "count": 2,
@@ -466,30 +470,41 @@
         {
           "path": "/openmundi/world.csv",
           "title": "openmundi/world.csv: Free open public domain world data (incl. countries ) in...",
-          "count": 5,
-          "uniques": 5
+          "count": 9,
+          "uniques": 9
         },
         {
           "path": "/openmundi/world.csv/blob/master/SOURCES.md",
           "title": "world.csv/SOURCES.md at master · openmundi/world.csv",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.csv/blob/master/countries(204)_olympics.csv",
+          "title": "world.csv/countries(204)_olympics.csv at master · openmundi/world.csv",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Bing",
-          "count": 4,
-          "uniques": 4
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "github.com",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "Google",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -3379,6 +3394,12 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2024-10-02": {
+        "views": {
+          "count": 6,
+          "uniques": 5
         }
       }
     }

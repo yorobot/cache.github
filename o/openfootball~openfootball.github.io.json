@@ -429,6 +429,10 @@
     "2024-10-01": {
       "stargazers_count": 143,
       "forks_count": 32
+    },
+    "2024-10-03": {
+      "stargazers_count": 143,
+      "forks_count": 32
     }
   },
   "commits": [
@@ -455,31 +459,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 32,
-        "uniques": 17
+        "count": 49,
+        "uniques": 22
       },
       "clones": {
-        "count": 5,
-        "uniques": 4
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/openfootball/openfootball.github.io",
-          "title": "openfootball/openfootball.github.io： Open Football Data （football.db） 网站",
-          "count": 14,
-          "uniques": 11
+          "title": "openfootball/openfootball.github.io: Open Football Data (football.db) Website",
+          "count": 18,
+          "uniques": 15
+        },
+        {
+          "path": "/openfootball/openfootball.github.io/tree/master/_includes",
+          "title": "openfootball.github.io/_includes at master · openfootball/openfootball.github...",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/openfootball/openfootball.github.io/tree/master",
           "title": "openfootball.github.io/ at master · openfootball/openfootball.github.io · Git...",
           "count": 3,
           "uniques": 2
-        },
-        {
-          "path": "/openfootball/openfootball.github.io/tree/master/_includes",
-          "title": "openfootball.github.io/_includes at master · openfootball/openfootball.github...",
-          "count": 3,
-          "uniques": 1
         },
         {
           "path": "/openfootball/openfootball.github.io/tree/master/_posts",
@@ -500,6 +504,18 @@
           "uniques": 1
         },
         {
+          "path": "/openfootball/openfootball.github.io/blob/master/_includes/announce.html",
+          "title": "openfootball.github.io/_includes/announce.html at master · openfootball/openf...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/openfootball.github.io/blob/master/_includes/thanks.html",
+          "title": "openfootball.github.io/_includes/thanks.html at master · openfootball/openfoo...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
           "path": "/openfootball/openfootball.github.io/blob/master/index.md",
           "title": "openfootball.github.io/index.md at master · openfootball/openfootball.github....",
           "count": 1,
@@ -515,13 +531,18 @@
       "referrers": [
         {
           "referrer": "openfootball.github.io",
-          "count": 13,
-          "uniques": 4
+          "count": 14,
+          "uniques": 5
         },
         {
           "referrer": "github.com",
-          "count": 5,
-          "uniques": 4
+          "count": 10,
+          "uniques": 5
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
@@ -7092,7 +7113,23 @@
       },
       "2024-10-01": {
         "views": {
-          "count": 6,
+          "count": 9,
+          "uniques": 4
+        }
+      },
+      "2024-10-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-10-03": {
+        "views": {
+          "count": 13,
           "uniques": 3
         }
       }

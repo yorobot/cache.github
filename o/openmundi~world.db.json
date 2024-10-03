@@ -429,6 +429,10 @@
     "2024-10-01": {
       "stargazers_count": 570,
       "forks_count": 54
+    },
+    "2024-10-03": {
+      "stargazers_count": 570,
+      "forks_count": 54
     }
   },
   "commits": [
@@ -455,19 +459,19 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 58,
-        "uniques": 26
+        "count": 50,
+        "uniques": 25
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 6,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/openmundi/world.db",
           "title": "openmundi/world.db: Free open public domain world database 'n' schema for use...",
-          "count": 23,
-          "uniques": 18
+          "count": 21,
+          "uniques": 16
         },
         {
           "path": "/openmundi/world.db/blob/master/continents.txt",
@@ -482,26 +486,8 @@
           "uniques": 2
         },
         {
-          "path": "/openmundi/world.db/tree/master/africa",
-          "title": "world.db/africa at master · openmundi/world.db",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/tree/master/africa/2-more",
-          "title": "world.db/africa/2-more at master · openmundi/world.db",
-          "count": 3,
-          "uniques": 1
-        },
-        {
           "path": "/openmundi/world.db/blob/df13c6441ae37918a7b05317a16b39914d42ede8/africa/ci-cote-d-ivoire/cities.txt",
           "title": "world.db/africa/ci-cote-d-ivoire/cities.txt at df13c6441ae37918a7b05317a16b39...",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openmundi/world.db/blob/master/africa/2-more/continents.yml",
-          "title": "world.db/africa/2-more/continents.yml at master · openmundi/world.db",
           "count": 2,
           "uniques": 1
         },
@@ -522,13 +508,31 @@
           "title": "world.db/asia/bd-bangladesh at master · openmundi/world.db · GitHub",
           "count": 2,
           "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/north-america/ca-canada/cities.txt",
+          "title": "world.db/north-america/ca-canada/cities.txt at master · openmundi/world.db · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/north-america/ca-canada/regions.txt",
+          "title": "world.db/north-america/ca-canada/regions.txt at master · openmundi/world.db ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/world.db/blob/master/north-america/countries.txt",
+          "title": "world.db/north-america/countries.txt at master · openmundi/world.db · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 7
+          "count": 12,
+          "uniques": 6
         },
         {
           "referrer": "kabytes.com",
@@ -537,17 +541,12 @@
         },
         {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         {
           "referrer": "Bing",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "openmundi.github.io",
-          "count": 1,
           "uniques": 1
         },
         {
@@ -556,7 +555,7 @@
           "uniques": 1
         },
         {
-          "referrer": "groups.google.com",
+          "referrer": "openmundi.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -6999,8 +6998,8 @@
           "uniques": 3
         },
         "clones": {
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         }
       },
       "2024-09-20": {
@@ -7069,6 +7068,12 @@
         "clones": {
           "count": 2,
           "uniques": 1
+        }
+      },
+      "2024-10-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
