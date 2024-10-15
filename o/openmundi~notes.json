@@ -433,6 +433,10 @@
     "2024-10-03": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2024-10-15": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -459,14 +463,32 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 2,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
+        {
+          "path": "/openmundi/notes",
+          "title": "openmundi/notes: Open Mundi (world.db) Notes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/notes/blob/master/NOTES.md",
+          "title": "notes/NOTES.md at master · openmundi/notes",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/notes/blob/master/README.md",
+          "title": "notes/README.md at master · openmundi/notes",
+          "count": 1,
+          "uniques": 1
+        },
         {
           "path": "/openmundi/notes/compare",
           "title": "Compare · openmundi/notes · GitHub",
@@ -475,7 +497,11 @@
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "jokecamp.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -860,6 +886,12 @@
       "2024-10-02": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-09": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

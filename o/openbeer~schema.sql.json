@@ -433,6 +433,10 @@
     "2024-10-03": {
       "stargazers_count": 8,
       "forks_count": 0
+    },
+    "2024-10-15": {
+      "stargazers_count": 9,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -449,7 +453,7 @@
     }
   ],
   "size": 140,
-  "updated_at": "2024-04-02T17:40:44Z",
+  "updated_at": "2024-10-14T03:56:33Z",
   "pushed_at": "2014-08-08T22:38:54Z",
   "description": "beer.db database schema (tables, views, etc.) scripts (in SQL) and documentation",
   "language": null,
@@ -459,17 +463,23 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 6,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
+        "count": 1,
         "uniques": 1
       },
       "paths": [
         {
           "path": "/openbeer/schema.sql",
           "title": "openbeer/schema.sql: beer.db database schema (tables, views, etc.) scripts (i...",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/openbeer/schema.sql/blob/master/beer.db.sql",
+          "title": "schema.sql/beer.db.sql at master · openbeer/schema.sql · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -477,8 +487,8 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -2592,6 +2602,34 @@
       "2024-09-26": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-10-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-14": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

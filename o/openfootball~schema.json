@@ -433,6 +433,10 @@
     "2024-10-03": {
       "stargazers_count": 7,
       "forks_count": 0
+    },
+    "2024-10-15": {
+      "stargazers_count": 7,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -459,23 +463,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 7,
+        "uniques": 6
       },
       "clones": {
-        "count": 3,
-        "uniques": 3
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
+        {
+          "path": "/openfootball/schema",
+          "title": "openfootball/schema: football.db database schema docu",
+          "count": 3,
+          "uniques": 2
+        },
         {
           "path": "/openfootball/schema/blob/master/_data/database.json",
           "title": "schema/_data/database.json at master · openfootball/schema · GitHub",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "path": "/openfootball/schema/blob/master/_data/symbols.json",
+          "title": "schema/_data/symbols.json at master · openfootball/schema · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -1523,6 +1543,30 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-10-07": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-10-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }
