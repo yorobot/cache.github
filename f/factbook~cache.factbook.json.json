@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
-  "updated_at": "2024-10-10T22:21:35Z",
-  "pushed_at": "2024-10-10T22:21:31Z",
-  "size": 156527,
+  "updated_at": "2024-10-31T22:21:47Z",
+  "pushed_at": "2024-10-31T22:21:41Z",
+  "size": 144245,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -330,19 +330,23 @@
     "2024-10-15": {
       "stargazers_count": 8,
       "forks_count": 3
+    },
+    "2024-11-01": {
+      "stargazers_count": 8,
+      "forks_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-10-10T22:21:29Z",
+        "date": "2024-10-31T22:21:38Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2024-10-10T22:21:29Z",
+        "date": "2024-10-31T22:21:38Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 41"
+      "message": "auto-update week 44"
     }
   ],
   "topics": [
@@ -353,66 +357,31 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 14,
-        "uniques": 8
+        "count": 5,
+        "uniques": 3
       },
       "clones": {
-        "count": 16,
-        "uniques": 9
+        "count": 10,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/factbook/cache.factbook.json/blob/master/README.md",
           "title": "cache.factbook.json/README.md at master · factbook/cache.factbook.json",
-          "count": 4,
-          "uniques": 2
+          "count": 3,
+          "uniques": 1
         },
         {
           "path": "/factbook/cache.factbook.json",
           "title": "factbook/cache.factbook.json: A cache for datasets for the country profiles f...",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/gv.json",
-          "title": "cache.factbook.json/africa/gv.json at master · factbook/cache.factbook.json ·...",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/ag.json",
-          "title": "cache.factbook.json/africa/ag.json at master · factbook/cache.factbook.json",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/africa/mo.json",
-          "title": "cache.factbook.json/africa/mo.json at master · factbook/cache.factbook.json ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/europe/gr.json",
-          "title": "cache.factbook.json/europe/gr.json at master · factbook/cache.factbook.json ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/africa",
-          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json",
-          "count": 1,
-          "uniques": 1
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 2,
-          "uniques": 2
-        },
-        {
           "referrer": "Google",
-          "count": 2,
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -5861,6 +5830,52 @@
       "2024-10-10": {
         "clones": {
           "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-10-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-10-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-10-24": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-10-25": {
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-10-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-01": {
+        "clones": {
+          "count": 3,
           "uniques": 2
         }
       }

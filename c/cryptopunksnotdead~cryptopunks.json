@@ -1,7 +1,7 @@
 {
   "full_name": "cryptopunksnotdead/cryptopunks",
   "created_at": "2021-10-22T22:23:19Z",
-  "updated_at": "2024-07-30T17:32:23Z",
+  "updated_at": "2024-10-30T06:53:37Z",
   "pushed_at": "2024-03-19T09:28:56Z",
   "size": 6305,
   "description": "(crypto) pixel punks - libraries, tools & scripts, and more",
@@ -326,6 +326,10 @@
     "2024-10-15": {
       "stargazers_count": 39,
       "forks_count": 7
+    },
+    "2024-11-01": {
+      "stargazers_count": 40,
+      "forks_count": 7
     }
   },
   "commits": [
@@ -363,43 +367,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 101,
-        "uniques": 14
+        "count": 85,
+        "uniques": 15
       },
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 6,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/cryptopunks",
           "title": "GitHub - cryptopunksnotdead/cryptopunks: (crypto) pixel punks - libraries, to...",
-          "count": 21,
-          "uniques": 14
+          "count": 16,
+          "uniques": 12
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks",
           "title": "cryptopunks/cryptopunks at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 11,
-          "uniques": 4
-        },
-        {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-contracts",
-          "title": "cryptopunks/cryptopunks-contracts at master · cryptopunksnotdead/cryptopunks ...",
-          "count": 6,
-          "uniques": 3
+          "count": 8,
+          "uniques": 5
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks/tree/master/punks",
           "title": "cryptopunks/punks at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 6,
+          "count": 4,
           "uniques": 3
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-gui",
-          "title": "cryptopunks/cryptopunks-gui at master · cryptopunksnotdead/cryptopunks · GitHub",
-          "count": 5,
-          "uniques": 4
+          "path": "/cryptopunksnotdead/cryptopunks/issues",
+          "title": "Issues · cryptopunksnotdead/cryptopunks",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/punks/lib",
+          "title": "cryptopunks/punks/lib at master · cryptopunksnotdead/cryptopunks · GitHub",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/cryptopunksnotdead/cryptopunks/tree/master/punkart",
@@ -408,26 +412,26 @@
           "uniques": 3
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks/attic",
-          "title": "cryptopunks/cryptopunks/attic at master · cryptopunksnotdead/cryptopunks · Gi...",
+          "path": "/cryptopunksnotdead/cryptopunks/issues/1",
+          "title": "`map': undefined method `name' · Issue #1 · cryptopunksnotdead/cryptopunks",
           "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/punks/attic",
-          "title": "cryptopunks/punks/attic at master · cryptopunksnotdead/cryptopunks · GitHub",
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/punks/lib/punks",
+          "title": "cryptopunks/punks/lib/punks at master · cryptopunksnotdead/cryptopunks · GitHub",
           "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-contracts/sandbox",
-          "title": "cryptopunks/cryptopunks-contracts/sandbox at master · cryptopunksnotdead/cryp...",
-          "count": 2,
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/punks/lib/punks/dataset",
+          "title": "cryptopunks/punks/lib/punks/dataset at master · cryptopunksnotdead/cryptopunk...",
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks/lib",
-          "title": "cryptopunks/cryptopunks/lib at master · cryptopunksnotdead/cryptopunks · GitHub",
+          "path": "/cryptopunksnotdead/cryptopunks/tree/master/cryptopunks-gui",
+          "title": "cryptopunks/cryptopunks-gui at master · cryptopunksnotdead/cryptopunks · GitHub",
           "count": 2,
           "uniques": 2
         }
@@ -435,17 +439,17 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 66,
-          "uniques": 10
+          "count": 29,
+          "uniques": 8
         },
         {
-          "referrer": "cryptopunksnotdead.github.io",
+          "referrer": "github.com",
+          "count": 25,
+          "uniques": 4
+        },
+        {
+          "referrer": "rubydoc.info",
           "count": 7,
-          "uniques": 1
-        },
-        {
-          "referrer": "Bing",
-          "count": 3,
           "uniques": 1
         },
         {
@@ -454,8 +458,8 @@
           "uniques": 1
         },
         {
-          "referrer": "github.com",
-          "count": 2,
+          "referrer": "reddit.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -8105,6 +8109,76 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-10-19": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-10-21": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-10-22": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2024-10-23": {
+        "views": {
+          "count": 20,
+          "uniques": 1
+        }
+      },
+      "2024-10-25": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-27": {
+        "views": {
+          "count": 18,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-28": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-10-30": {
+        "views": {
+          "count": 21,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

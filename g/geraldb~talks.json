@@ -437,6 +437,10 @@
     "2024-10-15": {
       "stargazers_count": 218,
       "forks_count": 17
+    },
+    "2024-11-01": {
+      "stargazers_count": 217,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -453,7 +457,7 @@
     }
   ],
   "size": 18488,
-  "updated_at": "2024-04-19T06:54:51Z",
+  "updated_at": "2024-10-24T11:01:34Z",
   "pushed_at": "2023-09-06T10:23:23Z",
   "description": "talks, talks, talks  (sources in Markdown)",
   "language": null,
@@ -463,25 +467,43 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 35,
-        "uniques": 24
+        "count": 74,
+        "uniques": 38
       },
       "clones": {
-        "count": 8,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/geraldb/talks/blob/master/factbook.md",
           "title": "talks/factbook.md at master · geraldb/talks · GitHub",
-          "count": 6,
-          "uniques": 5
+          "count": 9,
+          "uniques": 7
         },
         {
           "path": "/geraldb/talks/blob/master/football_db_intro.md",
-          "title": "talks/football_db_intro.md at master · geraldb/talks",
-          "count": 5,
-          "uniques": 4
+          "title": "talks/football_db_intro.md at master · geraldb/talks · GitHub",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/geraldb/talks/blob/master/contracts.md",
+          "title": "talks/contracts.md at master · geraldb/talks · GitHub",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "path": "/geraldb/talks/blob/master/ethers.md",
+          "title": "talks/ethers.md at master · geraldb/talks · GitHub",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "path": "/geraldb/talks",
+          "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
+          "count": 6,
+          "uniques": 5
         },
         {
           "path": "/geraldb/talks/blob/master/open_data_world_cup_with_js.md",
@@ -490,72 +512,49 @@
           "uniques": 4
         },
         {
-          "path": "/geraldb/talks",
-          "title": "GitHub - geraldb/talks: talks, talks, talks (sources in Markdown)",
+          "path": "/geraldb/talks/blob/master/open_data_world_cup.md",
+          "title": "talks/open_data_world_cup.md at master · geraldb/talks · GitHub",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/geraldb/talks/blob/d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2/insideordinals.md",
+          "title": "talks/insideordinals.md at d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2 · geraldb...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/geraldb/talks/blob/master/insideordinals.md",
+          "title": "talks/insideordinals.md at master · geraldb/talks · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/geraldb/talks/blob/master/jekyll_vs_middleman.md",
-          "title": "talks/jekyll_vs_middleman.md at master · geraldb/talks",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2/ethers.md",
-          "title": "talks/ethers.md at d2b1dc02c72f376458ed0d2674b7cfeab0df4fd2 · geraldb/talks",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/blockchain.md",
-          "title": "talks/blockchain.md at master · geraldb/talks · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/bool.md",
-          "title": "talks/bool.md at master · geraldb/talks",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/hyperledger.md",
-          "title": "talks/hyperledger.md at master · geraldb/talks · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/geraldb/talks/blob/master/i/factbook-au.png",
-          "title": "talks/i/factbook-au.png at master · geraldb/talks",
+          "path": "/geraldb/talks/blame/master/factbook.md",
+          "title": "Blaming talks/factbook.md at master · geraldb/talks · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 4
+          "referrer": "github.com",
+          "count": 21,
+          "uniques": 10
         },
         {
-          "referrer": "github.com",
-          "count": 6,
-          "uniques": 5
+          "referrer": "openfootball.github.io",
+          "count": 16,
+          "uniques": 10
         },
         {
           "referrer": "Google",
-          "count": 3,
+          "count": 7,
           "uniques": 2
         },
         {
-          "referrer": "forum.middlemanapp.com",
+          "referrer": "chatgpt.com",
           "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "perplexity.ai",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -7467,6 +7466,94 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-10-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-21": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2024-10-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-10-23": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2024-10-24": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2024-10-25": {
+        "views": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2024-10-26": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        }
+      },
+      "2024-10-27": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-10-28": {
+        "views": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2024-10-29": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2024-10-30": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-31": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        }
+      },
+      "2024-11-01": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

@@ -437,6 +437,10 @@
     "2024-10-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2024-11-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -463,18 +467,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openbeer/nl-netherlands",
+          "title": "openbeer/nl-netherlands: Free open public domain beer, brewery n brewpub data...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/nl-netherlands/blob/master/4--li-limburg--southern/breweries.txt",
+          "title": "nl-netherlands/4--li-limburg--southern/breweries.txt at master · openbeer/nl-...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/nl-netherlands/tree/master/4--li-limburg--southern",
+          "title": "nl-netherlands/4--li-limburg--southern at master · openbeer/nl-netherlands",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -911,6 +936,12 @@
       "2024-10-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-10-20": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }
