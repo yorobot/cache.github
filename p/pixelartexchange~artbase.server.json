@@ -242,6 +242,10 @@
     "2024-11-01": {
       "stargazers_count": 78,
       "forks_count": 6
+    },
+    "2024-11-15": {
+      "stargazers_count": 78,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -272,48 +276,54 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 8,
-        "uniques": 7
+        "count": 9,
+        "uniques": 4
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/pixelartexchange/artbase.server",
           "title": "pixelartexchange/artbase.server: artbase - zero-config web server / services;...",
-          "count": 5,
-          "uniques": 5
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/pixelartexchange/artbase.server/blob/master/.goreleaser.yml",
-          "title": "artbase.server/.goreleaser.yml at master · pixelartexchange/artbase.server",
-          "count": 1,
-          "uniques": 1
+          "path": "/pixelartexchange/artbase.server/tree/master/artbase",
+          "title": "artbase.server/artbase at master · pixelartexchange/artbase.server",
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/pixelartexchange/artbase.server/tree/master/.github/workflows",
-          "title": "artbase.server/.github/workflows at master · pixelartexchange/artbase.server ...",
-          "count": 1,
-          "uniques": 1
+          "path": "/pixelartexchange/artbase.server/tree/master/attic/artbase",
+          "title": "artbase.server/attic/artbase at master · pixelartexchange/artbase.server",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/pixelartexchange/artbase.server/tree/master/i",
-          "title": "artbase.server/i at master · pixelartexchange/artbase.server · GitHub",
+          "title": "artbase.server/i at master · pixelartexchange/artbase.server",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/pixelartexchange/artbase.server/tree/master/serve",
+          "title": "artbase.server/serve at master · pixelartexchange/artbase.server",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 3,
+          "referrer": "github.com",
+          "count": 5,
           "uniques": 2
         },
         {
-          "referrer": "Bing",
-          "count": 1,
+          "referrer": "yandex.ru",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -4012,6 +4022,40 @@
       "2024-10-31": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-06": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2024-11-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-12": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-13": {
+        "clones": {
+          "count": 2,
           "uniques": 1
         }
       }

@@ -436,6 +436,10 @@
     "2024-11-01": {
       "stargazers_count": 38,
       "forks_count": 1
+    },
+    "2024-11-15": {
+      "stargazers_count": 38,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -469,29 +473,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 4,
         "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/beerkit/beer.db",
           "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/beerkit/beer.db/blob/master/lib/beerdb/schema.rb",
+          "title": "File not found · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/beerkit/beer.db/blob/master/lib/beerdb/schema.rb",
-          "title": "File not found",
+          "path": "/beerkit/beer.db/tree/master/beerdb-admin",
+          "title": "beer.db/beerdb-admin at master · beerkit/beer.db · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        }
       ]
     },
     "history": {
@@ -3447,6 +3461,28 @@
       },
       "2024-10-28": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-08": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-11-09": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

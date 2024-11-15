@@ -393,6 +393,10 @@
     "2024-11-01": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2024-11-15": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -425,84 +429,94 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
-        "uniques": 5
+        "count": 65,
+        "uniques": 10
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
+          "path": "/sportdb/football.db",
+          "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
+          "count": 8,
+          "uniques": 6
+        },
+        {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db · GitHub",
-          "count": 10,
-          "uniques": 3
-        },
-        {
-          "path": "/sportdb/football.db",
-          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
           "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/football-to-sqlite/bin",
-          "title": "football.db/football-to-sqlite/bin at master · sportdb/football.db · GitHub",
-          "count": 3,
-          "uniques": 1
+          "uniques": 5
         },
         {
           "path": "/sportdb/football.db/tree/master/footballdb-leagues",
           "title": "football.db/footballdb-leagues at master · sportdb/football.db · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/football-to-sqlite/sandbox",
-          "title": "football.db/football-to-sqlite/sandbox at master · sportdb/football.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/football-to-sqlite/bin/football2sqlite",
-          "title": "football.db/football-to-sqlite/bin/football2sqlite at master · sportdb/footba...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/issues",
-          "title": "Issues · sportdb/football.db · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/sportdb/football.db/tree/master",
-          "title": "football.db/ at master · sportdb/football.db · GitHub",
-          "count": 1,
+          "title": "GitHub - sportdb/football.db: football.db - zero-config (pre-packaged) open f...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/football-cat",
+          "title": "football.db/football-cat at master · sportdb/football.db · GitHub",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
+          "title": "football.db/footballdb-clubs at master · sportdb/football.db · GitHub",
+          "count": 3,
           "uniques": 1
         },
         {
           "path": "/sportdb/football.db/tree/master/football-to-psql",
           "title": "football.db/football-to-psql at master · sportdb/football.db · GitHub",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/bin/football2sqlite",
+          "title": "football.db/football-to-sqlite/bin/football2sqlite at master · sportdb/footba...",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
-          "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db · GitHub",
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs/lib/footballdb",
+          "title": "football.db/footballdb-clubs/lib/footballdb at master · sportdb/football.db ·...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/actions",
+          "title": "Actions · sportdb/football.db · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "footballcsv.github.io",
+          "count": 23,
+          "uniques": 1
+        },
+        {
           "referrer": "openfootball.github.io",
-          "count": 24,
-          "uniques": 4
+          "count": 10,
+          "uniques": 2
         },
         {
           "referrer": "Google",
-          "count": 2,
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -4087,6 +4101,62 @@
       "2024-10-31": {
         "views": {
           "count": 19,
+          "uniques": 1
+        }
+      },
+      "2024-11-02": {
+        "views": {
+          "count": 9,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-11-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-11-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-11": {
+        "views": {
+          "count": 48,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-12": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-11-03": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }
