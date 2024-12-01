@@ -445,6 +445,10 @@
     "2024-11-15": {
       "stargazers_count": 17,
       "forks_count": 6
+    },
+    "2024-12-01": {
+      "stargazers_count": 17,
+      "forks_count": 6
     }
   },
   "commits": [
@@ -471,35 +475,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
-        "uniques": 14
+        "count": 18,
+        "uniques": 8
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/sportdb/sport.db.admin",
           "title": "sportdb/sport.db.admin: sport.db web app - Open Sports Database Web Admin Too...",
-          "count": 13,
-          "uniques": 10
+          "count": 10,
+          "uniques": 8
         },
         {
           "path": "/sportdb/sport.db.admin/tree/master/db",
           "title": "sport.db.admin/db at master · sportdb/sport.db.admin · GitHub",
-          "count": 3,
-          "uniques": 3
+          "count": 2,
+          "uniques": 2
         },
         {
-          "path": "/sportdb/sport.db.admin/blob/master/app/models/team.rb",
-          "title": "sport.db.admin/app/models/team.rb at master · sportdb/sport.db.admin · GitHub",
+          "path": "/sportdb/sport.db.admin/blob/master/datafile/worldcup2018.rb",
+          "title": "sport.db.admin/datafile/worldcup2018.rb at master · sportdb/sport.db.admin",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/sportdb/sport.db.admin/blob/master/db/schema.rb",
           "title": "sport.db.admin/db/schema.rb at master · sportdb/sport.db.admin",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/blob/master/db/seeds.rb",
+          "title": "sport.db.admin/db/seeds.rb at master · sportdb/sport.db.admin",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/tree/master",
+          "title": "sportdb/sport.db.admin: sport.db web app - Open Sports Database Web Admin Too...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.admin/tree/master/datafile",
+          "title": "sport.db.admin/datafile at master · sportdb/sport.db.admin",
           "count": 1,
           "uniques": 1
         },
@@ -512,19 +534,19 @@
       ],
       "referrers": [
         {
+          "referrer": "opensport.github.io",
+          "count": 9,
+          "uniques": 2
+        },
+        {
           "referrer": "openfootball.github.io",
-          "count": 12,
-          "uniques": 8
+          "count": 4,
+          "uniques": 3
         },
         {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "referrer": "opensport.github.io",
-          "count": 1,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -5127,6 +5149,40 @@
         "views": {
           "count": 4,
           "uniques": 3
+        }
+      },
+      "2024-11-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-19": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2024-11-20": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-11-21": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        }
+      },
+      "2024-11-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
         }
       }
     }

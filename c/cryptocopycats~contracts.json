@@ -330,6 +330,10 @@
     "2024-11-15": {
       "stargazers_count": 21,
       "forks_count": 18
+    },
+    "2024-12-01": {
+      "stargazers_count": 21,
+      "forks_count": 18
     }
   },
   "commits": [
@@ -364,29 +368,81 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 4
+        "count": 14,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
-          "path": "/cryptocopycats/contracts/blob/master/lib/bitcat/app.rb",
-          "title": "File not found · GitHub",
-          "count": 2,
+          "path": "/cryptocopycats/contracts",
+          "title": "cryptocopycats/contracts: Inside the CryptoKitties, MoonCats & Friends Blockc...",
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/cryptocopycats/contracts/blob/master/lib/bitcat/views/kitty.erb%3E",
-          "title": "File not found · GitHub",
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ERC721.sol",
+          "title": "contracts/cryptokitties/ERC721.sol at master · cryptocopycats/contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/GeneScience.sol",
+          "title": "contracts/cryptokitties/GeneScience.sol at master · cryptocopycats/contracts",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptocats/CryptoCatsMarket.sol",
+          "title": "contracts/cryptocats/CryptoCatsMarket.sol at master · cryptocopycats/contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptocats/PreviousCryptoCatsContract.sol",
+          "title": "contracts/cryptocats/PreviousCryptoCatsContract.sol at master · cryptocopycat...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/ERC721Metadata.sol",
+          "title": "contracts/cryptokitties/ERC721Metadata.sol at master · cryptocopycats/contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyAccessControl.sol",
+          "title": "contracts/cryptokitties/KittyAccessControl.sol at master · cryptocopycats/con...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyAuction.sol",
+          "title": "contracts/cryptokitties/KittyAuction.sol at master · cryptocopycats/contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/blob/master/cryptokitties/KittyBase.sol",
+          "title": "contracts/cryptokitties/KittyBase.sol at master · cryptocopycats/contracts",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/contracts/tree/master/cryptocats",
+          "title": "contracts/cryptocats at master · cryptocopycats/contracts",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -4807,6 +4863,22 @@
       "2024-11-15": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-23": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-25": {
+        "views": {
+          "count": 8,
           "uniques": 1
         }
       }

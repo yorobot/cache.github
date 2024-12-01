@@ -198,6 +198,10 @@
     "2024-11-15": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2024-12-01": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -227,18 +231,27 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/rubycocos/activerecord",
+          "title": "rubycocos/activerecord: activerecord (database) tools, libraries & scripts",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubygems.org",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -861,6 +874,12 @@
       "2024-09-24": {
         "clones": {
           "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-11-25": {
+        "views": {
+          "count": 1,
           "uniques": 1
         }
       }

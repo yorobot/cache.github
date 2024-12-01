@@ -445,6 +445,10 @@
     "2024-11-15": {
       "stargazers_count": 7,
       "forks_count": 2
+    },
+    "2024-12-01": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -471,18 +475,38 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/schemadoc/schemadoc-theme",
+          "title": "schemadoc/schemadoc-theme: Schema Theme - Database Docu for Tables, Fields, e...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/schemadoc/schemadoc-theme/blob/master/index.html",
+          "title": "schemadoc-theme/index.html at master · schemadoc/schemadoc-theme",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "planetruby.github.io",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1639,6 +1663,12 @@
       "2024-10-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-11-19": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }
