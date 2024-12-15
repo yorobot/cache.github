@@ -342,6 +342,10 @@
     "2024-12-01": {
       "stargazers_count": 12,
       "forks_count": 2
+    },
+    "2024-12-15": {
+      "stargazers_count": 12,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -365,41 +369,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 12,
-        "uniques": 3
+        "count": 10,
+        "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/factbook/media",
           "title": "factbook/media: World Factbook Media - Flags, Maps, Locators",
           "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/factbook/media/tree/master/flags",
-          "title": "media/flags at master · factbook/media",
-          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/factbook/media/tree/master/locators",
-          "title": "media/locators at master · factbook/media",
-          "count": 2,
-          "uniques": 2
+          "path": "/factbook/media/blob/master/flags/aa.png",
+          "title": "media/flags/aa.png at master · factbook/media",
+          "count": 1,
+          "uniques": 1
         },
         {
-          "path": "/factbook/media/tree/master/maps",
-          "title": "media/maps at master · factbook/media",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/media/blob/master/locators/ac.png",
-          "title": "media/locators/ac.png at master · factbook/media",
+          "path": "/factbook/media/blob/master/locators/aa.png",
+          "title": "media/locators/aa.png at master · factbook/media",
           "count": 1,
           "uniques": 1
         },
@@ -410,22 +402,35 @@
           "uniques": 1
         },
         {
-          "path": "/factbook/media/blob/master/maps/ym.png",
-          "title": "media/maps/ym.png at master · factbook/media",
+          "path": "/factbook/media/fork",
+          "title": "Fork factbook/media",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/tree/master/flags",
+          "title": "media/flags at master · factbook/media",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/tree/master/locators",
+          "title": "media/locators at master · factbook/media",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/media/tree/master/maps",
+          "title": "media/maps at master · factbook/media",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 8,
-          "uniques": 2
-        },
-        {
           "referrer": "github.com",
-          "count": 4,
-          "uniques": 1
+          "count": 10,
+          "uniques": 2
         }
       ]
     },
@@ -2218,6 +2223,24 @@
         "views": {
           "count": 8,
           "uniques": 2
+        }
+      },
+      "2024-12-10": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-12-14": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        }
+      },
+      "2024-12-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

@@ -449,6 +449,10 @@
     "2024-12-01": {
       "stargazers_count": 66,
       "forks_count": 15
+    },
+    "2024-12-15": {
+      "stargazers_count": 66,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -475,43 +479,60 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 1
+        "count": 8,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/openbeer/world",
           "title": "openbeer/world: Free open public domain beer, brewery n brewpub data",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/3--pl-poland--central/beers.txt",
+          "title": "world/europe/3--pl-poland--central/beers.txt at master · openbeer/world · Git...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/breweries.txt",
+          "title": "world/europe/1--en-england--british-isles/breweries.txt at master · openbeer/...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbeer/world/blob/master/asia/kr-south-korea/beers.txt",
-          "title": "world/asia/kr-south-korea/beers.txt at master · openbeer/world",
+          "path": "/openbeer/world/tree/master/europe",
+          "title": "world/europe at master · openbeer/world",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbeer/world/tree/master/asia",
-          "title": "world/asia at master · openbeer/world",
+          "path": "/openbeer/world/tree/master/europe/1--en-england--british-isles",
+          "title": "world/europe/1--en-england--british-isles at master · openbeer/world",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openbeer/world/tree/master/asia/kr-south-korea",
-          "title": "world/asia/kr-south-korea at master · openbeer/world",
+          "path": "/openbeer/world/tree/master/europe/3--pl-poland--central",
+          "title": "world/europe/3--pl-poland--central at master · openbeer/world",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
+          "referrer": "Bing",
           "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -2638,6 +2659,18 @@
       "2024-12-01": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-04": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2024-12-06": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

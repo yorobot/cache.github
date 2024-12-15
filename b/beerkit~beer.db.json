@@ -444,6 +444,10 @@
     "2024-12-01": {
       "stargazers_count": 38,
       "forks_count": 1
+    },
+    "2024-12-15": {
+      "stargazers_count": 38,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -477,30 +481,60 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 9,
         "uniques": 3
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/beerkit/beer.db",
           "title": "GitHub - beerkit/beer.db: beerdb gems - open beer database (beer.db) command ...",
-          "count": 3,
+          "count": 4,
           "uniques": 3
-        }
-      ],
-      "referrers": [
+        },
         {
-          "referrer": "Google",
+          "path": "/beerkit/beer.db/tree/master/beerdb",
+          "title": "beer.db/beerdb at master · beerkit/beer.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "search.brave.com",
+          "path": "/beerkit/beer.db/tree/master/beerdb-admin",
+          "title": "beer.db/beerdb-admin at master · beerkit/beer.db",
           "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-labels",
+          "title": "beer.db/beerdb-labels at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-service",
+          "title": "beer.db/beerdb-service at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerkit/beer.db/tree/master/beerdb-starter",
+          "title": "beer.db/beerdb-starter at master · beerkit/beer.db",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "openbeer.github.io",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -3498,6 +3532,40 @@
       },
       "2024-11-27": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-04": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2024-12-12": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-14": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

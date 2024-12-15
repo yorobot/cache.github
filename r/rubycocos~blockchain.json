@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2024-12-01T20:28:22Z",
+  "updated_at": "2024-12-12T11:00:03Z",
   "pushed_at": "2023-12-18T08:34:53Z",
   "size": 4202,
   "description": "blockchain (crypto) tools, libraries & scripts in ruby",
@@ -202,6 +202,10 @@
     "2024-12-01": {
       "stargazers_count": 225,
       "forks_count": 33
+    },
+    "2024-12-15": {
+      "stargazers_count": 225,
+      "forks_count": 33
     }
   },
   "commits": [
@@ -248,109 +252,94 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 76,
-        "uniques": 26
+        "count": 79,
+        "uniques": 23
       },
       "clones": {
         "count": 4,
-        "uniques": 3
+        "uniques": 4
       },
       "paths": [
         {
           "path": "/rubycocos/blockchain",
           "title": "rubycocos/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 24,
-          "uniques": 21
+          "count": 19,
+          "uniques": 18
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/base32-alphabets",
-          "title": "blockchain/base32-alphabets at master · rubycocos/blockchain",
-          "count": 4,
+          "path": "/rubycocos/blockchain/issues",
+          "title": "Issues · rubycocos/blockchain · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/master/ethlite/lib/ethlite/utils.rb",
+          "title": "blockchain/ethlite/lib/ethlite/utils.rb at master · rubycocos/blockchain",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/elliptic",
-          "title": "blockchain/elliptic at master · rubycocos/blockchain",
-          "count": 4,
+          "path": "/rubycocos/blockchain/tree/master/blockchain-lite",
+          "title": "blockchain/blockchain-lite at master · rubycocos/blockchain",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/ethlite-contracts/lib/ethlite/contract.rb",
-          "title": "blockchain/ethlite-contracts/lib/ethlite/contract.rb at master · rubycocos/bl...",
+          "path": "/rubycocos/blockchain/tree/master/tulipmania/lib",
+          "title": "blockchain/tulipmania/lib at master · rubycocos/blockchain",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/4755b37df8252ff900fce94681a7870295340981/crypto-lite/NOTES.md",
+          "title": "blockchain/crypto-lite/NOTES.md at 4755b37df8252ff900fce94681a7870295340981 ·...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/abicoder",
-          "title": "blockchain/abicoder at master · rubycocos/blockchain",
+          "path": "/rubycocos/blockchain/blob/53edc7ba0f776bcd2f1531ce1445be1adac5dabc/abicoder/lib/abicoder/encoder.rb",
+          "title": "blockchain/abicoder/lib/abicoder/encoder.rb at 53edc7ba0f776bcd2f1531ce1445be...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/base58-alphabets",
-          "title": "blockchain/base58-alphabets at master · rubycocos/blockchain",
+          "path": "/rubycocos/blockchain/blob/master/ethlite/lib/ethlite/contract.rb",
+          "title": "blockchain/ethlite/lib/ethlite/contract.rb at master · rubycocos/blockchain",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/ethlite-contracts/lib/ethlite/contracts/nouns.rb",
-          "title": "blockchain/ethlite-contracts/lib/ethlite/contracts/nouns.rb at master · rubyc...",
-          "count": 1,
+          "path": "/rubycocos/blockchain/tree/master/centralbank",
+          "title": "blockchain/centralbank at master · rubycocos/blockchain",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/ethlite-contracts/lib/ethlite/contracts.rb",
-          "title": "blockchain/ethlite-contracts/lib/ethlite/contracts.rb at master · rubycocos/b...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/blob/master/p2p/lib/p2p.rb",
-          "title": "blockchain/p2p/lib/p2p.rb at master · rubycocos/blockchain",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/rubycocos/blockchain/commits",
-          "title": "Commits · rubycocos/blockchain",
-          "count": 1,
+          "path": "/rubycocos/blockchain/tree/master/ethlite/lib",
+          "title": "blockchain/ethlite/lib at master · rubycocos/blockchain",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "Google",
-          "count": 25,
-          "uniques": 11
+          "count": 15,
+          "uniques": 9
         },
         {
           "referrer": "rubygems.org",
-          "count": 12,
-          "uniques": 3
+          "count": 6,
+          "uniques": 4
         },
         {
           "referrer": "github.com",
-          "count": 3,
-          "uniques": 3
+          "count": 4,
+          "uniques": 2
         },
         {
           "referrer": "reddit.com",
           "count": 2,
-          "uniques": 2
-        },
-        {
-          "referrer": "rubydoc.info",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "referrer": "gist.github.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "awesome-ruby.com",
-          "count": 1,
           "uniques": 1
         }
       ]
@@ -5174,6 +5163,88 @@
         "views": {
           "count": 21,
           "uniques": 2
+        }
+      },
+      "2024-12-02": {
+        "views": {
+          "count": 29,
+          "uniques": 4
+        }
+      },
+      "2024-12-03": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-04": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-06": {
+        "views": {
+          "count": 30,
+          "uniques": 3
+        }
+      },
+      "2024-12-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-10": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-11": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-12-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
