@@ -453,6 +453,10 @@
     "2024-12-15": {
       "stargazers_count": 8,
       "forks_count": 2
+    },
+    "2025-01-01": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -479,18 +483,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
         "count": 0,
         "uniques": 0
       },
       "paths": [
-
+        {
+          "path": "/beerbook/beerbook.github.io",
+          "title": "GitHub - beerbook/beerbook.github.io: The Free World Beer Book",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/beerbook/beerbook.github.io/blob/master/_pages/beers.md",
+          "title": "beerbook.github.io/_pages/beers.md at master · beerbook/beerbook.github.io · ...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/beerbook/beerbook.github.io/tree/master/_pages",
+          "title": "beerbook.github.io/_pages at master · beerbook/beerbook.github.io · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1729,6 +1754,12 @@
       "2024-11-25": {
         "views": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-23": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }

@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/deutschland",
   "created_at": "2013-05-20T08:24:36Z",
-  "updated_at": "2024-11-20T15:51:25Z",
-  "pushed_at": "2024-11-20T15:51:21Z",
-  "size": 2410,
+  "updated_at": "2024-12-31T14:17:30Z",
+  "pushed_at": "2024-12-31T14:17:27Z",
+  "size": 2424,
   "history": {
     "2019-12-08": {
       "stargazers_count": 47
@@ -408,19 +408,23 @@
     "2024-12-15": {
       "stargazers_count": 70,
       "forks_count": 19
+    },
+    "2025-01-01": {
+      "stargazers_count": 71,
+      "forks_count": 19
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-11-20T15:51:19Z",
+        "date": "2024-12-31T14:17:22Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-11-20T15:51:19Z",
+        "date": "2024-12-31T14:17:22Z",
         "name": "Gerald Bauer"
       },
-      "message": "auto-update week 47"
+      "message": "auto-update week 1"
     }
   ],
   "description": "Free open public domain football data for Germany (Deutschland) incl. Deutsche Bundesliga, 2. Bundesliga, 3. Liga, DFB Pokal etc.",
@@ -439,55 +443,37 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 128,
-        "uniques": 36
+        "count": 73,
+        "uniques": 22
       },
       "clones": {
-        "count": 17,
-        "uniques": 4
+        "count": 26,
+        "uniques": 13
       },
       "paths": [
         {
           "path": "/openfootball/deutschland",
           "title": "openfootball/deutschland: Free open public domain football data for Germany (...",
-          "count": 36,
-          "uniques": 27
+          "count": 23,
+          "uniques": 17
         },
         {
           "path": "/openfootball/deutschland/tree/master/2024-25",
           "title": "deutschland/2024-25 at master · openfootball/deutschland · GitHub",
-          "count": 30,
-          "uniques": 20
+          "count": 18,
+          "uniques": 8
         },
         {
           "path": "/openfootball/deutschland/blob/master/2024-25/1-bundesliga.txt",
           "title": "deutschland/2024-25/1-bundesliga.txt at master · openfootball/deutschland · G...",
-          "count": 17,
-          "uniques": 12
+          "count": 9,
+          "uniques": 5
         },
         {
           "path": "/openfootball/deutschland/tree/master",
-          "title": "GitHub - openfootball/deutschland: Free open public domain football data for ...",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/2024-25/2-bundesliga2.txt",
-          "title": "deutschland/2024-25/2-bundesliga2.txt at master · openfootball/deutschland · ...",
-          "count": 4,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/deutschland/tree/master/2023-24",
-          "title": "deutschland/2023-24 at master · openfootball/deutschland · GitHub",
-          "count": 4,
+          "title": "openfootball/deutschland: Free open public domain football data for Germany (...",
+          "count": 3,
           "uniques": 3
-        },
-        {
-          "path": "/openfootball/deutschland/blob/master/2023-24/1-bundesliga.txt",
-          "title": "deutschland/2023-24/1-bundesliga.txt at master · openfootball/deutschland · G...",
-          "count": 2,
-          "uniques": 2
         },
         {
           "path": "/openfootball/deutschland/blob/master/2024-25/cup.txt",
@@ -496,48 +482,61 @@
           "uniques": 2
         },
         {
-          "path": "/openfootball/deutschland/blob/master/NOTES.md",
-          "title": "deutschland/NOTES.md at master · openfootball/deutschland · GitHub",
+          "path": "/openfootball/deutschland/tree/master/2023-24",
+          "title": "deutschland/2023-24 at master · openfootball/deutschland",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openfootball/deutschland/tree/master/2020-21",
-          "title": "deutschland/2020-21 at master · openfootball/deutschland · GitHub",
+          "path": "/openfootball/deutschland/commits/master",
+          "title": "Commits · openfootball/deutschland",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/deutschland/blob/master/2023-24/1-bundesliga.txt",
+          "title": "deutschland/2023-24/1-bundesliga.txt at master · openfootball/deutschland",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/deutschland/blob/master/2023-24/2-bundesliga2.txt",
+          "title": "deutschland/2023-24/2-bundesliga2.txt at master · openfootball/deutschland",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/deutschland/blob/master/2024-25/2-bundesliga2.txt",
+          "title": "deutschland/2024-25/2-bundesliga2.txt at master · openfootball/deutschland",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 29,
-          "uniques": 9
-        },
-        {
           "referrer": "openfootball.github.io",
-          "count": 28,
-          "uniques": 10
+          "count": 26,
+          "uniques": 7
         },
         {
           "referrer": "github.com",
-          "count": 20,
-          "uniques": 6
+          "count": 23,
+          "uniques": 8
         },
         {
-          "referrer": "footballcsv.github.io",
-          "count": 14,
-          "uniques": 2
-        },
-        {
-          "referrer": "chatgpt.com",
-          "count": 9,
-          "uniques": 2
+          "referrer": "Google",
+          "count": 8,
+          "uniques": 5
         },
         {
           "referrer": "Bing",
-          "count": 8,
-          "uniques": 3
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "edgeservices.bing.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -8174,6 +8173,142 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2024-12-19": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-20": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-12-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-12-22": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-12-23": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-24": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-25": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-26": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2024-12-28": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-12-30": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-12-31": {
+        "views": {
+          "count": 18,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2025-01-01": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-29": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

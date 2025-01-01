@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/cache.factbook.json",
   "created_at": "2013-08-27T09:17:11Z",
-  "updated_at": "2024-12-12T22:22:54Z",
-  "pushed_at": "2024-12-12T22:22:49Z",
-  "size": 156654,
+  "updated_at": "2024-12-26T22:21:07Z",
+  "pushed_at": "2024-12-26T22:21:03Z",
+  "size": 157727,
   "description": "A cache for datasets for the country profiles from the World Factbook in the original (1:1) format from the cia.gov website",
   "language": null,
   "history": {
@@ -346,19 +346,23 @@
     "2024-12-15": {
       "stargazers_count": 9,
       "forks_count": 4
+    },
+    "2025-01-01": {
+      "stargazers_count": 9,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-12-12T22:22:47Z",
+        "date": "2024-12-26T22:21:02Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2024-12-12T22:22:47Z",
+        "date": "2024-12-26T22:21:02Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 50"
+      "message": "auto-update week 52"
     }
   ],
   "topics": [
@@ -369,71 +373,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 54,
-        "uniques": 9
+        "count": 12,
+        "uniques": 6
       },
       "clones": {
-        "count": 16,
-        "uniques": 11
+        "count": 11,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/factbook/cache.factbook.json",
           "title": "GitHub - factbook/cache.factbook.json: A cache for datasets for the country p...",
-          "count": 16,
-          "uniques": 8
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/factbook/cache.factbook.json/blob/master/africa/ag.json",
           "title": "cache.factbook.json/africa/ag.json at master · factbook/cache.factbook.json ·...",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/cache.factbook.json/tree/master/africa",
-          "title": "cache.factbook.json/africa at master · factbook/cache.factbook.json · GitHub",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/north-america/us.json",
-          "title": "cache.factbook.json/north-america/us.json at master · factbook/cache.factbook...",
-          "count": 4,
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/cache.factbook.json/tree/master/north-america",
-          "title": "cache.factbook.json/north-america at master · factbook/cache.factbook.json · ...",
-          "count": 3,
-          "uniques": 2
+          "path": "/factbook/cache.factbook.json/blob/master/south-america/ns.json",
+          "title": "cache.factbook.json/south-america/ns.json at master · factbook/cache.factbook...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/cache.factbook.json/tree/master/south-america",
+          "title": "cache.factbook.json/south-america at master · factbook/cache.factbook.json · ...",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/factbook/cache.factbook.json/tree/master/world",
           "title": "cache.factbook.json/world at master · factbook/cache.factbook.json · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/factbook/cache.factbook.json/blob/master/world/xx.json",
-          "title": "cache.factbook.json/world/xx.json at master · factbook/cache.factbook.json",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/commit/7563303a90125fd9692d85add7952befedb4d1d9",
-          "title": "auto-update week 48 · factbook/cache.factbook.json@7563303 · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/fork",
-          "title": "Fork factbook/cache.factbook.json",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/cache.factbook.json/labels",
-          "title": "Labels · factbook/cache.factbook.json · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -441,18 +415,8 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 19,
-          "uniques": 4
-        },
-        {
-          "referrer": "Google",
-          "count": 15,
-          "uniques": 2
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 1,
-          "uniques": 1
+          "count": 7,
+          "uniques": 3
         }
       ]
     },
@@ -6151,6 +6115,60 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2024-12-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-12-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2024-12-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-25": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2024-12-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-01-01": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-12-27": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

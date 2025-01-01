@@ -453,25 +453,29 @@
     "2024-12-15": {
       "stargazers_count": 15,
       "forks_count": 1
+    },
+    "2025-01-01": {
+      "stargazers_count": 15,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-09-27T12:47:10Z",
+        "date": "2024-12-30T19:23:07Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-09-27T12:47:10Z",
+        "date": "2024-12-30T19:23:07Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 39,
-  "updated_at": "2024-09-27T13:05:51Z",
-  "pushed_at": "2024-09-27T12:47:17Z",
-  "description": "footty - football.db command line tool for national & int'l football club leagues (& cups) from around the world (bonus - incl. world cup, euro and more)",
+  "size": 52,
+  "updated_at": "2024-12-30T19:23:17Z",
+  "pushed_at": "2024-12-30T19:23:14Z",
+  "description": "footty & co. - open football (football.db) command-line tools incl. fbtxt, fbtxt2json, and more",
   "language": "Ruby",
   "topics": [
     "worldcup",
@@ -479,37 +483,100 @@
     "russia2018",
     "euro2020",
     "euro2021",
-    "euro2024"
+    "euro2024",
+    "fbgen",
+    "fbtxt",
+    "fbtxt2json",
+    "footty",
+    "ftty"
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 19,
-        "uniques": 16
+        "count": 89,
+        "uniques": 12
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 7,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/sportdb/footty",
-          "title": "GitHub - sportdb/footty: footty - football.db command line tool for national ...",
-          "count": 17,
-          "uniques": 14
+          "title": "sportdb/footty: footty - football.db command line tool for national & int'l f...",
+          "count": 24,
+          "uniques": 9
+        },
+        {
+          "path": "/sportdb/footty/tree/master/fbtxt2json",
+          "title": "footty/fbtxt2json at master · sportdb/footty · GitHub",
+          "count": 15,
+          "uniques": 2
+        },
+        {
+          "path": "/sportdb/footty/tree/master",
+          "title": "sportdb/footty: footty & co. - open football (football.db) command-line tools...",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/footty",
+          "title": "footty/footty at master · sportdb/footty",
+          "count": 8,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/fbtxt",
+          "title": "footty/fbtxt at master · sportdb/footty",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/pulse",
+          "title": "Pulse · sportdb/footty",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/lib/footty/dataset.rb",
+          "title": "footty/lib/footty/dataset.rb at master · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/graphs/traffic",
+          "title": "Traffic · sportdb/footty",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/blob/master/footty/lib/footty/dataset.rb",
+          "title": "footty/footty/lib/footty/dataset.rb at master · sportdb/footty",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/sportdb/footty/blob/master/README.md",
-          "title": "footty/README.md at master · sportdb/footty · GitHub",
+          "title": "footty/README.md at master · sportdb/footty",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "github.com",
+          "count": 27,
+          "uniques": 1
+        },
+        {
           "referrer": "Google",
           "count": 15,
-          "uniques": 13
+          "uniques": 6
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 3,
+          "uniques": 1
         }
       ]
     },
@@ -3263,10 +3330,76 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2024-12-18": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-19": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-22": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2024-12-27": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-29": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2024-12-30": {
+        "views": {
+          "count": 57,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 5
+        }
+      },
+      "2024-12-31": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-01": {
+        "views": {
+          "count": 14,
+          "uniques": 2
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 32588
+    "Ruby": 40233
   }
 }

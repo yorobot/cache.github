@@ -1,7 +1,7 @@
 {
   "full_name": "ordbase/generative-orc-721",
   "created_at": "2014-05-06T14:35:06Z",
-  "updated_at": "2024-09-23T18:24:50Z",
+  "updated_at": "2024-12-27T06:47:55Z",
   "pushed_at": "2023-09-07T13:04:39Z",
   "size": 4512,
   "description": "Documentation for the proposed Generative ORC-721 Protocol / Standard for Bitcoin & Co. (Also Known As OG, Ordgen, Ordinal Generative)",
@@ -170,6 +170,10 @@
     "2024-12-15": {
       "stargazers_count": 44,
       "forks_count": 14
+    },
+    "2025-01-01": {
+      "stargazers_count": 45,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -207,23 +211,47 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
+        "count": 11,
         "uniques": 2
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 4
       },
       "paths": [
         {
-          "path": "/ordbase/generative-orc-721/blob/d68b2aa28ee89e38d4a17db127cf96c81e9775a6/MINT.md",
-          "title": "generative-orc-721/MINT.md at d68b2aa28ee89e38d4a17db127cf96c81e9775a6 · ordb...",
+          "path": "/ordbase/generative-orc-721",
+          "title": "ordbase/generative-orc-721: Documentation for the proposed Generative ORC-721...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/recursive/INSCRIBES.md",
+          "title": "generative-orc-721/recursive/INSCRIBES.md at master · ordbase/generative-orc-...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/btcwords/i/btcwords_0.png",
+          "title": "generative-orc-721/btcwords/i/btcwords_0.png at master · ordbase/generative-o...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/ordbase/generative-orc-721/blob/master/FORMAT.md",
-          "title": "generative-orc-721/FORMAT.md at master · ordbase/generative-orc-721 · GitHub",
+          "path": "/ordbase/generative-orc-721/blob/master/btcwords/i/btcwords_100.png",
+          "title": "generative-orc-721/btcwords/i/btcwords_100.png at master · ordbase/generative...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/generative-orc-721/blob/master/btcwords/i/btcwords_150.png",
+          "title": "generative-orc-721/btcwords/i/btcwords_150.png at master · ordbase/generative...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/ordbase/generative-orc-721/tree/master/genesis",
+          "title": "generative-orc-721/genesis at master · ordbase/generative-orc-721",
           "count": 1,
           "uniques": 1
         }
@@ -2771,6 +2799,40 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2024-12-20": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-30": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2024-12-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2024-12-31": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-01": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
