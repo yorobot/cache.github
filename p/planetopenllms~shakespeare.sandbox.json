@@ -10,6 +10,10 @@
     "2025-01-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-01-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -34,35 +38,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 1
+        "count": 5,
+        "uniques": 2
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/planetopenllms/shakespeare.sandbox",
-          "title": "planetopenllms/shakespeare.sandbox: Shakespeare & Co - GPTs & MOre Trained on...",
+          "title": "planetopenllms/shakespeare.sandbox: Shakespeare & Co - GPTs & More Trained on...",
           "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetopenllms/shakespeare.sandbox/blob/main/gpt_v0.py",
+          "title": "shakespeare.sandbox/gpt_v0.py at main · planetopenllms/shakespeare.sandbox",
+          "count": 1,
           "uniques": 1
         },
         {
           "path": "/planetopenllms/shakespeare.sandbox/blob/main/train_gpt.py",
           "title": "shakespeare.sandbox/train_gpt.py at main · planetopenllms/shakespeare.sandbox",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/shakespeare.sandbox/blob/main/train.txt",
-          "title": "shakespeare.sandbox/train.txt at main · planetopenllms/shakespeare.sandbox",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/shakespeare.sandbox/tree/main",
-          "title": "planetopenllms/shakespeare.sandbox: Shakespeare & Co - GPTs & More Trained on...",
           "count": 1,
           "uniques": 1
         }
@@ -89,6 +87,18 @@
       "2024-12-28": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-10": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-14": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

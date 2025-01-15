@@ -1,13 +1,17 @@
 {
   "full_name": "planetopenllms/llms.prompts",
   "created_at": "2024-11-09T20:06:06Z",
-  "updated_at": "2024-12-22T18:11:34Z",
-  "pushed_at": "2024-12-22T18:11:31Z",
-  "size": 176,
+  "updated_at": "2025-01-13T16:28:29Z",
+  "pushed_at": "2025-01-13T16:28:25Z",
+  "size": 200,
   "description": "LLMS Prompts (Q&As and more)",
   "language": "Python",
   "history": {
     "2025-01-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
+    },
+    "2025-01-15": {
       "stargazers_count": 1,
       "forks_count": 0
     }
@@ -15,11 +19,11 @@
   "commits": [
     {
       "committer": {
-        "date": "2024-12-22T18:11:26Z",
+        "date": "2025-01-13T16:28:16Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-12-22T18:11:26Z",
+        "date": "2025-01-13T16:28:16Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -35,77 +39,75 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 16,
-        "uniques": 3
+        "count": 28,
+        "uniques": 5
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
+          "path": "/planetopenllms/llms.prompts/tree/main/more/rag-optimize",
+          "title": "llms.prompts/more/rag-optimize at main · planetopenllms/llms.prompts · GitHub",
+          "count": 8,
+          "uniques": 5
+        },
+        {
           "path": "/planetopenllms/llms.prompts",
           "title": "planetopenllms/llms.prompts: LLMS Prompts (Q&As and more)",
-          "count": 4,
-          "uniques": 3
+          "count": 6,
+          "uniques": 2
         },
         {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory",
-          "title": "llms.prompts/theory at main · planetopenllms/llms.prompts",
-          "count": 2,
-          "uniques": 1
+          "path": "/planetopenllms/llms.prompts/tree/main/more",
+          "title": "llms.prompts/more at main · planetopenllms/llms.prompts",
+          "count": 6,
+          "uniques": 2
         },
         {
-          "path": "/planetopenllms/llms.prompts/graphs/traffic",
-          "title": "Traffic · planetopenllms/llms.prompts",
+          "path": "/planetopenllms/llms.prompts/tree/main",
+          "title": "planetopenllms/llms.prompts: LLMS Prompts (Q&As and more)",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetopenllms/llms.prompts/tree/main/more/cosine-similarity",
+          "title": "llms.prompts/more/cosine-similarity at main · planetopenllms/llms.prompts",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.prompts/pulse",
-          "title": "Pulse · planetopenllms/llms.prompts",
+          "path": "/planetopenllms/llms.prompts/tree/main/more/dot-product",
+          "title": "llms.prompts/more/dot-product at main · planetopenllms/llms.prompts",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/adam",
-          "title": "llms.prompts/theory/adam at main · planetopenllms/llms.prompts",
+          "path": "/planetopenllms/llms.prompts/tree/main/more/quantification",
+          "title": "llms.prompts/more/quantification at main · planetopenllms/llms.prompts",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/attn-linear",
-          "title": "llms.prompts/theory/attn-linear at main · planetopenllms/llms.prompts",
+          "path": "/planetopenllms/llms.prompts/tree/main/theory/think",
+          "title": "llms.prompts/theory/think at main · planetopenllms/llms.prompts",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/fc-attn",
-          "title": "llms.prompts/theory/fc-attn at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/norm-vs-reg",
-          "title": "llms.prompts/theory/norm-vs-reg at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/perceptron",
-          "title": "llms.prompts/theory/perceptron at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/polysemy",
-          "title": "llms.prompts/theory/polysemy at main · planetopenllms/llms.prompts",
+          "path": "/planetopenllms/llms.prompts/tree/main/theory/word2vec",
+          "title": "llms.prompts/theory/word2vec at main · planetopenllms/llms.prompts",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -135,6 +137,48 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-01-10": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2025-01-11": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-12": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2025-01-13": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

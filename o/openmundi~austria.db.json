@@ -457,6 +457,10 @@
     "2025-01-01": {
       "stargazers_count": 4,
       "forks_count": 1
+    },
+    "2025-01-15": {
+      "stargazers_count": 4,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -492,17 +496,29 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 5,
+        "uniques": 4
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/openmundi/austria.db",
           "title": "GitHub - openmundi/austria.db: Free open public domain data for Austria (Öste...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openmundi/austria.db/blob/master/codes_municipalities.txt",
+          "title": "austria.db/codes_municipalities.txt at master · openmundi/austria.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/austria.db/commit/929ae4a01668ca11ca2bef453646c1328fdd88ac",
+          "title": "add states · openmundi/austria.db@929ae4a · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -510,7 +526,12 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 1,
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 2,
           "uniques": 1
         }
       ]
@@ -1422,6 +1443,40 @@
       },
       "2025-01-01": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-01-10": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

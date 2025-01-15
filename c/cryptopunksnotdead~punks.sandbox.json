@@ -238,6 +238,10 @@
     "2025-01-01": {
       "stargazers_count": 88,
       "forks_count": 37
+    },
+    "2025-01-15": {
+      "stargazers_count": 88,
+      "forks_count": 37
     }
   },
   "commits": [
@@ -269,65 +273,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 10,
-        "uniques": 3
+        "count": 59,
+        "uniques": 7
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/punksdata-assets",
-          "title": "punks.sandbox/punksdata-assets at master · cryptopunksnotdead/punks.sandbox ·...",
+          "path": "/cryptopunksnotdead/punks.sandbox",
+          "title": "GitHub - cryptopunksnotdead/punks.sandbox: punks.sandbox - how-tos and sample...",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/21000/generate_21000.rb",
+          "title": "punks.sandbox/21000/generate_21000.rb at master · cryptopunksnotdead/punks.sa...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/21000",
+          "title": "punks.sandbox/21000 at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/i/011-alien.png",
+          "title": "punks.sandbox/punksdata-assets/i/011-alien.png at master · cryptopunksnotdead...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.sandbox",
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/spritesheet.rb",
+          "title": "punks.sandbox/punksdata-assets/spritesheet.rb at master · cryptopunksnotdead/...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master",
           "title": "GitHub - cryptopunksnotdead/punks.sandbox: punks.sandbox - how-tos and sample...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/punksdata",
+          "title": "punks.sandbox/punksdata at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/0xpunks/generate.rb",
+          "title": "punks.sandbox/0xpunks/generate.rb at master · cryptopunksnotdead/punks.sandbo...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/composite.rb",
-          "title": "punks.sandbox/punksdata-assets/composite.rb at master · cryptopunksnotdead/pu...",
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/assets_list.rb",
+          "title": "punks.sandbox/punksdata-assets/assets_list.rb at master · cryptopunksnotdead/...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/i/001-male_1.png",
-          "title": "punks.sandbox/punksdata-assets/i/001-male_1.png at master · cryptopunksnotdea...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/i/002-male_2.png",
-          "title": "punks.sandbox/punksdata-assets/i/002-male_2.png at master · cryptopunksnotdea...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/i/003-male_3.png",
-          "title": "punks.sandbox/punksdata-assets/i/003-male_3.png at master · cryptopunksnotdea...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/i/058-peak_spike.png",
-          "title": "punks.sandbox/punksdata-assets/i/058-peak_spike.png at master · cryptopunksno...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/i/067-hoodie.png",
-          "title": "punks.sandbox/punksdata-assets/i/067-hoodie.png at master · cryptopunksnotdea...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/punks.sandbox/tree/master/frame",
-          "title": "punks.sandbox/frame at master · cryptopunksnotdead/punks.sandbox · GitHub",
+          "path": "/cryptopunksnotdead/punks.sandbox/blob/master/punksdata-assets/assets_original.rb",
+          "title": "punks.sandbox/punksdata-assets/assets_original.rb at master · cryptopunksnotd...",
           "count": 1,
           "uniques": 1
         }
@@ -335,7 +345,12 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 9,
+          "count": 41,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 14,
           "uniques": 2
         }
       ]
@@ -3824,6 +3839,58 @@
       "2024-12-29": {
         "views": {
           "count": 8,
+          "uniques": 1
+        }
+      },
+      "2025-01-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-05": {
+        "views": {
+          "count": 40,
+          "uniques": 1
+        }
+      },
+      "2025-01-08": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-01-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-14": {
+        "views": {
+          "count": 11,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-15": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-01-07": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-12": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

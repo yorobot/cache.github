@@ -1,13 +1,17 @@
 {
   "full_name": "sportdb/sports",
   "created_at": "2014-04-16T07:10:53Z",
-  "updated_at": "2024-12-30T15:46:44Z",
-  "pushed_at": "2024-12-30T15:43:39Z",
-  "size": 147,
+  "updated_at": "2025-01-03T18:31:24Z",
+  "pushed_at": "2025-01-03T18:31:21Z",
+  "size": 150,
   "description": "require 'sports' - sports (football) quick starter samples",
   "language": "Ruby",
   "history": {
     "2025-01-01": {
+      "stargazers_count": 12,
+      "forks_count": 6
+    },
+    "2025-01-15": {
       "stargazers_count": 12,
       "forks_count": 6
     }
@@ -15,11 +19,11 @@
   "commits": [
     {
       "committer": {
-        "date": "2024-12-30T15:43:30Z",
+        "date": "2025-01-03T18:31:12Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-12-30T15:43:30Z",
+        "date": "2025-01-03T18:31:12Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -32,94 +36,59 @@
     "fbtxt"
   ],
   "languages": {
-    "Ruby": 3109
+    "Ruby": 9008
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 40,
+        "count": 13,
         "uniques": 10
       },
       "clones": {
-        "count": 9,
+        "count": 7,
         "uniques": 7
       },
       "paths": [
         {
-          "path": "/sportdb/fifa",
-          "title": "sportdb/fifa: fifa - the world's football countries and codes (incl. non-memb...",
-          "count": 13,
+          "path": "/sportdb/sports",
+          "title": "sportdb/sports: require 'sports' - sports (football) quick starter samples",
+          "count": 7,
           "uniques": 7
         },
         {
-          "path": "/sportdb/sports",
-          "title": "sportdb/sports: require 'sports' - sports (football) quick starter samples",
-          "count": 11,
-          "uniques": 3
+          "path": "/sportdb/sports/tree/master/football",
+          "title": "sports/football at master · sportdb/sports · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sports/milestones",
+          "title": "Milestones - sportdb/sports · GitHub",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/sportdb/sports/tree/master/samples",
-          "title": "sports/samples at master · sportdb/sports · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/sports/blob/master/samples/helper.rb",
-          "title": "sports/samples/helper.rb at master · sportdb/sports",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sports/blob/master/samples/standings.rb",
-          "title": "sports/samples/standings.rb at master · sportdb/sports",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/fifa/tree/master/samples",
-          "title": "fifa/samples at master · sportdb/fifa",
+          "title": "sports/samples at master · sportdb/sports",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/fifa/tree/master/sports",
-          "title": "fifa/sports at master · sportdb/fifa",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sports/blob/master/sports/lib/sports.rb",
-          "title": "sports/sports/lib/sports.rb at master · sportdb/sports",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sports/stargazers",
-          "title": "Stargazers · sportdb/sports",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/sports/tree/master/sports",
-          "title": "sports/sports at master · sportdb/sports",
+          "path": "/sportdb/sports/tree/master/sport",
+          "title": "sports/sport at master · sportdb/sports · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 20,
-          "uniques": 1
-        },
-        {
           "referrer": "Google",
-          "count": 8,
-          "uniques": 7
+          "count": 5,
+          "uniques": 5
         },
         {
-          "referrer": "openfootball.github.io",
-          "count": 2,
+          "referrer": "github.com",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -186,6 +155,68 @@
         }
       },
       "2024-12-22": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-03": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-01-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-14": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-01-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-01-06": {
         "clones": {
           "count": 1,
           "uniques": 1
