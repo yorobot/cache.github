@@ -122,6 +122,10 @@
     "2025-01-15": {
       "stargazers_count": 22,
       "forks_count": 4
+    },
+    "2025-02-01": {
+      "stargazers_count": 22,
+      "forks_count": 4
     }
   },
   "commits": [
@@ -158,12 +162,12 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
-      },
-      "clones": {
         "count": 1,
         "uniques": 1
+      },
+      "clones": {
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
@@ -171,16 +175,14 @@
           "title": "0xCompute/rubidity: Rubidity & Rubysol - Rubies for Layer 1 (L1) Contracts / ...",
           "count": 1,
           "uniques": 1
-        },
-        {
-          "path": "/0xCompute/rubidity/blob/master/PROOF-OF-TIME.md",
-          "title": "rubidity/PROOF-OF-TIME.md at master · 0xCompute/rubidity · GitHub",
-          "count": 1,
-          "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "ruby-toolbox.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1410,6 +1412,24 @@
         "views": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-01-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

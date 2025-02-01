@@ -461,6 +461,10 @@
     "2025-01-15": {
       "stargazers_count": 2,
       "forks_count": 0
+    },
+    "2025-02-01": {
+      "stargazers_count": 2,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -487,47 +491,53 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 7,
-        "uniques": 2
+        "count": 11,
+        "uniques": 3
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/opensport/ski.db",
-          "title": "GitHub - opensport/ski.db: Free open public domain Ski Alpin/Alpine Ski datab...",
+          "title": "opensport/ski.db: Free open public domain Ski Alpin/Alpine Ski database 'n' s...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/opensport/ski.db/tree/master/ca-canada",
+          "title": "ski.db/ca-canada at master · opensport/ski.db · GitHub",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
         },
         {
-          "path": "/opensport/ski.db/blob/master/2012_13/races.txt",
-          "title": "ski.db/2012_13/races.txt at master · opensport/ski.db · GitHub",
+          "path": "/opensport/ski.db/blob/master/2013_14/races.txt",
+          "title": "ski.db/2013_14/races.txt at master · opensport/ski.db",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/opensport/ski.db/blob/master/README.md",
-          "title": "ski.db/README.md at master · opensport/ski.db · GitHub",
+          "path": "/opensport/ski.db/blob/master/ca-canada/skiers.men.txt",
+          "title": "ski.db/ca-canada/skiers.men.txt at master · opensport/ski.db · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/opensport/ski.db/tree/master/2012_13",
-          "title": "ski.db/2012_13 at master · opensport/ski.db · GitHub",
+          "path": "/opensport/ski.db/blob/master/it-italy/skiers.men.txt",
+          "title": "ski.db/it-italy/skiers.men.txt at master · opensport/ski.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/opensport/ski.db/tree/master/2013_14",
+          "title": "ski.db/2013_14 at master · opensport/ski.db",
           "count": 1,
           "uniques": 1
         },
         {
           "path": "/opensport/ski.db/tree/master/it-italy",
-          "title": "ski.db/it-italy at master · opensport/ski.db · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/opensport/ski.db/tree/master/se-sweden",
-          "title": "ski.db/se-sweden at master · opensport/ski.db · GitHub",
+          "title": "ski.db/it-italy at master · opensport/ski.db",
           "count": 1,
           "uniques": 1
         }
@@ -535,8 +545,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 7,
+          "count": 6,
           "uniques": 2
+        },
+        {
+          "referrer": "opensport.github.io",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -1626,6 +1641,18 @@
       "2025-01-13": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-24": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2025-01-29": {
+        "views": {
+          "count": 5,
           "uniques": 1
         }
       }

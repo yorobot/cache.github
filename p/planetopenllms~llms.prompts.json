@@ -1,9 +1,9 @@
 {
   "full_name": "planetopenllms/llms.prompts",
   "created_at": "2024-11-09T20:06:06Z",
-  "updated_at": "2025-01-13T16:28:29Z",
-  "pushed_at": "2025-01-13T16:28:25Z",
-  "size": 200,
+  "updated_at": "2025-01-27T15:40:52Z",
+  "pushed_at": "2025-01-27T15:40:49Z",
+  "size": 257,
   "description": "LLMS Prompts (Q&As and more)",
   "language": "Python",
   "history": {
@@ -14,16 +14,20 @@
     "2025-01-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-02-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-01-13T16:28:16Z",
+        "date": "2025-01-27T15:40:37Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-01-13T16:28:16Z",
+        "date": "2025-01-27T15:40:37Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -33,81 +37,24 @@
 
   ],
   "languages": {
-    "Python": 64338,
-    "Ruby": 17174
+    "Python": 68232,
+    "Ruby": 19768
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 28,
-        "uniques": 5
+        "count": 0,
+        "uniques": 0
       },
       "clones": {
         "count": 8,
         "uniques": 8
       },
       "paths": [
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more/rag-optimize",
-          "title": "llms.prompts/more/rag-optimize at main · planetopenllms/llms.prompts · GitHub",
-          "count": 8,
-          "uniques": 5
-        },
-        {
-          "path": "/planetopenllms/llms.prompts",
-          "title": "planetopenllms/llms.prompts: LLMS Prompts (Q&As and more)",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more",
-          "title": "llms.prompts/more at main · planetopenllms/llms.prompts",
-          "count": 6,
-          "uniques": 2
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main",
-          "title": "planetopenllms/llms.prompts: LLMS Prompts (Q&As and more)",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more/cosine-similarity",
-          "title": "llms.prompts/more/cosine-similarity at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more/dot-product",
-          "title": "llms.prompts/more/dot-product at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more/quantification",
-          "title": "llms.prompts/more/quantification at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/think",
-          "title": "llms.prompts/theory/think at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/theory/word2vec",
-          "title": "llms.prompts/theory/word2vec at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -179,6 +126,30 @@
         "views": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2025-01-23": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-01-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-25": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-01-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

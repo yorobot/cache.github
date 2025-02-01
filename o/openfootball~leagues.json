@@ -1,7 +1,7 @@
 {
   "full_name": "openfootball/leagues",
   "created_at": "2014-06-29T20:38:44Z",
-  "updated_at": "2025-01-07T15:34:24Z",
+  "updated_at": "2025-01-26T16:15:42Z",
   "pushed_at": "2025-01-07T15:33:59Z",
   "size": 805,
   "history": {
@@ -419,6 +419,10 @@
     "2025-01-15": {
       "stargazers_count": 40,
       "forks_count": 11
+    },
+    "2025-02-01": {
+      "stargazers_count": 41,
+      "forks_count": 11
     }
   },
   "commits": [
@@ -445,110 +449,100 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 183,
-        "uniques": 32
+        "count": 77,
+        "uniques": 23
       },
       "clones": {
-        "count": 7,
-        "uniques": 7
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/openfootball/leagues",
           "title": "openfootball/leagues: Free open public domain football datasets for national ...",
-          "count": 38,
-          "uniques": 29
+          "count": 26,
+          "uniques": 21
         },
         {
           "path": "/openfootball/leagues/tree/master/europe",
           "title": "leagues/europe at master · openfootball/leagues · GitHub",
-          "count": 29,
-          "uniques": 20
+          "count": 9,
+          "uniques": 9
         },
         {
           "path": "/openfootball/leagues/tree/master/europe/england",
           "title": "leagues/europe/england at master · openfootball/leagues · GitHub",
-          "count": 14,
-          "uniques": 8
-        },
-        {
-          "path": "/openfootball/leagues/tree/master",
-          "title": "openfootball/leagues: Free open public domain football datasets for national ...",
-          "count": 12,
+          "count": 4,
           "uniques": 4
         },
         {
           "path": "/openfootball/leagues/blob/master/europe/england/eng.leagues.txt",
           "title": "leagues/europe/england/eng.leagues.txt at master · openfootball/leagues · Git...",
-          "count": 11,
-          "uniques": 6
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/leagues/blob/master/europe/leagues.txt",
-          "title": "leagues/europe/leagues.txt at master · openfootball/leagues · GitHub",
-          "count": 10,
-          "uniques": 8
-        },
-        {
-          "path": "/openfootball/leagues/blob/master/europe/england/eng.seasons.txt",
-          "title": "leagues/europe/england/eng.seasons.txt at master · openfootball/leagues · Git...",
-          "count": 8,
-          "uniques": 5
+          "path": "/openfootball/leagues/blob/master/europe/germany/de.leagues.txt",
+          "title": "leagues/europe/germany/de.leagues.txt at master · openfootball/leagues · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/openfootball/leagues/tree/master/europe/germany",
           "title": "leagues/europe/germany at master · openfootball/leagues · GitHub",
-          "count": 6,
-          "uniques": 5
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/leagues/blob/master/seasons.txt",
-          "title": "leagues/seasons.txt at master · openfootball/leagues",
-          "count": 5,
-          "uniques": 1
+          "path": "/openfootball/leagues/releases/tag/v2024.06.05",
+          "title": "Release leagues.db built on 2024.06.05 · openfootball/leagues · GitHub",
+          "count": 3,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/leagues/blob/master/europe/germany/de.leagues.txt",
-          "title": "leagues/europe/germany/de.leagues.txt at master · openfootball/leagues",
-          "count": 4,
-          "uniques": 4
-        }
-      ],
-      "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 31,
-          "uniques": 7
-        },
-        {
-          "referrer": "chatgpt.com",
-          "count": 18,
-          "uniques": 5
-        },
-        {
-          "referrer": "openfootball.github.io",
-          "count": 18,
-          "uniques": 4
-        },
-        {
-          "referrer": "Google",
-          "count": 13,
-          "uniques": 4
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "perplexity.ai",
+          "path": "/openfootball/leagues/blob/master/europe/seasons.txt",
+          "title": "leagues/europe/seasons.txt at master · openfootball/leagues",
           "count": 2,
           "uniques": 2
         },
         {
-          "referrer": "Bing",
-          "count": 1,
+          "path": "/openfootball/leagues/blob/master/NOTES.CODE.md",
+          "title": "leagues/NOTES.CODE.md at master · openfootball/leagues · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/leagues/blob/master/0-attic/formats_eng.txt",
+          "title": "leagues/0-attic/formats_eng.txt at master · openfootball/leagues",
+          "count": 2,
           "uniques": 1
+        }
+      ],
+      "referrers": [
+        {
+          "referrer": "Google",
+          "count": 25,
+          "uniques": 4
+        },
+        {
+          "referrer": "github.com",
+          "count": 16,
+          "uniques": 5
+        },
+        {
+          "referrer": "Bing",
+          "count": 12,
+          "uniques": 6
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 6,
+          "uniques": 2
         }
       ]
     },
@@ -5138,6 +5132,70 @@
       "2025-01-12": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-19": {
+        "views": {
+          "count": 19,
+          "uniques": 3
+        }
+      },
+      "2025-01-20": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2025-01-22": {
+        "views": {
+          "count": 18,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-23": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-01-26": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2025-01-27": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2025-01-28": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2025-01-30": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2025-01-31": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-02-01": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

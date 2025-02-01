@@ -461,6 +461,10 @@
     "2025-01-15": {
       "stargazers_count": 26,
       "forks_count": 10
+    },
+    "2025-02-01": {
+      "stargazers_count": 26,
+      "forks_count": 10
     }
   },
   "commits": [
@@ -489,8 +493,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 27,
-        "uniques": 6
+        "count": 60,
+        "uniques": 15
       },
       "clones": {
         "count": 1,
@@ -499,79 +503,94 @@
       "paths": [
         {
           "path": "/openfootball/players",
-          "title": "GitHub - openfootball/players: Free open public domain football data (footbal...",
-          "count": 6,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/players/tree/master/south-america",
-          "title": "players/south-america at master · openfootball/players · GitHub",
-          "count": 3,
-          "uniques": 2
+          "title": "openfootball/players: Free open public domain football data (football.db) for...",
+          "count": 17,
+          "uniques": 14
         },
         {
           "path": "/openfootball/players/tree/master/europe",
           "title": "players/europe at master · openfootball/players · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/players/blob/master/asia/afghanistan/af.players.txt",
-          "title": "players/asia/afghanistan/af.players.txt at master · openfootball/players · Gi...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/players/blob/master/europe/andorra/ad.players.txt",
-          "title": "players/europe/andorra/ad.players.txt at master · openfootball/players · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/players/blob/master/europe/netherlands/nl.players.txt",
-          "title": "players/europe/netherlands/nl.players.txt at master · openfootball/players · ...",
-          "count": 1,
-          "uniques": 1
+          "count": 11,
+          "uniques": 10
         },
         {
           "path": "/openfootball/players/blob/master/europe/turkey/tr.players.txt",
           "title": "players/europe/turkey/tr.players.txt at master · openfootball/players · GitHub",
-          "count": 1,
-          "uniques": 1
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/players/blob/master/south-america/argentina/ar.players.txt",
-          "title": "players/south-america/argentina/ar.players.txt at master · openfootball/playe...",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/players/tree/master/europe/turkey",
+          "title": "players/europe/turkey at master · openfootball/players · GitHub",
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/openfootball/players/blob/master/south-america/brazil/br.players.txt",
-          "title": "players/south-america/brazil/br.players.txt at master · openfootball/players ...",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/players/tree/master/africa",
+          "title": "players/africa at master · openfootball/players",
+          "count": 3,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/players/commits",
-          "title": "Commits · openfootball/players · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/players/tree/master/europe/england",
+          "title": "players/europe/england at master · openfootball/players · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/players/blob/master/africa/egypt/eg.players.txt",
+          "title": "players/africa/egypt/eg.players.txt at master · openfootball/players",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/players/blob/master/europe/england/eng.players.txt",
+          "title": "players/europe/england/eng.players.txt at master · openfootball/players · Git...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/players/blob/master/europe/italy/it.players.txt",
+          "title": "players/europe/italy/it.players.txt at master · openfootball/players · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/players/tree/master",
+          "title": "openfootball/players: Free open public domain football data (football.db) for...",
+          "count": 2,
+          "uniques": 2
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 10,
-          "uniques": 2
+          "referrer": "openfootball.github.io",
+          "count": 18,
+          "uniques": 4
         },
         {
-          "referrer": "chatgpt.com",
-          "count": 9,
-          "uniques": 1
+          "referrer": "github.com",
+          "count": 13,
+          "uniques": 5
         },
         {
           "referrer": "Google",
-          "count": 5,
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "claude.ai",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "in.search.yahoo.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 1,
           "uniques": 1
         }
       ]
@@ -3483,6 +3502,58 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-01-19": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2025-01-20": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2025-01-22": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-24": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2025-01-26": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2025-01-27": {
+        "views": {
+          "count": 18,
+          "uniques": 4
+        }
+      },
+      "2025-01-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-30": {
+        "views": {
+          "count": 9,
+          "uniques": 2
         }
       }
     }

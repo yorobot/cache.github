@@ -1,9 +1,9 @@
 {
   "full_name": "rubycocos/feedparser",
   "created_at": "2013-09-19T20:33:21Z",
-  "updated_at": "2024-12-31T15:41:38Z",
-  "pushed_at": "2024-07-02T22:37:59Z",
-  "size": 1190,
+  "updated_at": "2025-02-01T17:15:07Z",
+  "pushed_at": "2025-02-01T17:15:03Z",
+  "size": 1191,
   "description": "feedparser gem - (universal) web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed or Feed.HTML, Feed.TXT w/ YAML, JSON or INI & Markdown, etc.)",
   "language": "Ruby",
   "history": {
@@ -214,16 +214,20 @@
     "2025-01-15": {
       "stargazers_count": 165,
       "forks_count": 11
+    },
+    "2025-02-01": {
+      "stargazers_count": 166,
+      "forks_count": 11
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2023-04-04T10:07:41Z",
+        "date": "2025-02-01T17:14:48Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2023-04-04T10:07:41Z",
+        "date": "2025-02-01T17:14:48Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -247,38 +251,67 @@
     "webfeed"
   ],
   "languages": {
-    "Ruby": 100621,
+    "Ruby": 100712,
     "HTML": 34675
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 4,
-        "uniques": 4
+        "count": 60,
+        "uniques": 13
       },
       "clones": {
-        "count": 6,
-        "uniques": 5
+        "count": 14,
+        "uniques": 11
       },
       "paths": [
         {
           "path": "/rubycocos/feedparser",
-          "title": "GitHub - rubycocos/feedparser: feedparser gem - (universal) web feed parser a...",
+          "title": "rubycocos/feedparser: feedparser gem - (universal) web feed parser and normal...",
+          "count": 16,
+          "uniques": 10
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/feedparser",
+          "title": "feedparser/feedparser at master · rubycocos/feedparser",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/awesome-feeds",
+          "title": "feedparser/awesome-feeds at master · rubycocos/feedparser · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/rubycocos/feedparser/pulls",
-          "title": "Pull requests · rubycocos/feedparser · GitHub",
+          "path": "/rubycocos/feedparser/blob/master/feedparser/Rakefile",
+          "title": "feedparser/feedparser/Rakefile at master · rubycocos/feedparser",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/issues",
+          "title": "Issues · rubycocos/feedparser · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/feedparser/tree/master/feedtxt",
+          "title": "feedparser/feedtxt at master · rubycocos/feedparser · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
-          "count": 1,
+          "referrer": "rubyflow.com",
+          "count": 7,
           "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
@@ -4611,6 +4644,92 @@
         "clones": {
           "count": 3,
           "uniques": 2
+        }
+      },
+      "2025-01-19": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2025-01-20": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-01-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-24": {
+        "views": {
+          "count": 12,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-01-25": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-01-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-01": {
+        "views": {
+          "count": 35,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2025-01-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-31": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

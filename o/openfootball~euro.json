@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/euro",
   "created_at": "2013-05-21T21:41:51Z",
-  "updated_at": "2024-08-22T08:24:45Z",
-  "pushed_at": "2024-08-22T08:24:42Z",
-  "size": 266,
+  "updated_at": "2025-01-30T16:22:45Z",
+  "pushed_at": "2025-01-30T16:22:40Z",
+  "size": 269,
   "description": "Free open public domain football data (euro.db) for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), Euro 2024, etc.",
   "language": null,
   "history": {
@@ -326,19 +326,23 @@
     "2025-01-15": {
       "stargazers_count": 50,
       "forks_count": 32
+    },
+    "2025-02-01": {
+      "stargazers_count": 50,
+      "forks_count": 32
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-08-22T08:24:36Z",
+        "date": "2025-01-30T16:22:26Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-08-22T08:24:36Z",
+        "date": "2025-01-30T16:22:26Z",
         "name": "Gerald Bauer"
       },
-      "message": "up format"
+      "message": "up"
     }
   ],
   "topics": [
@@ -354,97 +358,113 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 30,
-        "uniques": 19
+        "count": 53,
+        "uniques": 25
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 5,
+        "uniques": 5
       },
       "paths": [
         {
           "path": "/openfootball/euro",
           "title": "openfootball/euro: Free open public domain football data (euro.db) for Euro 2...",
-          "count": 17,
-          "uniques": 17
+          "count": 28,
+          "uniques": 23
         },
         {
           "path": "/openfootball/euro/blob/master/2024--germany/euro.txt",
           "title": "euro/2024--germany/euro.txt at master · openfootball/euro · GitHub",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/euro/blob/master/1960--france/euro.txt",
-          "title": "euro/1960--france/euro.txt at master · openfootball/euro",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/euro/tree/master/1960--france",
-          "title": "euro/1960--france at master · openfootball/euro",
-          "count": 2,
-          "uniques": 1
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/openfootball/euro/tree/master/2024--germany",
           "title": "euro/2024--germany at master · openfootball/euro · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/euro/tree/master/1964--spain",
+          "title": "euro/1964--spain at master · openfootball/euro · GitHub",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/openfootball/euro/blame/master/1960--france/euro.txt",
-          "title": "Blaming euro/1960--france/euro.txt at master · openfootball/euro",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/euro/tree/master",
-          "title": "euro/ at master · openfootball/euro · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/euro/tree/master/1988--west-germany",
-          "title": "euro/1988--west-germany at master · openfootball/euro · GitHub",
-          "count": 1,
-          "uniques": 1
+          "path": "/openfootball/euro/tree/master/2016--france",
+          "title": "euro/2016--france at master · openfootball/euro · GitHub",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openfootball/euro/tree/master/2024--germany/squads",
           "title": "euro/2024--germany/squads at master · openfootball/euro · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/euro/blob/master/2016--france/NOTES.md",
+          "title": "euro/2016--france/NOTES.md at master · openfootball/euro · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro/blame/master/2016--france/NOTES.md",
+          "title": "Blaming euro/2016--france/NOTES.md at master · openfootball/euro · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro/blob/master/1964--spain/euro.txt",
+          "title": "euro/1964--spain/euro.txt at master · openfootball/euro · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/euro/blob/master/1968--italy/euro.txt",
+          "title": "euro/1968--italy/euro.txt at master · openfootball/euro · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 9,
-          "uniques": 3
-        },
-        {
           "referrer": "Google",
-          "count": 7,
+          "count": 12,
           "uniques": 7
         },
         {
-          "referrer": "Bing",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "referrer": "uk.search.yahoo.com",
-          "count": 5,
-          "uniques": 1
+          "referrer": "openfootball.github.io",
+          "count": 12,
+          "uniques": 6
         },
         {
           "referrer": "chatgpt.com",
-          "count": 1,
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "referrer": "Bing",
+          "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "DuckDuckGo",
+          "referrer": "rubydoc.info",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "Yahoo",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "blog.desdelinux.net",
           "count": 1,
           "uniques": 1
         }
@@ -6819,6 +6839,86 @@
         "views": {
           "count": 7,
           "uniques": 2
+        }
+      },
+      "2025-01-19": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        }
+      },
+      "2025-01-20": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-21": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-01-22": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2025-01-24": {
+        "views": {
+          "count": 12,
+          "uniques": 5
+        }
+      },
+      "2025-01-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-28": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-01-29": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        }
+      },
+      "2025-01-30": {
+        "views": {
+          "count": 5,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-01-31": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-02-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-23": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

@@ -461,6 +461,10 @@
     "2025-01-15": {
       "stargazers_count": 66,
       "forks_count": 15
+    },
+    "2025-02-01": {
+      "stargazers_count": 66,
+      "forks_count": 15
     }
   },
   "commits": [
@@ -487,24 +491,58 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 7,
+        "uniques": 3
       },
       "clones": {
-        "count": 2,
-        "uniques": 2
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
         {
           "path": "/openbeer/world",
-          "title": "GitHub - openbeer/world: Free open public domain beer, brewery n brewpub data",
-          "count": 2,
-          "uniques": 2
+          "title": "openbeer/world: Free open public domain beer, brewery n brewpub data",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/openbeer/world/blob/master/europe/1--en-england--british-isles/beers.txt",
+          "title": "world/europe/1--en-england--british-isles/beers.txt at master · openbeer/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/commit/9fb569fd236a4ac80c3aaed54cace6c6995c3980",
+          "title": "add scotland,wales · openbeer/world@9fb569f",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/europe",
+          "title": "world/europe at master · openbeer/world",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/world/tree/master/europe/1--en-england--british-isles",
+          "title": "world/europe/1--en-england--british-isles at master · openbeer/world",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
         {
+          "referrer": "chatgpt.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
           "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -2673,6 +2711,18 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-01-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-30": {
+        "views": {
+          "count": 6,
+          "uniques": 2
         }
       }
     }

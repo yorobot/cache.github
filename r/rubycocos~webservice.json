@@ -214,6 +214,10 @@
     "2025-01-15": {
       "stargazers_count": 8,
       "forks_count": 2
+    },
+    "2025-02-01": {
+      "stargazers_count": 8,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -239,18 +243,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 2
       },
       "paths": [
-
+        {
+          "path": "/rubycocos/webservice/blob/master/test/test_metal.rb",
+          "title": "webservice/test/test_metal.rb at master · rubycocos/webservice",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webservice/blob/master/test/test_mustermann.rb",
+          "title": "webservice/test/test_mustermann.rb at master · rubycocos/webservice",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webservice/blob/master/test/test_service_app.rb",
+          "title": "webservice/test/test_service_app.rb at master · rubycocos/webservice",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/webservice/tree/master/test",
+          "title": "webservice/test at master · rubycocos/webservice",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -960,6 +991,28 @@
       },
       "2024-11-10": {
         "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-29": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-23": {
+        "clones": {
           "count": 1,
           "uniques": 1
         }

@@ -461,6 +461,10 @@
     "2025-01-15": {
       "stargazers_count": 7,
       "forks_count": 1
+    },
+    "2025-02-01": {
+      "stargazers_count": 7,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -487,18 +491,49 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 7,
+        "uniques": 4
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openbeer/datafile",
+          "title": "openbeer/datafile: beer.db quick starter datafile templates",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openbeer/datafile/blob/master/all.rb",
+          "title": "datafile/all.rb at master · openbeer/datafile · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/openbeer/datafile/blob/master/be.rb",
+          "title": "datafile/be.rb at master · openbeer/datafile",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "openbeer.github.io",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -3119,6 +3154,30 @@
       "2025-01-11": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-24": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-01-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-01-31": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }
