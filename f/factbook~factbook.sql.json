@@ -465,6 +465,10 @@
     "2025-02-01": {
       "stargazers_count": 46,
       "forks_count": 17
+    },
+    "2025-02-15": {
+      "stargazers_count": 46,
+      "forks_count": 17
     }
   },
   "commits": [
@@ -492,23 +496,35 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 6,
-        "uniques": 5
+        "count": 17,
+        "uniques": 8
       },
       "clones": {
-        "count": 1,
-        "uniques": 1
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
         {
           "path": "/factbook/factbook.sql",
           "title": "GitHub - factbook/factbook.sql: World Factbook Country Profiles in SQL (Incl....",
-          "count": 4,
+          "count": 9,
+          "uniques": 8
+        },
+        {
+          "path": "/factbook/factbook.sql/blob/master/factbook.sql",
+          "title": "factbook.sql/factbook.sql at master · factbook/factbook.sql · GitHub",
+          "count": 6,
           "uniques": 4
         },
         {
-          "path": "/factbook/factbook.sql/commit/0735e5b69b34c12e43ab0c0b864064e9ebe49001",
-          "title": "Update README.md · factbook/factbook.sql@0735e5b · GitHub",
+          "path": "/factbook/factbook.sql/releases",
+          "title": "Releases · factbook/factbook.sql",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/factbook.sql/releases/tag/v0.1",
+          "title": "Release factbook.db · factbook/factbook.sql",
           "count": 1,
           "uniques": 1
         }
@@ -516,8 +532,13 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 3,
-          "uniques": 3
+          "count": 14,
+          "uniques": 6
+        },
+        {
+          "referrer": "rubyflow.com",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
@@ -5585,6 +5606,64 @@
         }
       },
       "2025-01-24": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-02": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-09": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-10": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        }
+      },
+      "2025-02-12": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-02-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-15": {
         "clones": {
           "count": 1,
           "uniques": 1

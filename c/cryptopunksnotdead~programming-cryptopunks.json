@@ -354,6 +354,10 @@
     "2025-02-01": {
       "stargazers_count": 419,
       "forks_count": 123
+    },
+    "2025-02-15": {
+      "stargazers_count": 419,
+      "forks_count": 123
     }
   },
   "commits": [
@@ -389,47 +393,59 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 41,
-        "uniques": 16
+        "count": 102,
+        "uniques": 12
       },
       "clones": {
-        "count": 8,
-        "uniques": 3
+        "count": 7,
+        "uniques": 6
       },
       "paths": [
         {
           "path": "/cryptopunksnotdead/programming-cryptopunks",
           "title": "GitHub - cryptopunksnotdead/programming-cryptopunks: Crypto Collectibles Book...",
-          "count": 11,
-          "uniques": 9
+          "count": 31,
+          "uniques": 7
         },
         {
           "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/03_generate.md",
           "title": "programming-cryptopunks/03_generate.md at master · cryptopunksnotdead/program...",
-          "count": 7,
-          "uniques": 6
-        },
-        {
-          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/04_generate_ii.md",
-          "title": "programming-cryptopunks/04_generate_ii.md at master · cryptopunksnotdead/prog...",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/02_attributes.md",
-          "title": "programming-cryptopunks/02_attributes.md at master · cryptopunksnotdead/progr...",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/01_mint.md",
-          "title": "File not found · GitHub",
-          "count": 2,
-          "uniques": 2
+          "count": 5,
+          "uniques": 4
         },
         {
           "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/05_alien_invasion.md",
           "title": "programming-cryptopunks/05_alien_invasion.md at master · cryptopunksnotdead/p...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/06_palette_8bit.md",
+          "title": "programming-cryptopunks/06_palette_8bit.md at master · cryptopunksnotdead/pro...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/02_attributes.md",
+          "title": "programming-cryptopunks/02_attributes.md at master · cryptopunksnotdead/progr...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/programming-cryptopunks/tree/master/book",
+          "title": "programming-cryptopunks/book at master · cryptopunksnotdead/programming-crypt...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/attributes.rb",
+          "title": "programming-cryptopunks/attributes.rb at master · cryptopunksnotdead/programm...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/10_hair.md",
+          "title": "programming-cryptopunks/10_hair.md at master · cryptopunksnotdead/programming...",
           "count": 2,
           "uniques": 2
         },
@@ -440,52 +456,30 @@
           "uniques": 1
         },
         {
-          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/A1_special_effects.md",
-          "title": "programming-cryptopunks/A1_special_effects.md at master · cryptopunksnotdead/...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/generate_ii.rb",
-          "title": "programming-cryptopunks/generate_ii.rb at master · cryptopunksnotdead/program...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/.gitignore",
-          "title": "programming-cryptopunks/.gitignore at master · cryptopunksnotdead/programming...",
-          "count": 1,
+          "path": "/cryptopunksnotdead/programming-cryptopunks/blob/master/04_generate_ii.md",
+          "title": "programming-cryptopunks/04_generate_ii.md at master · cryptopunksnotdead/prog...",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Bing",
-          "count": 8,
+          "referrer": "github.com",
+          "count": 12,
           "uniques": 1
         },
         {
           "referrer": "Google",
-          "count": 4,
-          "uniques": 2
+          "count": 5,
+          "uniques": 4
         },
         {
-          "referrer": "planetruby.github.io",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "referrer": "github.com",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "referrer": "old.reddit.com",
+          "referrer": "t.co",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "search.brave.com",
+          "referrer": "planetruby.github.io",
           "count": 1,
           "uniques": 1
         }
@@ -9406,7 +9400,105 @@
       },
       "2025-02-01": {
         "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-02-02": {
+        "views": {
+          "count": 46,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-03": {
+        "views": {
           "count": 5,
+          "uniques": 2
+        }
+      },
+      "2025-02-04": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-02-05": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-06": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2025-02-07": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        }
+      },
+      "2025-02-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-10": {
+        "views": {
+          "count": 12,
+          "uniques": 1
+        }
+      },
+      "2025-02-11": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-12": {
+        "views": {
+          "count": 11,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-15": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-02-14": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

@@ -18,6 +18,10 @@
     "2025-02-01": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-02-15": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -42,18 +46,45 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 0,
-        "uniques": 0
+        "count": 5,
+        "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 3,
+        "uniques": 3
       },
       "paths": [
-
+        {
+          "path": "/planetopenllms/shakespeare.sandbox",
+          "title": "planetopenllms/shakespeare.sandbox: Shakespeare & Co - GPTs & More Trained on...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopenllms/shakespeare.sandbox/blob/main/chartokenizer.py",
+          "title": "shakespeare.sandbox/chartokenizer.py at main · planetopenllms/shakespeare.san...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopenllms/shakespeare.sandbox/blob/main/train_gpt.py",
+          "title": "shakespeare.sandbox/train_gpt.py at main · planetopenllms/shakespeare.sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopenllms/shakespeare.sandbox/tree/main",
+          "title": "planetopenllms/shakespeare.sandbox: Shakespeare & Co - GPTs & More Trained on...",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -82,6 +113,36 @@
       "2025-01-14": {
         "views": {
           "count": 4,
+          "uniques": 1
+        }
+      },
+      "2025-02-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-02-14": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-02-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-10": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

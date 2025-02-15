@@ -1,9 +1,9 @@
 {
   "full_name": "factbook/country-profiles",
   "created_at": "2013-09-02T17:18:10Z",
-  "updated_at": "2025-01-30T22:18:08Z",
-  "pushed_at": "2025-01-30T22:18:04Z",
-  "size": 23659,
+  "updated_at": "2025-02-13T22:18:01Z",
+  "pushed_at": "2025-02-13T22:17:56Z",
+  "size": 26055,
   "description": "World Factbook Country Profiles",
   "language": null,
   "history": {
@@ -314,19 +314,23 @@
     "2025-02-01": {
       "stargazers_count": 10,
       "forks_count": 8
+    },
+    "2025-02-15": {
+      "stargazers_count": 11,
+      "forks_count": 8
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-01-30T22:18:03Z",
+        "date": "2025-02-13T22:17:54Z",
         "name": "Yo Robot"
       },
       "author": {
-        "date": "2025-01-30T22:18:03Z",
+        "date": "2025-02-13T22:17:54Z",
         "name": "Yo Robot"
       },
-      "message": "auto-update week 5"
+      "message": "auto-update week 7"
     }
   ],
   "topics": [
@@ -341,29 +345,41 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 33,
-        "uniques": 10
+        "count": 56,
+        "uniques": 17
       },
       "clones": {
-        "count": 33,
-        "uniques": 21
+        "count": 50,
+        "uniques": 34
       },
       "paths": [
         {
           "path": "/factbook/country-profiles",
           "title": "GitHub - factbook/country-profiles: World Factbook Country Profiles",
-          "count": 8,
-          "uniques": 7
+          "count": 14,
+          "uniques": 8
         },
         {
-          "path": "/factbook/country-profiles/blob/master/middle-east/bahrain.md",
-          "title": "country-profiles/middle-east/bahrain.md at master · factbook/country-profiles...",
+          "path": "/factbook/country-profiles/blob/master/europe/switzerland.md",
+          "title": "country-profiles/europe/switzerland.md at master · factbook/country-profiles ...",
           "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/country-profiles/blob/master/africa/chad.md",
+          "title": "country-profiles/africa/chad.md at master · factbook/country-profiles · GitHub",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/factbook/country-profiles/tree/master",
+          "title": "factbook/country-profiles: World Factbook Country Profiles",
+          "count": 3,
           "uniques": 2
         },
         {
-          "path": "/factbook/country-profiles/blob/master/africa/benin.md",
-          "title": "country-profiles/africa/benin.md at master · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/tree/master/australia-oceania",
+          "title": "country-profiles/australia-oceania at master · factbook/country-profiles · Gi...",
           "count": 2,
           "uniques": 2
         },
@@ -374,38 +390,26 @@
           "uniques": 2
         },
         {
-          "path": "/factbook/country-profiles/blob/master/africa/ghana.md",
-          "title": "country-profiles/africa/ghana.md at master · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/blob/master/south-america/colombia.md",
+          "title": "country-profiles/south-america/colombia.md at master · factbook/country-profi...",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/tree/master/middle-east",
-          "title": "country-profiles/middle-east at master · factbook/country-profiles · GitHub",
+          "path": "/factbook/country-profiles/pulls",
+          "title": "Pull requests · factbook/country-profiles",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blame/master/middle-east/bahrain.md",
-          "title": "Blaming country-profiles/middle-east/bahrain.md at master · factbook/country-...",
-          "count": 1,
+          "path": "/factbook/country-profiles/tree/master/south-america",
+          "title": "country-profiles/south-america at master · factbook/country-profiles",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/country-profiles/blob/master/east-n-southeast-asia/philippines.md",
-          "title": "country-profiles/east-n-southeast-asia/philippines.md at master · factbook/co...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/europe/albania.md",
-          "title": "country-profiles/europe/albania.md at master · factbook/country-profiles",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/factbook/country-profiles/blob/master/europe/norway.md",
-          "title": "country-profiles/europe/norway.md at master · factbook/country-profiles",
+          "path": "/factbook/country-profiles/actions",
+          "title": "Actions · factbook/country-profiles",
           "count": 1,
           "uniques": 1
         }
@@ -413,16 +417,16 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 13,
-          "uniques": 6
+          "count": 22,
+          "uniques": 7
         },
         {
-          "referrer": "github.com",
+          "referrer": "jira.horisen.org",
           "count": 6,
           "uniques": 1
         },
         {
-          "referrer": "quora.com",
+          "referrer": "statics.teams.cdn.office.net",
           "count": 3,
           "uniques": 1
         }
@@ -6669,6 +6673,126 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-02-03": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-02-04": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-02-06": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2025-02-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-10": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-11": {
+        "views": {
+          "count": 4,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-12": {
+        "views": {
+          "count": 26,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-13": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 15,
+          "uniques": 10
+        }
+      },
+      "2025-02-14": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 7
+        }
+      },
+      "2025-02-02": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-08": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-02-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-02-15": {
+        "clones": {
+          "count": 3,
+          "uniques": 3
         }
       }
     }
