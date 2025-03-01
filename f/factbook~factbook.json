@@ -469,6 +469,10 @@
     "2025-02-15": {
       "stargazers_count": 142,
       "forks_count": 23
+    },
+    "2025-03-01": {
+      "stargazers_count": 143,
+      "forks_count": 23
     }
   },
   "commits": [
@@ -485,7 +489,7 @@
     }
   ],
   "size": 872,
-  "updated_at": "2025-01-28T10:58:45Z",
+  "updated_at": "2025-02-16T19:48:12Z",
   "pushed_at": "2023-12-30T14:26:04Z",
   "description": "factbook gem -  scripts for the world factbook (get open structured data e.g JSON etc.)",
   "language": "HTML",
@@ -499,98 +503,103 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 84,
-        "uniques": 15
+        "count": 75,
+        "uniques": 23
       },
       "clones": {
-        "count": 7,
-        "uniques": 6
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/factbook/factbook",
           "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
-          "count": 18,
-          "uniques": 11
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-readers",
-          "title": "factbook/factbook-readers at master · factbook/factbook",
-          "count": 9,
-          "uniques": 2
+          "count": 23,
+          "uniques": 18
         },
         {
           "path": "/factbook/factbook/tree/master/factbook",
-          "title": "factbook/factbook at master · factbook/factbook · GitHub",
-          "count": 7,
-          "uniques": 5
-        },
-        {
-          "path": "/factbook/factbook/tree/master/factbook-codes",
-          "title": "factbook/factbook-codes at master · factbook/factbook · GitHub",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/factbook/factbook/actions",
-          "title": "Workflow runs · factbook/factbook · GitHub",
+          "title": "factbook/factbook at master · factbook/factbook",
           "count": 4,
           "uniques": 4
         },
         {
           "path": "/factbook/factbook/tree/master",
-          "title": "factbook/factbook: factbook gem - scripts for the world factbook (get open st...",
+          "title": "GitHub - factbook/factbook: factbook gem - scripts for the world factbook (ge...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-codes",
+          "title": "factbook/factbook-codes at master · factbook/factbook",
           "count": 3,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/factbook/factbook/blob/master/factbook-readers/lib/factbook-readers/convert.rb",
-          "title": "factbook/factbook-readers/lib/factbook-readers/convert.rb at master · factboo...",
+          "path": "/factbook/factbook/actions",
+          "title": "Workflow runs · factbook/factbook · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/tree/master/factbook-readers",
+          "title": "factbook/factbook-readers at master · factbook/factbook · GitHub",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/factbook/factbook/blob/master/ALTERNATIVES.md",
+          "title": "factbook/ALTERNATIVES.md at master · factbook/factbook",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/blob/master/factbook-readers/lib/factbook-readers/page.rb",
-          "title": "factbook/factbook-readers/lib/factbook-readers/page.rb at master · factbook/f...",
-          "count": 2,
+          "path": "/factbook/factbook/actions/runs/13445679586",
+          "title": "Update Factbook v2021 (Download & Generate JSON) · factbook/factbook@c6be5e2",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/blob/master/factbook-readers/lib/factbook-readers.rb",
-          "title": "factbook/factbook-readers/lib/factbook-readers.rb at master · factbook/factbook",
-          "count": 2,
+          "path": "/factbook/factbook/blame/master/.github/workflows/update.yml",
+          "title": "Blaming factbook/.github/workflows/update.yml at master · factbook/factbook ·...",
+          "count": 1,
           "uniques": 1
         },
         {
-          "path": "/factbook/factbook/tree/master/factbook-importers",
-          "title": "factbook/factbook-importers at master · factbook/factbook · GitHub",
-          "count": 2,
+          "path": "/factbook/factbook/blob/master/factbook-codes/data/codes.csv",
+          "title": "factbook/factbook-codes/data/codes.csv at master · factbook/factbook",
+          "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 28,
-          "uniques": 6
-        },
-        {
-          "referrer": "Google",
-          "count": 6,
+          "count": 13,
           "uniques": 4
         },
         {
-          "referrer": "chatgpt.com",
-          "count": 3,
-          "uniques": 2
+          "referrer": "Google",
+          "count": 13,
+          "uniques": 3
         },
         {
-          "referrer": "Bing",
-          "count": 1,
+          "referrer": "e4developer.com",
+          "count": 2,
           "uniques": 1
         },
         {
-          "referrer": "rubygems.org",
+          "referrer": "Baidu",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "quora.com",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
           "count": 1,
           "uniques": 1
         }
@@ -8800,6 +8809,108 @@
       "2025-02-04": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-16": {
+        "views": {
+          "count": 13,
+          "uniques": 2
+        }
+      },
+      "2025-02-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-02-18": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-02-19": {
+        "views": {
+          "count": 6,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-21": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-22": {
+        "views": {
+          "count": 16,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-24": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-25": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        }
+      },
+      "2025-02-26": {
+        "views": {
+          "count": 4,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-28": {
+        "views": {
+          "count": 8,
+          "uniques": 6
+        }
+      },
+      "2025-03-01": {
+        "views": {
+          "count": 15,
           "uniques": 1
         }
       }

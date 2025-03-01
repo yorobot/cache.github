@@ -386,6 +386,10 @@
     "2025-02-15": {
       "stargazers_count": 14,
       "forks_count": 0
+    },
+    "2025-03-01": {
+      "stargazers_count": 14,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -411,8 +415,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
         "count": 2,
@@ -421,13 +425,29 @@
       "paths": [
         {
           "path": "/wikiscript/countries.json",
-          "title": "GitHub - wikiscript/countries.json: World Country Profiles Sourced from Wikip...",
+          "title": "wikiscript/countries.json: World Country Profiles Sourced from Wikipedia's Co...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/wikiscript/countries.json/blob/master/Europe/Abkhazia.json",
+          "title": "countries.json/Europe/Abkhazia.json at master · wikiscript/countries.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/wikiscript/countries.json/tree/master/Europe",
+          "title": "countries.json/Europe at master · wikiscript/countries.json",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2520,6 +2540,30 @@
         }
       },
       "2025-02-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-02-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-28": {
         "clones": {
           "count": 1,
           "uniques": 1

@@ -458,6 +458,10 @@
     "2025-02-15": {
       "stargazers_count": 3746,
       "forks_count": 443
+    },
+    "2025-03-01": {
+      "stargazers_count": 3749,
+      "forks_count": 443
     }
   },
   "commits": [
@@ -473,7 +477,7 @@
       "message": "Update README.md"
     }
   ],
-  "updated_at": "2025-02-13T14:40:24Z",
+  "updated_at": "2025-02-26T14:38:31Z",
   "pushed_at": "2023-02-10T16:37:58Z",
   "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
   "language": "Ruby",
@@ -496,8 +500,8 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 111,
-        "uniques": 68
+        "count": 72,
+        "uniques": 41
       },
       "clones": {
         "count": 14,
@@ -507,8 +511,14 @@
         {
           "path": "/openblockchains/awesome-blockchains",
           "title": "openblockchains/awesome-blockchains: A collection about awesome blockchains -...",
-          "count": 80,
-          "uniques": 59
+          "count": 34,
+          "uniques": 30
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.py",
+          "title": "awesome-blockchains/blockchain.py at master · openblockchains/awesome-blockch...",
+          "count": 5,
+          "uniques": 3
         },
         {
           "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.cpp",
@@ -519,38 +529,32 @@
         {
           "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.cpp/blockchain.cpp",
           "title": "awesome-blockchains/blockchain.cpp/blockchain.cpp at master · openblockchains...",
-          "count": 2,
-          "uniques": 2
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.cpp/blockchain_with_proof_of_work.cpp",
           "title": "awesome-blockchains/blockchain.cpp/blockchain_with_proof_of_work.cpp at maste...",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/fork",
-          "title": "Fork openblockchains/awesome-blockchains",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openblockchains/awesome-blockchains/blame/master/blockchain.cpp/blockchain.cpp",
-          "title": "Blaming awesome-blockchains/blockchain.cpp/blockchain.cpp at master · openblo...",
-          "count": 2,
-          "uniques": 1
+          "count": 3,
+          "uniques": 3
         },
         {
           "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.py/blockchain.py",
           "title": "awesome-blockchains/blockchain.py/blockchain.py at master · openblockchains/a...",
-          "count": 2,
-          "uniques": 1
+          "count": 3,
+          "uniques": 3
         },
         {
-          "path": "/openblockchains/awesome-blockchains/blob/master/README.md",
-          "title": "awesome-blockchains/README.md at master · openblockchains/awesome-blockchains",
+          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.js/blockchain.js",
+          "title": "awesome-blockchains/blockchain.js/blockchain.js at master · openblockchains/a...",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
+        },
+        {
+          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.rs/src/blockchain.rs",
+          "title": "awesome-blockchains/blockchain.rs/src/blockchain.rs at master · openblockchai...",
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openblockchains/awesome-blockchains/tree/master/blockchain.js",
@@ -559,8 +563,8 @@
           "uniques": 1
         },
         {
-          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.js/README.md",
-          "title": "awesome-blockchains/blockchain.js/README.md at master · openblockchains/aweso...",
+          "path": "/openblockchains/awesome-blockchains/blob/master/blockchain.js/blockchain_with_proof_of_work.js",
+          "title": "awesome-blockchains/blockchain.js/blockchain_with_proof_of_work.js at master ...",
           "count": 1,
           "uniques": 1
         }
@@ -568,41 +572,31 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 47,
-          "uniques": 23
+          "count": 23,
+          "uniques": 11
         },
         {
           "referrer": "github.com",
-          "count": 30,
-          "uniques": 22
-        },
-        {
-          "referrer": "lambda.ee",
-          "count": 5,
-          "uniques": 1
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "referrer": "bitcointalk.org",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "referrer": "medium.com",
-          "count": 1,
-          "uniques": 1
+          "count": 9,
+          "uniques": 7
         },
         {
           "referrer": "chatgpt.com",
+          "count": 6,
+          "uniques": 2
+        },
+        {
+          "referrer": "statics.teams.cdn.office.net",
           "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "bitcointalk.org",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "search.brave.com",
           "count": 1,
           "uniques": 1
         }
@@ -10921,6 +10915,126 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2025-02-16": {
+        "views": {
+          "count": 6,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-17": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-18": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-02-19": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-02-20": {
+        "views": {
+          "count": 7,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-21": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-02-22": {
+        "views": {
+          "count": 13,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-23": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-24": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-25": {
+        "views": {
+          "count": 7,
+          "uniques": 3
+        }
+      },
+      "2025-02-26": {
+        "views": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2025-02-27": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-02-28": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2025-03-01": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

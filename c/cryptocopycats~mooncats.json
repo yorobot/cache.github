@@ -350,6 +350,10 @@
     "2025-02-15": {
       "stargazers_count": 13,
       "forks_count": 3
+    },
+    "2025-03-01": {
+      "stargazers_count": 13,
+      "forks_count": 3
     }
   },
   "commits": [
@@ -379,23 +383,39 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       "clones": {
-        "count": 8,
-        "uniques": 7
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/cryptocopycats/mooncats",
           "title": "GitHub - cryptocopycats/mooncats: mooncats libraries, tools & scripts - mint ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/cryptocopycats/mooncats/tree/master/mooncats",
+          "title": "mooncats/mooncats at master · cryptocopycats/mooncats · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/cryptocopycats/mooncats/tree/master/mooncats-graphql",
+          "title": "mooncats/mooncats-graphql at master · cryptocopycats/mooncats · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -3419,6 +3439,22 @@
       },
       "2025-02-14": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-19": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-02-26": {
+        "views": {
           "count": 1,
           "uniques": 1
         }

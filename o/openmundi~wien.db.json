@@ -469,6 +469,10 @@
     "2025-02-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-03-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -495,18 +499,45 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 4,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 1,
-        "uniques": 1
-      },
       "paths": [
-
+        {
+          "path": "/openmundi/wien.db",
+          "title": "GitHub - openmundi/wien.db: Free open public domain data about Vienna, Austri...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/wien.db/blob/master/11-simmering/cafes.txt",
+          "title": "wien.db/11-simmering/cafes.txt at master · openmundi/wien.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/wien.db/tree/master/11-simmering",
+          "title": "wien.db/11-simmering at master · openmundi/wien.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/openmundi/wien.db/tree/master/2-leopoldstadt",
+          "title": "wien.db/2-leopoldstadt at master · openmundi/wien.db · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "chatgpt.com",
+          "count": 4,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -899,6 +930,12 @@
       "2025-02-05": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-28": {
+        "views": {
+          "count": 4,
           "uniques": 1
         }
       }

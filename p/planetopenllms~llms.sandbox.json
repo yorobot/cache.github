@@ -1,9 +1,9 @@
 {
   "full_name": "planetopenllms/llms.sandbox",
   "created_at": "2024-12-17T16:14:17Z",
-  "updated_at": "2025-02-15T17:03:37Z",
-  "pushed_at": "2025-02-15T17:03:34Z",
-  "size": 15,
+  "updated_at": "2025-02-22T16:56:24Z",
+  "pushed_at": "2025-02-22T16:56:21Z",
+  "size": 35,
   "description": "LLMs scripts & more",
   "language": "Python",
   "history": {
@@ -34,16 +34,20 @@
     "2025-02-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-03-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-02-15T17:03:26Z",
+        "date": "2025-02-22T16:56:09Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-02-15T17:03:26Z",
+        "date": "2025-02-22T16:56:09Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -53,35 +57,29 @@
 
   ],
   "languages": {
-    "Python": 27892
+    "Python": 65164
   },
   "traffic": {
     "summary": {
       "views": {
-        "count": 75,
-        "uniques": 2
+        "count": 41,
+        "uniques": 1
       },
       "clones": {
-        "count": 27,
-        "uniques": 21
+        "count": 25,
+        "uniques": 20
       },
       "paths": [
         {
           "path": "/planetopenllms/llms.sandbox",
           "title": "planetopenllms/llms.sandbox: LLMs scripts & more",
-          "count": 9,
+          "count": 11,
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.sandbox/blob/main/mintorch/mintorch.py",
-          "title": "llms.sandbox/mintorch/mintorch.py at main · planetopenllms/llms.sandbox",
-          "count": 9,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.sandbox/blob/main/mintorch_v1/mintorch.py",
-          "title": "llms.sandbox/mintorch_v1/mintorch.py at main · planetopenllms/llms.sandbox",
-          "count": 5,
+          "path": "/planetopenllms/llms.sandbox/tree/main/micrograd_v2",
+          "title": "llms.sandbox/micrograd_v2 at main · planetopenllms/llms.sandbox",
+          "count": 8,
           "uniques": 1
         },
         {
@@ -91,27 +89,27 @@
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.sandbox/tree/main/mintorch",
-          "title": "llms.sandbox/mintorch at main · planetopenllms/llms.sandbox",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.sandbox/tree/main/mintorch_v1",
-          "title": "llms.sandbox/mintorch_v1 at main · planetopenllms/llms.sandbox",
-          "count": 4,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.sandbox/blob/main/mintorch_v1/test/test_mintorch.py",
-          "title": "llms.sandbox/mintorch_v1/test/test_mintorch.py at main · planetopenllms/llms....",
+          "path": "/planetopenllms/llms.sandbox/blob/main/micrograd_v2/mintorch.py",
+          "title": "llms.sandbox/micrograd_v2/mintorch.py at main · planetopenllms/llms.sandbox",
           "count": 3,
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.sandbox/tree/main/mintorch_v1/test",
-          "title": "llms.sandbox/mintorch_v1/test at main · planetopenllms/llms.sandbox",
-          "count": 3,
+          "path": "/planetopenllms/llms.sandbox/commits/main",
+          "title": "Commits · planetopenllms/llms.sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopenllms/llms.sandbox/tree/main/awesome-perceptrons",
+          "title": "llms.sandbox/awesome-perceptrons at main · planetopenllms/llms.sandbox",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopenllms/llms.sandbox/tree/main/mintorch_v2",
+          "title": "llms.sandbox/mintorch_v2 at main · planetopenllms/llms.sandbox",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -121,8 +119,14 @@
           "uniques": 1
         },
         {
-          "path": "/planetopenllms/llms.sandbox/blob/main/gemini/gemini.py",
-          "title": "llms.sandbox/gemini/gemini.py at main · planetopenllms/llms.sandbox",
+          "path": "/planetopenllms/llms.sandbox/blob/main/mintorch_v2/mintorch.py",
+          "title": "llms.sandbox/mintorch_v2/mintorch.py at main · planetopenllms/llms.sandbox",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetopenllms/llms.sandbox/blob/main/mintorch_v2/nn.py",
+          "title": "llms.sandbox/mintorch_v2/nn.py at main · planetopenllms/llms.sandbox",
           "count": 1,
           "uniques": 1
         }
@@ -130,7 +134,7 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 19,
+          "count": 6,
           "uniques": 1
         }
       ]
@@ -291,6 +295,60 @@
         }
       },
       "2025-02-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-16": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 8
+        }
+      },
+      "2025-02-17": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-02-18": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 4
+        }
+      },
+      "2025-02-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-21": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-22": {
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2025-02-23": {
         "clones": {
           "count": 1,
           "uniques": 1

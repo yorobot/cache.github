@@ -1,9 +1,9 @@
 {
   "full_name": "planetopenllms/llms.prompts",
   "created_at": "2024-11-09T20:06:06Z",
-  "updated_at": "2025-02-15T17:56:09Z",
-  "pushed_at": "2025-02-15T17:56:06Z",
-  "size": 317,
+  "updated_at": "2025-02-19T18:59:08Z",
+  "pushed_at": "2025-02-19T18:59:05Z",
+  "size": 326,
   "description": "LLMS Prompts (Q&As and more)",
   "language": "Python",
   "history": {
@@ -22,16 +22,20 @@
     "2025-02-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-03-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-02-15T17:55:58Z",
+        "date": "2025-02-19T18:58:54Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-02-15T17:55:58Z",
+        "date": "2025-02-19T18:58:54Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -47,81 +51,18 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 13,
-        "uniques": 1
+        "count": 0,
+        "uniques": 0
       },
       "clones": {
-        "count": 26,
-        "uniques": 17
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
-        {
-          "path": "/planetopenllms/llms.prompts",
-          "title": "planetopenllms/llms.prompts: LLMS Prompts (Q&As and more)",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/blob/main/autograd/build-autograd-from-scratch/README.DEEPSEEK.md",
-          "title": "llms.prompts/autograd/build-autograd-from-scratch/README.DEEPSEEK.md at main ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/blob/main/autograd/build-autograd-from-scratch/README.md",
-          "title": "llms.prompts/autograd/build-autograd-from-scratch/README.md at main · planeto...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/blob/main/autograd/build-autograd-from-scratch/README.MISTRAL.md",
-          "title": "llms.prompts/autograd/build-autograd-from-scratch/README.MISTRAL.md at main ·...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/commits/main",
-          "title": "Commits · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/autograd",
-          "title": "llms.prompts/autograd at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/autograd/build-autograd-from-scratch",
-          "title": "llms.prompts/autograd/build-autograd-from-scratch at main · planetopenllms/ll...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more",
-          "title": "llms.prompts/more at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/more/autodiff-vs-autograd",
-          "title": "llms.prompts/more/autodiff-vs-autograd at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetopenllms/llms.prompts/tree/main/pytorch",
-          "title": "llms.prompts/pytorch at main · planetopenllms/llms.prompts",
-          "count": 1,
-          "uniques": 1
-        }
+
       ],
       "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 1,
-          "uniques": 1
-        }
+
       ]
     },
     "history": {
@@ -295,6 +236,24 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2025-02-16": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-19": {
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2025-02-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

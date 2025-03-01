@@ -461,6 +461,10 @@
     "2025-02-15": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2025-03-01": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -486,18 +490,44 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 6,
+        "uniques": 2
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/journaltxt/blog",
+          "title": "GitHub - journaltxt/blog: Vienna.TXT Blog - Journal.TXT Blog Live Sample w/ J...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/journaltxt/blog/blob/master/_posts/2017-07-17-vienna.md",
+          "title": "blog/_posts/2017-07-17-vienna.md at master · journaltxt/blog · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/journaltxt/blog/tree/master/_posts",
+          "title": "blog/_posts at master · journaltxt/blog · GitHub",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "journaltxt.github.io",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1221,6 +1251,18 @@
       },
       "2025-02-10": {
         "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-02-24": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2025-02-26": {
+        "views": {
           "count": 1,
           "uniques": 1
         }
