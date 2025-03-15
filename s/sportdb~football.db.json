@@ -425,6 +425,10 @@
     "2025-03-01": {
       "stargazers_count": 9,
       "forks_count": 1
+    },
+    "2025-03-15": {
+      "stargazers_count": 9,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -457,80 +461,80 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 23,
-        "uniques": 5
+        "count": 13,
+        "uniques": 3
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 8,
+        "uniques": 8
       },
       "paths": [
         {
           "path": "/sportdb/football.db",
           "title": "sportdb/football.db: football.db - zero-config (pre-packaged) open football d...",
-          "count": 5,
-          "uniques": 4
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/footballdb-clubs/lib/footballdb/clubs/auto.rb",
+          "title": "football.db/footballdb-clubs/lib/footballdb/clubs/auto.rb at master · sportdb...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/footballdb-clubs/lib/footballdb/clubs/version.rb",
+          "title": "football.db/footballdb-clubs/lib/footballdb/clubs/version.rb at master · spor...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/lib/football-to-sqlite.rb",
+          "title": "football.db/football-to-sqlite/lib/football-to-sqlite.rb at master · sportdb/...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/blob/master/football-to-sqlite/test/helper.rb",
+          "title": "football.db/football-to-sqlite/test/helper.rb at master · sportdb/football.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs",
+          "title": "football.db/footballdb-clubs at master · sportdb/football.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs/lib/footballdb",
+          "title": "football.db/footballdb-clubs/lib/footballdb at master · sportdb/football.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/football.db/tree/master/footballdb-clubs/lib/footballdb/clubs",
+          "title": "football.db/footballdb-clubs/lib/footballdb/clubs at master · sportdb/footbal...",
+          "count": 1,
+          "uniques": 1
         },
         {
           "path": "/sportdb/football.db/tree/master/football-to-sqlite",
           "title": "football.db/football-to-sqlite at master · sportdb/football.db",
-          "count": 5,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb",
-          "title": "football.db/footballdb-leagues/lib/footballdb at master · sportdb/football.db",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues",
-          "title": "football.db/footballdb-leagues at master · sportdb/football.db",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/lib/footballdb/leagues/auto.rb",
-          "title": "football.db/footballdb-leagues/lib/footballdb/leagues/auto.rb at master · spo...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/football.db/blob/master/footballdb-leagues/lib/footballdb/leagues.rb",
-          "title": "football.db/footballdb-leagues/lib/footballdb/leagues.rb at master · sportdb/...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/commits/master",
-          "title": "Commits · sportdb/football.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/config",
-          "title": "football.db/footballdb-leagues/config at master · sportdb/football.db",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/lib/footballdb/leagues",
-          "title": "football.db/footballdb-leagues/lib/footballdb/leagues at master · sportdb/foo...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/football.db/tree/master/footballdb-leagues/test",
-          "title": "football.db/footballdb-leagues/test at master · sportdb/football.db",
+          "path": "/sportdb/football.db/tree/master/football-to-sqlite/lib",
+          "title": "football.db/football-to-sqlite/lib at master · sportdb/football.db",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "openfootball.github.io",
-          "count": 17,
-          "uniques": 3
+          "referrer": "DuckDuckGo",
+          "count": 6,
+          "uniques": 1
         },
         {
           "referrer": "Google",
@@ -4401,6 +4405,58 @@
         }
       },
       "2025-02-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-03": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-07": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2025-03-08": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-04": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-14": {
         "clones": {
           "count": 1,
           "uniques": 1

@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/spec",
   "created_at": "2014-06-29T22:02:07Z",
-  "updated_at": "2025-03-01T19:32:44Z",
-  "pushed_at": "2025-03-01T19:32:41Z",
-  "size": 87,
+  "updated_at": "2025-03-05T16:48:22Z",
+  "pushed_at": "2025-03-05T16:48:19Z",
+  "size": 103,
   "history": {
     "2020-09-14": {
       "stargazers_count": 2
@@ -422,16 +422,20 @@
     "2025-03-01": {
       "stargazers_count": 2,
       "forks_count": 1
+    },
+    "2025-03-15": {
+      "stargazers_count": 2,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-03-01T19:32:32Z",
+        "date": "2025-03-05T16:48:09Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-03-01T19:32:32Z",
+        "date": "2025-03-05T16:48:09Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
@@ -445,71 +449,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 49,
-        "uniques": 8
+        "count": 62,
+        "uniques": 16
       },
       "clones": {
-        "count": 45,
-        "uniques": 26
+        "count": 25,
+        "uniques": 20
       },
       "paths": [
         {
           "path": "/openfootball/spec",
           "title": "openfootball/spec: Football.TXT Format Spec (& Tests)",
-          "count": 13,
-          "uniques": 8
-        },
-        {
-          "path": "/openfootball/spec/tree/master/samples",
-          "title": "spec/samples at master · openfootball/spec",
-          "count": 6,
-          "uniques": 5
+          "count": 15,
+          "uniques": 12
         },
         {
           "path": "/openfootball/spec/tree/master/docs",
           "title": "spec/docs at master · openfootball/spec · GitHub",
+          "count": 10,
+          "uniques": 9
+        },
+        {
+          "path": "/openfootball/spec/tree/master/samples",
+          "title": "spec/samples at master · openfootball/spec · GitHub",
           "count": 6,
           "uniques": 4
         },
         {
-          "path": "/openfootball/spec/tree/master",
-          "title": "spec/ at master · openfootball/spec · GitHub",
-          "count": 4,
-          "uniques": 3
+          "path": "/openfootball/spec/tree/master/basics",
+          "title": "spec/basics at master · openfootball/spec · GitHub",
+          "count": 5,
+          "uniques": 2
         },
         {
-          "path": "/openfootball/spec/blob/master/samples/1979_copa_america.txt",
-          "title": "spec/samples/1979_copa_america.txt at master · openfootball/spec",
+          "path": "/openfootball/spec/blob/master/basics/0002_rounds.txt",
+          "title": "spec/basics/0002_rounds.txt at master · openfootball/spec · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/spec/blob/master/basics/0001_teams.txt",
+          "title": "spec/basics/0001_teams.txt at master · openfootball/spec · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openfootball/spec/blob/master/samples/2014_world_cup.txt",
-          "title": "spec/samples/2014_world_cup.txt at master · openfootball/spec",
+          "path": "/openfootball/spec/blob/master/samples/1960_euro.txt",
+          "title": "spec/samples/1960_euro.txt at master · openfootball/spec · GitHub",
           "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openfootball/spec/commits/master",
-          "title": "Commits · openfootball/spec",
+          "path": "/openfootball/spec/forks",
+          "title": "Forks · openfootball/spec · GitHub",
           "count": 2,
-          "uniques": 1
+          "uniques": 2
         },
         {
-          "path": "/openfootball/spec/tree/master/more",
-          "title": "spec/more at master · openfootball/spec",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/spec/blob/master/NOTES.md",
-          "title": "spec/NOTES.md at master · openfootball/spec · GitHub",
+          "path": "/openfootball/spec/blob/master/basics/0003_more.txt",
+          "title": "spec/basics/0003_more.txt at master · openfootball/spec",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/spec/blob/master/samples/2021_euro.txt",
-          "title": "spec/samples/2021_euro.txt at master · openfootball/spec",
+          "path": "/openfootball/spec/blob/master/docs/README.md",
+          "title": "spec/docs/README.md at master · openfootball/spec · GitHub",
           "count": 1,
           "uniques": 1
         }
@@ -518,15 +522,45 @@
         {
           "referrer": "openfootball.github.io",
           "count": 11,
-          "uniques": 4
-        },
-        {
-          "referrer": "Google",
-          "count": 10,
           "uniques": 2
         },
         {
+          "referrer": "footballcsv.github.io",
+          "count": 9,
+          "uniques": 2
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 7,
+          "uniques": 1
+        },
+        {
           "referrer": "github.com",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "learn.azimpremjiuniversity.edu.in",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "rsssf.github.io",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "referrer": "sportdb.github.io",
           "count": 2,
           "uniques": 1
         }
@@ -2411,6 +2445,100 @@
         "clones": {
           "count": 10,
           "uniques": 7
+        }
+      },
+      "2025-03-02": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-03-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 10,
+          "uniques": 8
+        }
+      },
+      "2025-03-04": {
+        "views": {
+          "count": 14,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-03-06": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2025-03-07": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-03-08": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2025-03-10": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2025-03-12": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-03-14": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2025-03-15": {
+        "views": {
+          "count": 7,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-05": {
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2025-03-09": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-13": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }
