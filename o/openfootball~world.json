@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/world",
   "created_at": "2014-07-22T05:40:14Z",
-  "updated_at": "2025-02-06T00:16:55Z",
-  "pushed_at": "2025-01-29T16:29:40Z",
-  "size": 715,
+  "updated_at": "2025-03-24T13:24:02Z",
+  "pushed_at": "2025-03-24T13:23:58Z",
+  "size": 1080,
   "history": {
     "2019-09-29": {
       "stargazers_count": 2
@@ -435,46 +435,129 @@
     "2025-03-15": {
       "stargazers_count": 5,
       "forks_count": 6
+    },
+    "2025-04-01": {
+      "stargazers_count": 5,
+      "forks_count": 6
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-01-29T16:29:26Z",
+        "date": "2025-03-24T13:23:52Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-01-29T16:29:26Z",
+        "date": "2025-03-24T13:23:52Z",
         "name": "Gerald Bauer"
       },
-      "message": "up"
+      "message": "auto-update week 13"
     }
   ],
-  "description": "Free open public domain football data incl. major leagues from North America, Asia, Australia and much more",
+  "description": "Free open public domain football data in the Football.TXT format incl. major leagues from North America, Asia, Africa, Australia and much more",
   "language": null,
   "topics": [
-
+    "football",
+    "opendata"
   ],
   "traffic": {
     "summary": {
       "paths": [
         {
           "path": "/openfootball/world",
-          "title": "openfootball/world: Free open public domain football data incl. major leagues...",
-          "count": 1,
+          "title": "openfootball/world: Free open public domain football data in the Football.TXT...",
+          "count": 74,
+          "uniques": 21
+        },
+        {
+          "path": "/openfootball/world/tree/master",
+          "title": "openfootball/world: Free open public domain football data in the Football.TXT...",
+          "count": 34,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/world/tree/master/africa",
+          "title": "world/africa at master · openfootball/world · GitHub",
+          "count": 21,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/world/tree/master/pacific/australia",
+          "title": "world/pacific/australia at master · openfootball/world · GitHub",
+          "count": 19,
+          "uniques": 2
+        },
+        {
+          "path": "/openfootball/world/tree/master/north-america/major-league-soccer",
+          "title": "world/north-america/major-league-soccer at master · openfootball/world",
+          "count": 18,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/north-america/mexico",
+          "title": "world/north-america/mexico at master · openfootball/world",
+          "count": 11,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/middle-east/israel",
+          "title": "world/middle-east/israel at master · openfootball/world · GitHub",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "path": "/openfootball/world/blob/master/north-america/major-league-soccer/2005_mls.txt",
+          "title": "world/north-america/major-league-soccer/2005_mls.txt at master · openfootball...",
+          "count": 10,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/world/tree/master/africa/african-football-league",
+          "title": "world/africa/african-football-league at master · openfootball/world · GitHub",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/world/blob/master/pacific/australia/2018-19_au1.txt",
+          "title": "world/pacific/australia/2018-19_au1.txt at master · openfootball/world",
+          "count": 9,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 75,
+          "uniques": 8
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 7,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "referrer": "openfootball.github.io",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "footballcsv.github.io",
+          "count": 4,
+          "uniques": 1
+        }
       ],
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 363,
+        "uniques": 22
       },
       "clones": {
-        "count": 13,
-        "uniques": 11
+        "count": 87,
+        "uniques": 55
       }
     },
     "history": {
@@ -3825,6 +3908,130 @@
         }
       },
       "2025-03-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-19": {
+        "views": {
+          "count": 19,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 13,
+          "uniques": 12
+        }
+      },
+      "2025-03-20": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-21": {
+        "views": {
+          "count": 90,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2025-03-22": {
+        "views": {
+          "count": 97,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 24,
+          "uniques": 20
+        }
+      },
+      "2025-03-23": {
+        "views": {
+          "count": 77,
+          "uniques": 5
+        },
+        "clones": {
+          "count": 18,
+          "uniques": 14
+        }
+      },
+      "2025-03-24": {
+        "views": {
+          "count": 29,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-25": {
+        "views": {
+          "count": 35,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-03-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-27": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-28": {
+        "views": {
+          "count": 8,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-29": {
+        "clones": {
+          "count": 11,
+          "uniques": 10
+        }
+      },
+      "2025-03-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-31": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2025-04-01": {
         "clones": {
           "count": 1,
           "uniques": 1

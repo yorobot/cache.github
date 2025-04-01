@@ -477,6 +477,10 @@
     "2025-03-15": {
       "stargazers_count": 1,
       "forks_count": 1
+    },
+    "2025-04-01": {
+      "stargazers_count": 1,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -503,18 +507,39 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 3,
-        "uniques": 3
-      },
       "paths": [
-
+        {
+          "path": "/sportlogos/hockey.db.logos",
+          "title": "sportlogos/hockey.db.logos: hockey league club logos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/hockey.db.logos/blob/master/nhl/avalanche.png",
+          "title": "hockey.db.logos/nhl/avalanche.png at master · sportlogos/hockey.db.logos",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/hockey.db.logos/tree/master/nhl",
+          "title": "hockey.db.logos/nhl at master · sportlogos/hockey.db.logos",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "search.brave.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1043,6 +1068,12 @@
       "2025-03-14": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-22": {
+        "views": {
+          "count": 3,
           "uniques": 1
         }
       }

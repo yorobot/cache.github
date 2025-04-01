@@ -450,6 +450,10 @@
     "2025-03-15": {
       "stargazers_count": 5,
       "forks_count": 0
+    },
+    "2025-04-01": {
+      "stargazers_count": 5,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -473,24 +477,83 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
-        "uniques": 1
+        "count": 24,
+        "uniques": 3
       },
       "clones": {
-        "count": 5,
-        "uniques": 5
+        "count": 2,
+        "uniques": 2
       },
       "paths": [
         {
           "path": "/sportdb/docs",
-          "title": "GitHub - sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "title": "sportdb/docs: sport.db (incl. football.db) scripts & tools docs",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/docs/blob/master/sport.db.starter/config/database.yml",
+          "title": "docs/sport.db.starter/config/database.yml at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/tree/master/articles",
+          "title": "docs/articles at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/tree/master/sport.db.starter",
+          "title": "docs/sport.db.starter at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/tree/master/sport.db.starter/config",
+          "title": "docs/sport.db.starter/config at master · sportdb/docs",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/articles/generating-json-datasets.md",
+          "title": "docs/articles/generating-json-datasets.md at master · sportdb/docs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/articles/working-with-csv-files.md",
+          "title": "docs/articles/working-with-csv-files.md at master · sportdb/docs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/articles/working-with-csv-packages.md",
+          "title": "docs/articles/working-with-csv-packages.md at master · sportdb/docs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/articles/working-with-unicode.md",
+          "title": "docs/articles/working-with-unicode.md at master · sportdb/docs",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/docs/blob/master/README.md",
+          "title": "docs/README.md at master · sportdb/docs",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "sportdb.github.io",
+          "referrer": "openfootball.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "github.com",
           "count": 1,
           "uniques": 1
         }
@@ -2213,6 +2276,30 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-03-19": {
+        "views": {
+          "count": 22,
+          "uniques": 1
+        }
+      },
+      "2025-03-25": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-01": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

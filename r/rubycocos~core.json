@@ -230,6 +230,10 @@
     "2025-03-15": {
       "stargazers_count": 7,
       "forks_count": 2
+    },
+    "2025-04-01": {
+      "stargazers_count": 7,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -261,23 +265,51 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 1,
+        "count": 5,
         "uniques": 1
       },
       "clones": {
-        "count": 8,
-        "uniques": 8
+        "count": 14,
+        "uniques": 14
       },
       "paths": [
         {
           "path": "/rubycocos/core",
-          "title": "GitHub - rubycocos/core: core tools, libraries & scripts - logger, config, da...",
+          "title": "rubycocos/core: core tools, libraries & scripts - logger, config, dates, alph...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/blob/master/alphabets/lib/alphabets.rb",
+          "title": "core/alphabets/lib/alphabets.rb at master · rubycocos/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/blob/master/alphabets/README.md",
+          "title": "core/alphabets/README.md at master · rubycocos/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/alphabets/lib",
+          "title": "core/alphabets/lib at master · rubycocos/core",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/core/tree/master/bytes",
+          "title": "core/bytes at master · rubycocos/core",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "rubygems.org",
+          "count": 5,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1841,6 +1873,54 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-03-31": {
+        "views": {
+          "count": 5,
+          "uniques": 1
+        }
+      },
+      "2025-03-20": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-26": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-27": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-28": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-29": {
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2025-03-30": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-01": {
+        "clones": {
+          "count": 5,
+          "uniques": 5
         }
       }
     }

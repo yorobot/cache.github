@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/sandbox",
   "created_at": "2013-12-09T01:36:58Z",
-  "updated_at": "2025-01-09T21:11:20Z",
-  "pushed_at": "2024-06-02T12:45:37Z",
-  "size": 59,
+  "updated_at": "2025-03-17T16:47:27Z",
+  "pushed_at": "2025-03-17T16:47:22Z",
+  "size": 109,
   "description": "sandbox - misc (open) football data & scripts",
   "language": null,
   "history": {
@@ -86,19 +86,23 @@
     "2025-03-15": {
       "stargazers_count": 30,
       "forks_count": 14
+    },
+    "2025-04-01": {
+      "stargazers_count": 30,
+      "forks_count": 14
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2024-06-02T12:45:31Z",
+        "date": "2025-03-17T16:47:15Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2024-06-02T12:45:31Z",
+        "date": "2025-03-17T16:47:15Z",
         "name": "Gerald Bauer"
       },
-      "message": "recycle"
+      "message": "up"
     }
   ],
   "topics": [
@@ -109,59 +113,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 57,
-        "uniques": 27
+        "count": 97,
+        "uniques": 34
       },
       "clones": {
-        "count": 14,
+        "count": 13,
         "uniques": 12
       },
       "paths": [
         {
           "path": "/openfootball/sandbox",
           "title": "openfootball/sandbox: sandbox - misc (open) football data & scripts",
-          "count": 38,
+          "count": 37,
           "uniques": 25
+        },
+        {
+          "path": "/openfootball/sandbox/tree/master/worldcup",
+          "title": "sandbox/worldcup at master · openfootball/sandbox · GitHub",
+          "count": 16,
+          "uniques": 13
+        },
+        {
+          "path": "/openfootball/sandbox/blob/master/NOTES.md",
+          "title": "sandbox/NOTES.md at master · openfootball/sandbox · GitHub",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/openfootball/sandbox/blob/master/worldcup/1930_worldcup.txt",
+          "title": "sandbox/worldcup/1930_worldcup.txt at master · openfootball/sandbox · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/sandbox/blob/master/worldcup/2022_worldcup.txt",
+          "title": "sandbox/worldcup/2022_worldcup.txt at master · openfootball/sandbox · GitHub",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/openfootball/sandbox/blob/master/NOTES.WORLDCUP.md",
+          "title": "sandbox/NOTES.WORLDCUP.md at master · openfootball/sandbox · GitHub",
+          "count": 4,
+          "uniques": 2
         },
         {
           "path": "/openfootball/sandbox/blob/master/LICENSE.md",
           "title": "sandbox/LICENSE.md at master · openfootball/sandbox · GitHub",
-          "count": 5,
-          "uniques": 4
+          "count": 2,
+          "uniques": 2
         },
         {
           "path": "/openfootball/sandbox/blob/master/README.md",
           "title": "sandbox/README.md at master · openfootball/sandbox · GitHub",
-          "count": 5,
-          "uniques": 4
-        },
-        {
-          "path": "/openfootball/sandbox/actions",
-          "title": "Actions · openfootball/sandbox · GitHub",
-          "count": 3,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/sandbox/branches",
-          "title": "Branches · openfootball/sandbox · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/sandbox/issues",
-          "title": "GitHub · Where software is built",
+          "path": "/openfootball/sandbox/blob/master/worldcup/1978_worldcup.txt",
+          "title": "sandbox/worldcup/1978_worldcup.txt at master · openfootball/sandbox",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/openfootball/sandbox/projects",
-          "title": "Projects · sandbox · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/openfootball/sandbox/pulse",
-          "title": "Pulse · openfootball/sandbox · GitHub",
+          "path": "/openfootball/sandbox/blob/master/worldcup/2014_worldcup.txt",
+          "title": "sandbox/worldcup/2014_worldcup.txt at master · openfootball/sandbox",
           "count": 1,
           "uniques": 1
         }
@@ -169,7 +185,17 @@
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3,
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "chatgpt.com",
+          "count": 4,
           "uniques": 2
         }
       ]
@@ -1629,6 +1655,116 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-03-19": {
+        "views": {
+          "count": 12,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-20": {
+        "views": {
+          "count": 15,
+          "uniques": 4
+        }
+      },
+      "2025-03-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-03-23": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-24": {
+        "views": {
+          "count": 7,
+          "uniques": 5
+        }
+      },
+      "2025-03-25": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2025-03-26": {
+        "views": {
+          "count": 11,
+          "uniques": 5
+        }
+      },
+      "2025-03-27": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-03-28": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-03-29": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-30": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        }
+      },
+      "2025-03-31": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-04-01": {
+        "views": {
+          "count": 18,
+          "uniques": 6
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-18": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

@@ -477,6 +477,10 @@
     "2025-03-15": {
       "stargazers_count": 1,
       "forks_count": 0
+    },
+    "2025-04-01": {
+      "stargazers_count": 1,
+      "forks_count": 0
     }
   },
   "commits": [
@@ -503,18 +507,33 @@
   "traffic": {
     "summary": {
       "views": {
+        "count": 3,
+        "uniques": 1
+      },
+      "clones": {
         "count": 0,
         "uniques": 0
       },
-      "clones": {
-        "count": 2,
-        "uniques": 2
-      },
       "paths": [
-
+        {
+          "path": "/sportlogos/sport.db.logos/blob/master/europe/den.png",
+          "title": "sport.db.logos/europe/den.png at master · sportlogos/sport.db.logos",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sportlogos/sport.db.logos/tree/master/europe",
+          "title": "sport.db.logos/europe at master · sportlogos/sport.db.logos",
+          "count": 1,
+          "uniques": 1
+        }
       ],
       "referrers": [
-
+        {
+          "referrer": "github.com",
+          "count": 3,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -1096,6 +1115,12 @@
         "clones": {
           "count": 2,
           "uniques": 2
+        }
+      },
+      "2025-03-22": {
+        "views": {
+          "count": 3,
+          "uniques": 1
         }
       }
     }

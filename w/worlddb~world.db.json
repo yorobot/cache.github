@@ -472,6 +472,10 @@
     "2025-03-15": {
       "stargazers_count": 72,
       "forks_count": 5
+    },
+    "2025-04-01": {
+      "stargazers_count": 72,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -504,37 +508,25 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 40,
-        "uniques": 20
+        "count": 41,
+        "uniques": 19
       },
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 27,
+        "uniques": 16
       },
       "paths": [
         {
           "path": "/worlddb/world.db",
           "title": "worlddb/world.db: world.db - open world database (world.db) command line tool...",
-          "count": 20,
-          "uniques": 19
+          "count": 17,
+          "uniques": 17
         },
         {
           "path": "/worlddb/world.db/tree/master/worlddb",
           "title": "world.db/worlddb at master · worlddb/world.db · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/worlddb/world.db/issues",
-          "title": "GitHub · Where software is built",
-          "count": 3,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/tree/master",
-          "title": "GitHub - worlddb/world.db: world.db - open world database (world.db) command ...",
-          "count": 2,
-          "uniques": 2
+          "count": 8,
+          "uniques": 5
         },
         {
           "path": "/worlddb/world.db/tree/master/worldlite",
@@ -543,32 +535,44 @@
           "uniques": 2
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/lib",
-          "title": "world.db/worlddb/lib at master · worlddb/world.db · GitHub",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/worlddb/world.db/blob/master/TODO.md",
-          "title": "world.db/TODO.md at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/blob/master/README.md",
+          "title": "world.db/README.md at master · worlddb/world.db · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/forks",
-          "title": "Forks · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/city.rb",
+          "title": "world.db/worlddb-compat/lib/worlddb/compat/city.rb at master · worlddb/world....",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/issues/2",
-          "title": "uninitialized constant WorldDb::Model::Region (NameError) · Issue #2 · worldd...",
+          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/continent.rb",
+          "title": "world.db/worlddb-compat/lib/worlddb/compat/continent.rb at master · worlddb/w...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/worlddb/world.db/tree/master/worlddb/assets",
-          "title": "world.db/worlddb/assets at master · worlddb/world.db · GitHub",
+          "path": "/worlddb/world.db/blob/master/worlddb-compat/lib/worlddb/compat/lang.rb",
+          "title": "world.db/worlddb-compat/lib/worlddb/compat/lang.rb at master · worlddb/world....",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb-models/lib/worlddb/models.rb",
+          "title": "world.db/worlddb-models/lib/worlddb/models.rb at master · worlddb/world.db",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb-models/script/report_country_at.rb",
+          "title": "world.db/worlddb-models/script/report_country_at.rb at master · worlddb/world...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/worlddb/world.db/blob/master/worlddb-service/attic/views/index.erb",
+          "title": "world.db/worlddb-service/attic/views/index.erb at master · worlddb/world.db ·...",
           "count": 1,
           "uniques": 1
         }
@@ -576,21 +580,21 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 21,
+          "count": 27,
           "uniques": 11
         },
         {
-          "referrer": "DuckDuckGo",
-          "count": 7,
-          "uniques": 2
-        },
-        {
           "referrer": "github.com",
-          "count": 1,
+          "count": 4,
           "uniques": 1
         },
         {
-          "referrer": "Bing",
+          "referrer": "yandex.ru",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "referrer": "chatgpt.com",
           "count": 1,
           "uniques": 1
         }
@@ -7151,6 +7155,94 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-03-19": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-03-20": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-03-22": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-23": {
+        "views": {
+          "count": 3,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-25": {
+        "views": {
+          "count": 13,
+          "uniques": 1
+        }
+      },
+      "2025-03-26": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-27": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-28": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-03-29": {
+        "views": {
+          "count": 12,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 20,
+          "uniques": 10
+        }
+      },
+      "2025-03-31": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-01": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-21": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

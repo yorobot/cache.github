@@ -477,6 +477,10 @@
     "2025-03-15": {
       "stargazers_count": 57,
       "forks_count": 20
+    },
+    "2025-04-01": {
+      "stargazers_count": 57,
+      "forks_count": 20
     }
   },
   "commits": [
@@ -509,71 +513,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 26,
-        "uniques": 7
+        "count": 31,
+        "uniques": 11
       },
       "clones": {
-        "count": 9,
+        "count": 11,
         "uniques": 9
       },
       "paths": [
         {
           "path": "/planetruby/books",
           "title": "planetruby/books: List of all Ruby books",
-          "count": 8,
-          "uniques": 7
-        },
-        {
-          "path": "/planetruby/books/tree/master/_books",
-          "title": "books/_books at master · planetruby/books · GitHub",
-          "count": 4,
-          "uniques": 3
-        },
-        {
-          "path": "/planetruby/books/tree/master/_books/0000",
-          "title": "books/_books/0000 at master · planetruby/books",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/0000/Ruby_Programming_-_Wikibooks.md",
-          "title": "books/_books/0000/Ruby_Programming_-_Wikibooks.md at master · planetruby/books",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2013/Software_As_A_Disservice.md",
-          "title": "books/_books/2013/Software_As_A_Disservice.md at master · planetruby/books · ...",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2018/Rails_Testing_Handbook.md",
-          "title": "books/_books/2018/Rails_Testing_Handbook.md at master · planetruby/books",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2021/Beginning_Ruby_3.md",
-          "title": "books/_books/2021/Beginning_Ruby_3.md at master · planetruby/books · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/planetruby/books/blob/master/_books/2021/Learn_to_Program%2C_Third_Edition.md",
-          "title": "books/_books/2021/Learn_to_Program,_Third_Edition.md at master · planetruby/b...",
-          "count": 1,
-          "uniques": 1
+          "count": 12,
+          "uniques": 9
         },
         {
           "path": "/planetruby/books/blob/master/_books/2024/Programming_Ruby_3.3_(5th_edition)_-_The_Pragmatic_Programmers'_Guide.md",
           "title": "books/_books/2024/Programming_Ruby_3.3_(5th_edition)_-_The_Pragmatic_Programm...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2024",
+          "title": "books/_books/2024 at master · planetruby/books · GitHub",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books",
+          "title": "books/_books at master · planetruby/books · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/tree/master/_books/2001",
+          "title": "books/_books/2001 at master · planetruby/books · GitHub",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/blob/master/_books/2001/Ruby_Way%2C_The.md",
+          "title": "books/_books/2001/Ruby_Way,_The.md at master · planetruby/books · GitHub",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/planetruby/books/pulls",
-          "title": "Pull requests · planetruby/books",
+          "path": "/planetruby/books/blob/master/_includes/footer.html",
+          "title": "books/_includes/footer.html at master · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/commit/11c64622625d60596e03005be49c7e55f63d298f",
+          "title": "Add Layered Design for Ruby on Rails Applications (#35) · planetruby/books@11...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/commits",
+          "title": "Commits · planetruby/books",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/planetruby/books/deployments",
+          "title": "Deployments · planetruby/books",
           "count": 1,
           "uniques": 1
         }
@@ -581,21 +585,26 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 9,
-          "uniques": 4
-        },
-        {
-          "referrer": "DuckDuckGo",
-          "count": 9,
-          "uniques": 1
+          "count": 11,
+          "uniques": 3
         },
         {
           "referrer": "planetruby.github.io",
-          "count": 7,
+          "count": 11,
+          "uniques": 2
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
           "uniques": 1
         },
         {
-          "referrer": "ya.ru",
+          "referrer": "Bing",
           "count": 1,
           "uniques": 1
         }
@@ -4891,6 +4900,72 @@
         }
       },
       "2025-03-15": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-20": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-21": {
+        "views": {
+          "count": 11,
+          "uniques": 3
+        }
+      },
+      "2025-03-23": {
+        "views": {
+          "count": 11,
+          "uniques": 2
+        }
+      },
+      "2025-03-27": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-28": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-03-29": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 5,
+          "uniques": 3
+        }
+      },
+      "2025-03-30": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-19": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-03-22": {
         "clones": {
           "count": 1,
           "uniques": 1
