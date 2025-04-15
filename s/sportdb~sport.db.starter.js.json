@@ -158,6 +158,10 @@
     "2025-04-01": {
       "stargazers_count": 6,
       "forks_count": 5
+    },
+    "2025-04-15": {
+      "stargazers_count": 6,
+      "forks_count": 5
     }
   },
   "commits": [
@@ -183,14 +187,20 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 3,
+        "count": 6,
         "uniques": 1
       },
       "clones": {
-        "count": 0,
-        "uniques": 0
+        "count": 4,
+        "uniques": 2
       },
       "paths": [
+        {
+          "path": "/sportdb/sport.db.starter.js/tree/master/football.html",
+          "title": "sport.db.starter.js/football.html at master · sportdb/sport.db.starter.js · G...",
+          "count": 2,
+          "uniques": 1
+        },
         {
           "path": "/sportdb/sport.db.starter.js",
           "title": "GitHub - sportdb/sport.db.starter.js: sportdb web service starter samples - b...",
@@ -198,22 +208,28 @@
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db.starter.js/tree/master/football.html",
-          "title": "sport.db.starter.js/football.html at master · sportdb/sport.db.starter.js · G...",
+          "path": "/sportdb/sport.db.starter.js/blob/master/football.html/index.html",
+          "title": "sport.db.starter.js/football.html/index.html at master · sportdb/sport.db.sta...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/sportdb/sport.db.starter.js/tree/master/football.js",
-          "title": "sport.db.starter.js/football.js at master · sportdb/sport.db.starter.js · Git...",
+          "path": "/sportdb/sport.db.starter.js/blob/master/football.html/js/libs/polymer.min.js",
+          "title": "sport.db.starter.js/football.html/js/libs/polymer.min.js at master · sportdb/...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/sport.db.starter.js/tree/master/football.html/js/libs",
+          "title": "sport.db.starter.js/football.html/js/libs at master · sportdb/sport.db.starte...",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "github.com",
-          "count": 3,
+          "referrer": "openfootball.github.io",
+          "count": 6,
           "uniques": 1
         }
       ]
@@ -842,6 +858,30 @@
       "2025-03-31": {
         "views": {
           "count": 3,
+          "uniques": 1
+        }
+      },
+      "2025-04-08": {
+        "views": {
+          "count": 6,
+          "uniques": 1
+        }
+      },
+      "2025-04-11": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-13": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-14": {
+        "clones": {
+          "count": 1,
           "uniques": 1
         }
       }

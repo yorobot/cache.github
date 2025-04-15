@@ -470,6 +470,10 @@
     "2025-04-01": {
       "stargazers_count": 10,
       "forks_count": 1
+    },
+    "2025-04-15": {
+      "stargazers_count": 10,
+      "forks_count": 1
     }
   },
   "commits": [
@@ -496,32 +500,34 @@
     "summary": {
       "views": {
         "count": 10,
-        "uniques": 5
+        "uniques": 3
       },
       "clones": {
-        "count": 6,
-        "uniques": 6
+        "count": 0,
+        "uniques": 0
       },
       "paths": [
-        {
-          "path": "/openbeer/docs",
-          "title": "openbeer/docs: Web Service / HTTP JSON API Docu",
-          "count": 5,
-          "uniques": 4
-        },
         {
           "path": "/openbeer/docs/blob/master/BEERS.md",
           "title": "docs/BEERS.md at master · openbeer/docs · GitHub",
           "count": 4,
-          "uniques": 4
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/docs",
+          "title": "GitHub - openbeer/docs: Web Service / HTTP JSON API Docu",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/openbeer/docs/blame/master/BEERS.md",
+          "title": "Blaming docs/BEERS.md at master · openbeer/docs · GitHub",
+          "count": 1,
+          "uniques": 1
         }
       ],
       "referrers": [
-        {
-          "referrer": "openbeer.github.io",
-          "count": 9,
-          "uniques": 4
-        }
+
       ]
     },
     "history": {
@@ -3748,6 +3754,18 @@
       "2025-03-31": {
         "clones": {
           "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-07": {
+        "views": {
+          "count": 8,
+          "uniques": 2
+        }
+      },
+      "2025-04-15": {
+        "views": {
+          "count": 2,
           "uniques": 1
         }
       }

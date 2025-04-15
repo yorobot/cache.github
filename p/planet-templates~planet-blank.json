@@ -481,6 +481,10 @@
     "2025-04-01": {
       "stargazers_count": 2,
       "forks_count": 2
+    },
+    "2025-04-15": {
+      "stargazers_count": 2,
+      "forks_count": 2
     }
   },
   "commits": [
@@ -507,23 +511,33 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 2,
-        "uniques": 2
+        "count": 4,
+        "uniques": 3
       },
       "clones": {
-        "count": 4,
-        "uniques": 4
+        "count": 1,
+        "uniques": 1
       },
       "paths": [
         {
           "path": "/planet-templates/planet-blank",
           "title": "GitHub - planet-templates/planet-blank: blank - planet template pack",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/planet-templates/planet-blank/pulls",
+          "title": "Pull requests · planet-templates/planet-blank · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
-
+        {
+          "referrer": "feedreader.github.io",
+          "count": 1,
+          "uniques": 1
+        }
       ]
     },
     "history": {
@@ -2025,6 +2039,30 @@
         "clones": {
           "count": 3,
           "uniques": 3
+        }
+      },
+      "2025-04-02": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        }
+      },
+      "2025-04-05": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
         }
       }
     }

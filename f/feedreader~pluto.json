@@ -481,6 +481,10 @@
     "2025-04-01": {
       "stargazers_count": 195,
       "forks_count": 14
+    },
+    "2025-04-15": {
+      "stargazers_count": 196,
+      "forks_count": 14
     }
   },
   "commits": [
@@ -497,7 +501,7 @@
     }
   ],
   "size": 558,
-  "updated_at": "2025-02-27T18:00:07Z",
+  "updated_at": "2025-04-03T17:26:53Z",
   "pushed_at": "2024-09-03T12:58:46Z",
   "description": "pluto gems - planet feed reader and (static) website generator - auto-build web pages from published web feeds",
   "language": "Ruby",
@@ -520,48 +524,36 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 38,
-        "uniques": 12
+        "count": 31,
+        "uniques": 16
       },
       "clones": {
-        "count": 23,
-        "uniques": 17
+        "count": 8,
+        "uniques": 7
       },
       "paths": [
         {
           "path": "/feedreader/pluto",
           "title": "GitHub - feedreader/pluto: pluto gems - planet feed reader and (static) websi...",
-          "count": 9,
-          "uniques": 8
+          "count": 17,
+          "uniques": 11
         },
         {
-          "path": "/feedreader/pluto/commits/55a6b7fd4c7e0b73654bd436ad7056e29a389217/README.md",
-          "title": "History for README.md - feedreader/pluto · GitHub",
-          "count": 6,
+          "path": "/feedreader/pluto/pull/16",
+          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/blob/55a6b7fd4c7e0b73654bd436ad7056e29a389217/README.md",
-          "title": "pluto/README.md at 55a6b7fd4c7e0b73654bd436ad7056e29a389217 · feedreader/plut...",
-          "count": 1,
+          "path": "/feedreader/pluto/pull/16/commits",
+          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/blob/master/README.md",
-          "title": "pluto/README.md at master · feedreader/pluto · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commit/55a6b7fd4c7e0b73654bd436ad7056e29a389217",
-          "title": "Update README.md · feedreader/pluto@55a6b7f · GitHub",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/feedreader/pluto/commits/master/README.md",
-          "title": "History for README.md - feedreader/pluto · GitHub",
-          "count": 1,
+          "path": "/feedreader/pluto/tree/master/pluto",
+          "title": "pluto/pluto at master · feedreader/pluto · GitHub",
+          "count": 2,
           "uniques": 1
         },
         {
@@ -571,29 +563,51 @@
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/issues/42",
-          "title": "*** error: undefined method `to_h' [breaking] · Issue #42 · feedreader/pluto",
+          "path": "/feedreader/pluto/issues/39",
+          "title": "Feeds requiring cookie support · Issue #39 · feedreader/pluto",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/stargazers",
-          "title": "Stargazers · feedreader/pluto",
+          "path": "/feedreader/pluto/issues/49",
+          "title": "Error with feeds using rdf · Issue #49 · feedreader/pluto",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/feedreader/pluto/tree/master/opmlparser",
-          "title": "pluto/opmlparser at master · feedreader/pluto",
+          "path": "/feedreader/pluto/pull/16/commits/17fc6d9f2b7b6f24aae2d93fcad4439d9d1ea014",
+          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/pull/16/files",
+          "title": "Delete items which are removed from a feed by harry-wood · Pull Request #16 ·...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/feedreader/pluto/pulls",
+          "title": "Pull requests · feedreader/pluto · GitHub",
           "count": 1,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "DuckDuckGo",
-          "count": 11,
+          "referrer": "blogs.openstreetmap.org",
+          "count": 7,
           "uniques": 1
+        },
+        {
+          "referrer": "DuckDuckGo",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 4
         },
         {
           "referrer": "github.com",
@@ -601,9 +615,14 @@
           "uniques": 2
         },
         {
-          "referrer": "Google",
+          "referrer": "Bing",
           "count": 2,
-          "uniques": 2
+          "uniques": 1
+        },
+        {
+          "referrer": "en.m.wikipedia.org",
+          "count": 1,
+          "uniques": 1
         },
         {
           "referrer": "rubygems.org",
@@ -611,17 +630,7 @@
           "uniques": 1
         },
         {
-          "referrer": "reddit.com",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "en.wikipedia.org",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "neuroblog.fedoraproject.org",
+          "referrer": "docs.github.com",
           "count": 1,
           "uniques": 1
         }
@@ -7506,6 +7515,76 @@
       },
       "2025-03-31": {
         "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-02": {
+        "views": {
+          "count": 7,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-04-03": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-05": {
+        "views": {
+          "count": 10,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-07": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-08": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-09": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-11": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-14": {
+        "views": {
           "count": 2,
           "uniques": 2
         }

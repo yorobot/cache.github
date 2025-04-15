@@ -1,7 +1,7 @@
 {
   "full_name": "rubycocos/blockchain",
   "created_at": "2017-09-16T09:35:49Z",
-  "updated_at": "2025-03-28T21:44:47Z",
+  "updated_at": "2025-04-14T21:09:53Z",
   "pushed_at": "2023-12-18T08:34:53Z",
   "size": 4202,
   "description": "blockchain (crypto) tools, libraries & scripts in ruby",
@@ -234,6 +234,10 @@
     "2025-04-01": {
       "stargazers_count": 228,
       "forks_count": 33
+    },
+    "2025-04-15": {
+      "stargazers_count": 229,
+      "forks_count": 33
     }
   },
   "commits": [
@@ -280,35 +284,71 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 60,
-        "uniques": 51
+        "count": 46,
+        "uniques": 21
       },
       "clones": {
-        "count": 22,
-        "uniques": 19
+        "count": 15,
+        "uniques": 14
       },
       "paths": [
         {
           "path": "/rubycocos/blockchain",
           "title": "rubycocos/blockchain: blockchain (crypto) tools, libraries & scripts in ruby",
-          "count": 57,
-          "uniques": 49
+          "count": 18,
+          "uniques": 14
         },
         {
-          "path": "/rubycocos/blockchain/blob/4755b37df8252ff900fce94681a7870295340981/abiparser/README.md",
-          "title": "blockchain/abiparser/README.md at 4755b37df8252ff900fce94681a7870295340981 · ...",
+          "path": "/rubycocos/blockchain/tree/master/blockchain-lite",
+          "title": "blockchain/blockchain-lite at master · rubycocos/blockchain · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/master/README.md",
+          "title": "blockchain/README.md at master · rubycocos/blockchain · GitHub",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/master/blockchain-lite/lib/blockchain-lite/blockchain.rb",
+          "title": "blockchain/blockchain-lite/lib/blockchain-lite/blockchain.rb at master · ruby...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/blob/master/blockchain-lite/lib/blockchain-lite/base.rb",
+          "title": "blockchain/blockchain-lite/lib/blockchain-lite/base.rb at master · rubycocos/...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/blob/master/abiparser/README.md",
-          "title": "blockchain/abiparser/README.md at master · rubycocos/blockchain",
+          "path": "/rubycocos/blockchain/blob/master/blockchain-lite/lib/blockchain-lite/basic/block.rb",
+          "title": "blockchain/blockchain-lite/lib/blockchain-lite/basic/block.rb at master · rub...",
           "count": 1,
           "uniques": 1
         },
         {
-          "path": "/rubycocos/blockchain/tree/master/cryptopunks",
-          "title": "File not found",
+          "path": "/rubycocos/blockchain/blob/master/p2p/lib/p2p.rb",
+          "title": "blockchain/p2p/lib/p2p.rb at master · rubycocos/blockchain · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/issues",
+          "title": "Issues · rubycocos/blockchain",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/pulls",
+          "title": "Pull requests · rubycocos/blockchain · GitHub",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/rubycocos/blockchain/stargazers",
+          "title": "Stargazers · rubycocos/blockchain",
           "count": 1,
           "uniques": 1
         }
@@ -316,28 +356,23 @@
       "referrers": [
         {
           "referrer": "Google",
-          "count": 11,
-          "uniques": 9
+          "count": 21,
+          "uniques": 8
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 4,
+          "uniques": 2
         },
         {
           "referrer": "github.com",
-          "count": 2,
+          "count": 3,
           "uniques": 2
         },
         {
-          "referrer": "awesome-ruby.com",
+          "referrer": "r.lihkg.com",
           "count": 2,
           "uniques": 2
-        },
-        {
-          "referrer": "Bing",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "referrer": "reddit.com",
-          "count": 1,
-          "uniques": 1
         }
       ]
     },
@@ -5910,6 +5945,116 @@
         "clones": {
           "count": 6,
           "uniques": 5
+        }
+      },
+      "2025-04-02": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 2
+        }
+      },
+      "2025-04-03": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-04": {
+        "views": {
+          "count": 5,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-05": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-04-06": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-07": {
+        "views": {
+          "count": 8,
+          "uniques": 5
+        }
+      },
+      "2025-04-08": {
+        "views": {
+          "count": 15,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-09": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-10": {
+        "views": {
+          "count": 3,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-13": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-14": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-11": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
         }
       }
     }

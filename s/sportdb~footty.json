@@ -481,24 +481,28 @@
     "2025-04-01": {
       "stargazers_count": 16,
       "forks_count": 1
+    },
+    "2025-04-15": {
+      "stargazers_count": 16,
+      "forks_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-03-27T15:16:58Z",
+        "date": "2025-04-09T14:08:11Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-03-27T15:16:58Z",
+        "date": "2025-04-09T14:08:11Z",
         "name": "Gerald Bauer"
       },
       "message": "up"
     }
   ],
-  "size": 99,
-  "updated_at": "2025-03-29T18:28:19Z",
-  "pushed_at": "2025-03-27T15:17:09Z",
+  "size": 115,
+  "updated_at": "2025-04-09T14:08:21Z",
+  "pushed_at": "2025-04-09T14:08:16Z",
   "description": "footty & co. - open football (football.db) command-line tools incl. fbtxt, fbtxt2json, and more",
   "language": "Ruby",
   "topics": [
@@ -517,94 +521,104 @@
   "traffic": {
     "summary": {
       "views": {
-        "count": 101,
-        "uniques": 25
+        "count": 194,
+        "uniques": 26
       },
       "clones": {
-        "count": 12,
-        "uniques": 12
+        "count": 40,
+        "uniques": 29
       },
       "paths": [
         {
+          "path": "/sportdb/footty",
+          "title": "sportdb/footty: footty & co. - open football (football.db) command-line tools...",
+          "count": 44,
+          "uniques": 18
+        },
+        {
           "path": "/sportdb/footty/tree/master/fbtxt2json",
           "title": "footty/fbtxt2json at master · sportdb/footty · GitHub",
-          "count": 33,
+          "count": 32,
           "uniques": 10
         },
         {
-          "path": "/sportdb/footty",
-          "title": "sportdb/footty: footty & co. - open football (football.db) command-line tools...",
-          "count": 24,
-          "uniques": 14
-        },
-        {
           "path": "/sportdb/footty/tree/master/footty",
-          "title": "footty/footty at master · sportdb/footty",
-          "count": 4,
-          "uniques": 4
+          "title": "footty/footty at master · sportdb/footty · GitHub",
+          "count": 17,
+          "uniques": 6
         },
         {
-          "path": "/sportdb/footty/tree/master",
-          "title": "sportdb/footty: footty & co. - open football (football.db) command-line tools...",
-          "count": 4,
+          "path": "/sportdb/footty/blob/master/footty/lib/footty/openfootball.rb",
+          "title": "footty/footty/lib/footty/openfootball.rb at master · sportdb/footty · GitHub",
+          "count": 10,
           "uniques": 3
-        },
-        {
-          "path": "/sportdb/footty/graphs/traffic",
-          "title": "Traffic · sportdb/footty",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/pulse",
-          "title": "Pulse · sportdb/footty",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/tree/master/fbtxt",
-          "title": "footty/fbtxt at master · sportdb/footty",
-          "count": 2,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/blob/master/fbtxt2json/bin/fbtxt2json",
-          "title": "footty/fbtxt2json/bin/fbtxt2json at master · sportdb/footty",
-          "count": 1,
-          "uniques": 1
-        },
-        {
-          "path": "/sportdb/footty/commit/8d102eac6408c0c0570248371ee70c1b6367c526",
-          "title": "up · sportdb/footty@8d102ea",
-          "count": 1,
-          "uniques": 1
         },
         {
           "path": "/sportdb/footty/commits/master",
           "title": "Commits · sportdb/footty",
-          "count": 1,
+          "count": 7,
           "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/footty/lib",
+          "title": "footty/footty/lib at master · sportdb/footty · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/footty/tree/master/footty/lib/footty",
+          "title": "footty/footty/lib/footty at master · sportdb/footty · GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sportdb/footty/tree/master",
+          "title": "sportdb/footty: footty & co. - open football (football.db) command-line tools...",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/fbtxt2sqlite",
+          "title": "footty/fbtxt2sqlite at master · sportdb/footty",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sportdb/footty/tree/master/fbtxt",
+          "title": "footty/fbtxt at master · sportdb/footty · GitHub",
+          "count": 4,
+          "uniques": 3
         }
       ],
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 46,
-          "uniques": 10
+          "count": 66,
+          "uniques": 7
         },
         {
           "referrer": "Google",
-          "count": 8,
-          "uniques": 6
+          "count": 20,
+          "uniques": 8
         },
         {
           "referrer": "openfootball.github.io",
-          "count": 7,
-          "uniques": 2
+          "count": 19,
+          "uniques": 8
         },
         {
           "referrer": "rubydoc.info",
-          "count": 3,
+          "count": 12,
+          "uniques": 1
+        },
+        {
+          "referrer": "sportdb.github.io",
+          "count": 7,
+          "uniques": 1
+        },
+        {
+          "referrer": "rubygems.org",
+          "count": 5,
           "uniques": 1
         }
       ]
@@ -3939,10 +3953,130 @@
           "count": 1,
           "uniques": 1
         }
+      },
+      "2025-04-02": {
+        "views": {
+          "count": 9,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 4,
+          "uniques": 4
+        }
+      },
+      "2025-04-03": {
+        "views": {
+          "count": 14,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-04": {
+        "views": {
+          "count": 6,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 7,
+          "uniques": 6
+        }
+      },
+      "2025-04-06": {
+        "views": {
+          "count": 3,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 3,
+          "uniques": 3
+        }
+      },
+      "2025-04-07": {
+        "views": {
+          "count": 17,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2025-04-08": {
+        "views": {
+          "count": 25,
+          "uniques": 8
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 5
+        }
+      },
+      "2025-04-09": {
+        "views": {
+          "count": 63,
+          "uniques": 4
+        },
+        "clones": {
+          "count": 9,
+          "uniques": 6
+        }
+      },
+      "2025-04-10": {
+        "views": {
+          "count": 35,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-11": {
+        "views": {
+          "count": 14,
+          "uniques": 2
+        }
+      },
+      "2025-04-12": {
+        "views": {
+          "count": 5,
+          "uniques": 3
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-13": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-15": {
+        "views": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-05": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-14": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
       }
     }
   },
   "languages": {
-    "Ruby": 81544
+    "Ruby": 90336
   }
 }

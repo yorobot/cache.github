@@ -1,9 +1,9 @@
 {
   "full_name": "openfootball/austria",
   "created_at": "2013-05-20T08:14:40Z",
-  "updated_at": "2025-03-29T18:26:35Z",
-  "pushed_at": "2025-03-27T19:35:31Z",
-  "size": 1213,
+  "updated_at": "2025-04-09T10:09:31Z",
+  "pushed_at": "2025-04-03T13:10:27Z",
+  "size": 1216,
   "history": {
     "2019-12-08": {
       "stargazers_count": 12
@@ -436,107 +436,111 @@
     "2025-04-01": {
       "stargazers_count": 16,
       "forks_count": 4
+    },
+    "2025-04-15": {
+      "stargazers_count": 16,
+      "forks_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2025-03-27T19:35:22Z",
+        "date": "2025-04-03T13:10:14Z",
         "name": "Gerald Bauer"
       },
       "author": {
-        "date": "2025-03-27T19:35:22Z",
+        "date": "2025-04-03T13:10:14Z",
         "name": "Gerald Bauer"
       },
-      "message": "auto-update week 13"
+      "message": "up"
     }
   ],
   "traffic": {
     "summary": {
       "views": {
-        "count": 32,
+        "count": 89,
         "uniques": 7
       },
       "clones": {
-        "count": 33,
-        "uniques": 19
+        "count": 80,
+        "uniques": 59
       },
       "paths": [
         {
           "path": "/openfootball/austria",
           "title": "openfootball/austria: Free open public domain football data for Austria (Öste...",
-          "count": 9,
-          "uniques": 7
+          "count": 21,
+          "uniques": 6
+        },
+        {
+          "path": "/openfootball/austria/actions/workflows/deploy.yml",
+          "title": "Generate and deploy json datasets · Workflow runs · openfootball/austria",
+          "count": 13,
+          "uniques": 1
+        },
+        {
+          "path": "/openfootball/austria/actions",
+          "title": "Workflow runs · openfootball/austria",
+          "count": 11,
+          "uniques": 1
         },
         {
           "path": "/openfootball/austria/tree/master/2024-25",
           "title": "austria/2024-25 at master · openfootball/austria · GitHub",
-          "count": 4,
+          "count": 3,
           "uniques": 3
         },
         {
           "path": "/openfootball/austria/blob/master/2024-25/1-bundesliga.txt",
           "title": "austria/2024-25/1-bundesliga.txt at master · openfootball/austria · GitHub",
           "count": 3,
-          "uniques": 3
-        },
-        {
-          "path": "/openfootball/austria/blob/master/2024-25/3-regionalliga-ost.txt",
-          "title": "austria/2024-25/3-regionalliga-ost.txt at master · openfootball/austria · Git...",
-          "count": 2,
           "uniques": 2
         },
         {
-          "path": "/openfootball/austria/blob/master/2024-25/cup.txt",
-          "title": "austria/2024-25/cup.txt at master · openfootball/austria · GitHub",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "path": "/openfootball/austria/blob/master/2010-11/1-bundesliga.txt",
-          "title": "austria/2010-11/1-bundesliga.txt at master · openfootball/austria · GitHub",
-          "count": 2,
+          "path": "/openfootball/austria/deployments/github-pages",
+          "title": "Deployments · openfootball/austria",
+          "count": 3,
           "uniques": 1
         },
         {
-          "path": "/openfootball/austria/tree/master",
-          "title": "openfootball/austria: Free open public domain football data for Austria (Öste...",
+          "path": "/openfootball/austria/actions/runs/14243330647/job/39918113358",
+          "title": "Generate and deploy json datasets · openfootball/austria@f360fc7",
           "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/austria/blame/master/2010-11/1-bundesliga.txt",
-          "title": "Blaming austria/2010-11/1-bundesliga.txt at master · openfootball/austria · G...",
-          "count": 1,
+          "path": "/openfootball/austria/actions/runs/14243330647/job/39918145481",
+          "title": "Generate and deploy json datasets · openfootball/austria@f360fc7",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/austria/blob/master/2024-25/2-liga2.txt",
-          "title": "austria/2024-25/2-liga2.txt at master · openfootball/austria",
-          "count": 1,
+          "path": "/openfootball/austria/actions/runs/14243866990",
+          "title": "Generate and deploy json datasets · openfootball/austria@423baeb",
+          "count": 2,
           "uniques": 1
         },
         {
-          "path": "/openfootball/austria/blob/master/2024-25/3-regionalliga-mitte.txt",
-          "title": "austria/2024-25/3-regionalliga-mitte.txt at master · openfootball/austria · G...",
-          "count": 1,
+          "path": "/openfootball/austria/blob/master/.github/workflows/deploy.yml",
+          "title": "austria/.github/workflows/deploy.yml at master · openfootball/austria",
+          "count": 2,
           "uniques": 1
         }
       ],
       "referrers": [
         {
-          "referrer": "Google",
+          "referrer": "opendataportal.at",
           "count": 9,
-          "uniques": 2
+          "uniques": 3
         },
         {
           "referrer": "github.com",
-          "count": 2,
-          "uniques": 1
+          "count": 7,
+          "uniques": 2
         },
         {
-          "referrer": "opendataportal.at",
-          "count": 1,
+          "referrer": "footballcsv.github.io",
+          "count": 3,
           "uniques": 1
         }
       ]
@@ -4850,6 +4854,114 @@
         "clones": {
           "count": 1,
           "uniques": 1
+        }
+      },
+      "2025-04-02": {
+        "views": {
+          "count": 4,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-03": {
+        "views": {
+          "count": 80,
+          "uniques": 2
+        },
+        "clones": {
+          "count": 14,
+          "uniques": 10
+        }
+      },
+      "2025-04-05": {
+        "views": {
+          "count": 2,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 4
+        }
+      },
+      "2025-04-08": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-12": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 17,
+          "uniques": 17
+        }
+      },
+      "2025-04-15": {
+        "views": {
+          "count": 1,
+          "uniques": 1
+        },
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2025-04-04": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-06": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-07": {
+        "clones": {
+          "count": 4,
+          "uniques": 3
+        }
+      },
+      "2025-04-09": {
+        "clones": {
+          "count": 1,
+          "uniques": 1
+        }
+      },
+      "2025-04-10": {
+        "clones": {
+          "count": 2,
+          "uniques": 2
+        }
+      },
+      "2025-04-11": {
+        "clones": {
+          "count": 15,
+          "uniques": 14
+        }
+      },
+      "2025-04-13": {
+        "clones": {
+          "count": 6,
+          "uniques": 6
+        }
+      },
+      "2025-04-14": {
+        "clones": {
+          "count": 4,
+          "uniques": 4
         }
       }
     }
